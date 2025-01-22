@@ -1,0 +1,4211 @@
+apontic
+bruno
+cd95
+p50
+cd95l
+p65
+cd34
+vwf
+l-selectin
+coagulation factor viii
+bccp
+biotin
+bira
+biotin carboxylase
+acetyl-coa carboxylase
+transcarboxylase
+dinitrogenase reductase adp-ribosyltransferase
+dinitrogenase reductase
+hsp90
+gr
+glucocorticosteroid receptor
+ikappabalpha
+betatrcp
+scfbetatrcp e3
+skp1-cullin-f-box protein
+h-betatrcp
+traf2
+cd40
+grks
+grk2
+grk
+maltose
+g protein-coupled receptors
+caveolin
+adenomatous polyposis coli
+axin
+b56
+glycogen synthase kinase 3beta
+apc
+cd40l
+numa
+tubulin
+calcineurin
+bad
+bcl-xl
+14-3-3
+immunoglobulin-like transcript-2
+jun
+hla-b27
+fos
+shp2
+syk
+src
+sit
+grpl
+slp-76
+sos1
+sos2
+lat
+vav
+grb2
+ctr9p
+swi4p
+cln3p
+paf1p
+cdc73p
+swi6p
+cdc28
+rna poly-merase ii
+tcf-1
+lef/tcf transcription factor
+beta-catenin
+l-afadin
+af-6
+nectin
+neurexin
+eph receptor tyrosine kinase
+cd40 ligand
+fas
+fasl
+tr6
+light
+herpes virus entry mediator (hvem)-l
+fas ligand
+hvem
+ltbetar
+lef-1
+lymphoid enhancer factor 1
+e-cadherin
+lef/tcf
+glycosylation- dependent cell adhesion molecule 1
+podocalyxin
+glcnac-6-sulfotransferase
+gal-6-sulfotransferase
+igm
+glycam-1
+fucosyltransferase vii
+erk2
+erk1
+erk
+clathrin
+erks
+beta-arrestin1
+beta2-adrenergic receptor
+p53
+mdm2
+ikaros
+msin3
+mi-2-hdac
+histone deacetylases
+pu.1
+gata-1
+cna1p
+cnb1p
+calmodulin
+fkb1p
+mapkap kinase 2
+3
+shsps
+nsf
+sec18p
+snaps
+snap receptors
+sec17p
+alpha-snap
+snare
+sin3
+rpd3
+sap30
+gcn5
+histone
+tlr2
+lps
+cd14
+irak
+importin beta
+srebp-2
+ran
+sterol regulatory element-binding protein-2
+p10
+rela
+nf-kappab1
+nfkappab1
+latent membrane protein 1
+lmp1
+rip
+tradd
+receptor-interacting protein
+tumor necrosis factor receptor
+pex19
+hspex3
+bcl-2
+calcium-dependent phosphatase
+bax
+nfat
+shank
+mglur
+psd-95
+homer
+gkap
+nmda receptor
+metabotropic glutamate receptors
+inositol trisphosphate receptors
+fog
+c/ebpbeta
+rbap48
+rbap46
+hdac1
+hdac2
+metastasis-associated protein 1
+mta2
+mbd2
+histone deacetylase
+methyl-cpg-binding domain-containing protein
+nurd
+presenilin-2
+presenilin-1
+bcl-x(l)
+ps2
+ps2short
+ps2ccas
+ps1
+vdr
+retinoid x receptor
+cdc25
+cyclin
+cdc25a
+cyclin e
+cyclin a
+cyclin-dependent kinases
+cdk
+cdk2
+aml1
+bsap
+fviii
+fixa
+factor ixa
+seven in absentia homolog-1a
+mglurs
+cam
+siah-1a
+mglur1
+c-maf
+myb
+c-myb
+maf
+rag1
+hmg1
+hmg2
+rag2
+2
+arp2/3
+las17p
+arp2p
+actin
+verprolin
+rvs167p
+c-cbl
+rptks
+platelet-derived growth factor receptor
+skp1
+cul1
+scf
+fwd1
+scf ubiquitin ligase
+groucho
+hipk2
+nk-3
+msin3a
+gsk3beta
+cis
+socs-2
+socs-3
+socs-1
+jak2
+ghr
+tuberin
+hamartin
+mekk3
+mek5
+human transcription intermediary factor 1alpha
+estrogen receptors
+htif1alpha
+tif1alpha
+human transcriptional intermediary factor 1alpha
+eralpha
+erbeta
+gemin3
+smn
+sip1
+sm core
+smb
+smd2
+smd3
+eps15
+hrb
+e2o
+e1p
+e1o
+lipoate protein ligase a
+e2p
+lck
+mcp
+pilralpha
+shp-1
+pilrbeta
+iibeta
+human topoisomerase iialpha
+human topo iibeta
+topo iialpha
+dna topo ii.
+doxorubicin
+etoposide
+dna topoisomerase ii
+cdc14
+netl
+yj1076w
+gsk-3
+gsk-3y>f
+akt
+xgsk-3
+gtp
+geranylgeranyltransferase i
+ras
+gsk-3beta
+protein phosphatase 2a
+pp2a
+adenomatous polyposis coli gene product
+glycogen synthase kinase-3beta
+pyk2
+janus kinase 1
+il-7ralpha
+jak1
+heptp
+p38 map-kinases
+emp24p
+erv25p
+erp1p
+erp2p
+retinoblastoma
+estrogen receptor
+estrogen
+zinc-finger protein riz
+riz
+scf(beta(trcp))
+cul-1
+cdc42
+wasp
+gtpase
+gemin2
+cdh1
+cdc20
+nek2
+b99
+hdac8
+inscuteable
+partner of inscuteable
+g-protein alpha
+pins
+bazooka
+galpha
+shps-1
+shp-2
+drip205
+nuclear receptor
+atfa
+mam
+adenovirus e1a
+jnk2
+tfiie
+tfiih
+rnapii
+p27
+ccl28
+ccr10
+ccl27
+hmof
+myst
+histones h3
+h2a
+h4
+alpha
+beta-tubulin
+bim1p
+beta
+benomyl
+alpha-tubulin
+t alpha
+t beta gamma
+transducin
+r*
+gdp
+rhodopsin
+hypoxia inducible factor-alpha
+von hippel-lindau tumor suppressor protein
+pvhl
+hif-alpha
+jil-1
+jil-1 kinase
+msl
+nfatc
+cn
+yck2p
+yck1p
+npw38
+u5-15kd
+pqbp-1
+histones
+histone h4
+exotoxin a
+ef-2
+suv39h1
+clr4
+su(var)3-9
+histone h3
+kuzbanian
+eph receptor
+ephrin-a2
+tip60
+ubiquitin-conjugating enzyme
+hect family e3
+ring e3s
+e2
+receptor tyrosine kinases
+ubch7
+hlyc
+hlya
+fak
+epidermal growth factor (egf) receptors
+jak
+cbp
+stat1
+anaphase promoting complex
+cdc6
+m-ficolin
+n-acetyl-d-glucosamine
+protein kinase c
+p300
+ppargamma
+rxr
+p160
+p160/src-1
+drip
+cdk 2
+cdk 4
+retinoblastoma protein
+cyclin-dependent kinase
+prb
+p35
+groel
+dnak
+j
+p40
+es
+grpe
+ubc13
+uev1a
+apolipoprotein e
+ow density lipoprotein receptor-related protein
+low density lipoprotein receptor
+tap
+p15
+nucleoporins
+nucleoporin
+nxf2
+nxf3
+vp40
+rsp5
+nedd4
+histone deacetylase-1
+pid
+metastasis-associated protein 2
+c-iap1
+zinc
+smad8
+smad4
+ski
+smad5
+smad1
+smad
+heat shock protein 70
+hsp70
+human apurinic/apyrimidinic endonuclease
+hap1
+cdc2
+cyclin b
+cdc25c
+pkn
+histone h1
+smurf2
+smads
+smad7
+tgf beta receptor
+nfatp
+hsp17
+malate dehydrogenase
+ttf-i
+pcaf
+msir2a
+taf(i)68
+tif-ib
+sl1
+retinol-binding protein
+ii
+crbp i
+type ii
+retinol-binding protein resembling type i
+crbp iii
+retinoid
+all-trans-retinol
+retinol
+smad3
+menin
+smurf1
+transforming growth factor-beta type i receptor
+tgf-beta type i receptor
+tbetar-i
+chk2
+atm
+bruton's tyrosine kinase
+tfii-i
+ag490
+stat
+extracellular signal-regulated kinase
+sum1p
+hst1p
+gab1
+grb2-associated binder-1
+gab1ff
+shp2deltan
+smrt
+sharp
+sra
+phax
+crm1
+rangtp
+xpo1
+cbc
+nuclear cap binding complex
+snrna export complexes
+small gtpases
+rab
+ha-ras
+prenylated rab acceptor protein
+rap1a
+pra1
+rhoa
+tc21
+gtpases
+mypt3
+pp1
+farnesyltransferase
+phosphorylase a
+myosin light chain
+myosin
+pi3k
+p85
+nck
+n-wasp
+phosphatidylinositol 4,5-bisphosphate
+coactivator-associated arginine methyltransferase 1
+carm1
+h3
+microsomal triglyceride transfer protein
+apob
+mba1
+cox2
+cox3
+atr
+chk1
+pex19p
+pex16p
+pex10p
+pex11pbeta
+pex12p
+pex13p
+exostosin-2
+exostosin-1
+rpd3p
+sds3p
+sin3p
+cyclin d
+cdk4
+6
+e2fs
+e1a
+cdk6
+tgif2
+tgif
+tg-interacting factor
+histone deacetylase 1
+ctbp
+pml
+c-ski
+n-cor
+erk-related proteins
+erps
+class i erps
+p41
+p44
+class ii erps
+ap-1
+ptp-pest
+shc
+paxillin
+csk
+cas
+rat protein tyrosine phosphatase eta
+syntenin
+r-ptpeta
+syndecan
+protgf-alpha
+beta-ephrins
+neurofascin
+msel-10
+proteasome
+notch 1
+notch
+dystroglycan
+neurexin 1alpha
+pdk1
+pdk2
+pdk3
+pdk4
+thiamin pyrophosphate
+pdp1
+pdp2
+pyruvate dehydrogenase
+pyruvate dehydrogenase complex
+skinny hedgehog
+hh
+hedgehog
+raf-1
+synaptotagmin 1
+ap2
+hdac3
+hdac4
+hdac
+bag-1m
+bag-1s
+bag-1l
+bag-1
+hsc70
+gas41
+pfdn1
+kiaa1009
+nuclear mitotic apparatus protein
+beta1,3-n-acetylglucosaminyltransferase
+fringe
+hnf4alpha
+small heterodimer partner
+shp
+lipoate protein ligase
+dihydrolipoyl dehydrogenase
+p64k
+dihydrolipoyl acyltransferase
+dub
+usp14
+26s
+26s proteasome
+albumin
+serum albumin
+bilirubin
+alpha-synuclein
+parkin
+synphilin-1
+human cdc14a
+hcdc14a
+securin
+cyclins
+human cdh1
+hcdh1
+prolyl-4-hydroxylases
+hif
+rab geranylgeranyltransferase
+rep
+rep-1
+rabggtase
+ggpp
+rab7
+rab escort protein
+cox-2
+protein-tyrosine phosphatase 1b
+ptp1b
+tyk2
+insulin receptor
+nrif3
+tr
+trs
+rxrs
+rdgc
+ppef-1
+ppef-2
+ag 85b
+i-ab
+p19arf
+methylosome
+jbp1
+survival of motor neurons
+mep50
+sm proteins
+picln
+nucleolin
+topo i
+aldosterone
+mineralocorticoid receptor
+mr
+rab3b
+diga
+pigr
+polymeric immunoglobulin receptor
+rasp
+ash1
+khd1
+myosin phosphatase
+mbs
+myosin regulatory light chain
+aak1
+staurosporine
+kt5720
+mu2
+pkc
+pka
+endophilin
+cin85
+endophilins
+cbl
+hepatocyte growth factor (hgf) receptor
+hgf receptor
+apg12
+apg16
+apg5
+sds3
+msin3b
+hdacs 1
+t1r3
+t1r1
+t1r2
+hausp
+herpesvirus-associated ubiquitin-specific protease
+brca1
+bard1
+ubc5c
+histone h2a
+h2ax
+gos-28
+gst
+syntaxin-5
+transcriptional intermediary factor 2 nuclear receptor
+estrogen receptor alpha
+tif2
+kdr
+nrp1
+vegf165
+vegfr-2
+neuropilin-1
+kap-1
+setdb1
+hp1
+e2f
+ck2alpha
+ck2
+creb-binding protein
+cyclin g
+phosphatase 2a
+cbl-b
+zap-70
+pi-3-kinase
+frs2 alpha
+fibroblast growth factor (fgf) receptor
+mga
+e2f-6
+histone methyltransferase
+max
+hp1gamma
+polycomb group
+notum
+hspg
+dally-like
+dally
+dup-697
+nop7p
+5.8s(l)
+5.8ss
+cd47
+argr
+mcm1
+hdac6
+ranbp2
+mef2-interacting transcription repressor
+-6
+von willebrand factor
+gpib alpha
+platelet glycoprotein (gp) ib alpha
+shca
+protein kinase calpha
+-epsilon
+-delta
+p52(shc)
+2-acyl-lpa
+pla(1)
+edg7
+pa
+cdk5
+cyclin-dependent protein kinase 5
+camp-dependent protein kinase
+protein phosphatase-2a
+darpp-32
+l1
+ezrin
+ankyrin
+ap-2
+ubc9
+pr-set7
+pr/set07
+cram
+plexina1
+fes
+fes/fps
+plexa1
+crmp
+crmp2
+vhl
+hypoxia-inducible factor
+alpha subunits of hypoxia-inducible factor
+suv39h
+g9a
+hmtase
+phosphatidylinositol (ptdins) 3-kinase
+(gab)2
+plc-gamma2
+wortmannin
+gab2
+ptdins 3-kinase
+gigaxonin
+map1b
+map1b-lc
+microtubule-associated protein (map)1b light chain
+midkine
+mk
+cd90
+cd59
+smad ubiquitin regulatory factor 1
+tbetar-ii
+wwp2
+nedd4-2
+epithelial na(+) channel
+enac
+protein phosphatase 1 delta
+pp1delta
+e1b-55k
+rbx1
+c
+elongins b
+cullin-5
+e4
+importin-alpha 1
+pp32
+methyltransferase
+mac-1
+jam-3
+junctional adhesion molecule 3
+p150.95
+cms
+egf receptors
+ephb1
+grb7
+ephrinb1
+mms2
+rad18
+rad5
+rad6
+proliferating cell nuclear antigen
+pcna
+frap
+mtor/raft
+clip-170
+dab2
+phosphoinositides
+disabled-2
+ldl-receptor
+erbb2
+chip
+erbb1
+erbb
+il-4ralpha chain
+il-4r
+il-4 receptor
+socs5
+dishevelled
+nkd
+dsh
+naked cuticle
+cdks
+cp110
+pomt1
+alpha-dystroglycan
+phospholipase cdelta
+spred
+hspry2
+ptdins(4,5)p(2)
+protein inhibitor of activated stat
+pias1
+piasxbeta
+4-methyl pyrazole
+adh
+nrdp1
+erbb3
+rho
+y27632
+srcptks
+lysyl hydroxylase 3
+lysyl hydroxylase
+galactosyltransferase
+glucosyltransferase
+lh3
+collagens
+dep-1
+hepatocyte growth factor receptor tyrosine kinase
+hepatocyte growth factor/scatter factor receptor
+p120 catenin
+csf
+met
+colony stimulating factor 1 (csf)
+ikappab kinase
+nf-kappab
+ikk1
+ikk2
+ikk
+p105
+histone h2ax
+bap1
+manic fringe
+radical fringe
+lunatic fringe
+notch1
+tric
+histone deacetylase 3
+elongin bc
+cand1
+p120
+skp2
+scf ubiquitin e3 ligase
+roc1
+ikappab
+mannan
+mannose
+dextran
+bsa
+c-type lectin
+mib
+delta
+hypoxia-inducible factor (hif) 1
+histone methyltransferases
+set
+set7/9
+plk3
+smg5/7a
+smg1
+hsmg5/7a
+upf1
+upf2
+upf3x
+gadd34
+protein phosphatase 1
+creb
+ptp-sl
+step
+mitogen-activated protein kinase
+mapks
+p38alpha
+extracellular-signal-regulated kinase 1
+receptor for the epidermal growth factor
+sprouty2
+tip120a
+cullins
+f-box proteins
+scf(beta-trcp) ubiquitin ligase
+cul4b
+cullin
+ubiquitin
+npl4
+sumo e1
+pc2
+pcg bodies
+mcm2
+mcm7
+scf ufo
+cop9 signalosome
+scf(ufo)
+scf ubiquitin ligases
+csn
+she4p
+myo5p
+class i
+class v myosins
+myo4p
+gam1
+trichostatin a
+arp2
+arp3
+nipa
+npm-alk
+alk
+ptp-1b
+stat3
+stat5
+den1
+nedd8
+cullin 1
+shk1
+pak
+tea1
+c-src
+ldl
+pecam-1
+p38mapk
+beta-chymotrypsin
+o2
+prolyl 4-hydroxylases
+p4hs
+hif-p4hs
+hif-1alpha
+hif-2alpha
+hif-3alpha
+bp230
+dp
+k14
+k5
+k8
+k18
+vimentin
+cytokeratins
+keratins
+omi
+iap
+caspases
+beta-trcp1
+rheb
+tsc2
+tuberous sclerosis complex 2
+arg
+c-abl
+glutathione peroxidase 1
+gpx1
+clock
+bmal1
+piasy
+ptp-h1
+meg-2
+pyst-2
+stomach cancer-associated ptp 1
+ptp-beta
+t cell (tc)-ptp
+sap-1
+tc-ptp
+ankyrin b
+l1cam
+ksr1
+pr65a
+catalytic c
+pr55b
+raf
+mek
+betagamma
+s-prenyl
+g-protein alpha.betagamma
+snx9
+sorting nexin 9
+dynamin-2
+adaptor protein complex 2
+tac-1
+tacc
+zyg-9
+xmap215
+csn2
+nuclear hormone receptors
+syndecan-4
+tgf-beta
+cdk1
+ajuba
+cyclin b1
+aurora-a
+c-rel
+cdc31p
+vps13p
+thp1p
+hem15p
+kar1p
+zcdc31p
+siah-1
+hr23b
+ercc1
+xpc
+xpf
+aft1p
+pse1p
+dt
+eta
+elongation factor-2
+vp16
+hcf
+krox20
+hcf-1
+lzip
+zhangfei
+eset
+tug
+glut4
+vif
+cul5
+apobec3g
+keap1
+proteosome
+nrf2
+rpm1
+rar1
+sgt1
+px1
+px2
+annexin v
+phosphatidyl serine
+rfc2
+rfc3
+rfc4
+rfc5
+rfc1
+5
+set9
+suv39 h 1
+prmt1
+hsmg-5
+hupf1
+smg-5
+smg-7
+hsmg-1
+hsmg-7
+hupf3a
+nip
+numb
+nedl1
+neuronal homologous to e6ap carboxyl terminus (hect)-type ubiquitin-protein isopeptide ligase
+sod1
+translocon-associated protein-delta
+dishevelled-1
+pin1
+pomt2
+ikk-i
+tbk-1
+epsilon
+irf-3
+pak1
+osr1
+c-fos
+c-jun
+crest
+adenosine 3',5'-monophosphate (camp) response element-binding protein (creb)-binding protein
+pp1c
+tbetari
+type i receptor
+tgfbeta type i receptor
+growth arrest and dna damage protein
+noc2
+rabphilin
+rab27
+rab27a
+rab3a
+creb binding protein
+mad-3
+i kappa b
+nf-kappa b
+lefty1
+cripto
+lefty1 precursor
+sqt
+lefty
+actriib
+alk4
+htra1
+bmp4
+gdf5
+tgfbetas
+activin
+tgfbeta
+ar
+mll2
+trithorax
+ash2l
+set1
+rna polymerase ii
+def6
+rac1
+rac2
+hhif-1alphate
+hif-1beta
+fibroblast growth factor receptor
+spry
+sprouty
+hbrm
+y box-associated
+y box
+e6
+tcf4
+androgen receptor
+siah
+siah-2
+smad2
+skn
+shh
+natc n(alpha)
+arl3p
+sys1p
+prl
+prlr
+beta-trcp
+beta-trcp2
+ezh2
+eed
+hkmt
+suppressor of variegation 3-9 homolog 2
+suv
+hepatocyte growth factor
+rtk
+g protein beta gamma
+gbetagamma
+pdc
+phlp
+phosducin
+phosducin-like protein
+gbeta(1)gamma(2)
+runx3
+herceptin
+iressa
+bay 37-9751
+ci-1040
+egfr
+b7-1
+b7-2
+lictla-4
+ctla-4
+tcrzeta
+suv4-20h2
+suv4-20h1
+suv4-20h
+hmtases
+runx2
+fk506-binding protein 52
+fkbp52
+glucocorticoid receptor
+fk506
+heat-shock protein 90
+p
+p(ii)
+n-acetyl-l-glutamate kinase
+n-acetylglutamate (nag) kinase
+nag kinase
+ftsl
+ftsb
+ftsq
+cpi-17
+glycogen
+mypt1
+inhibitor-2
+camp-response element-binding protein (creb)-binding protein
+sir2
+camp-response element-binding protein-binding protein
+foxo1
+proton pump
+cytochrome c oxidase
+mkk2
+mpk4
+mpk6
+ds
+ft
+dab1
+reelin
+vldlr
+apoer2
+mmp-1
+type i collagen
+a20
+receptor interacting protein
+riz1
+er
+src1
+cullin 3
+cul3
+cul3-based e3 ligase
+hal3
+protein phosphatase 1c
+ppz1
+hip
+p50b
+relb
+kappa b
+atorvastatin
+hydroxy methyl glutaryl co-enzyme a reductase
+p62
+pad4
+peptidylarginine deiminase 4
+kv4.2
+kchip1
+kchip2.1
+kchip
+kchip2.2
+kchips
+sapk3
+sapk4
+jnk
+sapk2a
+sapk2b
+erk (extracellular-signal-regulated kinase) 2
+saks1
+pngase
+vcp
+(e)-6-(bromomethylene)-3-(1-naphthalenyl)-2h-tetrahydropyran-2-one
+ipla2s
+ifnar1
+ifn-alpha
+ifnar2
+ifn
+sirt1
+h1
+rb
+protein brg1
+prmt5
+swi/snf
+hswi/snf
+brg1
+nonmetastatic 23
+suppressor of tumorigenicity 7
+traf6
+tifa
+transforming growth factor beta-activated kinase
+smurfs 1
+type i receptors
+r-smads
+tgf-beta superfamily receptors
+smads 2
+snon
+trip8b
+pex5p-related protein
+hcn1
+hcn
+ras-gap
+rasgap
+ctbp2
+rpn5p
+rpn8p
+rpn9p
+rpn3p
+rpn7p
+rpn12p
+rpn11p
+sem1p
+lsd1
+nod2
+rip2
+nemo
+type i histone deacetylase
+g(alpha)o/i
+cb1
+rap1gapii
+cannabinoid receptor
+cannabinoid
+e1
+sae1
+sumo-1
+sae2
+pof1
+zip1
+hmsh2
+hmyh
+hmsh6
+hmutsalpha
+p73
+itch
+plp
+rsdh
+l-serine dehydratase
+hsdh
+plp-oms
+protein o-fucosyltransferase 1
+ofut1
+caveolin-1
+vegfr2
+dinitrogenase reductase glycohydrolase
+gdi
+beta1 integrin
+norc
+nep1
+pcu1
+pcu3
+pcu4
+csn5
+glp
+phlpp
+ph domain leucine-rich repeat protein phosphatase
+akt1
+mind bomb
+mib1
+mib2
+xd
+neuralized
+d-mib
+serrate
+promyelocytic leukemia protein
+tcf-4
+cited1
+pkcdelta
+cdcp1
+crbpi
+cralbp
+all-trans-retinaldehyde
+11-cis-retinal
+nem1
+spo7
+smp2
+yap
+malin
+laforin
+hgbp-1
+lkp2
+col1
+co/col
+co
+di19
+lkp1
+fkf1
+hdm2
+piasxalpha
+dj-1
+dhhc9
+gcp16
+erf2
+zdhhc9
+h-
+n-ras
+erf4
+phosphonocarboxylate
+risedronate
+3-pehpc
+phosphonocarboxylates
+bisphosphonates
+rab geranylgeranyl transferase
+farnesyl diphosphate synthase
+notch4
+notch4icd
+icd4
+ing2
+hdl
+ttp
+tocopherol
+abc-type transporter
+aurb
+incenp
+smad-interacting protein 1
+pias
+c-terminal-binding protein
+h3-
+p21-activated kinase 2
+c-myc
+5s rrna
+60s
+l11
+l5
+rrs1p
+4-pase
+5-
+4-pases
+rab5
+inlb
+hepatocyte growth-factor receptor
+rip1
+tlr3
+tak1
+fibrinogen
+integrin beta3
+alphaiibbeta3
+hspc069
+hypb
+huntingtin
+hlcs
+mdmx
+mef2
+3bp2
+cd244
+signaling lymphocytic activation molecule-associated protein
+sap
+follistatin
+activin a
+bmp
+type i
+type ii receptor
+odc
+antizyme
+cks1
+cbl ubiquitin ligases
+p75
+nrif
+hfbx25
+ciap1
+tumor necrosis factor receptor-associated factor 2
+second mitochondrial activator of caspases
+smac
+hsf
+taz
+tbx5
+rho p21
+rho gdi
+rhoa p21
+c3
+edin
+smg gds
+efp
+14-3-3sigma
+jmjc domain-containing proteins
+jhdm1
+ing
+ing3
+ing1
+ing4
+hbo1
+moz
+morf
+ing5
+mcm
+pix
+cool
+betapix
+ubch10
+collagen
+ristocetin
+glycoprotein (gp)ib
+gpib
+collagen types i
+iii
+ang2
+alpha(v)beta(1) integrin
+tax
+edem3
+alpha1-at
+iex-1
+perk
+ptpn22
+pep
+cd3epsilon
+valosin containing protein
+zap70
+t cell antigen receptor (tcr) zeta
+o-fucose beta1,3-n-acetylglucosaminyltransferase
+gcpii
+glutamate
+rab gdi
+ypt1
+ubiquitin specific protease 1
+usp1
+hdacs
+imatinib
+dna polymerase zeta
+polzeta
+rev3
+rev1
+rev7
+cullin 7
+cul7
+parc
+klhl12
+cullin-3
+broad complex
+tramtrack
+bric a brac
+cullin-3 ubiquitin ligase complex
+kelch-like 12
+tct
+lca
+peptidoglycan
+pgrp-lca
+pgrp-lcx
+lcx
+pgrps
+pgrp
+cholera toxin
+gs alpha
+jhdm2a
+h3k9
+jmjd2
+jmjd2a
+ada2
+cbf1
+ada2b
+ada2a
+dapp-bp1
+app-bp1
+appl
+beta-amyloid precursor protein
+app-like protein
+shoc2
+m-ras
+xin
+filamin c
+mena
+vasp
+fatz
+myotilin
+von hippel-lindau tumour-suppressor protein
+elongin c
+vhl (von hippel-lindau) tumour-suppressor protein
+vcb
+cul-2
+elongin b
+protein kinase cdelta
+apkc
+hypoxia-inducible factor 1alpha
+actr
+cul4
+ddb
+cul4a
+whistle
+h3k4
+h3k27
+scfbetatrcp
+ck1
+gli3
+gbeta
+cct
+ggamma
+g protein betagamma
+art2
+p2x7
+sodium butyrate
+shn3
+wwp1
+jhdm3a
+h3k36
+ascl2
+gasc1
+h3k9me3
+me2
+bop1
+wdr12
+p66beta
+human p66alpha
+mbd3
+p66alpha
+hif-1 alpha
+hib
+ci
+ppm1a
+kbf1
+v-rel
+rap1
+riam
+mutl
+muth
+c-kit
+sfk
+stem cell factor receptor
+15.5k
+rnp
+hu3-55k
+c-terminal binding protein (ctbp)2
+calsenilin
+calcium
+ctbp1
+sirt3
+sirtuin
+acecs2
+acs
+cd2
+lfa-3
+slam
+fynt
+src-related kinase
+pex26p
+pex1p
+pex6p
+dna ligase i
+asp-his-his-cys motif (dhhc) palmitoyl transferase
+7
+8
+21
+dhhc-21
+enos
+pellino
+irak-1
+protein phosphatase 5
+pp5
+uch37
+rpn13p
+adrm1
+proteasomes
+s1
+7-amido-4-methylcoumarin
+amc
+19s
+pgc-1alpha
+pgc-1-related coactivator
+nrf-1
+nuclear respiratory factor 1
+prc
+rxralpha
+retinoic acid receptor-alpha
+peroxisome proliferator-activated receptor-gamma
+n-acetylglucosaminyltransferase v
+delta cgnt-v
+wtgnt-v
+gnt-v
+integrin beta1
+sirt4
+glutamate dehydrogenase
+usp7
+foxo
+fli-i
+fli-i lrr associating protein 1
+lrr fli-i interacting proteins 1
+gelsolin
+baf53
+cddo-me
+cddo
+ikkbeta
+neuralized-2
+cullin1
+ikappab kinase-related kinases
+cullin-based ubiquitin ligase
+homeodomain interacting protein kinase 2
+pias3
+pr
+vitronectin
+entactin
+alphavbeta3
+type ii receptor serine/threonine kinases
+activins
+type ii receptors
+acvr2a
+acvr2b
+alk2
+activin receptor-like kinase 4
+k-bzip
+vpk
+shprh
+smyd2
+gli1
+carps
+ecv
+ubch5a
+cul2
+alpha subunit of hypoxia-inducible factor
+hifalpha
+cullin-containing ubiquitin ligase
+commd1
+socs1
+ecs
+pes1
+ablim-2
+-3
+stars
+ablim
+f-actin
+deoxyhypusine hydroxylase
+eif5a
+dohh
+eukaryotic translation initiation factor
+eukaryotic translation initiation factor 5a
+nedd4-1
+pten
+spry2
+fgf receptor
+pp2a-a
+pp2a-c
+fgfr
+mapk
+capicua
+rolled
+lysine-specific demethylase 1
+jmjd2c
+usp2a
+casein kinase i
+glycogen synthase kinase 3
+dnmt1
+inhibitor of growth 4
+ppfia1
+liprin alpha1
+betaenac
+gammaenac
+phlpp2
+phlpp1
+akt2
+akt3
+gsk-3alpha
+statherin
+hydroxyapatite
+retinoic-acid-inducible gene-i
+trim25
+rig-i
+mavs
+nem1p
+dullard
+smp2p
+lipin
+nlrs
+cbx4
+dnmt3a
+hypoxia-inducible factor-1alpha
+mad2
+usp44
+wee1
+cbl10
+scabp8
+fhl1
+ifh1
+utp22
+casein kinase 2
+rrp7
+curi
+aip4
+erbb-4
+siglecs
+siglec-15
+sialylated glycans
+dnax activation protein (dap)12
+dap10
+ptip
+mll3
+53bp1
+rbbp5
+wdr5
+hdpy-30
+pa1
+histone h3 lysine 4 methyltransferase
+mll4
+ncoa6
+utx
+hmt
+polycomb repressive complex 2
+hoxa1
+pyruvate dehydrogenase phosphatase 1
+pdhks
+pdp1c
+pdhk
+dihydrolipoyl acetyltransferase
+lipoic acid
+ca2+
+protein kinase a
+pp2b
+pr72
+ca(2+)
+slit
+robo
+fra-1
+shaggy
+tim
+u0126
+estrogen receptor (er)-alpha
+dcoh
+hnf-1 alpha
+wer
+gl3
+egl3
+enhancer of glabra3
+glabra3
+sigma-1 receptor
+[(11)c]sa4503
+fluvoxamine
+sigma-1 receptors
+beta-arrestin2
+beta-arrestin
+beta(2)-adrenergic receptor
+beta(2)ar
+7tmrs
+receptor protein tyrosine phosphatase (rptp) beta
+zeta
+ptn
+rptpbeta
+pleiotrophin
+mll
+nf-e2
+csb
+rna polymerase i
+h3k9me2
+heterochromatin protein 1gamma
+pol i
+jmjd3
+histone h3k27
+h3k27me2
+me3
+h3k27me3
+h3k4me3
+insulindegrading enzyme
+ant2
+ant3
+bovine serum albumin
+y-family polymerases
+mixed-lineage leukemia (mll) 2
+hox
+ketanserin
+tetrabenazine
+vmat2
+iodoaminoflisopolol
+[125i]iamf
+mdc1
+cdc27
+anaphase-promoting complex/cyclosome
+apc/c
+gamma-h2ax
+usp28
+fbw7alpha
+prmt6
+ash2
+histone h3r2
+h3r2
+pen-2
+nicastrin
+presenilin
+aph-1
+2-oxoglutarate decarboxylase
+mmp1
+s-methylmethionine
+trm6p
+trm61p
+wnt5
+drl
+tousled-like kinase
+aurora kinase
+tlk2
+tlk1
+asf1a
+asf1b
+auk1
+jmjd6
+jumonji domain-containing 6 protein
+h4r3
+carma1
+bcl10
+malt1
+bur1
+bur2
+deubiquitinating enzymes
+ubiquitin-specific protease 3
+usp3
+uh2a
+uh2b
+h2b
+porin (por) 1b
+c4b
+c3b
+opa
+por1b
+opacity protein
+a
+b
+d
+e
+f
+i
+duba
+traf3
+tumor necrosis factor receptor-associated factor 3
+tank-binding kinase 1
+pr70
+rnf8
+ymer
+receptor-interacting serine/threonine-protein kinase 1
+daxx
+butyrate
+tsa
+sin3a
+sp1
+ubch8
+seven in absentia homologue-1
+upf3b
+eif4aiii
+y14
+ejc
+upf3
+magoh
+upf
+protein targeting to glycogen
+glycogen synthase
+phosphorylase
+ptg
+seven in absentia homolog
+mll1
+histones h4
+fancd2
+adhesin
+n-cea
+fti-277
+fbx8
+arf6
+mig-14
+wnt
+wingless
+armadillo
+tcf
+chondrolectin
+rabggtb
+chodl
+beta-chain
+hemoglobin
+alpha-chain
+protein phosphatase 2cepsilon
+pp2cepsilon
+vapa
+cert
+ceramide transport protein
+vesicle-associated membrane protein-associated protein a
+sirtuins
+nuclear receptors
+histone deacetylase 6
+kinesin-ii
+osm-3
+pcr1
+ada
+atf1
+spt
+g(s)
+fshrs
+pdhk2
+k+
+galectin-1
+gal-1
+h-ras
+arc
+caspase-8
+-2
+-4a
+-4b
+-5
+-7
+erk4
+mk5
+prak
+camp-dependent protein kinase a
+sup35
+erf1
+trabid
+tcf/lef
+p34cdc2
+p54cdc25h
+isg15
+big1
+fibrillarin
+nucleoporin p62
+la
+u3
+u3 snorna
+scfhfbh1
+scffbh1
+hfbh1
+rhp51
+rad51
+hbrca2
+fn
+ttll10
+nucleosome assembly protein 1
+nap1
+swd2
+glc7
+sen1
+nab3
+nrd1
+ref2
+txnip
+thioredoxin
+plk1
+emi1
+claspin
+bora
+frizzled
+lipoprotein receptor-related proteins 5
+cdc25 dual-specificity phosphatases
+taz2
+pme-1
+copr5
+c/ebp alpha
+gt1
+ha
+per2
+goat
+membrane-bound o-acyl transferase
+ghrelin
+pabp
+erf3
+ribosome
+dnmt3b
+thymine-dna glycosylase
+tdg
+methyl-cpg binding domain protein 4
+sodium/glucose cotransporter 1
+bhmt2
+bhmt
+pop2p
+ccr4p
+not
+vts1p
+pop2
+ccr4
+tropomyosin
+troponin
+tnt
+tropomyosins
+nucleomethylin
+enosc
+prolyl 3-hydroxylase isoenzyme 2
+p3h1
+cartilage-associated protein
+p3h2
+collagen iv
+collagen i
+gamma
+g protein
+phospholipases
+ion channels
+gi
+opioid receptors
+hhat
+porcupine
+sonic hedgehog
+hemk2
+mtq2p
+trm112p
+transducin-like enhancer
+hrunx2
+hsp110
+tsg-6
+rankl
+bmp-2
+bmps
+dhhc
+csp
+hsf1
+heat shock protein 90
+internalin (inl)a
+hakai
+hdac7
+barrier-to-autointegration factor
+emerin
+lamin a
+prc2
+vav1
+mek1q56p
+uba1
+isg65
+cyp33
+glutathione
+mpges1
+cdc3
+cdc12
+shs1
+tim8
+tim9
+tim 8
+tim13
+tim10
+cdc28p
+ctf7p
+hltf
+ring finger protein 11
+rnf11
+sec22b
+sec23
+24
+vamp7
+snap23
+syntaxin4
+sk1
+ccteta
+cct/tric
+subunit 7
+brpf
+brpf1
+enhancer of polycomb
+eaf6
+trapp i
+sec23p
+ypt1p
+cop ii
+bet3p
+sec24p
+fz
+stbm
+fmi
+pk
+rar
+ra
+all-trans-ra
+9-cis-ra
+ra receptors
+raralpha
+rarbeta
+rargamma
+retinoid x receptors
+rxrbeta
+rxrgamma
+cul5ctd
+rbx11
+rbx12
+sky1
+npl3
+rhobtb2
+rhobtb3
+med23
+med1
+cdk8
+borealin
+survivin
+senp3
+aurora b
+cpc
+pikfyve
+arpikfyve
+sac3
+csf2rawt
+csf2rb
+gm-csf
+adam22
+lgi1
+adam23
+adam11
+dhhc7
+dhhc3
+galpha(q)
+galpha(s)
+galpha(i2)
+galpha(q
+11)
+mia40
+erv1
+atase1
+atase2
+bace1
+protein arginine methyltransferase (prmt) 5
+sf-1
+cdk7
+hrs
+amyloid beta a4 protein
+app-like protein 2
+app
+calpastatin
+calpain 2
+calpain
+irak1
+ez
+ezh1
+senp2
+roralpha
+her4
+anaphase-promoting complex
+iqgap1
+gli3r
+bbip10
+fut10s
+fut11
+conalbumin
+tab1
+tab2
+ikkgamma
+exd
+pbx
+hth
+meis1
+ectodermin
+fam
+phk
+gpb
+gap-43
+gtpgammas
+galpha(o)
+dcp1a
+pnrc2
+hthem2
+coa
+poleta
+uvrb
+mfd
+uvra
+dyn1
+num1
+usp17
+rce1
+rai1
+rat1
+tah18
+dre2
+iron
+scm3
+cenp-a
+sim3
+sars-cov helicase
+sars coronavirus helicase
+ddx5
+msh2
+msh3
+msh6
+heat shock factor 1
+eya
+h4r3me2s
+histone h4r3
+fmet-trna
+damaged dna-binding protein 1
+ddb1
+tyw4
+s-adenosylhomocysteine
+sam
+pak2
+mex67
+nxf1
+mtr2
+yra1
+tho
+nxt1
+nuclear pore proteins
+sub2
+cd81
+cd9
+ewi-2
+p45pfk
+eyes absent
+wstf
+eya3
+eya2
+histone h2a.x
+h2a.x
+ubiquitin-specific protease 33
+vasopressin v2r
+usp33
+beta-arrestins
+talin
+inf2
+mg53
+caveolin-3
+dysferlin
+cav3
+formyl(f)met-trna
+ribosomes
+hbre1
+hpaf
+hrad6
+hset1
+nup82p
+nup159p
+nup84p
+mincc
+mind
+ftsz
+socs3
+granulocyte colony-stimulating factor receptor
+tumor necrosis factor (tnf) receptor-associated factor (traf)-6
+acyl protein thioesterase 1
+apt1
+galpha(13)
+ips-1
+reul
+4.1n
+glur1
+syntaxin 1
+snap25
+synaptotagmin
+vamp2
+myostatin
+lat1
+gcv3
+lip3
+h protein
+lip2
+lip5
+kgd2
+alpha-ketoglutarate dehydrogenase
+spartin
+aip5
+slx1
+slx4
+dhhc2
+mecp2
+brm
+cav-1
+dcn1
+dcnl3
+dcnl1
+dcnl2
+dcnl
+cul
+ubc12
+culs
+sphingosine 1-phosphate
+s1p
+fty720 phosphate
+s1p(1)
+s1p(5)
+parp1
+sulindac
+sulindac sulfone
+dvl
+jip4
+jip3
+jips
+kinesin-1
+dynactin
+mtor
+raptor
+pras40
+rictor
+msin1
+mlst8
+foxo4
+scf-type e3-ligase
+trif
+tlr4
+tank binding kinase (tbk)1
+fgfr1
+phospholipase cgamma
+b-raf
+set1/compass
+set1a
+set1b
+hpk1
+von hippel-lindau tumor suppressor (vhl) protein
+robo1
+delta-catenin
+-3beta
+centrins
+human polycomb protein 2
+centrin-2
+vinculin
+p49366
+q8i701
+eif-5a
+fbps
+pof1p
+pof7p
+pof3p
+cul1p
+tpq
+clonidine
+agao
+bovine serum amine oxidase
+tbk1
+sting
+trapb
+sec5
+exocyst
+sec61b
+rnf4
+parp-1
+ap2alpha
+sp4
+cortactin
+hip1r
+hcf-1n
+hcf-1c
+tftc/staga
+atxn7
+phf8
+2-oxoglutarate-dependent oxygenases
+ca(v)beta2a
+aa
+ca(v)betas
+ca(v)2.2
+consortin
+gga1
+gga2
+connexins
+pcbp2
+rig-i-like helicases
+triad3a
+tbsir2rp1
+histone h1.1
+cdt1
+orc6
+orc
+ciap2
+dynasore
+myd88
+dynamin
+p50s
+smc1
+rad21
+9
+mitochondrial antiviral signaling (mavs) protein
+condensin ii
+protein kinases a
+vacm-1
+pparalpha
+hpparalpha
+peroxisome proliferator-activated receptor alpha
+ncor
+hedghog-induced math and btb domain-containing protein
+spop
+zdhhc21
+fyn
+hoil-1
+hoip
+linear ubiquitin chain assembly complex
+lubac
+tnf-rsc
+(gpo)10
+gco-(gpo)10-gcog-nh2
+rgqogvmgf
+gpc-(gpp)5-gpogpsgprgqogvmgfogpkgndgao-(gpp)5-gpc-nh2
+gfoger
+gpc(gpp)5gfoger(gpp)5gpc
+gpvi
+integrin alpha2beta1
+noc4p
+pre-ribosomes
+nop14p
+smg7
+smg6
+smg5
+histone 3
+kiaa1718
+gp41
+gp120
+vorinostat
+panobinostat
+ikkepsilon
+irfs
+irf-5
+irf-7
+traf1
+ticam-1
+ubr2
+hr6b
+usp10
+nedd8 ultimate buster 1
+six3
+gemenin
+pol eta
+dnab
+primase
+dnac
+sp100
+heterochromatin protein 1
+torc1
+fkbp12
+tor2
+s6
+rps6
+rapamycin
+ell
+p-tefb
+aff4
+dot1
+aff1
+ell1
+h3k79
+sec
+aff3
+dicer
+ago2
+trbp
+mor
+gpr177
+ift20
+ift80
+rassf
+mst2
+nutlin-3
+alpha chain
+gm-csf receptor alpha
+mhf1
+fancm
+mhf2
+faap24
+long-chain acyl-coas
+pal-coa
+bet3
+iscs
+iscu
+tusa
+nsp16
+nsp1
+nsp10
+nlrx1
+polycomb repressive complex
+polycomb repressive complex 1
+dring-associated factors
+calypso
+pr-dub
+prc1
+draf
+asx
+mds3
+sit4
+tor
+jmjc
+jmjd5
+kdm8
+h3k36me2
+cyclin a1
+hr2
+hyl1
+dual-specificity phosphatase
+tsp2
+jagged1
+notch3
+lrp1
+hla-f
+mhc-i
+ubpy
+sumo1
+k2p1
+usp26
+ini1
+runx1
+baf155
+senp
+bzlf1
+ift subcomplexes a
+btc
+erbb4
+h3k4me3/2
+histone h3k4me3/2
+m protein
+s
+s protein
+rev-erbalpha
+hedgehog acyltransferase
+mboat
+xa21
+ax21
+raspberry
+spitz
+dhip14
+egf
+sog
+tact1
+arl6gtp
+bbs1
+bbsome
+fa core complex
+kiaa1018
+dhhc-7
+-19
+mp-10
+pde10a2
+pde10a
+n-capd3
+n-capg2
+h3k9me1
+h4k20me1
+h3k4me2
+stag3
+smc3
+smc1 beta
+rec8
+arfgap1
+arf gap
+coatomer
+harmonin
+harmonin-a
+cadherin-23
+cdh23
+cdh23deltaexon68
+protocadherin-15
+cand-1
+cul-4
+mdia2
+mdia1
+rhog
+jmjd2b
+cbp80
+ranbp3
+kpna7
+b55alpha
+alpha2beta1
+tacc3
+rbpj
+int3
+yy1
+host cell factor 1
+yin yang 1
+gpcrs
+galphao
+go
+oppa
+kak
+alpha-tubulin acetyltransferase
+mec-17
+w06b11.1
+mec-12
+bmk1
+transforming growth factor (tgf)-beta
+endoglin
+yajl
+ulk1
+beclin 1
+vps34
+vps15
+fip200
+atg13
+atg14
+uvrag
+rubicon
+smad ubiquitination regulatory factor 2
+tgf-beta receptors
+ataxin-3
+pup
+mpa
+dna polymerase
+rpa
+rad9
+hus1
+rad1
+9-1-1
+atrip
+rad17
+topbp1
+cyclin-dependent kinase 1
+cyclinb
+trim
+calmodulin methyltransferase
+c2orf34
+stc1
+il-6
+il-27p28
+il-27
+il-11
+gp130
+gimap2
+gw182
+tnrc6c
+hstnrc6a
+tnrc6a
+argonaute
+poly(a)-binding protein
+pabpc1
+dmpabpc1
+ace2
+transmembrane protease/serine subfamily member 2
+ccp1
+ccp4
+ccp6
+ccp5
+myosin light chain kinase 1
+trim56
+toxin b
+ta
+protein kinase d
+subunit 4
+csn4
+snapin
+setd6
+protein kinase c-zeta
+relak310me1
+apt-2
+acyl-protein thioesterase 2
+greatwall
+alpha-endosulfine
+lpta
+lptc
+fbp
+lxr
+swi6
+nsd1
+histone h3k36
+s-adenosyl-l-methionine
+epe1
+tead1
+amot
+amotl1
+4
+afap
+flt3
+dpp
+crossveinless 2
+xpb
+xrcc1
+xpa
+poldelta
+set8
+lef1
+h4k20
+lymphoid enhancing factor-1
+coq9
+coq8
+coq8p
+coq4p
+coq6p
+coq7p
+coq
+coq9p
+iqgap
+fe(ii) and 2-oxoglutarate (2-og) oxygenase
+2-og oxygenases
+von hippel-lindau ubiquitin e3 ligase
+gpc5
+tpx2
+aurora a
+hp4
+lhr
+hp5
+hp6
+beta-syn
+copper
+alpha-syn
+nkp30
+pd-1
+b7-h6
+pdl1
+dbp5
+gle1
+insp(6)
+eif4a
+nup159
+eif4g
+rtt109
+vps75
+kap60
+kap95
+notch receptors
+g-protein
+gpcr
+rumi
+histones h2b
+senp1
+safb1
+phf2
+arid5b
+trappi
+copii
+p55
+nurf55
+su(z)12
+ku80
+ku70
+ilf3
+lrh-1
+vx-680
+aurora-b
+aurora
+william syndrome transcription factor
+snf2h
+mof
+nuclear myosin 1
+ubf
+tub4
+spc97
+spc98
+l3mbtl2
+pcg
+usp37
+cdc8
+tm
+gga3
+rabaptin-5
+hgf
+rab4
+rabex-5
+ck1gamma1
+im7
+e7
+galphai1
+galphai3
+galphai1/t
+im9
+rgs4
+rgs16
+rgs10
+rgs1
+rgs8
+rgs9
+rgs2
+pact
+idol
+ldlr
+h2ar29
+dopamine d2
+adenosine a2a receptor
+cog
+cog6
+syntaxin 6
+syntaxin16
+vti1a
+vamp4
+snares
+spata4
+c2
+trapp
+sgt2flag
+get4
+sec22
+get3
+get5
+sgt2
+memo
+pyd
+eif4e
+hcf243
+d1
+protein phosphatase 2as
+pp2as
+daz interacting protein 1
+dzip1
+arf
+synaptotagamin-1
+stx1a
+stx1
+p1
+p2
+xiap
+rip3
+rip4
+trissin
+g protein-coupled receptor
+mical-l2
+mical-l1
+rab8
+rab13
+rab35
+rab10
+catsup
+gtp cyclohydrolase i
+th
+lysosomal-associated protein multispanning transmembrane 5
+laptm5
+mili
+pirna
+pirnas
+miwi2
+fancj
+blm
+mrn
+-21
+sex steroid receptors
+swi5
+sfr1
+protein vpx
+samhd1
+rnf34
+usp9x
+tnf receptor-associated factor 6
+diphtheria toxin
+heparin binding epidermal growth factor precursor
+leucine-zipper transcription factor-like 1
+crl
+nsd2
+esco2
+sororin
+cohesin
+wls
+por
+wnts
+wg
+jarid2
+jmj
+rna pol ii-associated protein 2
+rpap2
+integrator
+pol ii
+syntaxin 4
+mcsf-1
+mcsf-1r
+stem cell factor
+tcpb
+tirap
+arl4a
+gcc185
+clasp1
+clasp2
+clasps
+gcase
+tcp1
+hiv-1 tar rna-binding protein
+protein activator of pkr
+mek1
+histone h3k9
+muts
+fdhd
+trim33
+h3k18ac
+pias2
+receptor of activated c kinase 1
+rack1
+lin28
+oct4
+jfc1
+epi64
+nup107
+npp-5
+nup96
+elys
+mad1
+nup133
+rv3363c
+nod1
+rv3365c
+meso-diaminopimelic acid
+muramyl dipeptide
+gro/tle
+groucho (gro)/tle
+cbfbeta
+cbfalpha
+cbxs
+phcs
+scms
+os9
+bri1
+icp27
+nup62
+yku70
+yku80
+80
+hppargamma
+hrxralpha dbd-lbd
+hda19
+aterf7
+atsin3
+pex5
+rnf168
+histone h4k20
+dtx4
+nlrp4
+csl
+bmi1
+glmn
+crls
+sec3
+sec6
+sec8
+sec10
+sec15
+exo70
+exo84
+marcks
+ligiii
+ebi3
+bbs6
+bbs10
+bbs12
+pias4
+herc2
+copi
+arfs
+hcl-l1
+cl-k1
+mbl
+lectin
+d-mannose
+l-fucose
+d-galactose
+n-acetylglucosamine
+n-acetylgalactosamine
+d-glucose
+(apo)a-i
+apoa-ii
+apoa-iv
+cell surface atp binding cassette transporter
+ligase iii
+dna ligase iii
+kdm3b
+alfa-
+alfa1-
+alfa2-
+beta-type
+alfa1
+alfa2
+lats1
+dbf2
+sbf
+mtmr13
+del1-9-g129r-hprl
+14.7k
+tnfr1
+optineurin
+dpagt1
+acetylcholine-receptor
+src family kinases
+gata1
+tsg101
+vps28
+vps37
+pcsk9
+stam
+mvb12
+vrk-1
+lem-4l
+lem4
+baf
+protein arginine methyltransferase 6
+erbb receptor
+erbb receptors
+spike proteins
+apn
+myelin basic protein
+bzr1
+vea
+laea
+velb
+kapa
+rrp44
+rrp45
+rrp41
+piwi
+piwi-interacting rnas
+pil1
+seg1
+lsp1
+hnrnp a1
+telomerase
+opy2
+mig1
+mig2
+msb2
+ste7
+kss1
+eya1
+nol11
+hutp4
+t-utps
+ssu processome
+shank 1
+espfu
+irtks
+eps8
+irsp53
+msp-300
+sunitinib
+pdgfr
+pdgfralpha
+sol-2
+glr-1
+skp1-cul1-fbox (scf) e3 ligases
+scf(skp2/cks1
+scf(fbw7
+pikk
+dna-pk
+rpa32
+ppa2
+ndp52
+lc3
+lir
+lc3c
+mig-10
+mig-10b
+abi-1
+uhrf1
+fbw8
+tbc1d3
+dellas
+repressor of ga1-3
+ddb2
+alc1
+par
+fibroblast growth-factor receptor
+plcgamma1
+wipi-1
+rr
+ptdins(3)p
+ptdins(3,5)p2
+phospholipids
+large
+large2
+alpha-dg
+tlr10
+1
+dcn-like
+ube2f
+e2s
+orf6
+orf9b
+karyopherin alpha2
+syncam 1
+farp1
+syncams 1
+fkbp12.6
+ryr2
+dpc10
+foxm1
+arnt
+ccc
+sgta
+bag6
+ubl4a
+rab38
+bloc-2
+rab32
+varp
+homotypic fusion and protein sorting
+cyclic-di-gmp
+cyclic-di-amp
+casitas b-lineage lymphoma
+tgf-beta type ii receptor
+tbetarii
+src-like adaptor protein
+slap
+fbh1
+replication protein a
+damaged dna-binding protein 2
+xeroderma pigmentosum group c
+rafs
+c-raf
+cdc37
+est3p
+g/t mismatch binding protein
+sik3
+sik2
+-9
+deacetylases
+sec24
+sar1
+uhrf2
+zinc finger protein 131
+znf131
+trkb
+promyelocytic leukemia
+kdm4b
+par6
+mitogen-activated protein kinase organizer 1
+morg1
+crb3
+crumbs3
+nphp5
+cep290
+b3galnt2
+laminin
+mre11
+rad50
+ctip
+nbs1
+ctp1
+ha22
+dph5
+cd22
+ef2
+ufd1
+scc2
+gucy1a3
+gucy1b3
+dynamin-related protein 1
+drp1
+sec61beta
+small-glutamine rich tetratricopeptide repeat-containing protein alpha
+ubiquitin-like protein 4a
+sed5
+rassf5
+rassf5ay24a
+uch-l1
+csn1
+csn8
+rif1
+rif2
+h3k36me3
+siah2
+aspp1
+ogdh
+gapdh
+aspps
+aspp
+siah1
+h4ac
+h3k9ac
+ezh (enhancer of zeste homologue) 1
+vset
+pot1
+shelterin
+gata-3
+prothrombin
+carboxylase
+otulin
+ub
+diubiquitin
+ripk1
+sin1
+receptor protein tyrosine phosphatase beta
+indoline-3,2'-thiazolidine
+spiro[imidazo[1,5-c]thiazole-3,3'-indoline]-2',5,7(6h,7ah)-trione
+4n
+thiazolidine
+tfg
+usp49
+ubiquitin-specific peptidase 49
+ruvb-like1
+histone h2b
+sug1
+asb9
+elobc
+cul5ntd
+sec1/munc18
+sly1
+vps45
+sm
+prdc
+sost
+noggin
+lrp5
+sec13p
+hrr25p
+sit4p
+sec31p
+swi4
+mbp1
+ck2 alpha
+importins beta
+atg5
+daf-21
+ebax
+ebax-1
+robo3
+rnf185
+rnf5
+cystic fibrosis transmembrane conductance regulator
+cftr
+g1
+tamoxifen
+ici 182780
+gpr30
+usp12
+uaf-1
+wdr20
+rag
+flcn
+raga
+rags
+necap 1
+integrin alpha5
+cx43
+14-3-3theta
+nnos
+heat-shock protein 70
+hsc70-interacting protein
+tale
+hoxa2
+usp25
+retinoic acid-inducible gene i
+tumornecrosis factor (tnf) receptor-associated factor 2
+liver x receptor
+27-hydroxycholesterol
+mlkl
+med19a
+med6
+mediator
+small gtpase
+rhoc
+rhoq
+tiam1
+racgap1
+srgap2
+herc1
+pak6
+e2f6
+dp1
+mus81
+eme2
+eme1
+h2ac
+smc5
+mid2
+apm4
+utp18
+utp21
+psy2
+pph3p
+pph3
+psy2p
+rdm1
+drm2
+defective in rna-directed dna methylation1
+ago4
+defective in meristem silencing3
+pom1
+cdr2
+lax
+avrbst
+hopz1a
+acip1
+yeti
+dom
+histone h2a.v
+h2a.v
+hp1a
+domino-a
+spak
+k-cl co-transporter 3
+pex5p
+pex14p
+sch51344
+(s)-crizotinib
+(r)-crizotinib
+(r)-
+mth1
+jak3
+lok
+slk
+pcdh24
+mlpcdh
+mcl-1
+bak
+craf
+pink1
+tcpink1
+17-dmag
+grp58
+polymerase-eta
+ubp43
+dhh
+cul9
+derlin-1
+p97
+vimp
+derlin-2
+tmem129
+sel1l
+tns4
+dlc-1
+lrig1
+usp8
+glun1a
+glun1
+glun2b
+pyr1
+pyl
+rcars
+snrk2s
+protein phosphatase type 2cs
+aba-responsive element binding factors
+abi5
+nicotinamide adenine dinucleotide phosphate oxidase
+rbohf
+slow anion channel 1
+k+ channel in arabidopsis 1
+mechanosensitive channel of small conductance- like 9
+glycogen synthase kinase (gsk) 3beta
+ubr5
+nuclear myosin 1c
+nm1
+fancb
+fancl
+faap100
+filgap
+flna
+ksr
+us2
+trc8
+spp
+rprd1a
+rprd1b
+rprd2
+off-track 2
+off-track
+otk
+otk2
+wnt2
+ptk7
+frizzled2
+act1
+us11
+ube2j2
+ric8a
+ncs-1
+frq2
+ocrl
+mbp
+selk
+cmbp
+prin2
+csp41b
+emi2
+arsenite
+ring finger e3 ubiquitin ligases
+rnf20
+rnf40
+trkc
+nt-3
+neurotrophin 3
+usp21
+ubiquitin-specific protease 21
+il-33
+rap
+ralgds
+ralgef
+pdk
+cryptochrome 2
+cry2
+cib1
+atm2904
+atm2907
+atm2908
+gator2
+sestrin2
+ragulator
+v-atpase
+atg34
+ams1
+hrr25
+atg11
+avrb
+rin4
+platelet-derived growth factor
+crenolanib
+pdgfrbeta
+tyrosine kinase
+fms-related tyrosine kinase 3
+vps11
+vps16
+vps18
+corvet
+hops
+vps8
+vps41
+rabs
+vps33
+vps3
+vps39
+n3
+rhn3
+coronin
+beryllium fluoride
+crn1
+sept7
+sept6
+lif1
+dnl4
+klp5
+klp6
+lsm1
+arrestin
+usp45
+kti11
+dph3
+kti13
+eukaryotic elongation factor 2
+type 2a
+type 2a phosphatase
+phosphorylase kinase
+opsin
+sept12
+sept 6
+sept2
+12
+sept4
+cac1p
+cdc7
+caf-i
+ints3
+nabp
+bc1
+ocn
+polyubiquitin
+monoubiquitin
+dbi
+benzodiazepine
+diazepam
+benzodiazepines
+isoquinoline carboxamides
+indole acetamides
+flunitrazepam
+5-androsten-3beta,17,19-triol
+gabaa receptor
+type a receptor for gamma-aminobutyric acid
+tspo
+gator1
+ragb
+dock10
+receptor protein tyrosine phosphatase delta
+ptpdelta
+interleukin-1 receptor accessory protein
+il-1racp-like-1
+il1rapl1
+il-1racp
+adat2
+adat3
+glycosides
+na+-k+-atpase
+hy5
+phytochrome b
+cpap
+sas-5
+sas-6
+fviiia
+tf
+fviia
+auxilin
+uv-ddb
+1a'
+1a
+1t
+1s
+ecft
+ca4
+wilms' tumour 1-associating protein
+protein arginine methyltransferase 1
+tgf-beta receptor
+rnf111
+crl4(ddb2)
+mkrn1
+ubvme
+nad+
+ift
+obscurin
+ball
+mask
+baellchen
+fkbp
+bugz
+bub3
+importin-beta
+leucine
+ragc
+rchy1
+csh3
+cap1
+adenylyl cyclase
+ylr285w
+n6amt2
+efm5
+eef1a
+bubr1
+sun4
+sun3
+nesprin1
+tmem106b
+chmp2b
+apl4
+aps1
+apm2
+pml nbs
+sumo2
+nbs
+bama
+bamd
+bamb
+profilin
+phosphatase and tension homologue
+opi1p
+ebna2
+bs69
+hsp90alpha
+stub1
+ubiquitin-like protein nedd8
+dcnls
+cand
+dcnl-type nedd8 e3
+rpn1
+ubl
+psh1
+siz1
+siz2
+slx5
+cse4
+fadd
+procaspase-8
+cflipl
+ldl receptor
+ldl receptors
+sd ldl
+fat10
+nleb1
+espl
+ensconsin
+casein kinase ii
+pho85
+ckii
+pho80
+pah1
+cyclin-dependent kinase 5
+drebrin
+hdref
+mi2alpha
+apc1
+apc3
+scl
+heb
+lmo1
+eto2
+erg
+vegfa
+ldb1
+fli1
+cullin-2
+cullin-2 based e3 ubiquitin ligases
+lrr-1
+fem1b
+prame
+zyg-11
+baf250
+cul-5
+ppp1cb
+sox 2
+vrk1
+prp28
+rna14
+k-rasg12c
+raf kinase
+pi3kgamma
+usp15
+nrf1
+mc
+momordin ic
+erlin2
+eva1a
+becn1
+atg12
+atg16l1
+pik3c3
+bola1
+glrx5
+bola3
+cbr1
+dph1
+dph2
+dead box rna helicase
+dbf4-dependent kinase
+ddk
+san
+ni
+ichi
+gins
+phosphatidylinositol (3,4)-bisphosphate
+swap70
+gcn2
+eif2alpha
+khsrp
+trm11
+trm112
+bud23
+dasatinib
+bcr-abl
+aphidicolin
+pub
+ring1
+pex3
+pex14
+elk-1
+srf
+mg132
+ciita
+ubls
+polyub
+cullin3
+val-boropro l-allo-ile-isoindoline
+gsdmd
+dpp8
+caspase-1
+zfpl1
+golgin a2
+gm130
+cycc
+cdk3
+drebrin a
+kras4b
+ca
+vx950
+ns3/4 a protease
+fgf1
+pitstop2
+ago
+hago2
+hgw182
+phosphatidylinositol-4 kinase stt4
+efr3
+sld5
+ctf4
+dna polymerase alpha
+sirt6
+bvd-523
+small gtp binding proteins
+rag gtpases
+male-specific lethal 2
+maleless
+rox
+abin-1
+rad4
+rad23b
+hmr
+pex1
+pex6
+atg1
+serum response factor
+nfatc1
+pkm2
+rccd1
+jumonji-c (jmjc) domain-containing protein 5
+regulator of chromosome condensation domain-containing protein 1
+ribosomal protein s6
+dop1r1
+da
+cis1
+msp1
+usp11
+p21
+chat
+kinesin-2
+phosphoprotein phosphatase
+smooth muscle phosphatase (smp) iv
+smp-iv
+meromyosin
+myosin light chains
+phosphorylase alpha
+histone iia
+ankrd9
+elob
+eloc
+impdh
+rnf7
+inosine monophosphate dehydrogenase
+mras
+pppc1b
+plc-gamma
+pdgfra
+ssp2
+smk1
+ssp2kad
+kras
+ogt
+ripk3
+rock1
+rhobtb1
+mul1
+crl2(vhl)
+nsp8
+nsp12
+disulfiram
+gsdm
+papain-like protease
+mda5
+prmt
+nucleocapsid (n) protein
+n protein
+g3bp1
+zdhhcs
+hemopexin
+hemin
+heme
+ethylenediaminetetraacetate
+phenanthroline
+anaphylatoxin inactivator
+cyclic gmp-dependent protein kinase
+cyclic amp-dependent protein kinase
+cyclic amp-dependent
+ca2+/calmodulin-dependent protein kinase
+g-substrate
+synapsin i
+protein k.-f.
+streptokinase
+plasminogen
+npgb
+p-nitrophenyl p-guanidinobenzoate
+h-d-valyl-l-leucyl-l-lysyl-p-nitroanilide
+factor vii/viia
+tissue factor (tf) receptor
+nipp-1
+g-csfr
+granulocyte colony-stimulating factor
+galanin receptor
+galanin
+e2f-1
+p-selectin
+p-selectin glycoprotein ligand-1
+cd30
+cd30l
+sup45p
+sup35p
+glp-1 receptor
+glp-1(7-36)amide
+gtp gamma s
+c3 exoenzyme
+ig alpha
+mlg
+lg beta
+epo
+epor
+xpd
+tafii80
+tata-binding polypeptide
+tafs 80
+31
+tafs
+tafii250
+tafii31
+tafii20
+tbp
+tfiie alpha
+tfiif alpha
+tbp-associated factors
+20
+rat hepatic lectins (rhl) 1
+p52shc
+cdc34
+ie2
+tat
+oka
+sds22p
+tcr
+cd3
+p56
+obf-1
+oct-1
+oct-2
+elf-1
+hmg-i(y)
+ets
+hmg-i
+srb10
+srb11
+11
+thioesterase
+mg2+
+palmitoyl-protein thioesterase
+gp160
+g proteins
+6-phosphofructo-2-kinase
+nair
+air carboxylase
+pure
+ca2+/calmodulin-dependent protein kinase ii
+cam kinase
+cardiac sarcoplasmic reticulum ca(2+)-atpase
+ca(2+)-atpase of cardiac muscle sarcoplasmic reticulum
+serca2
+i kappa b-alpha
+cbz-leu-leucinal
+m-calpain
+myc
+rab-specific geranylgeranyltransferase
+rab1a
+rab5a
+botulinum neurotoxin serotype g
+big et-1
+ece-1
+ahr
+2,3,7,8-tetrachlorodibenzo-p-dioxin [tcdd]
+ahr nuclear translocator
+exoenzyme s
+ehrap1
+ehrap2
+ehras1
+ehras2
+i kappa b alpha
+nfkb2 precursor
+nf-kappa b1
+nf-kappa b2
+p100
+dinitrogenase reductase-activating glycohydrolase
+dinitrogenase reductase adp-ribosyl transferase
+nitrogenase
+herbimycin a
+dmcdc2c
+p52
+crel
+i kappa b gamma-1
+i kappa b gamma-2
+i kappa b gamma
+rel/nf-kappa b
+drat
+drag
+p21 ras
+lovastatin
+compactin
+farnesyl
+3-hydroxy-3-methylglutaryl coenzyme a reductase
+mad2p
+bet2p
+ggtase-ii
+geranylgeranyl pyrophosphate
+sec4p
+rna polymerase iii
+c82
+c53
+c34
+tfiiib
+70-kda component of transcription factor iiib
+c31
+tfiiib70
+p107
+retinoblastoma tumor suppressor protein
+3-hydroxy-3-methylglutaryl-coa (hmg-coa) reductase
+guanine nucleotide regulatory protein gamma 2
+guanosine 5'-[gamma-thio]triphosphate
+pertussis toxin
+gt alpha
+component a
+rab3a guanine nucleotide dissociation inhibitor
+rab3a gdi
+cytotoxicity-dependent apo-1-associated proteins
+apo-1
+cap4
+ibr
+bob.1
+oct1
+oct2
+stat2
+snf1
+sip4
+beta gamma
+human protein c
+nf-at4
+nf-at
+vascular endothelial growth factor-related protein
+vascular endothelial growth factor
+flt4
+flk1
+flt1
+vegf-related protein
+phosphoopsin
+ets-1
+tfe3
+hsn3
+ppt
+zap
+ptf gamma
+ptf delta
+ptf
+tata-binding protein
+tfiiib90
+il-1 receptor
+ac-devd-cho
+crma
+interleukin-1beta
+cyclooxygenase-2
+nsaid
+cyclooxygenase-1
+fxiii
+fxiiia
+fgn
+tg
+human factor xiii
+factor xiiia
+endothelial cell transglutaminase
+factor xiii
+transglutaminase
+fbn
+fibrin
+fibronectin
+p21(ras)
+hhl1
+hhl2
+spt3p
+mot1p
+math4a
+e12
+mash1
+vap-1
+lar
+rfx1
+mibp1
+plc gamma2
+adenylyl cyclase-associated protein
+cap
+rbp-jkappa
+slap-130
+mad
+mxi1
+rhombotin-2
+rbtn2
+rbp2
+retinoblastoma-binding protein 2
+muc1
+df3
+gamma-catenin
+retinoic acid (ra) receptor
+retinoic acid receptor
+il-4
+il-4ralpha
+tax1
+creb/atf
+b956
+b957
+farnesyl transferase
+progesterone
+steroid
+tafii32
+rfx5
+p27kip1
+src-1
+lipophilic hormones
+retinoids
+vitamins
+tif-2
+rip-140
+tif-1
+trip-1
+oestrogen receptor
+nuclear-receptor
+rhogdi
+guanine nucleotide dissociation inhibitors
+rac
+rho family g proteins
+il-2rbeta
+egr-1
+il-2
+il-15
+cd28
+ap50
+ran binding protein 1
+ranbp1
+rp1
+t-cell receptor
+aps
+phosphatidylinositol 3-kinase
+cofactor e
+fealpha
+cofactor d
+fdbeta
+ggti-286
+apterous
+ngfi-a
+aldp
+abc-transporters
+aldrp
+plakoglobin
+cadherin
+dp-ntp
+desmoplakin
+alpha-catenin
+dsg1
+desmosomal cadherins
+classical
+traf
+tnfr
+rad52
+tumor necrosis factor receptor-associated death domain protein
+spectrin
+betai spectrin
+ankg119
+catenins
+mnfatc
+-t2
+galnac-t1
+cd8
+alphavbeta1
+stat5a
+stat5b
+tim23p
+tim54p
+tim17p
+tim22p
+camkiipase
+camkii
+alpha-casein
+i kappa b beta
+brn-3a
+brn-3b
+brn-3
+crk
+abp-280
+epidermal growth factor receptor
+epidermal growth factor (egf) receptor
+pdgfbetar
+platelet-derived growth factor beta receptor
+oxytocin receptor
+ghalpha
+plc-delta1
+desgly-nh2d(ch2)5[tyr(me)2,thr4]ornithine vasotocin
+oxytocin
+rub1p
+cdc53p
+oca-b
+pc4
+prmt3
+tis21
+gar
+rmt1
+xsmc3
+smc3p
+xsmc1
+smc1p
+cry1
+phytochrome a
+beta1 gamma1s74l
+beta1 gamma2
+transducin-alpha
+talpha
+goalpha
+crkl
+irf1
+atf2
+hmg i(y)
+zfm1
+ews
+htafii68
+tls
+thrombopoietin
+c-mpl
+p21ras
+tnfri
+tnfrii
+ikappab alpha
+ink4a
+cyclin d-dependent protein kinase
+ink4
+p19ink4d
+p19 ink4d
+2a
+perilipin
+low density lipoprotein
+lectin-like ox-ldl receptor
+lox-1
+class a scavenger receptors
+b scavenger receptors
+class a
+rap74
+rap30
+fcp1a
+fcp1b
+fcp1
+rna polymerase iio
+74
+p160s
+p300 and cbp-associated factor
+mi2beta
+uch-l3
+cd45
+cd80
+cd86
+hsi
+dock180
+ikappabbeta
+bcl3
+tfiib
+tfiia
+gata3
+tal1
+lim-only
+lmo
+dna-pkcs
+ku86
+irs-2
+ly294002
+pi 3-k
+apob100
+rank
+tumor necrosis factor receptor-associated factors (trafs) 1
+yap1p
+crm1p
+hnrnp f
+an unidentified protein of 58 kda
+ksrp
+hnrnp h
+hnrnps h
+class ii transactivator
+ca2+/calmodulin-dependent protein kinase kinase alpha
+ca2+/calmodulin-dependent protein kinase phosphatase
+ca2+/calmodulin-dependent protein kinases i
+iv
+osteoclast differentiation factor
+osteoclastogenesis-inhibitory factor
+odf
+odfr
+fut4
+fut8
+alpha1,6-fucosyltransferase
+beta-galactosidase
+asialo-fetuin
+fez1
+pkczeta
+nmi
+stats
+glp-2
+glp-2r

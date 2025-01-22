@@ -1,0 +1,7 @@
+Type	Metric	Score
+PPI	Precision	0.737
+PPI	Recall	0.733
+PPI	F1_Score	0.732
+TF-Genes	Precision	0.592
+TF-Genes	Recall	0.57
+TF-Genes	F1_Score	0.579
