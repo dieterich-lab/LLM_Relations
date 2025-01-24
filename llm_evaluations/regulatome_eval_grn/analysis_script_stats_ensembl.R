@@ -22,12 +22,12 @@ curated_tf$source <- tolower(curated_tf$source)
 curated_tf$target <- tolower(curated_tf$target)
 curated_tf <- unique(curated_tf)
 
-llm_files <- c("/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/llama3.1:70b/docs/style1/simple/nerrel_individual/relgiventrueners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/llama3.1:70b/docs/style1/simple/nerrel_individual/relgivenallners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/llama3.1:70b/docs/style1/simple/nerrel_individual/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/meta-llama/Meta-Llama-3.1-405B-Instruct/docs/style1/simple/nerrel_individual/relgiventrueners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/meta-llama/Meta-Llama-3.1-405B-Instruct/docs/style1/simple/nerrel_individual/relgivenallners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/meta-llama/Meta-Llama-3.1-405B-Instruct/docs/style1/simple/nerrel_individual/triples_+_in_between.json")
+llm_files <- c("../../llm_files/regulatome_eval_grn/Llama70b_TrueEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama70b_AllEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama70b_NoEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama405b_TrueEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama405b_AllEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama405b_NoEntities.json")
 names(llm_files) <- c("Llama70b_TrueEntities", "Llama70b_AllEntities", "Llama70b_NoEntities", "Llama405b_TrueEntities", "Llama405b_AllEntities", "Llama405b_NoEntities")
 
 ensembl <- useEnsembl(biomart = "genes", host = "nov2020.archive.ensembl.org")
@@ -107,7 +107,6 @@ for(ii in 1:nrow(curated_tf)){
   if((length(ss) > 0) && (length(tt) > 0)){
     
     tobind <- matrix(data = , nrow = 1, ncol = 2)
-    # tobind[1, ] <- sort(c(ss, tt))
     tobind[1, ] <- c(ss, tt)
     curated_tf_ensembl <- rbind(curated_tf_ensembl, tobind)
     
@@ -173,12 +172,6 @@ for(ll in 1:length(llm_files)){
   colnames(tf) <- c("source", "target")
   tf <- as.data.frame(tf)
   
-  # mm <- matrix(data = , nrow = nrow(tf), ncol = 2)
-  # for(zz in 1:nrow(tf)){
-  #   mm[zz, ] <- sort(c(tf$source[zz], tf$target[zz]))
-  # }
-  # tf <- as.data.frame(unique(mm))
-  # colnames(tf) <- c("source", "target")
   tf$source <- tolower(tf$source)
   tf$target <- tolower(tf$target)
   
@@ -253,7 +246,6 @@ for(ll in 1:length(llm_files)){
     if((length(ss) > 0) && (length(tt) > 0)){
       
       tobind <- matrix(data = , nrow = 1, ncol = 2)
-      # tobind[1, ] <- sort(c(ss, tt))
       tobind[1, ] <- c(ss, tt)
       tf_ensembl <- rbind(tf_ensembl, tobind)
       
@@ -344,12 +336,6 @@ for(ll in 1:length(llm_files)){
   colnames(tf) <- c("source", "target")
   tf <- as.data.frame(tf)
   
-  # mm <- matrix(data = , nrow = nrow(tf), ncol = 2)
-  # for(zz in 1:nrow(tf)){
-  #   mm[zz, ] <- sort(c(tf$source[zz], tf$target[zz]))
-  # }
-  # tf <- as.data.frame(unique(mm))
-  # colnames(tf) <- c("source", "target")
   tf$source <- tolower(tf$source)
   tf$target <- tolower(tf$target)
   
@@ -424,7 +410,6 @@ for(ll in 1:length(llm_files)){
     if((length(ss) > 0) && (length(tt) > 0)){
       
       tobind <- matrix(data = , nrow = 1, ncol = 2)
-      # tobind[1, ] <- sort(c(ss, tt))
       tobind[1, ] <- c(ss, tt)
       tf_ensembl <- rbind(tf_ensembl, tobind)
       
@@ -515,12 +500,6 @@ for(ll in 1:length(llm_files)){
   colnames(tf) <- c("source", "target")
   tf <- as.data.frame(tf)
   
-  # mm <- matrix(data = , nrow = nrow(tf), ncol = 2)
-  # for(zz in 1:nrow(tf)){
-  #   mm[zz, ] <- sort(c(tf$source[zz], tf$target[zz]))
-  # }
-  # tf <- as.data.frame(unique(mm))
-  # colnames(tf) <- c("source", "target")
   tf$source <- tolower(tf$source)
   tf$target <- tolower(tf$target)
   
@@ -595,7 +574,6 @@ for(ll in 1:length(llm_files)){
     if((length(ss) > 0) && (length(tt) > 0)){
       
       tobind <- matrix(data = , nrow = 1, ncol = 2)
-      # tobind[1, ] <- sort(c(ss, tt))
       tobind[1, ] <- c(ss, tt)
       tf_ensembl <- rbind(tf_ensembl, tobind)
       
@@ -684,7 +662,7 @@ colors <- c("inaccurate_predictions" = "#D3D3D3",
 write.table(x = df)
 
 
-pdf(file = "model_predictions_tf_all_entities_ensembl_all.pdf", width = 20, height = 10)
+pdf(file = "output/model_predictions_grn_ensembl.pdf", width = 20, height = 10)
 ggplot(df, aes(x = Model, y = Cnt, fill = Type)) +
   geom_bar(stat = "identity", position = "stack") +
   scale_fill_manual(values = colors) +
@@ -708,7 +686,8 @@ ggplot(df, aes(x = Model, y = Cnt, fill = Type)) +
   facet_wrap(~Step, scales = "free_x", nrow = 1) # Create facets for each style
 dev.off()
 
-
+write.table(x = df, file = "output/model_predictions_grn_ensembl.txt", quote = FALSE, 
+            sep = "\t", row.names = FALSE, col.names = TRUE)
 
 
 #### Precision-Recall
@@ -767,7 +746,7 @@ metrics_long$Model <- factor(metrics_long$Model,
                                         "Llama70b_NoEntities",
                                         "Llama405b_NoEntities"))
 
-pdf(file = "precision_recall_tf_all_entities_ensembl_all.pdf", width = 20, height = 14)
+pdf(file = "output/precision_recall_grn_ensembl.pdf", width = 20, height = 14)
 ggplot(metrics_long, aes(x = Step, y = Score, fill = variable, group = interaction(Model, variable))) +
   geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
   geom_text(aes(label = round(Score, 2)),  # Add text labels with rounded scores
@@ -785,7 +764,8 @@ ggplot(metrics_long, aes(x = Step, y = Score, fill = variable, group = interacti
   coord_cartesian(clip = 'off')
 dev.off()
 
-
+write.table(x = metrics_long, file = "output/precision_recall_grn_ensembl.txt", quote = FALSE, 
+            sep = "\t", row.names = FALSE, col.names = TRUE)
 
 
 

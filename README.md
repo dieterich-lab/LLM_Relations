@@ -5,6 +5,9 @@ Questions about the study can be addressed to [Enio Gjerga](E.Gjerga@uni-heidelb
 
 This study makes use of the [RegulaTome](https://academic.oup.com/database/article/doi/10.1093/database/baae095/7756349) corpus of literature, so we suggest to have a look at this study first.
 
+### License
+Distributed under the GNU GPLv3 License.
+
 ## Code Organization
 The code and results have been organized in the following direcotries:
 

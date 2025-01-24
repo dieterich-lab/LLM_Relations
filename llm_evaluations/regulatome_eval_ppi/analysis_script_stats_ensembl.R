@@ -8,9 +8,9 @@ library(ggplot2)
 library(biomaRt)
 library(jsonlite)
 
-all_annotated_entities <- read.delim(file = "/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_ppi_annotations/regulatome_extraction_13_12_2024/src/all_annotated_entities.txt", header = FALSE)
+all_annotated_entities <- read.delim(file = "src/all_annotated_entities.txt", header = FALSE)
 
-ppi_annotated_relations <- read.delim("/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_ppi_annotations/regulatome_extraction_13_12_2024/src/ppi_annotated_relations.txt")
+ppi_annotated_relations <- read.delim("src/ppi_annotated_relations.txt")
 
 curated_ppi <- matrix(data = , nrow = nrow(ppi_annotated_relations), ncol = 2)
 for(ii in 1:nrow(ppi_annotated_relations)){
@@ -675,7 +675,7 @@ colors <- c("inaccurate_predictions" = "#D3D3D3",
             "correct_predictions" = "#33FF57")
 
 
-pdf(file = "model_predictions_ppi_all_entities_ensembl_all.pdf", width = 20, height = 10)
+pdf(file = "output/model_predictions_ppi_all_entities_ensembl_all.pdf", width = 20, height = 10)
 ggplot(df, aes(x = Model, y = Cnt, fill = Type)) +
   geom_bar(stat = "identity", position = "stack") +
   scale_fill_manual(values = colors) +
@@ -699,7 +699,7 @@ ggplot(df, aes(x = Model, y = Cnt, fill = Type)) +
   facet_wrap(~Step, scales = "free_x", nrow = 1) # Create facets for each style
 dev.off()
 
-write.table(x = df, file = "model_predictions_ppi_ensembl.txt", quote = FALSE, sep = "\t", 
+write.table(x = df, file = "output/model_predictions_ppi_ensembl.txt", quote = FALSE, sep = "\t", 
             row.names = FALSE, col.names = TRUE)
 
 
@@ -759,7 +759,7 @@ metrics_long$Model <- factor(metrics_long$Model,
                                         "Llama70b_NoEntities",
                                         "Llama405b_NoEntities"))
 
-pdf(file = "precision_recall_ppi_ensembl.pdf", width = 20, height = 14)
+pdf(file = "output/precision_recall_ppi_ensembl.pdf", width = 20, height = 14)
 ggplot(metrics_long, aes(x = Step, y = Score, fill = variable, group = interaction(Model, variable))) +
   geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
   geom_text(aes(label = round(Score, 2)),  # Add text labels with rounded scores
@@ -778,7 +778,7 @@ ggplot(metrics_long, aes(x = Step, y = Score, fill = variable, group = interacti
   coord_cartesian(clip = 'off')
 dev.off()
 
-write.table(x = metrics_long, file = "precision_recall_ppi_ensembl.txt", quote = FALSE, sep = "\t", 
+write.table(x = metrics_long, file = "output/precision_recall_ppi_ensembl.txt", quote = FALSE, sep = "\t", 
             row.names = FALSE, col.names = TRUE)
 
 

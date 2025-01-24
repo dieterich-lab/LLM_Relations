@@ -5,8 +5,8 @@ library(biomaRt)
 library(jsonlite)
 library(parallel)
 
-ppi_annotated_relations <- read.delim("/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_ppi_annotations/regulatome_extraction_13_12_2024/src/ppi_annotated_relations.txt")
-tf_annotated_relations <- read.delim("/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_ppi_annotations/regulatome_extraction_13_12_2024/src/tf_annotated_relations.txt")
+ppi_annotated_relations <- read.delim("src/ppi_annotated_relations.txt")
+tf_annotated_relations <- read.delim("src/tf_annotated_relations.txt")
 
 stats_vec <- c("Catalysis of deubiquitination   92.3%   12/13   80.0%   12/15   85.7%   79   15",
                "Complex formation   78.6%   965/1227   79.0%   965/1221   78.8%   6463   1221",

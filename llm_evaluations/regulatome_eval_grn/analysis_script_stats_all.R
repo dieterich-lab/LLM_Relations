@@ -49,10 +49,10 @@ parallel_process <- function(chunk_indices) {
   return(tf_fixed_chunk)
 }
 
-all_annotated_entities <- read.delim(file = "/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_tf_annotations/regulatome_extraction_24_12_2024/src/all_annotated_entities.txt", header = FALSE)
-true_annotated_entities <- read.delim(file = "/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_tf_annotations/regulatome_extraction_24_12_2024/src/tf_annotated_entities.txt", header = FALSE)
+all_annotated_entities <- read.delim(file = "src/all_annotated_entities.txt", header = FALSE)
+true_annotated_entities <- read.delim(file = "src/tf_annotated_entities.txt", header = FALSE)
 
-tf_annotated_relations <- read.delim("/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_tf_annotations/regulatome_extraction_24_12_2024/src/tf_annotated_relations.txt")
+tf_annotated_relations <- read.delim("src/tf_annotated_relations.txt")
 
 curated_tf <- matrix(data = , nrow = nrow(tf_annotated_relations), ncol = 2)
 for(ii in 1:nrow(tf_annotated_relations)){
@@ -82,12 +82,12 @@ for(ii in 1:nrow(curated_tf)){
 }
 curated_tf <- curated_tf[-ind2rem, ]
 
-llm_files <- c("/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/llama3.1:70b/docs/style1/simple/nerrel_individual/relgiventrueners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/llama3.1:70b/docs/style1/simple/nerrel_individual/relgivenallners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/llama3.1:70b/docs/style1/simple/nerrel_individual/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/meta-llama/Meta-Llama-3.1-405B-Instruct/docs/style1/simple/nerrel_individual/relgiventrueners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/meta-llama/Meta-Llama-3.1-405B-Instruct/docs/style1/simple/nerrel_individual/relgivenallners/triples_+_in_between.json",
-               "/beegfs/prj/LINDA_LLM/outputs/graph_triples/tf_regulatome/marker/meta-llama/Meta-Llama-3.1-405B-Instruct/docs/style1/simple/nerrel_individual/triples_+_in_between.json")
+llm_files <- c("../../llm_files/regulatome_eval_grn/Llama70b_TrueEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama70b_AllEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama70b_NoEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama405b_TrueEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama405b_AllEntities.json",
+               "../../llm_files/regulatome_eval_grn/Llama405b_NoEntities.json")
 names(llm_files) <- c("Llama70b_TrueEntities", "Llama70b_AllEntities", "Llama70b_NoEntities", "Llama405b_TrueEntities", "Llama405b_AllEntities", "Llama405b_NoEntities")
 
 ensembl <- useEnsembl(biomart = "genes", host = "nov2020.archive.ensembl.org")
@@ -470,19 +470,6 @@ for(ll in 1:length(llm_files)){
   
 }
 
-# library(VennDiagram)
-# set1 <- tf_genes_list[[5]]
-# set2 <- tf_genes_list[[10]]
-# venn.diagram(
-#   x = list(set1, set2),
-#   category.names = nn[c(5, 10)],
-#   filename = '#14_venn_diagramm.png',
-#   output=TRUE
-# )
-
-
-
-
 names(plot_df_list) <- nn
 
 
@@ -530,7 +517,7 @@ colors <- c("inaccurate_predictions" = "#D3D3D3",
             "correct_predictions" = "#33FF57")
 
 
-pdf(file = "model_predictions_tf_all.pdf", width = 20, height = 10)
+pdf(file = "output/model_predictions_grn_all.pdf", width = 20, height = 10)
 ggplot(df, aes(x = Model, y = Cnt, fill = Type)) +
   geom_bar(stat = "identity", position = "stack") +
   scale_fill_manual(values = colors) +
@@ -554,7 +541,7 @@ ggplot(df, aes(x = Model, y = Cnt, fill = Type)) +
   facet_wrap(~Step, scales = "free_x", nrow = 1) # Create facets for each style
 dev.off()
 
-write.table(x = df, file = "model_predictions_tf_all.txt", quote = FALSE, sep = "\t", 
+write.table(x = df, file = "output/model_predictions_grn_all.txt", quote = FALSE, sep = "\t", 
             row.names = FALSE, col.names = TRUE)
 
 
@@ -606,10 +593,7 @@ metrics_long$Step <- sapply(strsplit(x = metrics_long$Type, split = "_", fixed =
 metrics_long$Model <- paste0(sapply(strsplit(x = metrics_long$Type, split = "_", fixed = TRUE), "[", 1),
                              "_",
                              sapply(strsplit(x = metrics_long$Type, split = "_", fixed = TRUE), "[", 2))
-# metrics_long$Model <- factor(metrics_long$Model,
-#                              levels = c("Llama70b_TrueEntities",
-#                                         "Llama70b_AllEntities",
-#                                         "Llama405b_AllEntities"))
+
 metrics_long$Model <- factor(metrics_long$Model,
                              levels = c("Llama70b_TrueEntities",
                                         "Llama405b_TrueEntities",
@@ -618,7 +602,7 @@ metrics_long$Model <- factor(metrics_long$Model,
                                         "Llama70b_NoEntities",
                                         "Llama405b_NoEntities"))
 
-pdf(file = "precision_recall_tf_all.pdf", width = 20, height = 14)
+pdf(file = "output/precision_recall_grn_all.pdf", width = 20, height = 14)
 ggplot(metrics_long, aes(x = Step, y = Score, fill = variable, group = interaction(Model, variable))) +
   geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
   geom_text(aes(label = round(Score, 2)),  # Add text labels with rounded scores
@@ -636,7 +620,7 @@ ggplot(metrics_long, aes(x = Step, y = Score, fill = variable, group = interacti
   coord_cartesian(clip = 'off')
 dev.off()
 
-write.table(x = metrics_long, file = "precision_recall_tf_all.txt", quote = FALSE, sep = "\t", 
+write.table(x = metrics_long, file = "output/precision_recall_grn_all.txt", quote = FALSE, sep = "\t", 
             row.names = FALSE, col.names = TRUE)
 
 
