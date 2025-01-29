@@ -2,7 +2,7 @@
 
 ## LLM_Extractions
 
-This is the code to that was used to extract the desired structured information from the LLMs.
+This is the code that was used to extract the desired structured information from the LLMs.
 
 The folder structure is the following, import files being highlighted:
 
