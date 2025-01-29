@@ -190,7 +190,6 @@ if args.nerrel:
         partial_variables={
             "format_instructions": ner_parser.get_format_instructions(),
             "examples": ner_example_dict[PROMPT_LOOKUP],
-            # "ner_list": ner_list,
         },
     )
 

@@ -68,7 +68,7 @@ paper_dict_path = Path(
     f"/beegfs/prj/LINDA_LLM/outputs/paper_dicts/{PAPER_PATH}/{args.parser}/paper_dict.pkl"
 )
 if args.curated and "eval" not in args.target:
-    paper_dict_path = paper_dict_path.parent / "5curated" / "paper_chunks.pkl"
+    paper_dict_path = paper_dict_path.parent / "5curated" / "paper_dict.pkl"
 
 os.makedirs(paper_pkl_path.parent, exist_ok=True)
 
