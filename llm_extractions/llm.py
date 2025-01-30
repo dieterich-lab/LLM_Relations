@@ -8,7 +8,9 @@ if not args.nebius:
     model_dict = {
         "8b": "llama3.1:8b",
         "70b": "llama3.1:70b",
+        "70b3.3": "llama3.3:70b",
         "405b": "llama3.1:405b-cpu",
+        "deepseek": "deepseek-r1:70b",
     }
     model = model_dict[args.model]
 else:
