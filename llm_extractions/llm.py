@@ -19,7 +19,6 @@ else:
     }
     model = model_dict[args.model]
 
-print(f"Using model {model}.")
 
 ip_dict = {
     "g4": "10.250.135.153",

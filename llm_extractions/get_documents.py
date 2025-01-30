@@ -116,11 +116,11 @@ with open(whole_paper_pkl_path, "rb") as f:
             break
 
 ner_list = None
-if args.toolcall:
-    if PROMPT_LOOKUP == "ppi":
-        ner_path = "/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_ppi_annotations/unique_gene_names.txt"
-    elif PROMPT_LOOKUP == "tf":
-        ner_path = "/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_tf_annotations/unique_tf_names.txt"
-    with open(ner_path, "r") as f:
-        ner_list = [x.strip() for x in f.readlines()]
-    ner_list = [x.replace(" ", "").lower() for x in ner_list]
+# if args.toolcall:
+#     if PROMPT_LOOKUP == "ppi":
+#         ner_path = "/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_ppi_annotations/unique_gene_names.txt"
+#     elif PROMPT_LOOKUP == "tf":
+#         ner_path = "/beegfs/prj/LINDA_LLM/CardioPriorKnowledge/test_tf_annotations/unique_tf_names.txt"
+#     with open(ner_path, "r") as f:
+#         ner_list = [x.strip() for x in f.readlines()]
+#     ner_list = [x.replace(" ", "").lower() for x in ner_list]

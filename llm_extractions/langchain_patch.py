@@ -1,7 +1,19 @@
 # To be replaced with the same function on line 284  in file langchain_core/messages/utils.py of the library langchain_core==0.3.31
+from __future__ import annotations
+
+from collections.abc import Sequence
+
+import langchain_core
+from json_repair import repair_json
+from langchain_core.exceptions import ErrorCode, create_message
+from langchain_core.messages.base import BaseMessage
+from langchain_core.messages.utils import (
+    MessageLikeRepresentation,
+    _create_message_from_message_type,
+)
 
 
-def _convert_to_message(message: MessageLikeRepresentation) -> BaseMessage:
+def patched_convert_to_message(message: MessageLikeRepresentation) -> BaseMessage:
     """Instantiate a message from a variety of message formats.
 
     The message format can be one of the following:
@@ -226,3 +238,7 @@ def _convert_to_message(message: MessageLikeRepresentation) -> BaseMessage:
         raise NotImplementedError(msg)
 
     return _message
+
+
+# Monkey patch for the langchain function to work with conversational structured output.
+langchain_core.messages._convert_to_message = patched_convert_to_message

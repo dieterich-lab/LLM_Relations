@@ -33,10 +33,10 @@ if args.nerrel:
     graphdoc_pkl_path = (
         Path(graphdoc_pkl_path).parent / f"nerrel_{args.nerrel}" / graph_doc_filename
     )
-    if args.toolcall:
-        graphdoc_pkl_path = (
-            Path(graphdoc_pkl_path).parent / f"toolcall" / graph_doc_filename
-        )
+    # if args.toolcall:
+    #     graphdoc_pkl_path = (
+    #         Path(graphdoc_pkl_path).parent / f"toolcall" / graph_doc_filename
+    #     )
     ner_json_path = Path(graphdoc_pkl_path).parent / "ner.json"
 
 if args.relgiventrueners:
@@ -83,8 +83,8 @@ else:
     triple_path = Path(triple_path) / "complex"
 if args.nerrel:
     triple_path = Path(triple_path) / f"nerrel_{args.nerrel}"
-if args.toolcall:
-    triple_path = Path(triple_path) / f"toolcall"
+# if args.toolcall:
+#     triple_path = Path(triple_path) / f"toolcall"
 if args.relgiventrueners:
     triple_path = Path(triple_path) / f"relgiventrueners"
 if args.relgivenallners:

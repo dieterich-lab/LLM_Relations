@@ -3,6 +3,7 @@ import json
 import pickle
 from parser import args
 
+import langchain_patch
 from const import PROMPT_LOOKUP
 from get_documents import (
     all_ner_paths,
@@ -11,7 +12,13 @@ from get_documents import (
     true_ner_paths,
     whole_documents,
 )
-from graph_utils import attempt, build_graphdoc, filter_ners, parse_msg2triples
+from graph_utils import (
+    attempt,
+    build_graphdoc,
+    filter_ners,
+    parse_msg2triples,
+    parse_ners,
+)
 from json_repair import repair_json
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.output_parsers import JsonOutputParser
@@ -176,14 +183,14 @@ if args.nerrel:
         ner_parser = JsonOutputParser(pydantic_object=Proteins)
     elif PROMPT_LOOKUP == "tf":
         ner_parser = JsonOutputParser(pydantic_object=GenesAndTranscriptionFactors)
-    if args.toolcall:
-        ner_template = (
-            PPI_NER_TEMPLATE_TOOLCALL
-            if PROMPT_LOOKUP == "ppi"
-            else TF_NER_TEMPLATE_TOOLCALL
-        )
-    else:
-        ner_template = PPI_NER_TEMPLATE if PROMPT_LOOKUP == "ppi" else TF_NER_TEMPLATE
+    # if args.toolcall:
+    #     ner_template = (
+    #         PPI_NER_TEMPLATE_TOOLCALL
+    #         if PROMPT_LOOKUP == "ppi"
+    #         else TF_NER_TEMPLATE_TOOLCALL
+    #     )
+    # else:
+    ner_template = PPI_NER_TEMPLATE if PROMPT_LOOKUP == "ppi" else TF_NER_TEMPLATE
     init_ner_prompt = PromptTemplate(
         template=ner_template,
         input_variables=["input"],
@@ -277,44 +284,10 @@ def query(app, doc, id):
             NER = True
             msg = app.invoke(msg_dict, config)
             ner_answer = msg["messages"][-1]
-            if "parsed" in ner_answer and ner_answer["parsed"]:
-                ners = ner_answer["parsed"].model_dump()
-            elif "tool_calls" in ner_answer.additional_kwargs and kw in repair_json(
-                ner_answer.additional_kwargs["tool_calls"][0]["function"]["arguments"],
-                return_objects=True,
-            ):
-                ners = repair_json(
-                    ner_answer.additional_kwargs["tool_calls"][0]["function"][
-                        "arguments"
-                    ],
-                    return_objects=True,
-                )
-            elif (
-                "raw" in ner_answer
-                and "tool_calls" in ner_answer["raw"].additional_kwargs
-            ):
-                ners = ner_answer["raw"].additional_kwargs["tool_calls"][0]["function"][
-                    "arguments"
-                ]
-            elif "raw" in ner_answer and (
-                "tool_calls" in ner_answer["raw"].response_metadata["message"]
-            ):
-                ners = ner_answer["raw"].response_metadata["message"]["tool_calls"][0][
-                    "function"
-                ]["arguments"]
-            elif (
-                "tool_calls" in ner_answer.response_metadata["message"]
-                and ner_answer.response_metadata["message"]["tool_calls"][0][
-                    "function"
-                ]["arguments"]
-            ):
-                ners = ner_answer.response_metadata["message"]["tool_calls"][0][
-                    "function"
-                ]["arguments"]
+            ners = parse_ners(ner_answer, kw)
             NER = False
-            if args.toolcall:
-                ners[kw] = filter_ners(ners[kw], ner_list)
-            ners = str(ners)
+            # if args.toolcall:
+            #     ners[kw] = filter_ners(ners[kw], ner_list)
             if not args.dev:
                 ner_obj = repair_json(ners, return_objects=True)
                 if ner_obj:
@@ -356,10 +329,10 @@ def query(app, doc, id):
                     ners = ner_answer["raw"].response_metadata["message"]["tool_calls"][
                         0
                     ]["function"]["arguments"]
-                if args.toolcall:
-                    if isinstance(ners, str):
-                        ners = repair_json(ners, return_objects=True)
-                    ners[kw] = filter_ners(ners[kw], ner_list)
+                # if args.toolcall:
+                #     if isinstance(ners, str):
+                #         ners = repair_json(ners, return_objects=True)
+                #     ners[kw] = filter_ners(ners[kw], ner_list)
                 ners = str(ners)
             elif args.relgiventrueners:
                 try:
@@ -479,7 +452,6 @@ for i, (doc, id) in enumerate(
     result = attempt(
         tries=1,
         seconds=int(1e6),
-        # seconds=500 if args.model != "405b" else 1e6,
         func=query,
         kwargs={"app": app, "doc": doc, "id": id},
     )
