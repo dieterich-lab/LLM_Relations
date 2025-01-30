@@ -177,10 +177,6 @@ class MyNeo4jGraph(Neo4jGraph):
 
 
 def parse_msg2triples(message):
-    # output = repair_json(message.content, return_objects=True)
-    # if isinstance(output, dict) and "triples" in output:
-    #     output = output["triples"]
-    # if not output:
     if "parsed" in message.additional_kwargs and message.additional_kwargs["parsed"]:
         output = message.additional_kwargs["parsed"].model_dump()["triples"]
     elif (
@@ -225,7 +221,6 @@ def parse_msg2triples(message):
             output = obj["parameters"]["triples"]
         else:
             output = list()
-    # else:
     elif "tool_calls" in message.additional_kwargs:
         output = repair_json(
             message.additional_kwargs["tool_calls"][0]["function"]["arguments"],
@@ -237,9 +232,6 @@ def parse_msg2triples(message):
         return output
     if isinstance(output, list) and isinstance(output[0], str):
         output = [output]
-    # output = repair_json(message.content, return_objects=True)
-    # if isinstance(output, dict) and "triples" in output:
-    #     output = output["triples"]
     triples = list()
     for triple in output:
         if isinstance(triple, dict):
@@ -280,13 +272,11 @@ def build_graphdoc(triples, doc, id):
         )
     nodes = [Node(id=el) for el in list(nodes_set)]
     graph_doc = GraphDocument(nodes=nodes, relationships=rels, source=doc)
-    # print(len(graph_doc.relationships))
     graph_doc.source.metadata["source"] = paper_dict[id]
     graph_doc.source.metadata["id"] = str(id)
     return graph_doc
 
 
-# def attempt(x, s, func, *args, **kwargs):
 def attempt(tries, seconds, func, args=[], kwargs={}):
     c = 0
     res = None

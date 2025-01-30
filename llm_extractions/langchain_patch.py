@@ -1,3 +1,6 @@
+# To be replaced with the same function on line 284  in file langchain_core/messages/utils.py of the library langchain_core==0.3.31
+
+
 def _convert_to_message(message: MessageLikeRepresentation) -> BaseMessage:
     """Instantiate a message from a variety of message formats.
 
