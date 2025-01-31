@@ -36,7 +36,7 @@ if not args.nebius:
         temperature=0,
         keep_alive="240h",
         base_url=f"http://{ip_dict[args.node]}:114{args.port}",
-        num_ctx=50_000 if args.doclevel else 4_000,
+        num_ctx=50_000 if args.level == "docs" else 4_000,
         num_predict=-1,
         seed=0,
     )
