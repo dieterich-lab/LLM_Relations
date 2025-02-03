@@ -39,6 +39,8 @@ python3 -m venv ~/.venvs/linda  # or any other choice of directory # tested with
 pip install -r requirements.txt
 ```
 
+As we wrote in the manuscript, we had to implement minor changes in the langchain code directly as it was diffult to inherit and overwrite the low-leveled functino diretctly. Please replace the function `_convert_to_message` in `langchain_core/messages/utils.py` at line `284` with the following patch located in [langchain_patch](langchain_patch.py).
+
 ### Usage
 
 0) Output folder structure

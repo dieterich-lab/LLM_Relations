@@ -1,5 +1,4 @@
 # To be replaced with the same function on line 284  in file langchain_core/messages/utils.py of the library langchain_core==0.3.31
-# (e.g. /home/pwiesenbach/.venvs/linda/lib/python3.11/site-packages/langchain_core/)
 from __future__ import annotations
 
 from collections.abc import Sequence
@@ -239,3 +238,7 @@ def patched_convert_to_message(message: MessageLikeRepresentation) -> BaseMessag
         raise NotImplementedError(msg)
 
     return _message
+
+
+# Monkey patch for the langchain function to work with conversational structured output.
+langchain_core.messages._convert_to_message = patched_convert_to_message

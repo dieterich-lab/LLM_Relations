@@ -107,10 +107,10 @@ parser.add_argument(
     help="We used Nebius (nebius.com) as provider to run external computations. This changes the Chat Wrapper API (see 'llm.py').",
 )
 parser.add_argument(
-    "--level",
-    choices=["docs", "chunks"],
-    default="docs",
-    help="Either, whole documents are given as input to the llm instead or chunks. The the `text_splitter` in get_documents.py for information how documents are chunked.",
+    "--doclevel",
+    action="store_true",
+    default=True,
+    help="If true, whole documents are given as input to the llm instead of chunks. The the `text_splitter` in get_documents.py for information how documents are chunked.",
 )
 parser.add_argument(
     "--curated",
@@ -141,7 +141,7 @@ parser.add_argument(
 )
 parser.add_argument(
     "--model",
-    choices=["8b", "70b", "405b", "deepseek", "70b3.3"],
+    choices=["8b", "70b", "405b"],
     default="70b",
     help="Alias pointing back to model names of the local Ollama server or the provider.",
 )

@@ -8,9 +8,7 @@ if not args.nebius:
     model_dict = {
         "8b": "llama3.1:8b",
         "70b": "llama3.1:70b",
-        "70b3.3": "llama3.3:70b",
         "405b": "llama3.1:405b-cpu",
-        "deepseek": "deepseek-r1:70b",
     }
     model = model_dict[args.model]
 else:
@@ -36,7 +34,7 @@ if not args.nebius:
         temperature=0,
         keep_alive="240h",
         base_url=f"http://{ip_dict[args.node]}:114{args.port}",
-        num_ctx=50_000 if args.level == "docs" else 4_000,
+        num_ctx=50_000 if args.doclevel else 4_000,
         num_predict=-1,
         seed=0,
     )

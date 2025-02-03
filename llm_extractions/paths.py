@@ -13,7 +13,7 @@ graphdoc_pkl_path = f"/beegfs/prj/LINDA_LLM/outputs/graph_docs/{args.target}/{ar
 if args.curated:
     graphdoc_pkl_path = Path(graphdoc_pkl_path).parent / "5curated" / graph_doc_filename
 
-if args.level == "docs":
+if args.doclevel:
     graphdoc_pkl_path = Path(graphdoc_pkl_path).parent / "docs" / graph_doc_filename
 else:
     graphdoc_pkl_path = Path(graphdoc_pkl_path).parent / "chunks" / graph_doc_filename
@@ -71,7 +71,7 @@ triple_path = Path(
 if args.curated:
     triple_path = Path(triple_path) / "5curated"
 
-if args.level == "docs":
+if args.doclevel:
     triple_path = Path(triple_path) / "docs"
 else:
     triple_path = Path(triple_path) / "chunks"
