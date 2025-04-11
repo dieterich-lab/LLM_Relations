@@ -1,0 +1,16 @@
+c-Rel
+p65
+Tissue factor
+TF
+I kappa B alpha
+Egr-1
+NF-kappa B/Rel
+N alpha-tosylphenylalanyl chloromethyl ketone
+TPCK
+N alpha-tosyl-L-lysine chloromethyl ketone
+TLCK
+bacterial endotoxin
+lipopolysaccharide
+LPS
+kappa B
+tissue factor

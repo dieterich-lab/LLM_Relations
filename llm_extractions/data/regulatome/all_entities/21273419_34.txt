@@ -1,0 +1,7 @@
+GLR-1
+usp-46
+USP-46
+glr-1
+actin
+GFP
+act-1

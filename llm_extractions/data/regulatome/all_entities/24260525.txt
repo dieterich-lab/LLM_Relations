@@ -1,0 +1,24 @@
+Ubiquitin-specific proteases 25
+type I interferon
+IFN
+ubiquitin-specific proteases
+USPs
+USP25
+type I IFN
+IFN-beta
+interferon regulation factor 3
+IRF3
+nuclear factor-kappa B
+NF-kappaB
+p65
+polyubiquitin
+retinoic acid-inducible gene I
+RIG-I
+tumornecrosis factor (TNF) receptor-associated factor 2
+TRAF2
+TRAF6
+RIG-I-like receptor
+DUB
+type I interferon signaling
+type I IFN signaling pathway
+IFN signaling

@@ -1,0 +1,5 @@
+nucleocapsid protein
+MAVS
+NP
+SARS2
+SARS-CoV-2

@@ -1,0 +1,27 @@
+ROM2
+Dhh1
+Khd1
+Rho1
+DHH1
+DEAD box RNA helicase
+Rom2
+LRG1
+Ccr4
+Pop2
+Not
+GTPase-activating protein
+GAP
+guanine nucleotide exchange factor
+GEF
+POP2
+Rho1-GEF
+Rho1-GAP
+Lrg1
+pop2Delta
+dhh1Delta
+ccr4Delta
+lrg1Delta
+Cell Wall Integrity Pathway
+cell wall integrity (CWI) pathway
+CWI pathway
+small GTPase

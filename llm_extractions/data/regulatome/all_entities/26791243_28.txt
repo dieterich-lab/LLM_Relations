@@ -1,0 +1,7 @@
+dPIS
+PI synthase
+lipid phosphate phosphohydrolase
+shut-off
+PA
+Opi1p
+CdsAms1

@@ -1,0 +1,4 @@
+catenins
+beta-catenin
+E-cadherin
+alpha-catenin

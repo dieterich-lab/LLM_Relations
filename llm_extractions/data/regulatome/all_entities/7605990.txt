@@ -1,0 +1,14 @@
+granulocyte-macrophage colony-stimulating factor
+GM-CSF
+AML1
+alpha A1
+alpha B1
+alpha B2
+PEBP2 alpha A1
+phytohemagglutinin
+PEBP2
+polyomavirus enhancer binding-protein 2
+alpha A
+alpha B
+12-O-tetradecanoylphorbol 13-acetate
+beta

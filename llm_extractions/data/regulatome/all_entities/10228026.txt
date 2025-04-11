@@ -1,0 +1,12 @@
+Thrombin
+p65
+ICAM-1
+thrombin
+CD54
+E1B
+NF-kappa Bp65
+Rel A
+Thrombin receptor
+proteolytically activated receptor-1
+NF-kappa B
+luciferase

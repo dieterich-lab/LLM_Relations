@@ -1,0 +1,19 @@
+small nuclear RNA
+snRNA
+PTF gamma
+PTF beta
+TATA-binding protein
+TBP
+TFIIIB90
+PTF delta
+RNA polymerase II
+RNA polymerase III
+delta
+PTF
+Oct-1
+RNA polymerases II
+III
+proximal sequence element (PSE)-binding transcription factor
+class III snRNA
+TFIIIB
+salt

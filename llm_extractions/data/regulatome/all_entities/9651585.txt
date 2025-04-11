@@ -1,0 +1,12 @@
+SAP30
+histone deacetylase
+Histone
+histone
+Sin3
+histone deacetylases
+HDAC1
+HDAC2
+RbAp46
+RbAp48
+Rpd3
+histones

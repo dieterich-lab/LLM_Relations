@@ -1,0 +1,9 @@
+ERalpha
+ERK
+FAK
+E2
+G1
+GPR30
+tamoxifen
+OHT
+ICI 182780

@@ -1,0 +1,5 @@
+herpesvirus-associated ubiquitin-specific protease
+HAUSP
+PML
+DAXX
+PTEN

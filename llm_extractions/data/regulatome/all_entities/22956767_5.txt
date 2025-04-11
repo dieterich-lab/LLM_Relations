@@ -1,0 +1,6 @@
+18S rRNA
+Bud23
+25S rRNA
+40S
+Dim1
+60S

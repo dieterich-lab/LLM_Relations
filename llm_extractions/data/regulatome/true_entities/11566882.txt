@@ -1,0 +1,5 @@
+proteasome
+DUB
+USP14
+26S
+26S proteasome

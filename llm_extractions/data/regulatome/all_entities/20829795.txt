@@ -1,0 +1,8 @@
+MEC-17
+tubulin
+alpha-tubulin
+alpha-tubulin acetyltransferase
+Gcn5
+histone
+W06B11.1
+MEC-12

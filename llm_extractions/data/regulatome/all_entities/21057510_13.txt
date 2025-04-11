@@ -1,0 +1,16 @@
+IL-27p28
+IL-6
+IL-10
+IL-27
+STAT
+STAT1
+STAT3
+CD4
+gp130
+IL-11
+IL-6Ralpha
+IL-27Ralpha
+sIL-6Ralpha
+IL-12
+STAT4
+STAT signaling

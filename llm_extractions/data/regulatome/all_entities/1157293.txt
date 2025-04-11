@@ -1,0 +1,5 @@
+albumin
+serum albumin
+bilirubin
+phenobarbital
+charcoal

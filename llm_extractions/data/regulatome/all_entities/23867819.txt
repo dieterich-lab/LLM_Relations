@@ -1,0 +1,11 @@
+PINK1
+PTEN-induced kinase 1
+parkin
+GstO2
+GstO2A
+ATP synthase beta subunit
+Glutathione S-transferase omega
+GSTO
+PINK1/parkin pathway
+suppresses
+glutathione

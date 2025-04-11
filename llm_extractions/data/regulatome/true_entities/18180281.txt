@@ -1,0 +1,7 @@
+Histone deacetylase 6
+HDAC6
+ubiquitin
+histone
+alpha-tubulin
+Hsp90
+tubulin

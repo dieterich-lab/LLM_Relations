@@ -1,0 +1,7 @@
+LRP6
+Frizzled
+lipoprotein receptor-related proteins 5
+6
+LRP5
+Wnt
+Wnt signaling

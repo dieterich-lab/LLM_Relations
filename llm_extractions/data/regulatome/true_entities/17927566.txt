@@ -1,0 +1,3 @@
+2-oxoglutarate decarboxylase
+E1p
+E2o

@@ -1,0 +1,10 @@
+PHF8
+N-CAPD3
+N-CAPG2
+histone H4
+H3K9me1
+2
+H3K27me2
+H4K20me1
+H3K4me2
+3

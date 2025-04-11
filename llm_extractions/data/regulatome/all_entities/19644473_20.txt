@@ -1,0 +1,23 @@
+mTOR
+oxygen
+PI3K
+PI3Ks
+ATM
+ATR
+ataxia telangiectasia and Rad3 related
+DNA-PK
+SMG-1
+SMG1
+phosphatidylinositol 3-kinase-related kinase
+mTORC1
+mTORC2
+Raptor
+regulatory associated protein of mTOR
+PRAS40
+proline-rich AKT substrate 40 kDa
+mLST8
+GbL
+Rictor
+rapamycin insensitive companion of mTOR
+mSIN1
+mammalian stress-activated protein kinase interacting protein 1

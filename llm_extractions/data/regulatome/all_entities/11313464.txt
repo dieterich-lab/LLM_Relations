@@ -1,0 +1,9 @@
+JAK2
+TFII-I
+Bruton's tyrosine kinase
+c-fos
+ERK
+STAT
+AG490
+mitogen-activated protein kinase
+extracellular signal-regulated kinase

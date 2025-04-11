@@ -1,0 +1,4 @@
+Ubc13
+TRAF6
+Tumor necrosis factor (TNF) receptor-associated factor (TRAF)-6
+NF-kappaB

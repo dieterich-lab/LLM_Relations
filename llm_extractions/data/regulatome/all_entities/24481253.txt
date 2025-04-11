@@ -1,0 +1,12 @@
+caspase-1
+IL-6
+pyrin domain containing 3
+NLRP3
+IL-1beta
+IL-37
+cytokine
+LPS
+IL-37D20A
+nucleotide-binding oligomerization domain-like receptor
+inflammasome
+apoptosis-associated speck-like protein containing a carboxyl-terminal caspase recruitment domain

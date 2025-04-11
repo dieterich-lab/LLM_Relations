@@ -1,0 +1,7 @@
+PTPs
+protein tyrosine phosphatase receptor type C
+PTPRC
+CD45
+Protein tyrosine phosphatases
+PTP
+MBL

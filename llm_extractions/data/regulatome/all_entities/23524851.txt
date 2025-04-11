@@ -1,0 +1,13 @@
+SENP3
+dynamin-related protein 1
+SUMO-2/3-specific protease
+PERK
+cathepsin B
+Drp1
+cytochrome c
+small ubiquitin-like modifier (SUMO)-2
+glucose
+oxygen
+caspase
+GTPase
+3

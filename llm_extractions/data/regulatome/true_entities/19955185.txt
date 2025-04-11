@@ -1,0 +1,8 @@
+PPARalpha
+PIASy
+hPPARalpha
+peroxisome proliferator-activated receptor alpha
+NCoR
+SMRT
+SRC1
+CBP

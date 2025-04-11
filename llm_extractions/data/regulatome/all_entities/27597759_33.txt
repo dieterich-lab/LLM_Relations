@@ -1,0 +1,9 @@
+PEX2
+HA
+Ub
+PMP70
+calnexin
+MFN2
+ubiquitin
+HEK293-HA-Ub stable cell line
+FLAG

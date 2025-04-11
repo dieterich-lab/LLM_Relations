@@ -1,0 +1,3 @@
+Sp1
+CD14
+EcoRI

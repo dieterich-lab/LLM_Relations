@@ -1,0 +1,10 @@
+TIP120A
+cullins
+F-box proteins
+Skp1
+SCF(beta-TrCP) ubiquitin ligase
+CUL4B
+cullin
+CUL1
+Rbx1
+IkappaBalpha

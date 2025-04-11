@@ -1,0 +1,19 @@
+TMEM166
+EVA1A
+ATG16L1
+eva-1 homolog A
+transmembrane protein 166
+ZFYVE1
+LC3B
+ATG5
+STX17
+RAB7
+LAMP1
+Eva1a
+BECN1
+PIK3C3
+phosphatidylinositol 3-kinase, catalytic subunit type 3
+ATG7
+ATG12
+ATG9
+ATG proteins

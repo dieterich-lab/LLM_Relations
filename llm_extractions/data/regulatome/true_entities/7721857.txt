@@ -1,0 +1,3 @@
+ubiquitin
+Ub
+CDC34

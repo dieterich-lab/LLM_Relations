@@ -1,0 +1,8 @@
+diphtheria toxin (DT) and Pseudomonas exotoxin A (ETA) sensitivity required gene 1
+DESR1
+elongation factor-2
+DT
+ETA
+KTI11
+diphthamide
+zymocin

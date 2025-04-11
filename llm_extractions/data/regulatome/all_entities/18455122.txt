@@ -1,0 +1,6 @@
+EGFR
+epidermal growth factor receptor
+sodium/glucose cotransporter 1
+SGLT1
+glucose
+receptor tyrosine kinase

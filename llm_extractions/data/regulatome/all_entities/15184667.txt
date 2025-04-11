@@ -1,0 +1,13 @@
+CPI-17
+protein phosphatase-1
+myosin phosphatase
+protein kinase C
+PP1
+inhibitor-2
+MYPT1
+microcystin-LR
+calyculin A
+okadaic acid
+fostriecin
+PP1C
+glycogen

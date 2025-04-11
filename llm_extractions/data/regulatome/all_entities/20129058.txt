@@ -1,0 +1,7 @@
+DnaC
+DnaB
+DnaB helicase
+AAA+ ATPase
+primase
+ATP
+Primase

@@ -1,0 +1,7 @@
+GT1
+UDP-glucose: glycoprotein glucosyltransferase
+lectin
+calnexin
+calreticulin
+hemagglutinin
+HA

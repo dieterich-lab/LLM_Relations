@@ -1,0 +1,11 @@
+hypoxia-inducible factor
+HIF-1alpha
+LDH
+lactate dehydrogenase
+prolyl-4-hydroxylases
+HIF
+oxygen
+ubiquitin-ligase
+HIF prolyl hydoxylase
+HPH
+ubiquitin

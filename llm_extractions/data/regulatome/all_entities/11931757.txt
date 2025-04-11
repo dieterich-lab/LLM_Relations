@@ -1,0 +1,9 @@
+cyclin A
+Skp2
+origin recognition complex
+ubiquitin
+hOrc1p
+proteasome
+SCF
+ubiquitin-ligase
+hORC

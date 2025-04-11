@@ -1,0 +1,12 @@
+latent membrane protein 1
+TRADD
+LMP1
+tumor necrosis factor receptor 1 (TNFR1)-associated death domain protein
+TNFR1
+receptor-interacting protein
+RIP
+NF-kappaB
+c-Jun N-terminal kinase
+tumor necrosis factor receptor
+LMP1 signaling
+TNFR1 signaling

@@ -1,0 +1,12 @@
+Runx2
+transducin-like enhancer
+groucho
+CHIP
+GST
+hRunx2
+ubiquitin
+Myc
+TPR
+DeltaU-box
+U-box
+DeltaTPR

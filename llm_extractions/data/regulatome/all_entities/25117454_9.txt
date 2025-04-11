@@ -1,0 +1,25 @@
+SelK
+amylose
+sodium phosphate
+NaCI
+EDTA
+n-dodecyl-b-D-maltopyranoside
+DDM
+maltose
+MBP
+hexahistidine
+TEV protease
+TEV
+sodium dodecyl sulfate
+polyacrylamide
+SDS
+coomassie blue
+desthiobiotin
+bicinchoninic acid
+BCA
+5,5'-dithiobis-(2-nitrobenzoic acid)
+DTNB
+selenium
+sulfur
+cMBP
+Met

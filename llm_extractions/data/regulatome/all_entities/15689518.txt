@@ -1,0 +1,14 @@
+L-serine dehydratase
+pyridoxal-5'-phosphate-dependent serine dehydratase
+SDH
+L-serine
+L-threonine
+pyruvate
+2-oxobutyrate
+hSDH
+PLP
+rSDH
+PLP-OMS
+O-methylserine
+pyridoxal phosphate-dependent (PLP) enzymes
+PLP-dependent enzymes

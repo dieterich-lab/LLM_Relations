@@ -1,0 +1,21 @@
+TNF-alpha
+Flice inhibitory protein
+(FLIP) short
+FLIP long
+FLIP
+Bcl-xL
+X-linked inhibitor of apoptosis protein
+XIAP
+TRAIL
+tumor necrosis factor (TNF)-related apoptosis-inducing ligand
+FLIPS
+FLIPL
+TRAIL signals
+FLIPLong
+FLIPShort
+green fluorescent protein
+caspase-3
+BID
+nuclear factor-kappaB
+NF-kappaB
+TRAIL signaling

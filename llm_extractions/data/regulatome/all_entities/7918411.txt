@@ -1,0 +1,17 @@
+PurK
+PurE
+5-aminoimidazole ribonucleotide carboxylases
+5-aminoimidazole ribonucleotide (AIR) carboxylase
+AIR
+4-carboxy-5-aminoimidazole ribonucleotide
+CAIR
+PurCE
+AIR carboxylase
+4-[(N-succinylamino)carbonyl]-5-aminoimidazole ribonucleotide (SAICAR) synthetase
+AIR carboxylases
+N5-carboxyaminoimidazole ribonucleotide
+N5-CAIR
+carbamic acid
+CO2
+4-nitro-5- aminoimidazole ribonucleotide
+NAIR

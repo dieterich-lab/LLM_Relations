@@ -1,0 +1,15 @@
+Cdc20
+polo-like kinase
+Plk
+APC/C
+anaphase-promoting complex
+cyclosome
+Cdh1
+E2
+cyclin-dependent kinase
+Cdk
+Apc1
+Apc3
+cyclin
+tosyl-l-arginine methyl ester
+ubiquitin

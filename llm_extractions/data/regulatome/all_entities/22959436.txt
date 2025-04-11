@@ -1,0 +1,13 @@
+SCF
+CSN
+Skp1-Cul1-Fbox (SCF) E3 ligases
+ubiquitin
+Nedd8
+Cop9 signalosome
+SCF(Skp2/Cks1
+SCF(Fbw7
+Rbx1
+Cul1
+E2
+cullin
+SCF substrate turnover

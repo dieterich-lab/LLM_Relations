@@ -1,0 +1,11 @@
+PGRMC2
+ferrochelatase
+progesterone receptor membrane component 2
+Rev-Erbalpha
+Haem
+haem
+iron
+protoporphyrin IX
+haemoproteins
+PGMRC2
+BACH1

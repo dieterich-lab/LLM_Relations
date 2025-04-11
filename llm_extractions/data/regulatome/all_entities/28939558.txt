@@ -1,0 +1,14 @@
+ERK1
+MAPK
+MAPK Signaling Pathway
+2
+BVD-523
+Ulixertinib
+RAS
+RAF
+MEK
+ERK
+RAS-RAF-MEK-ERK (MAPK) pathway
+BRAF
+ulixertinib
+caspase

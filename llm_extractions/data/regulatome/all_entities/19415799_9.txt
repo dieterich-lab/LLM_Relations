@@ -1,0 +1,7 @@
+FtsZ
+FtsA
+ZipA
+ZapA
+GFP
+MinCC
+MinD

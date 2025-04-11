@@ -1,0 +1,10 @@
+USP28
+Chk2
+p53
+PUMA
+53BP1
+ubiquitin
+Mdc1
+Claspin
+TopBP1
+Chk2-p53-PUMA pathway

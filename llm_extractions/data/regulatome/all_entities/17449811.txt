@@ -1,0 +1,16 @@
+SCABP8
+CBL10
+SOS2
+SOS3
+SOS1
+SOS3-LIKE CALCIUM BINDING PROTEIN8
+sos3
+scabp8
+sos2
+CALCINEURIN B-LIKE10
+SOS (for Salt Overly Sensitive) pathway
+NaCl
+salt
+calcium
+sodium
+proton

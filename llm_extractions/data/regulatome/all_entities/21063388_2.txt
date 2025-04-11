@@ -1,0 +1,13 @@
+GW182
+Argonaute
+TNRC6C
+poly(A)-binding protein
+PABPC1
+PABP
+TNRC6A
+AGOs
+SD
+HsTNRC6A
+DmPABPC1
+Hs
+TNRC6s

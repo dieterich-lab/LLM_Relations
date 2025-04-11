@@ -1,0 +1,4 @@
+MG132
+pCAF
+proteasome
+CIITA

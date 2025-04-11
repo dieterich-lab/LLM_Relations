@@ -1,0 +1,11 @@
+PDK2
+PDK3
+PDK4
+PDP2
+PDK1
+pyruvate dehydrogenase
+pyruvate dehydrogenase complex
+thiamin pyrophosphate
+pyruvate dehydrogenase phosphatase
+PDP1
+E1

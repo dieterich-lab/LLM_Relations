@@ -1,0 +1,6 @@
+KAP-1
+SETDB1
+HP1
+histone H3
+H3
+histone

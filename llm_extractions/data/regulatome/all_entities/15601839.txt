@@ -1,0 +1,20 @@
+BTB
+Keap1
+Nrf2
+Cullin 3
+Roc1
+ubiquitin
+E1
+E2
+E3
+Cullins
+RING
+cullins
+Cul3
+CUL3
+ROC1
+Kelch
+KEAP1
+NRF2
+proteasome
+E3 ubiquitin ligases

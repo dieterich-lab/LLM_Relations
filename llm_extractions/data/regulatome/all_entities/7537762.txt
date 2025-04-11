@@ -1,0 +1,10 @@
+P-selectin
+monocyte chemotactic protein-1
+tumor necrosis factor-alpha
+MCP-1
+TNF-alpha
+P-selectin glycoprotein ligand-1
+nuclear factor-kappa B
+NF-kappa B
+G1
+platelet-activating factor

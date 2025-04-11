@@ -1,0 +1,15 @@
+COMMD1
+NF-kappaB
+cullin-containing ubiquitin ligase
+kappaB
+ubiquitin
+Elongins B
+C
+Cul2
+SOCS1
+ECS
+RelA
+TNF
+kappaB-responsive genes
+NF-kappaB-mediated cellular responses
+COMMD1-containing ubiquitin ligase

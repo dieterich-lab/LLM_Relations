@@ -1,0 +1,17 @@
+SUMO-Targeted Ubiquitin Ligase
+STUbL
+Slx5
+histone H3
+Cse4
+Psh1
+Siz1
+Siz2
+Small Ubiquitin-related Modifier (SUMO)-Targeted Ubiquitin Ligase
+CENP-ACse4
+Centromeric histone H3
+CENP-A
+slx5increment
+psh1increment
+E3 ligase
+E3 ligases
+ubiquitin

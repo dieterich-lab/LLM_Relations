@@ -1,0 +1,6 @@
+histone 3
+H3K4me3
+PHF8
+KIAA1718
+H3K9me2
+H3K27me2

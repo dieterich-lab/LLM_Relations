@@ -1,0 +1,10 @@
+FBP11
+N-WASP
+WASP
+Neural Wiskott-Aldrich syndrome protein
+Cdc42
+formin binding protein 11
+Epidermal growth factor
+EGF
+actin
+Arp2/3

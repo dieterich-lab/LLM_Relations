@@ -1,0 +1,8 @@
+Fli-I
+actin
+Fli-I LRR associating protein 1
+LRR Fli-I interacting proteins 1
+2
+CARM1
+gelsolin
+BAF53

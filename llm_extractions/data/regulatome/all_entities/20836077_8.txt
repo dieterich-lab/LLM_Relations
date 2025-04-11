@@ -1,0 +1,12 @@
+vitamin A
+RA
+RDH10
+short-chain dehydrogenase/reductase
+retinol dehydrogenase 10
+98711
+retinaldehyde
+NAD+
+ALDH1a2
+RALDH2
+19378
+retinoids

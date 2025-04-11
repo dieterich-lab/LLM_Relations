@@ -1,0 +1,13 @@
+ataxin-7
+ATXN7
+SUMO1
+SUMO2
+Hsp70
+ubiquitin
+caspase-3
+SUMO
+small ubiquitin-like modifier
+TFTC/STAGA
+19S proteasome
+SDS
+PML nuclear bodies

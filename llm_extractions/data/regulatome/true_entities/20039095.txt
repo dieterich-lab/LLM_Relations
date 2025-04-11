@@ -1,0 +1,8 @@
+Hsp90
+vorinostat
+panobinostat
+EGFR
+Raf-1
+Akt
+survivin
+HDAC

@@ -1,0 +1,7 @@
+Bcl-2
+BAG-1M
+BAG-1S
+BAG-1L
+BAG-1
+Hsp70
+Hsc70

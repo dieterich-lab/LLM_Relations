@@ -1,0 +1,5 @@
+I kappa B gamma-1
+I kappa B gamma-2
+I kappa B gamma
+p50
+Rel/NF-kappa B

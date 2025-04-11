@@ -1,0 +1,8 @@
+RNA polymerase III
+C82
+C53
+C34
+TFIIIB
+70-kDa component of transcription factor IIIB
+C31
+TFIIIB70

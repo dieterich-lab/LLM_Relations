@@ -1,0 +1,11 @@
+transducin
+beta gamma
+pertussis toxin
+GTPgammaS
+beta1 gamma1S74L
+beta1 gamma2
+Galpha
+transducin-alpha
+Talpha
+Goalpha
+adenylyl cyclase

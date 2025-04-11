@@ -1,0 +1,4 @@
+AHR
+2,3,7,8-tetrachlorodibenzo-p-dioxin [TCDD]
+AHR nuclear translocator
+ARNT

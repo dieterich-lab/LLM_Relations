@@ -1,0 +1,19 @@
+HS1
+CD2
+CD28
+Vav
+Cbl
+Src
+Lck
+Fyn
+CD80
+CD86
+HSI
+CD45
+MEK1
+CD3
+p85 phosphoinositide 3-kinase
+protein kinase C
+NFAT
+nuclear factor of activated T cells
+tyrosine kinase

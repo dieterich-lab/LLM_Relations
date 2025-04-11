@@ -1,0 +1,4 @@
+NEDD4-1
+Mdm2
+PTEN
+p53

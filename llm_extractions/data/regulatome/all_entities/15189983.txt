@@ -1,0 +1,23 @@
+adenylate cyclase
+Spc1
+Sty1 stress-activated protein kinase
+fbp1
+wis1
+spc1
+cgs1
+pka1
+Glucose
+cyclic AMP
+cyclic AMP signal
+protein kinase A
+PKA
+glucose
+nitrogen
+SAPK
+git2delta
+SAPK kinase
+KCl
+lacZ
+SAPK pathways
+PKA pathway
+PKA and SAPK pathways

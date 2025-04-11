@@ -1,0 +1,8 @@
+BRCA1
+BARD1
+histone H2A
+H2AX
+ubiquitin
+Ubc5c
+RING ubiquitin ligase
+polyubiquitin

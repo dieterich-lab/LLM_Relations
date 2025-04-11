@@ -1,0 +1,4 @@
+G protein
+Galpha
+Gbetagamma
+G protein betagamma

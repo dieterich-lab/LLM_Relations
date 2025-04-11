@@ -1,0 +1,11 @@
+UBC12
+NEDD8
+ubiquitin
+cullin-2
+Cul-2
+cullin-1
+E2
+guanidine HCl
+urea
+SDS
+beta-mercaptoethanol

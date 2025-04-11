@@ -1,0 +1,14 @@
+PMC1
+PMR1
+PMR2
+FKS2
+Cna1p
+calcineurin
+Cnb1p
+calcineurin B
+calmodulin
+Fkb1p
+Calcineurin
+Ca2+/calmodulin-regulated protein phosphatase
+FK506-binding protein
+Ca2+

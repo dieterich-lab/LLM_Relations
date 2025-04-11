@@ -1,0 +1,4 @@
+APC
+anaphase promoting complex
+CDH1
+CDC6

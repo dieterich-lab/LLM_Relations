@@ -1,0 +1,11 @@
+RNF34
+PGC-1alpha
+uncoupling protein 1
+UCP1
+beta3-adrenergic receptor
+E3 ubiquitin ligase
+E3 ligase
+oxygen
+beta3-adrenergic receptor signaling
+ubiquitin
+luciferase

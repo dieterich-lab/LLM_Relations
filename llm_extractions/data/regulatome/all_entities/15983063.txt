@@ -1,0 +1,3 @@
+C/EBP alpha
+CCAAT/enhancer binding protein (C/EBP)alpha
+E2F

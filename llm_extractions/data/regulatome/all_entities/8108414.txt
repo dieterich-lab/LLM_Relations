@@ -1,0 +1,14 @@
+RelA
+p65
+p50
+I kappa B alpha
+tumor necrosis factor alpha
+NF-kappa B2
+p100
+NF-kappa B1
+p105
+NF-kappa B
+Rel
+ankyrin
+ankyrin motif-rich
+ankyrin motif

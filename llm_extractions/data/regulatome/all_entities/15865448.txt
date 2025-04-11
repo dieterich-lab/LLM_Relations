@@ -1,0 +1,25 @@
+retinol dehydrogenase 12
+RDH12
+cellular retinol-binding protein type I
+CRBPI
+cellular retinaldehyde-binding protein
+CRALBP
+retinoids
+C9 aldehydes
+Retinol dehydrogenase 12
+NADP(+)
+NADPH
+NAD(+)
+NADH
+C(9) aldehydes
+retinaldehydes
+all-trans-retinal
+11-cis-retinal
+9-cis-retinal
+cellular retinol-binding protein (CRBP) type I
+all-trans-
+11-cis-retinoids
+all-trans-retinol
+all-trans-retinaldehyde
+11-cis-retinol
+peroxidic aldehydes

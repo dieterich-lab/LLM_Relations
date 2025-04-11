@@ -1,0 +1,6 @@
+Smad2
+TRIM33
+Smad4
+3
+H3K9me3
+H3K18ac

@@ -1,0 +1,23 @@
+TRAF2
+TRAF6
+TICAM-1
+TRIF
+Toll-like receptor 3
+4
+TRAF
+TRAF1
+2
+6
+TLR3
+NF-kappaB
+IRF-3
+interferon (IFN)-beta
+IFN-beta
+type I IFN
+IFN
+TRAF3
+type-I IFN
+Toll-like receptor 3/4 pathway
+N+TIR
+type-I IFN signaling
+IFN-inducing pathway

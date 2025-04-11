@@ -1,0 +1,14 @@
+Nedd8
+cul-1
+IkappaBalpha
+Cul-1
+beta-catenin
+betaTrCP
+Ubc12
+ubiquitin
+SCF(beta(TrCP))
+NF-kappaB
+26S proteasome
+ubiquitin-ligase
+phosphorylated
+ubiquitin and Nedd8 pathways

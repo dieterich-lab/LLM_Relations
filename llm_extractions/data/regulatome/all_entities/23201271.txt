@@ -1,0 +1,13 @@
+NEDD8
+DCN-like
+DCNL
+ubiquitin
+cullin
+E2
+UBC12
+UBE2F
+DCNL2
+DCNL3
+E2s
+DCNLs
+DCNL1

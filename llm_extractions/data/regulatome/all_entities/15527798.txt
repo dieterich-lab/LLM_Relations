@@ -1,0 +1,5 @@
+AKT
+MDM2
+ubiquitin
+proteasome
+p53

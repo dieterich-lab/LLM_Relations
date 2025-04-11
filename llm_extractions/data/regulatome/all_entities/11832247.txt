@@ -1,0 +1,9 @@
+Rab3b
+polymeric immunoglobulin receptor
+rab3b
+pIgR
+rab
+dIgA
+specific cargo
+dIgA-mediated signaling
+GTP

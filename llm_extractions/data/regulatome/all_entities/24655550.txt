@@ -1,0 +1,13 @@
+SPAK
+KCC3
+Ste20-related proline/alanine-rich kinase
+K-Cl co-transporter 3
+matrix metalloproteinase-2
+MMP2
+p38
+NF-kappaB
+p38 mitogen-activated protein kinase (MAPK)
+NF-kappaB and SPAK signaling cascades
+MAPK
+luciferase
+gelatin

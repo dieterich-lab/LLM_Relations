@@ -1,0 +1,13 @@
+Lat1
+pyruvate dehydrogenase
+Gcv3
+LIP3
+H protein
+GCV3
+LIP2
+LIP5
+Lip2
+Lip3
+Lip5
+Kgd2
+alpha-ketoglutarate dehydrogenase

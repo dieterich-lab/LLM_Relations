@@ -1,0 +1,12 @@
+SHP2-interacting transmembrane adaptor protein
+SIT
+SHP2 interacting transmembrane adaptor protein
+src
+syk
+SHP2
+phytohemagglutinin
+phospholipase C
+NF-AT
+nuclear factor of activated T cells
+T cell receptor
+protein tyrosine kinases

@@ -1,0 +1,7 @@
+Cul-1
+CAND1
+cyclin E
+ubiquitin
+Nedd8
+Rub1
+SCF

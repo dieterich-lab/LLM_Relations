@@ -1,0 +1,4 @@
+alpha
+betagamma
+S-prenyl
+G-protein alpha.betagamma

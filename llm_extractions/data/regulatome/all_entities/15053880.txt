@@ -1,0 +1,6 @@
+HAUSP
+p53
+Mdm2
+ubiquitin
+E6
+p53-Mdm2 pathway

@@ -1,0 +1,8 @@
+Mdm2
+protein inhibitor of activated STAT
+PIAS
+RanBP2
+p53
+PIAS1
+PIASxbeta
+ubiquitin

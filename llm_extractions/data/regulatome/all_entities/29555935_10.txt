@@ -1,0 +1,7 @@
+PIWIL2
+HDAC3
+cycloheximide
+CHX
+shPIWIL2
+shNC
+HDACs

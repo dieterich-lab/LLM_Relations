@@ -1,0 +1,5 @@
+SHPS-1
+SIRP
+CD47
+Src homology 2 (SH2) domain-containing protein tyrosine phosphatase substrate 1
+signal regulatory protein

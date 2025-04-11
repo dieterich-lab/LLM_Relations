@@ -1,0 +1,8 @@
+RNF168
+PARP1
+poly(ADP-ribose) polymerase 1
+E3 ligase
+ubiquitin
+poly (ADP-ribose)
+PAR
+DDR

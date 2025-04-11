@@ -1,0 +1,4 @@
+GCase
+Hsp90
+Hsp70
+TCP1

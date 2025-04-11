@@ -1,0 +1,17 @@
+hSpry2
+ubiquitin
+proteasome
+c-Cbl
+Sprouty
+fibroblast
+FGF
+epidermal growth factor
+EGF
+Sprouty 2
+receptor tyrosine kinases
+RTKs
+26S proteasome
+extracellular signal-regulated kinase
+ERK
+fibroblast (FGF) and epidermal growth factor (EGF) signaling
+receptor tyrosine kinase

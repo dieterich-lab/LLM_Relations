@@ -1,0 +1,11 @@
+IkappaBalpha
+proteasome
+F-box
+h-betaTrCP
+NF-kappaB
+ubiquitin
+IkappaB
+SCF
+betaTrCP
+SCFbetaTrCP E3
+Skp1-Cullin-F-box protein

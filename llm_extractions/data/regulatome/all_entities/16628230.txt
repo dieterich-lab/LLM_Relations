@@ -1,0 +1,11 @@
+Drosophila homolog of APP-BP1
+dAPP-BP1
+APPL
+beta-Amyloid precursor protein binding protein 1
+APP-BP1
+beta-amyloid precursor protein
+Drosophila ortholog of APP-BP1
+NEDD8
+APP-like protein
+NEDD8 conjugation pathway
+Appl

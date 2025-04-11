@@ -1,0 +1,15 @@
+histone
+H2A.X
+MCPH1
+WSTF
+Williams-Beuren syndrome transcription factor
+WICH complex
+WSTF-ISWI chromatin-remodeling complex
+ATM
+ATR
+Eya1
+Eya3
+Microcephalin
+BRCA1
+BRCA1 C-terminal
+BRCT

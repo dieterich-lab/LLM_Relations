@@ -1,0 +1,16 @@
+Human p66alpha
+p66beta
+MBD2
+MBD3
+p66alpha
+SUMO1
+Gal
+Ubc9
+RbAp46
+RbAp48
+HDAC1
+p66alphaK30R
+p66betaK33R
+SUMO
+Mi-2/NuRD
+p66

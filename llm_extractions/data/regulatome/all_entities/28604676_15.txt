@@ -1,0 +1,8 @@
+glucose-6-phosphate dehydrogenase
+G6PD
+ACAT2
+N-acetyl-L-cysteine
+NAC
+H2O2
+menadione
+NADPH

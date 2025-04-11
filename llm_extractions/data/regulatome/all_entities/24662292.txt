@@ -1,0 +1,12 @@
+peroxisome-targeting signal type 1 (PTS1) receptor
+Pex5p
+Peroxisome targeting signal type-1 (PTS1) receptor
+ubiquitin
+Pex10p
+E2
+UbcH5C
+RING peroxin
+Pex12p
+Pex14p
+RING peroxins
+PTS1

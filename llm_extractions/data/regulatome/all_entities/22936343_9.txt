@@ -1,0 +1,21 @@
+LXRalpha
+LXRbeta
+SREBPs
+cholesterol
+oxysterols
+LXRs
+LXR
+24(S),25-epoxycholesterol
+22(R)-hydroxycholesterol
+ATP-binding cassette transporter A1
+ABCA1
+ABCG1
+phospholipid transfer protein
+PLTP
+ADP-ribosylation factor-like 7
+ARL7
+apolipoprotein (Apo)E
+ApoA-I
+ApoE
+high-density lipoprotein
+HDL

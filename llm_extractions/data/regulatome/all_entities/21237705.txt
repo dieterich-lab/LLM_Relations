@@ -1,0 +1,19 @@
+Ppz1
+Sat4
+Hal5
+Gln3
+PPZ1
+serine/threonine protein phosphatase
+PPase
+SAT4
+HAL5
+ENA1
+GLN3
+caffeine
+protein kinase
+PKase
+incrementppz1
+pkase
+P-type ATPase
+incrementppz1incrementsat4
+incrementppz1incrementhal5

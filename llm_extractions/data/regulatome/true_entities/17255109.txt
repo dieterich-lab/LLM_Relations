@@ -1,0 +1,9 @@
+PP2A
+Spry2
+FGF receptor
+PP2A-A
+c-Cbl
+Grb2
+Sprouty2
+PP2A-C
+FGFR

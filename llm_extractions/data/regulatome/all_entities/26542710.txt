@@ -1,0 +1,9 @@
+Csh3
+actin
+csh3
+adenylyl cyclase
+Cap1
+cap1
+CaCl2
+GFP
+cap1Delta

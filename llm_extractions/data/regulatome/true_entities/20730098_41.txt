@@ -1,0 +1,4 @@
+collagen
+VWF
+alpha2beta1
+GpVI

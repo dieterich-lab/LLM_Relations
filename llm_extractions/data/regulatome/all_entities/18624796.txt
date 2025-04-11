@@ -1,0 +1,12 @@
+E-cadherin
+InlA
+internalin (Inl)A
+InlB
+hepatocyte growth factor (HGF) receptor
+Met
+Src
+ubiquitin
+Hakai
+clathrin
+caveolin
+sepharose

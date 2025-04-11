@@ -1,0 +1,20 @@
+Pex6
+Pex1
+FLAG
+His
+tryptone
+NaCl
+IPTG
+Ni-A buffer
+HEPES
+KCl
+glycerol
+MgCl2
+EDTA
+imidazole
+benzonase
+lysozyme
+protease inhibitors
+agarose
+ATP
+nitrogen

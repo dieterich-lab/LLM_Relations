@@ -1,0 +1,14 @@
+FGFR1
+fibroblast growth factor receptor 1
+FGF2
+progesterone receptor
+mitogen-activated protein kinase
+phosphoinositide 3-kinase
+AKT
+mitogen-activated protein kinase and phosphoinositide 3-kinase-AKT signaling pathways
+FGFR
+FGFR signaling
+4-hydroxytamoxifen
+FGFR1 signaling
+PR
+Ki67

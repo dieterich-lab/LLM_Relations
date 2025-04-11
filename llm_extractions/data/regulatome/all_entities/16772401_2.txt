@@ -1,0 +1,8 @@
+DNA mismatch repair protein MutL
+MutH
+MutL
+thiol-specific methanethiosulfonate group
+photoactivatable benzophenone moiety
+biotin affinity tag
+DNA
+biotin

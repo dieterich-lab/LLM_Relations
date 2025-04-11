@@ -1,0 +1,20 @@
+KCC1
+rbKCC1
+hKCC1
+TSC
+K-Cl cotransporter
+cation-chloride cotransporter
+K-Cl cotransport
+Na-K-Cl cotransporter
+rtKCC1
+NKCC
+BSC
+Na-Cl cotransporter
+NCC
+furosemide
+N-ethylmaleimide
+chloride
+sodium
+bumetanide
+K-Cl transporter
+thiazide

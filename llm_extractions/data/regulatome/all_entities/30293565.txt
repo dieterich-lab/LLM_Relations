@@ -1,0 +1,17 @@
+ANKRD9
+ankyrin repeat domain 9
+CUL5
+CUL2
+ELOB
+ELOC
+RNF7
+SOCS
+cullin-RING superfamily E3 ligase
+ASB
+E3 ligase
+inosine monophosphate dehydrogenase
+IMPDH
+E3
+ubiquitin ligase
+ubiquitin
+ankyrin repeats

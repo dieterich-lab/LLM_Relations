@@ -1,0 +1,5 @@
+NM1
+GSK3beta
+HA
+ubiquitin
+MG132

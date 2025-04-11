@@ -1,0 +1,9 @@
+RNF8
+histones
+RING-finger ubiquitin ligase
+MDC1
+53BP1
+BRCA1
+histone H2A
+H2AX
+histone

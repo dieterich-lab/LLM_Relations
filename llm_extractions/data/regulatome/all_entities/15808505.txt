@@ -1,0 +1,6 @@
+PHLPP
+Akt
+protein kinase B
+PH domain leucine-rich repeat protein phosphatase
+Akt1
+Akt signaling

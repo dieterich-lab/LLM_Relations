@@ -1,0 +1,13 @@
+nuclear interacting partner of anaplastic lymphoma kinase
+NIPA
+CD30
+nucleophosmin-anaplastic lymphoma kinase
+NPM-ALK
+ALK
+nuclear interacting partner of ALK
+phospholipase C-gamma
+phosphatidylinositol 3-kinase
+tyrosine kinase
+IL-3
+wortmannin
+NPM-ALK-mediated signaling events

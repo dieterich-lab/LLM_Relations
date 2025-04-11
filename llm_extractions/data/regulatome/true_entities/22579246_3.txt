@@ -1,0 +1,4 @@
+(apo)A-I
+apoA-II
+apoA-IV
+cell surface ATP binding cassette transporter

@@ -1,0 +1,16 @@
+TIP120A
+cullins
+ubiquitin
+cullin-containing ubiquitin-protein isopeptide ligases
+E3s
+cullin-containing E3 ubiquitin ligases
+CUL4B
+cullin
+CUL1
+Rbx1
+Skp1
+F-box proteins
+IkappaBalpha
+SCF(beta-TrCP) ubiquitin ligase
+SCF E3 ubiquitin ligases
+cullin ligases

@@ -1,0 +1,27 @@
+UHRF2
+zinc finger protein 131
+SAE1
+ubiquitin-conjugating enzyme E2I
+UBC9
+topoisomerase I
+TOPORS
+TNF receptor-associated factor 7
+TRAF7
+tripartite motif containing 27
+TRIM27
+ZNF131
+ubiquitin
+SUMO-activating E1
+E2
+SUMO E3 ligases
+SUMO E3 ligase
+SUMO E3
+ubiquitin E3
+ubiquitin E3 ligases
+ubiquitin E3 ligase
+small ubiquitin-like modifier E3 ligase
+SAE2
+topoisomerase I binding, arginine/serine-rich
+Small ubiquitin-like modifier
+SUMO
+small ubiquitin-like modifier

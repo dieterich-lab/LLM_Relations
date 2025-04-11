@@ -1,0 +1,5 @@
+OCRL
+SNX9
+clathrin
+inositol 5-phosphatase
+actin

@@ -1,0 +1,8 @@
+erythropoietin receptor
+GATA-1
+Sp1
+Erythropoietin
+Epo
+EpoR
+hEpoR
+AP2

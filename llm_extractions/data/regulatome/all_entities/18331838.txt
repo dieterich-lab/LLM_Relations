@@ -1,0 +1,6 @@
+TTLL10
+nucleosome assembly protein 1
+tubulin tyrosine ligase-like
+TTLL
+NAP1
+glycine

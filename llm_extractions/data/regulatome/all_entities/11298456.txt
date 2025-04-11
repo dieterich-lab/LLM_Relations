@@ -1,0 +1,9 @@
+ATM
+Chk2
+Cdc25A
+cyclin-dependent kinase 2
+Cdk2
+Cds1
+Cdk2AF
+ATM-Chk2-Cdc25A checkpoint pathway
+ATM-Chk2-Cdc25A-Cdk2 pathway

@@ -1,0 +1,12 @@
+epidermal growth factor receptor
+EGFR
+anaplastic lymphoma kinase
+ALK
+PDGFRalpha
+PDGFR
+sunitinib
+PDGFRA
+PDGF
+vascular endothelial growth factor
+VEGF
+PDGF-AA

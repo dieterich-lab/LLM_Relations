@@ -1,0 +1,10 @@
+NAG kinase
+P
+N-acetyl-L-glutamate kinase
+P(II)
+carbon
+nitrogen
+N-acetylglutamate (NAG) kinase
+2-oxoglutarate
+ATP
+arginine

@@ -1,0 +1,6 @@
+SNF1
+SIP4
+GAL4
+glucose
+LexA
+C6 zinc cluster

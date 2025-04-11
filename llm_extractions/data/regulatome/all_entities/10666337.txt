@@ -1,0 +1,11 @@
+p53
+Human topoisomerase IIalpha
+IIbeta
+DNA topoisomerase II
+topo II
+Human topo IIbeta
+topo IIalpha
+DNA topo II.
+etoposide
+doxorubicin
+Adriamycin

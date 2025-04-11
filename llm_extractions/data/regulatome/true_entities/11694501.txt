@@ -1,0 +1,5 @@
+protein-tyrosine phosphatase 1B
+PTP1B
+JAK2
+TYK2
+insulin receptor

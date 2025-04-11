@@ -1,0 +1,7 @@
+APC
+anaphase-promoting complex
+UbcH10
+cyclin A
+Cdh1
+ubiquitin
+E2

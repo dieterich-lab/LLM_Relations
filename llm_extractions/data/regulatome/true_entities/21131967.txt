@@ -1,0 +1,6 @@
+SETD6
+GLP
+protein kinase C-zeta
+RelA
+histone H3
+RelAK310me1

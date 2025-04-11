@@ -1,0 +1,7 @@
+VP40
+ubiquitin
+Nedd4
+Rsp5
+Gag
+M
+ubiquitin ligase

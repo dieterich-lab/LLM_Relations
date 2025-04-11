@@ -1,0 +1,13 @@
+Cks1
+Cdk2
+Skp1
+Cul1
+Rbx1
+Skp2
+cyclin A
+p27
+Kip1
+ubiquitin
+SCF(Skp2) ubiquitin ligase
+SCF
+ubiquitin ligase

@@ -1,0 +1,2 @@
+Insulin secretion: SIRT4 gets in on the act. 
+Despite their initial characterization as histone deacetylases controlling transcription, sirtuins also turn out to be critical regulators of metabolism. In this issue of Cell, Haigis et al. (2006) demonstrate that the mammalian Sir2 homolog SIRT4 acts in the mitochondria of pancreatic beta cells to repress the activity of glutamate dehydrogenase through ADP-ribosylation. In this way, SIRT4 downregulates insulin secretion by beta cells in response to amino acids. 

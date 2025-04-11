@@ -1,0 +1,10 @@
+DraT
+DraG
+dinitrogenase reductase
+Fe Protein
+dinitrogenase reductase ADP-ribosyltransferase
+dinitrogenase reductase glycohydrolase
+nitrogenase reductase
+ammonium
+Nitrogen
+IPTG

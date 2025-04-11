@@ -1,0 +1,7 @@
+Brn-3a
+Brn-3b
+POU
+p53
+bax
+p21cip1
+waf1

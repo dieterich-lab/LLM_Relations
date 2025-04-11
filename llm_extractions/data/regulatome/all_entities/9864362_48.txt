@@ -1,0 +1,6 @@
+CFTR
+PS1
+proteasome
+DeltaF508
+proteasomes
+aggresome

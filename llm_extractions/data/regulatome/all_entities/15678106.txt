@@ -1,0 +1,7 @@
+ubiquitin
+Itch
+p73
+p53
+MDM2
+proteasome
+Hect ubiquitin-protein ligase

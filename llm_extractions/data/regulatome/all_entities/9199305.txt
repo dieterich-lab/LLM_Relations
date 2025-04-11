@@ -1,0 +1,14 @@
+Egr-1
+interleukin-2 receptor beta-chain
+interleukin-2 IL-2 receptor beta-chain
+IL-2Rbeta
+IL-2
+IL-15
+Sp1
+Sp3
+PMA-inducible factor
+PIF
+Sp
+Egr
+phorbol 12-myristate 13-acetate
+PMA

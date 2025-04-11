@@ -1,0 +1,10 @@
+EJC
+Ig-mu
+poly(A)-binding protein
+PABP
+eRF3
+PABPC1
+NMD
+PTCs
+exon junction complex
+ribosome

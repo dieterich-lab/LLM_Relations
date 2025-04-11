@@ -1,0 +1,13 @@
+SGTA
+Bcl-2-associated athanogene
+small-glutamine rich tetratricopeptide repeat-containing protein alpha
+ubiquitin-like protein 4A
+UBL4A
+Sed5
+BAG6
+UBL
+Sec61Beta
+GFP
+ubiquitin-like
+ubiquitin
+Bcl-2

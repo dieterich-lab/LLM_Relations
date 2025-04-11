@@ -1,0 +1,8 @@
+Asp-His-His-Cys motif (DHHC) palmitoyl transferase
+2
+3
+7
+8
+21
+DHHC-21
+eNOS

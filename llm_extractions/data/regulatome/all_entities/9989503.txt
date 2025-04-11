@@ -1,0 +1,12 @@
+Nmi
+Stat1
+IL-2
+IFNgamma
+Stat5b
+N-Myc interactor
+Stat2
+Stat5
+CBP
+p300
+STATs
+STAT

@@ -1,0 +1,4 @@
+p53
+MDM2
+ubiquitin
+ubiquitin proteolysis pathway

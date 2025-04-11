@@ -1,0 +1,20 @@
+LKB1
+SIK2
+SIK3
+HDAC4
+salt-inducible kinase 2
+SIK
+-5
+-7
+-9
+14-3-3
+MEF2
+class IIa histone deacetylases
+Histone deacetylases 4
+histone
+class IIa HDACs
+PKA
+HDAC
+class IIa deacetylases
+deacetylases
+class IIa

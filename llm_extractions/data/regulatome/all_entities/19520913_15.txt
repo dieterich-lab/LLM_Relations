@@ -1,0 +1,15 @@
+Idol
+LXR
+beta-galactosidase
+cholesterol
+triglycerides
+free fatty acids
+glucose
+Ldlr
+LDL
+apoB
+PCSK9
+SREBP-2
+LDLR
+transferrin receptor
+LXR and SREBP-2 target genes

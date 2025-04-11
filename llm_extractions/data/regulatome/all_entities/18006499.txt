@@ -1,0 +1,12 @@
+prostamide/prostaglandin F synthase
+thioredoxin-like
+thioredoxin
+Prostaglandin F (PGF) ethanolamide (prostamide F) synthase
+prostamide H(2)
+prostamide F(2alpha)
+PGH(2)
+PGF(2alpha)
+PGE(2)
+PGD(2)
+prostamide/PGF synthase
+prostamide F synthase

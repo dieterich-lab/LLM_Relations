@@ -1,0 +1,16 @@
+deoxyhypusine hydroxylase
+DOHH
+dohh
+P49366
+eukaryotic initiation factor-5A
+eIF-5A
+DHS
+Q710D1
+Q8I701
+hypusine
+hypusine pathway
+HEAT-like repeat
+deoxyhypusine
+phycocyanin lyase
+hydroxylase
+E/F-type phycobilin lyase
