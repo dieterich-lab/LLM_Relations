@@ -1,0 +1,1592 @@
+reference	ppi_relations	set
+10021333	Apontic=Bruno; Bruno=apontic; Bruno=Apontic	Test
+10189366_50	NuMA=tubulin	Test
+10397761	importin beta=sterol regulatory element-binding protein-2; SREBP-2=importin beta; Ran=p10; importin beta=SREBP-2; SREBP-2=importin beta	Test
+10433269	Shank=Homer; mGluR=Homer; Shank=PSD-95; Shank=Homer; Shank=mGluR; PSD-95=NMDA receptor; Shank=PSD-95; Homer=metabotropic glutamate receptors; Homer=inositol trisphosphate receptors; Shank=Homer; Homer=PSD-95; GKAP=PSD-95; Homer=GKAP; Shank=Homer	Test
+10446169	presenilin-2=Bcl-X(L); presenilin-1=Bcl-X(L); Bcl-X(L)=PS1; Bcl-X(L)=PS2; PS2=Bcl-X(L); PS2short=Bcl-X(L); PS2Ccas=Bcl-X(L); Bcl-X(L)=PS2	Test
+10585430	CIS=GHR; SOCS-2=GHR; SOCS-3=GHR; SOCS-1=GHR; JAK2=GHR	Test
+10666337	IIbeta=p53; Human topoisomerase IIalpha=p53; Human topo IIbeta=p53; IIbeta=p53; topo IIalpha=p53; DNA topo II.=p53; doxorubicin=DNA topoisomerase II; etoposide=DNA topoisomerase II	Test
+10668096	Cdc14=Yj1076w; Netl=Cdc14	Test
+10713156	SCF(beta(TrCP))=IkappaBalpha; SCF(beta(TrCP))=IkappaBalpha; SCF(beta(TrCP))=IkappaBalpha; Cul-1=IkappaBalpha; Cul-1=beta-catenin; Cul-1=betaTrCP	Test
+10724160	actin=Arp2/3; Cdc42=actin; WASP=GTPase; WASP=GTPase	Test
+10733526	Cdh1=Cdc20; APC=Cdc20; APC=Cdc20; Cdh1=Cdc20; Cdh1=Nek2; Cdh1=B99; APC=Nek2; APC=B99	Test
+10763828	SHPS-1=SHP-1; SHP-2=SHPS-1	Test
+10770935	estrogen receptor=DRIP205; DRIP205=nuclear receptor; DRIP205=estrogen receptor	Test
+10866691	Yck2p=Yck1p; Yck2p=Yck1p	Test
+10949293	SUV39H1=histone H3; Suv39h1=histone H3; clr4=histone H3; Su(var)3-9=histone H3	Test
+11099047	histone deacetylase-1=p53; PID=p53; PID=metastasis-associated protein 2; PID=MTA2	Test
+11121043	Smad8=Smad4; Smad4=Smad5; Smad4=Smad1; Ski=Smad	Test
+11133992	Heat shock protein 70=human apurinic/apyrimidinic endonuclease; HSP70=human apurinic/apyrimidinic endonuclease; HSP70=HAP1; HSP70=HAP1	Test
+11134534	Cdc2=cyclin B; Cdc2=histone H1; cyclin B=histone H1; Cdc2=cyclin B; Cdc2=histone H1; cyclin B=histone H1; Cdc25C=Cdc2; PKN=Cdc25C; PKN=Cdc25C	Test
+11163210	Smad7=Smurf2; Smurf2=Smad7; Smurf2=Smad7; Smad7=TGF beta receptor; Smad7=Smurf2; Smurf2=TGF beta receptor	Test
+11250901	TTF-I=PCAF; PCAF=p300; PCAF=TAF(I)68; PCAF=TIF-IB; PCAF=SL1; mSir2a=TAF(I)68; histone deacetylase=TAF(I)68	Test
+11274402	Smad3=menin; Menin=Smad3	Test
+11298456	Chk2=Cdc25A; ATM=Cdc25A; Cdc25A=Cdk2; Chk2=Cdc25A; Chk2=Cdc25A	Test
+11313464	Bruton's tyrosine kinase=TFII-I; JAK2=TFII-I; JAK2=TFII-I; JAK2=TFII-I; ERK=TFII-I; ERK=TFII-I; TFII-I=ERK; JAK2=TFII-I; JAK2=TFII-I; JAK2=STAT; AG490=JAK2; TFII-I=extracellular signal-regulated kinase	Test
+11323411	Gab1=SHP2; Grb2-associated binder-1=SHP2; Gab1=SHP2; SHP2=Gab1; SHP2=Gab1; Gab1=SHP2; SHP2=Gab1; Gab1FF=SHP2DeltaN; SHP2=Gab1; SHP2=Gab1; SHP2=Gab1; SHP2=Gab1	Test
+11341840	coactivator-associated arginine methyltransferase 1=histone H3; coactivator-associated arginine methyltransferase 1=histone H3; CARM1=H3; CARM1=H3; CARM1=H3; CARM1=H3; CARM1=H3	Test
+11416152	cyclin-dependent kinase=pRB; Cdk=cyclin; pRB=E2Fs; pRB=E1A; pRB=E2Fs; pRB=E2Fs; pRB=E1A; pRB=E1A; cyclin D=Cdk4; cyclin D=Cdk6; cyclin D=Cdk4; cyclin D=6; cyclin E=Cdk2; cyclin D=Cdk4; cyclin D=6; Cdk4=pRB; 6=pRB; cyclin D=pRB; cyclin D=Cdk4; cyclin D=6; E2Fs=pRB; Cdk=cyclin; Cdk=pRB; cyclin=pRB; Cdk2=pRB; cyclin E=pRB	Test
+11432829	PTP-PEST=Shc; PTP-PEST=paxillin; PTP-PEST=Csk; PTP-PEST=Cas; Shc=PTP-PEST; PTP-PEST=Shc; PTP-PEST=Pyk2; PTP-PEST=Fak; PTP-PEST=Cas	Test
+11520069	Bcl-2=BAG-1; BAG-1M=Hsp70; BAG-1S=Hsp70; BAG-1L=Hsp70; BAG-1S=Hsc70; BAG-1L=Hsc70; BAG-1M=Hsc70; BAG-1M=Hsp70; BAG-1M=Hsc70; BAG-1M=Hsc70; BAG-1M=Hsp70	Test
+11521196	GAS41=PFDN1; GAS41=KIAA1009; GAS41=nuclear mitotic apparatus protein	Test
+11524432	beta1,3-N-acetylglucosaminyltransferase=Notch; Fringe=Notch	Test
+11598127	APC=securin; APC=cyclins; cyclin B=Cdc2; cyclin B=human Cdh1; Cdc2=human Cdh1; human Cdc14a=hCdh1; hCdc14a=hCdh1	Test
+11598268	prolyl-4-hydroxylases=HIF	Test
+11707585	Fringe=Notch	Test
+11713274	NRIF3=TRs; NRIF3=RXRs; TR=RXR; NRIF3=TR; NRIF3=RXR; NRIF3=NRIF3	Test
+11809749	aldosterone=mineralocorticoid receptor; hsp90=MR	Test
+11861468	Rasp=Hh	Test
+11867544	ASH1=Khd1; ASH1=Khd1	Test
+11874917	Myosin phosphatase=myosin regulatory light chain; MBS=Myosin phosphatase	Test
+11897782	Apg12=Apg5; Apg16=Apg5; Apg12=Apg16; Apg12=Apg5; Apg12=Apg5; Apg12=Apg16; Apg5=Apg16; Apg12=Apg5; Apg12=Apg16; Apg5=Apg16; Apg12=Apg5; Apg5=Apg16; Apg12=Apg16; Apg12=Apg5; Apg5=Apg16; Apg12=Apg16	Test
+11983168	Cyclin G=PP2A; PP2A=Mdm2; cyclin G=phosphatase 2A; cyclin G=Mdm2; PP2A=Mdm2; cyclin G=PP2A	Test
+11997436	Grb2=FRS2 alpha; FRS2 alpha=Cbl; Cbl=Grb2; Cbl=fibroblast growth factor (FGF) receptor; Cbl=FRS2 alpha	Test
+12021245	Dup-697=COX-2	Test
+12023008	CD47=SHPS-1; SHPS-1=CD47	Test
+12036871	von Willebrand factor=platelet glycoprotein (GP) Ib alpha; GPIb alpha=VWF; GPIb alpha=VWF; VWF=GPIb alpha; VWF=GPIb alpha	Test
+12052829	ShcA=PTP-PEST; ShcA=PTP-PEST; protein kinase C=ShcA; protein kinase Calpha=ShcA; -epsilon=ShcA; -delta=ShcA; ShcA=PTP-PEST; PTP-PEST=p52(Shc); ShcA=PTP-PEST; PTP-PEST=ShcA	Test
+12063250	2-acyl-LPA=EDG7; PLA(1)=PA	Test
+12065642	PKA=DARPP-32; Cdk5=DARPP-32; cyclin-dependent protein kinase 5=DARPP-32; cAMP-dependent protein kinase=DARPP-32; calcineurin=DARPP-32; protein phosphatase-2A=DARPP-32	Test
+12086618	PR-Set7=histone H4; PR/SET07=histone H4; pr-set7=H4	Test
+12135708	phosphatidylinositol (PtdIns) 3-kinase=PLC-gamma2; (GAB)2=Grb2; PLC-gamma2=(GAB)2; SHC=PLC-gamma2; PLC-gamma2=SHP2; PLC-gamma2=GAB2; PLC-gamma2=SHP2; Wortmannin=PtdIns 3-kinase	Test
+12151385	Smad7=Smad ubiquitin regulatory factor 1; Smurf1=transforming growth factor-beta type I receptor; Smad7=Smurf1; Smad7=Smurf1; Smad7=Smurf1; TbetaR-I=TbetaR-II; Smad7=TbetaR-II; Smad7=TbetaR-I	Test
+12504026	CAND1=CUL1; p120=CUL1; CUL1=CAND1; CUL1=ROC1; SKP1=CUL1; SKP2=CUL1; CAND1=CUL1; CAND1=CUL1; SCF ubiquitin E3 ligase=p27; SCF ubiquitin E3 ligase=IkappaB; SCF ubiquitin E3 ligase=beta-catenin	Test
+12548019	Plk3=p53; Plk3=p53; Plk3=Chk2	Test
+12609982	TIP120A=cullins; TIP120A=CUL4B; cullins=TIP120A; TIP120A=cullin; TIP120A=CUL1; TIP120A=Rbx1; F-box proteins=CUL1; Skp1=CUL1; SCF(beta-TrCP) ubiquitin ligase=IkappaBalpha	Test
+12730668	HDAC1=histone; Gam1=p120; p120=HDAC1; p120=HDAC1; p120=Gam1; HDAC1=Gam1; trichostatin A=HDAC	Test
+12748172	NIPA=NPM-ALK; NIPA=ALK	Test
+12759363	DEN1=CUL1; DEN1=Nedd8; DEN1=cullin 1; DEN1=CUL1; DEN1=CUL1; COP9 signalosome=CUL1; DEN1=CUL1	Test
+12775720	c-Src=PECAM-1; LDL=p38MAPK; PP1=p38MAPK; PP2A=p38MAPK	Test
+12815069	Omi=IAP; c-IAP1=caspases	Test
+12907755	PTP-H1=GHR; Meg-2=GHR; Pyst-2=GHR; stomach cancer-associated PTP 1=GHR; PTP1B=GHR; PTP-beta=GHR; T cell (TC)-PTP=GHR; GHR=SAP-1; GHR=PTP-H1; GHR=PTP1B; GHR=TC-PTP; PTP-H1=GHR; PTP1B=GHR	Test
+13678582	Cdk1=cyclin B1; Ajuba=Aurora-A; Ajuba=Aurora-A; Ajuba=Aurora-A	Test
+14536086	ESET=histone H3; SETDB1=mAM; ESET=histone H3; ESET=mAM; ESET=H3; ESET=H3	Test
+14562105	TUG=GLUT4; TUG=GLUT4; TUG=GLUT4	Test
+14631847	Set9=histone H3; Suv39 h 1=H3; Set9=H3; PRMT1=histone H4; p300=histone H4; p300=histones; PRMT1=histones; CARM1=histone H3; CARM1=H3; PRMT1=H4; PRMT1=histone; CARM1=histone; HDAC=NuRD	Test
+14670962	NIP=Numb; NIP=Numb; NIP=Numb	Test
+14752096	p300=AML1; p300=AML1; p300=AML1; p300=AML1; p300=AML1; p300=AML1	Test
+14759370	CREB binding protein=p53; CBP=p53	Test
+14981544	AR=PIASy; PIASy=HDAC1; PIASy=HDAC2; PIASy=AR; PIASy=histone deacetylases	Test
+15031289	Shp2=Sprouty; Shp2=Sprouty; fibroblast growth factor receptor=Spry; Shp2=Spry; Shp2=Spry; Spry=Grb2; Shp2=Spry	Test
+15064394	SIAH=synphilin-1; SIAH=alpha-synuclein; Synphilin-1=alpha-synuclein; synphilin-1=SIAH-1; synphilin-1=SIAH-2; SIAH=synphilin-1; synphilin-1=SIAH; SIAH-1=synphilin-1; synphilin-1=SIAH; alpha-synuclein=SIAH; SIAH-2=alpha-synuclein; SIAH-1=alpha-synuclein; SIAH-2=alpha-synuclein	Test
+15123625	PIAS1=PPARgamma; PIASxbeta=PPARgamma; PPARgamma=PIASxbeta; Ubc9=PPARgamma; PIASxbeta=PPARgamma	Test
+15145825	Suv39h=H3; Suv4-20h2=H4; Suv4-20h1=H4; Suv4-20h=HP1; Suv4-20h=H3; Suv4-20h=H4; HMTases=H3; HMTases=H4	Test
+15223	Proton pump=cytochrome c oxidase	Test
+15257288	MMP-1=type I collagen	Test
+15345777	PAD4=histone; peptidylarginine deiminase 4=histone; CARM1=H3; PRMT1=H4; PAD4=H3; PAD4=H4; PAD4=histones; PAD4=histone	Test
+15358149	Kv4.2=KChIP; KChIP1=KChIP2.1; KChIP1=KChIP2.2; KChIP2.1=KChIP2.2; Kv4.2=KChIPs; Kv4.2=KChIPs	Test
+15449939	IFNAR1=IFN; IFNAR1=IFN-alpha; IFNAR1=IFN-alpha; IFN-alpha=IFNAR1; IFNAR1=IFNAR2; IFNAR2=IFN-alpha; IFN=IFNAR1; IFN=IFNAR2; IFNAR2=IFNAR1	Test
+15485920	Rb=Raf-1; Raf-1=Rb; Rb=Raf-1; Raf-1=Rb; protein Brg1=Rb; Rb=Raf-1; Raf-1=Rb	Test
+15492226	TRAF6=transforming growth factor beta-activated kinase; TRAF6=IkappaB kinase; TIFA=TRAF6; Ubc13=Uev1A	Test
+15574420	SHP2=Gab1; SHP2=Gab1; Gab1=RasGAP; Ras-GAP=Gab1; Gab1=RasGAP; RasGAP=Gab1	Test
+15592428	Pc2=CtBP; Pc2=CtBP; Pc2=CtBP; Pc2=CtBP2; Ubc9=Pc2; Pc2=CtBP	Test
+15620353	LSD1=Histone; LSD1=histone; LSD1=histone H3; LSD1=histone	Test
+15660128	E1=E2; Sae1=Sae2; Sae1=Sae2; SUMO-1=Sae2; SUMO-1=Sae1; Sae1=Sae2; Sae2=SUMO-1; SUMO-1=Sae1; E2=E1; E2=E1	Test
+1577494	Lysyl hydroxylase=collagens	Test
+15808505	PHLPP=Akt; PH domain leucine-rich repeat protein phosphatase=Akt; PH domain leucine-rich repeat protein phosphatase=Akt1; PHLPP=Akt; PHLPP=Akt	Test
+15843474	Smad4=Cited1	Test
+15865448	all-trans-retinol=CRBPI; CRBPI=all-trans-retinaldehyde; CRALBP=11-cis-retinal	Test
+15889145	Cdc28=Cdk1; Cdc28=Smp2; Cdk1=Smp2; Nem1=Spo7; Nem1=Smp2; Spo7=Smp2; Nem1=Spo7	Test
+15930137	malin=laforin; malin=laforin; malin=laforin; malin=laforin; malin=laforin	Test
+15976810	PIASxalpha=DJ-1; PIASy=DJ-1	Test
+16024914	HDL=tocopherol; TTP=ABC-type transporter	Test
+16055508	AurB=Incenp	Test
+16177062	3BP2=CD244; 3BP2=CD244; CD244=signaling lymphocytic activation molecule-associated protein; 3BP2=CD244; CD244=3BP2; CD244=3BP2; CD244=SAP; 3BP2=SAP; CD244=3BP2; 3BP2=SAP	Test
+16209941	Cul1=Skp1; Cul1=Rbx1; Rbx1=Skp2; Skp1=Rbx1; Skp1=Skp2; Cul1=Skp2; Skp1=Skp2; Skp2=Cks1; Skp1=Cks1; Cks1=Skp2; p27=Cks1; p27=Skp2; p27=Cks1; Cks1=Skp2; p27=Skp2; p27=Cks1; Cdk2=cyclin A; Cks1=SCF; p27=SCF; p27=Cks1; p27=Cks1; p27=Skp2; p27=Skp1; SCF=p27; SCF=p27	Test
+16282325	cIAP1=tumor necrosis factor receptor-associated factor 2; cIAP1=second mitochondrial activator of caspases; cIAP1=tumor necrosis factor receptor-associated factor 2; cIAP1=second mitochondrial activator of caspases; cIAP1=TRAF2; cIAP1=SMAC; cIAP1=TRAF2; cIAP1=SMAC; cIAP1=TRAF2; cIAP1=SMAC; cIAP1=TRAF2; cIAP1=SMAC; cIAP1=TRAF2; cIAP1=SMAC; cIAP1=TRAF2; cIAP1=TRAF2	Test
+1634508	GDP=rho p21; rho p21=rho GDI; rho p21=smg GDS; GDP=rho p21; GDP=rho p21; rho GDI=rho p21; rhoA p21=GDP; GTP=rhoA p21; C3=rho p21; EDIN=rho p21	Test
+16387653	ING=p53; ING3=Tip60; ING1=mSin3A; ING4=HBO1; ING2=HDAC; ING1=HDAC; ING4=histone H4; HBO1=histone H4; MOZ=MORF; MOZ=H3; MORF=H3; ING5=HBO1; ING5=MOZ; ING5=MORF; ING5=MCM; MOZ=MORF	Test
+16413484	APC=UbcH10; cyclin A=APC; cyclin A=Cdh1	Test
+16431907	EZH2=histone H3; H1=EZH2; EZH2=H3; EZH2=histone H1; histone methyltransferase=histone H1	Test
+16556841	TCT=PGRP-LCa; TCT=PGRP-LCx; LCa=LCx; TCT=LCx; LCa=TCT; peptidoglycan=PGRPs; TCT=PGRP	Test
+16630891	Shoc2=protein phosphatase 1; Shoc2=PP1c; PP1c=Raf; Shoc2=Raf; Raf=M-Ras; Raf=Ras; M-Ras=Shoc2; Shoc2=PP1c	Test
+16717095	CK2=phosducin-like protein; Phosducin-like protein=G protein betagamma; CK2=PhLP; PhLP=Gbeta; Gbeta=CCT; PhLP=CCT; PhLP=Gbeta; CCT=Gbeta; CCT=PhLP; Ggamma=Gbeta; Gbetagamma=PhLP	Test
+16728531	sodium butyrate=HDAC; Histone deacetylase 1=histone	Test
+16738327	pVHL=HIF-1 alpha	Test
+16864653	Asp-His-His-Cys motif (DHHC) palmitoyl transferase=eNOS; 2=eNOS; 3=eNOS; 7=eNOS; 8=eNOS; 21=eNOS; 2=eNOS; 3=eNOS; 7=eNOS; 8=eNOS; 21=eNOS; DHHC-21=eNOS	Test
+16908542	PGC-1alpha=nuclear respiratory factor 1; PGC-1-related coactivator=nuclear respiratory factor 1; PGC-1-related coactivator=CREB; PGC-1-related coactivator=NRF-1; NRF-1=PRC; CREB=PRC; NRF-1=PRC; CREB=PRC; NRF-1=PRC; CREB=PRC; CREB=PRC; NRF-1=PRC	Test
+16912044	RXRalpha=SUMO-1; retinoic acid receptor-alpha=RXRalpha; RXRalpha=peroxisome proliferator-activated receptor-gamma; RXRalpha=SUMO-1; SUMO-1=androgen receptor; SUMO-1=PPARgamma; SUMO-1=RXRalpha	Test
+16924681	N-acetylglucosaminyltransferase V=integrin beta1; delta cGnT-V=Integrin beta1; wtGnT-V=Integrin beta1; GnT-V=integrin beta1	Test
+17015689	Cullin1=IRF-3; IkappaB kinase-related kinases=IRF-3; Cullin-based ubiquitin ligase=IRF-3	Test
+17018294	Pc2=HIPK2; Pc2=homeodomain interacting protein kinase 2; Pc2=homeodomain interacting protein kinase 2; HIPK2=Pc2; Pc2=HIPK2; Pc2=HIPK2	Test
+17108083	SHPRH=proliferating cell nuclear antigen; Mms2=proliferating cell nuclear antigen; Ubc13=proliferating cell nuclear antigen; Mms2=Ubc13; Mms2=Ubc13; Mms2=Ubc13; Mms2=Ubc13; Rad6=Rad18; Mms2=Ubc13; Mms2=proliferating cell nuclear antigen; Ubc13=proliferating cell nuclear antigen; SHPRH=Rad6; SHPRH=Rad18; SHPRH=Mms2; SHPRH=Ubc13; Rad5=Rad6; Rad5=Rad18; Rad5=Mms2; Rad5=Ubc13; Mms2=proliferating cell nuclear antigen; Ubc13=proliferating cell nuclear antigen	Test
+17115028	Itch=Gli1; Itch=Gli1	Test
+17132228	elongins B=C; elongins B=Rbx1; elongins B=Cul2; C=Rbx1; C=Cul2; Rbx1=Cul2; ECV=alpha subunit of hypoxia-inducible factor; ECV=HIFalpha; VHL=HIFalpha; Rbx1=Cul2; UbcH5a=Cul2; ECV=HIFalpha	Test
+17194709	ABLIM-2=STARS; -3=STARS; ABLIM-2=F-actin; -3=F-actin; STARS=actin; STARS=actin; STARS=-3; STARS=ABLIM-2; ABLIM=F-actin; STARS=ABLIM-2; STARS=-3	Test
+17218260	NEDD4-1=PTEN; NEDD4-1=PTEN; NEDD4-1=PTEN; NEDD4-1=PTEN; NEDD4-1=PTEN; Mdm2=p53	Test
+17255109	PP2A=Sprouty2; Spry2=PP2A-C; Spry2=PP2A-A; FGF receptor=FGFR; PP2A-A=Spry2; PP2A=Sprouty2; PP2A-A=Spry2; c-Cbl=Spry2; Spry2=PP2A; Spry2=c-Cbl; c-Cbl=Spry2; Grb2=Spry2; c-Cbl=Spry2	Test
+17363573	Inhibitor of growth 4=liprin alpha1; PPFIA1=ING4; ING4=liprin alpha1	Test
+17435760	NLRs=SGT1; NLRs=heat-shock protein 90	Test
+17449811	CBL10=SOS2; SCABP8=SOS2	Test
+17463226	Aip4=ErbB-4; AIP4=ErbB-4; AIP4=ErbB-4; ErbB-4=AIP4; AIP4=ErbB-4; AIP4=ErbB-4	Test
+17532339	Pyruvate dehydrogenase phosphatase 1=pyruvate dehydrogenase; PDHKs=pyruvate dehydrogenase complex; PDP1c=dihydrolipoyl acetyltransferase; PDP1c=PDC; PDHK=lipoic acid; PDP1c=Ca2+	Test
+17572495	Fra-1=Stat3; c-Jun=Stat3; Fra-1=c-Jun; Fra-1=Stat3; Stat3=c-Jun; c-Jun=Fra-1; c-Jun=Fra-1; Fra-1=Stat3; c-Jun=Stat3	Test
+17580310	MDM2=p53	Test
+17615152	ERK1=estrogen receptor (ER)-alpha; 2=estrogen receptor (ER)-alpha; MAPK=ERalpha; ERK=ERalpha; ERK=ERalpha; U0126=ERK	Test
+17662961	sigma-1 receptor=[(11)C]SA4503; [(11)C]SA4503=sigma-1 receptors; Fluvoxamine=sigma-1 receptors; fluvoxamine=sigma-1 receptors	Test
+17707229	MLL=histone H3; MLL=H3K4; MLL2=NF-E2; MLL2=H3K4; NF-E2=H3K4; NF-E2=MLL2; MLL2=ASH2L; MLL2=H3K4	Test
+17707230	CSB=RNA polymerase I; RNA polymerase I=G9a; CSB=G9a; G9a=histone H3; H3K9me2=heterochromatin protein 1gamma; H3K9=HP1gamma; G9a=Pol I; G9a=H3K9	Test
+17766642	ketanserin=VMAT2; tetrabenazine=VMAT2; VMAT2=[125I]IAmF; iodoaminoflisopolol=VMAT2	Test
+17848578	BARD1=BRCA1; BRCA1=BARD1	Test
+17851529	EZH2=H3K27; UTX=H3K27me3; UTX=2; JMJD3=H3K27me3; JMJD3=2; UTX=H3K27me3	Test
+17932071_40	Trm6p=Trm61p; Trm61p=Trm6p; Trm6p=Trm61p	Test
+17940067	Tousled-like kinase=Aurora kinase; Aurora kinase=TLK1; Aurora kinase=TLK2; TLK2=histone H3; TLK1=histone H3; TLK2=Asf1A; TLK1=Asf1B; TLK1=AUK1; TLK1=Asf1A; TLK1=Asf1B	Test
+17947579	JMJD6=histone; Jumonji domain-containing 6 protein=histone H3; Jumonji domain-containing 6 protein=histone H4; Jumonji domain-containing 6 protein=H3R2; Jumonji domain-containing 6 protein=H4R3	Test
+17948059	Bur1=Bur2; Bur1=Bur2; Bur1=Bur2; Bur2=Bur1; Bur1=Bur2	Test
+17980597	deubiquitinating enzymes=uH2A; deubiquitinating enzymes=uH2B; ubiquitin-specific protease 3=uH2A; ubiquitin-specific protease 3=uH2B; USP3=H2A; USP3=H2B; uH2A=USP3; USP3=uH2A; USP3=H2A; USP3=H2B	Test
+18065497	Siah-1=alpha-synuclein; Siah-1=UbcH8; alpha-synuclein=seven in absentia homologue-1; Siah-1=alpha-synuclein; Siah-1=alpha-synuclein; Siah-1=alpha-synuclein; Siah-1=alpha-synuclein	Test
+18070875	protein targeting to glycogen=glycogen; protein targeting to glycogen=protein phosphatase 1; protein targeting to glycogen=glycogen synthase; protein targeting to glycogen=phosphorylase; protein targeting to glycogen=laforin; malin=PTG	Test
+18165438	sirtuins=nuclear receptors	Test
+18180368_19	kinesin-II=OSM-3	Test
+18187655	LSD1=H3	Test
+18317453	Chk2=hBRCA2; Chk1=hBRCA2; Chk1=hBRCA2; Chk2=hBRCA2; Rad51=hBRCA2; Chk1=Rad51; Chk1=hBRCA2; Chk2=hBRCA2; hBRCA2=Rad51	Test
+18331838	TTLL10=nucleosome assembly protein 1; TTLL10=NAP1; TTLL10=NAP1	Test
+18384749	Cdc25 dual-specificity phosphatases=Cdk1; Cdc25 dual-specificity phosphatases=cyclin B1; Cdc25C=14-3-3; Plk1=Cdc25C	Test
+18391200	p53=Taz2; p53=Taz2	Test
+18430226_16	PER2=CLOCK	Test
+18624796	InlB=hepatocyte growth factor (HGF) receptor; internalin (Inl)A=E-cadherin; Src=E-cadherin; Hakai=E-cadherin; E-cadherin=clathrin; caveolin=E-cadherin; clathrin=E-cadherin	Test
+18628300	barrier-to-autointegration factor=lamin A; barrier-to-autointegration factor=emerin; emerin=lamin A	Test
+18628979_46	PRC2=VAV1	Test
+18682561	glutathione=MPGES1	Test
+18724389	WWP1=RING finger protein 11; WWP1=RNF11; WWP1=RNF11	Test
+18794358	MOZ=MORF; MOZ=histone; MORF=histone; MOZ=MORF; MORF=ING5; ING5=EAF6; MOZ=ING5; MOZ=EAF6; MORF=EAF6; MOZ=BRPF1; MOZ=-2; MOZ=-3; MORF=BRPF1; MORF=-2; MORF=-3; MOZ=MORF; ING5=EAF6; BRPF=MOZ; BRPF=MORF; BRPF=ING5; BRPF=EAF6; BRPF1=ING5; BRPF1=EAF6; BRPF1=enhancer of polycomb; enhancer of polycomb=ING5; enhancer of polycomb=EAF6; BRPF1=EAF6; BRPF1=ING5; ING5=EAF6; MOZ=MORF; MOZ=BRPF1; MORF=BRPF1; BRPF1=ING5; BRPF1=histone H3; BRPF1=histones H3; BRPF1=H4; ING5=histone H3; ING5=histones H3; ING5=H4; MOZ=MORF	Test
+18832723	PIAS1=PPARgamma	Test
+18835386	RhoBTB2=RhoBTB3	Test
+19011621	protein arginine methyltransferase (PRMT) 5=p53; protein arginine methyltransferase (PRMT) 5=p53	Test
+19047365	WWP1=HER4; WWP1=HER4; HER4=WWP1; WWP1=HER4; WWP1=HER4; WWP1=HER4; anaphase-promoting complex=HER4	Test
+19081070_9	Gli3R=beta-catenin	Test
+19115252_81	Exd=hth; Pbx=Meis1	Test
+19188362	USP17=RCE1	Test
+19228687	MSH2=MSH6; MSH3=MSH2	Test
+19229036	SIRT1=heat shock factor 1; HSF1=Hsp70; SIRT1=HSF1	Test
+19276361	Chk1=Cul4; damaged DNA-binding protein 1=Chk1; DDB1=Cul4A; DDB1=Cul4B; Cul4A=Cul4B; Chk1=Cul4A; Chk1=DDB1	Test
+19330005_4	p45PFK=BMAL1; CK2alpha=BMAL1; CK2alpha=BMAL1; CK2alpha=BMAL1; p45PFK=CLOCK	Test
+1939122	formyl(f)Met-tRNA=ribosomes; fMet-tRNA=ribosomes; fMet-tRNA=ribosomes	Test
+19415799_9	MinCC=FtsZ; MinD=FtsZ; FtsZ=MinCC; FtsZ=MinD; MinD=FtsZ; MinCC=FtsZ	Test
+19453968	SOCS3=granulocyte colony-stimulating factor receptor	Test
+19465916	Ubc13=TRAF6; TRAF6=Ubc13; Tumor necrosis factor (TNF) receptor-associated factor (TRAF)-6=NF-kappaB	Test
+19503082	4.1N=GluR1; Protein kinase C=GluR1; PKC=GluR1	Test
+19619245	sphingosine 1-phosphate=S1P(1); sphingosine 1-phosphate=S1P(5); S1P=S1P(1); S1P=S1P(1); FTY720 phosphate=S1P(1); FTY720 phosphate=S1P(1); S1P=S1P(1); S1P=S1P(1)	Test
+19637179_9	sulindac=Dvl; sulindac sulfone=Dvl; Fz=Wnt; sulindac=Dvl	Test
+19644473_20	mTOR=Raptor; mTOR=PRAS40; mTOR=mLST8; Raptor=PRAS40; Raptor=mLST8; PRAS40=mLST8; mTOR=Rictor; mTOR=mSIN1; mTOR=mLST8; Rictor=mSIN1; Rictor=mLST8; mSIN1=mLST8	Test
+19706605	GSK-3=delta-catenin; Delta-catenin=presenilin-1; -3beta=delta-catenin; -3beta=delta-catenin; GSK-3alpha=delta-catenin; GSK-3alpha=delta-catenin; GSK-3=delta-catenin; GSK-3=delta-catenin; GSK-3=delta-catenin; GSK-3=delta-catenin; GSK-3=delta-catenin; GSK-3=delta-catenin	Test
+19881509	MAVS=RIG-I-like helicases; PCBP2=MAVS; AIP4=MAVS; PCBP2=MAVS; PCBP2=AIP4; PCBP2=AIP4	Test
+19896182_32	Mcm2=7; Cdt1=Mcm2; Mcm2=7; Cdt1=7; Mcm2=7; Mcm2=7; Cdt1=Mcm2; Cdt1=7; Cdt1=Orc6; Mcm2=7; Cdt1=ORC; Cdt1=Mcm2; Cdt1=7	Test
+20005846	HOIL-1=HOIP; HOIL-1=NEMO; HOIP=NEMO; linear ubiquitin chain assembly complex=NEMO; LUBAC=ubiquitin; NEMO=TNF-RSC	Test
+20016594	PIAS=BRCA1; BRCA1=BARD1	Test
+20023408_12	UPF1=SMG7; UPF1=SMG6; UPF1=SMG5	Test
+2002555	gp41=gp120; gp41=gp120; gp120=gp41	Test
+20129058	DnaB=DnaC; primase=DnaB; primase=DnaB; DnaC=DnaB; DnaC=DnaB; DnaC=DnaB; DnaB=DnaC	Test
+20130140	Sp100=PML; Sp100=PML; PML=Sp100; heterochromatin protein 1=PML; heterochromatin protein 1=Sp100	Test
+20338813_24	alpha chain=GM-CSF; GM-CSF=GM-CSF receptor alpha	Test
+20406818	TRIM25=RIG-I; RIG-I=MAVS; RIG-I=TRIM25; RIG-I=MAVS; RIG-I=TRIM25	Test
+20457893	JmjC=histone; JMJD5=H3K36me2; KDM8=cyclin A1; KDM8=H3K36me2	Test
+20501646	USP26=AR; USP26=AR; USP26=AR; USP26=AR	Test
+20581824_10	Rev-erbalpha=NCoR; Rev-erbalpha=NCoR; Rev-erbalpha=NCoR	Test
+20599894	Raspberry=Hh; Spitz=EGF; dHIP14=Sog	Test
+20610737	protein kinase A=PDE10A2; DHHC-7=PDE10A2; -19=PDE10A2; MP-10=PDE10A	Test
+20639393_10	harmonin=cadherin-23; harmonin-a=CDH23; harmonin-a=CDH23Deltaexon68; harmonin=CDH23; cadherin-23=harmonin-a; harmonin-a=CDH23; cadherin-23=harmonin-a; harmonin-a=cadherin-23; harmonin=protocadherin-15; harmonin=cadherin-23	Test
+20691628_28	UPF1=CBP80	Test
+20694664_37	Ran=RanBP3	Test
+20832753_2	BMK1=promyelocytic leukemia protein	Test
+20858899	Smurf2=Axin; Smurf2=Axin; Smurf2=Axin; Axin=Smurf2; Smurf2=Axin; Smurf2=Axin; Smurf2=Axin	Test
+20975703	Calmodulin methyltransferase=calmodulin; c2orf34=CaM	Test
+21081508	toxin B=small GTPases	Test
+21098725	SIRT1=STAT3	Test
+21164013	Greatwall=alpha-endosulfine	Test
+21236256	AFAP=c-Src; AFAP=c-Src; actin=AFAP	Test
+21266407	DPP=Crossveinless 2	Test
+21339334_74	Shh=GPC5	Test
+21347367	TPX2=Aurora A; TPX2=Aurora A	Test
+21386983_57	beta-Syn=copper; copper=alpha-Syn; copper=alpha-Syn; alpha-Syn=copper; copper=alpha-Syn; copper=alpha-Syn; copper=beta-Syn; beta-Syn=alpha-Syn; alpha-Syn=copper; beta-Syn=copper; alpha-Syn=copper; copper=alpha-Syn	Test
+21505799_30	laforin=malin	Test
+21554248	Ku80=LRH-1; Ku70=LRH-1; ILF3=LRH-1; ILF3=LRH-1; ILF3=PRMT1; ILF3=PGC-1alpha; PGC-1alpha=PRMT1; PGC-1alpha=LRH-1; PRMT1=LRH-1; PGC-1alpha=ILF3; PRMT1=ILF3	Test
+21734303	IDOL=low density lipoprotein receptor; IDOL=LDLR; IDOL=LDLR; IDOL=LDLR	Test
+21807881	COG=Syntaxin 6; Cog6=Syntaxin 6; Syntaxin 6=COG; Syntaxin16=Syntaxin 6; Syntaxin 6=Vti1a; Syntaxin 6=VAMP4; Syntaxin16=Vti1a; Syntaxin16=VAMP4; Vti1a=VAMP4; COG=SNAREs	Test
+21827752	SPATA4=TRAPP; C2=SPATA4; SPATA4=C2; C2=SPATA4	Test
+21855800_11	eIF4G=eIF4E	Test
+21900752	p53=MDM2; MDM2=ARF; MDM2=p53; ARF=p53	Test
+21951725_19	MICAL-L2=Rab8; MICAL-L2=Rab13; MICAL-L1=Rab35; MICAL-L1=Rab10	Test
+22020280	Mili=piRNAs; piRNA=Miwi2	Test
+22024395_39	FANCJ=BLM; FANCJ=BRCA1; FANCJ=RPA; FANCJ=MRN; FANCJ=BLM	Test
+22033972	Swi5=Sfr1; Swi5=Sfr1; Swi5=Sfr1; Swi5=Sfr1; Swi5=Sfr1; Swi5=Sfr1; Swi5=Sfr1; Swi5=Rad51; Sfr1=Rad51; Swi5=Sfr1; Swi5=Rad51; Sfr1=Rad51	Test
+22069318	TNF receptor-associated factor 6=TAK1; TNF receptor-associated factor 6=TAK1	Test
+22072986	Leucine-zipper transcription factor-like 1=BBSome	Test
+22086907_3	pVHL=elongin C; pVHL=elongin B; pVHL=C; pVHL=Cul2; elongin B=C; elongin B=Cul2; C=Cul2; pVHL=HIFalpha; CRL=hypoxia-inducible factor	Test
+22194618	FdhD=IscS; IscS=FdhD	Test
+22219378_47	JFC1=EPI64; JFC1=EPI64; JFC1=EPI64; EPI64=JFC1	Test
+22325352_44	CBXs=PHCs; PHCs=SCMs; CBXs=SCMs	Test
+22355353	YKu70=YKu80; Yku70=80; Yku70=80	Test
+22363753_26	hPPARgamma=hRXRalpha DBD-LBD	Test
+22420621_7	Sec3=Sec5; Sec3=Sec6; Sec3=Sec8; Sec3=Sec10; Sec3=Sec15; Sec3=Exo70; Sec3=Exo84; Sec5=Sec6; Sec5=Sec8; Sec5=Sec10; Sec5=Sec15; Sec5=Exo70; Sec5=Exo84; Sec6=Sec8; Sec6=Sec10; Sec6=Sec15; Sec6=Exo70; Sec6=Exo84; Sec8=Sec10; Sec8=Sec15; Sec8=Exo70; Sec8=Exo84; Sec10=Sec15; Sec10=Exo70; Sec10=Exo84; Sec15=Exo70; Sec15=Exo84; Exo70=Exo84	Test
+22500027_7	BBS6=BBS10; BBS10=BBS12; BBS6=BBS12	Test
+22606318_15	Ligase III=Xrcc1; Xrcc1=Ligase III; DNA Ligase III=Xrcc1	Test
+22649370	Del1-9-G129R-hPRL=PRLR	Test
+22777353	protein arginine methyltransferase 6=Sin3a; protein arginine methyltransferase 6=HDAC1; Sin3a=HDAC1; protein arginine methyltransferase 6=RUNX1; RUNX1=Sin3a; RUNX1=HDAC1; PRMT6=RUNX1; PRMT6=histone H3; WDR5=MLL; p300=pCAF	Test
+22816037_25	spike proteins=APN; S protein=APN	Test
+22908299	WSTF=H2A.X; ATM=H2A.X; ATR=H2A.X; Eya1=H2A.X; Eya3=H2A.X	Test
+22958824_7	SOL-2=GLR-1	Test
+23022382_20	NDP52=LC3C; LC3=LIR; LIR=LC3C	Test
+23022657_23	MIG-10=ABI-1; MIG-10B=ABI-1	Test
+23240008	FOXM1=CDC25A; CDK1=cyclinB; CDK1=FOXM1; CDK1=FOXM1; FOXM1=CDC25A; CDC25A=FOXM1; cyclinB=FOXM1	Test
+23246001_20	SGTA=Ubl4A; SGTA=Ubl4A; SGTA=Ubl4A; SGTA=Hsc70; Bag6=SGTA; Ubl4A=SGTA; Ubl4A=Bag6; Bag6=SGTA; SGTA=Ubl4A; Bag6=SGTA; Ubl4A=Bag6; Ubl4A=SGTA; Ubl4A=Bag6; Ubl4A=Bag6; SGTA=Bag6; Bag6=SGTA; Bag6=SGTA; Bag6=SGTA; Bag6=SGTA	Test
+23247405_12	Rab38=BLOC-2	Test
+23247405_22	Rab32=Varp; Rab38=Varp; Rab=Varp; Rab38=HOmotypic fusion and protein sorting; Rab32=HOmotypic fusion and protein sorting	Test
+23247405_9	Rab32=Rab38	Test
+23352452_15	Ras=Raf; 14-3-3=Rafs; 14-3-3=B-Raf; 14-3-3=C-Raf; Raf=Ras; Raf=14-3-3; Raf=Hsp90; Raf=Cdc37; B-Raf=C-Raf; Raf=Raf; Raf=14-3-3	Test
+23403289	Ezh2=H3K27	Test
+23499533_3	Scc2=4; Scc2=4	Test
+23533635	BAG6=SGTA; BAG6=small-glutamine rich tetratricopeptide repeat-containing protein alpha; BAG6=SGTA; BAG6=ubiquitin-like protein 4A; SGTA=ubiquitin-like protein 4A; SGTA=BAG6; BAG6=SGTA; UBL4A=SGTA; Sec61Beta=BAG6; BAG6=Sed5; SGTA=BAG6	Test
+23667505	PCAF=histone; PCAF=histone; CSB=RNA polymerase I; RNA polymerase I=PCAF; CSB=PCAF; PCAF=histone H4; PCAF=histone H3K9; PCAF=H4ac; PCAF=H3K9ac; PCAF=histone	Test
+23685356_31	POT1=shelterin	Test
+23790976_24	LXR=RXR	Test
+23802716	indoline-3,2'-thiazolidine=p53; spiro[imidazo[1,5-c]thiazole-3,3'-indoline]-2',5,7(6H,7aH)-trione=p53; p53=MDM2; 4n=MDM2; thiazolidine=p53	Test
+23810392	TRIM25=RIG-I; TFG=TRIM25; TFG=TRIM25	Test
+23840694_26	Sec1/Munc18=SNAREs; Sly1=SNAREs; Vps45=SNAREs; SM=SNARE; SNAREs=SM	Test
+24288332	ER=27-hydroxycholesterol; liver X receptor=27-hydroxycholesterol	Test
+24369422_69	E2F6=DP1; MGA=MAX; MGA=MAX; L3MBTL2=MGA; MAX=L3MBTL2	Test
+24498436	RDM1=RNA polymerase II; RDM1=AGO4; RDM1=DRM2; DRM2=RDM1; RDM1=DEFECTIVE IN RNA-DIRECTED DNA METHYLATION1; RDM1=DEFECTIVE IN MERISTEM SILENCING3; DEFECTIVE IN RNA-DIRECTED DNA METHYLATION1=DEFECTIVE IN MERISTEM SILENCING3	Test
+24768535	polymerase-eta=PCNA; EFP=PCNA; EFP=PCNA; PCNA=USP10; USP10=PCNA; polymerase-eta=PCNA; UBP43=PCNA	Test
+24814316_14	MET=TNS4; TNS4=MET; MET=TNS4; TNS4=MET; DLC-1=TNS4; MET=TNS4; MET=TNS4	Test
+24814316_4	hepatocyte growth factor=MET	Test
+25010066	off-track 2=Wnt2; off-track=Wnt2; Wnt=PTK7; Otk=Otk2; Otk2=Frizzled; Otk2=Frizzled2; Otk2=Wnt2; Otk=Frizzled; Otk=Frizzled2; Otk=Wnt2; Otk2=Wnt; Otk=Wnt	Test
+25030448	TMEM129=Derlin-1; TMEM129=US11; TMEM129=Derlin-1; US11=Derlin-1; US11=MHC-I; TMEM129=MHC-I; Ube2J2=MHC-I	Test
+25107275	OCRL=clathrin; OCRL=SNX9	Test
+25233328_4	cryptochrome 2=CIB1; CRY2=CIB1	Test
+25263562_10	GATOR2=Sestrin2; GATOR2=Sestrin2; Sestrin2=GATOR2; Sestrin2=GATOR2; Ragulator=v-ATPase	Test
+25329897_3	Rap1=GTP; Rap1=GDP; Rap1=GTP	Test
+25380047_22	SEPT7=F-actin; SEPT6=F-actin	Test
+25543256	Kti11=Kti13; DPH3=eukaryotic elongation factor 2; Kti11=Kti13; Kti11=Kti13; Kti11=Kti13	Test
+25602519	CDC28=Cac1p; Cac1p=PCNA; CDC28=Cac1p; Cac1p=PCNA; CDC28=Cac1p; CDC7=Cac1p; CDC7=Cac1p; CDC28=Cac1p; CDC7=Cac1p; CAF-I=PCNA	Test
+25690888	Rad5=PCNA; Rad5=PCNA	Test
+25713138_39	BAG6=Ubl4a; BAG6=Ubl4a; Ubl4a=BAG6	Test
+25818881_8	DBI=GABAA receptor; benzodiazepine=type A receptor for gamma-aminobutyric acid; diazepam=type A receptor for gamma-aminobutyric acid; DBI=type A receptor for gamma-aminobutyric acid; benzodiazepines=TSPO; isoquinoline carboxamides=TSPO; indole acetamides=TSPO; flunitrazepam=TSPO; 5-androsten-3beta,17,19-triol=TSPO	Test
+25819761_21	Sestrin2=GATOR2; GATOR1=RagB	Test
+25916855_48	ADAT2=ADAT3	Test
+26018600_34	fIXa=fVIIIa	Test
+26052893_5	1A'=1A; 1A'=1T; 1A'=1S; 1A=1T; 1A=1S; 1T=1S; S=EcfT	Test
+26151477	RNF111=XPC; ERCC1=XPF; RNF111=XPC; CRL4(DDB2)=XPC	Test
+26237511_28	TNT=IFT; NAD+=TNT; NAD+=TNT	Test
+26651479_12	TMEM106B=CHMP2B; TMEM106B=CHMP2B	Test
+26801977_42	Notch=CSL	Test
+26984517_50	LDL=LDL receptor; LDL=LDL receptor; LDL receptor=LDL; LDL receptors=sd LDL; LDL receptors=LDL	Test
+27120157	APC/C=Cdc20; APC/C=Cdh1; Cdh1=APC/C; Cdc20=APC/C; Cdh1=APC/C; APC/C=Cdc20; Cdk=cyclin; Cdk=Apc3; Apc1=Apc3	Test
+27350684	Prp28=Rna14	Test
+27396271_26	H-Ras=Raf kinase; H-Ras=PI3Kgamma; H-Ras=Raf; H-Ras=PI3Kgamma; K-RasG12C=Raf; Raf=K-RasG12C	Test
+27751725	Dbf4-dependent kinase=Mcm2; DDK=Mcm2; San=Mcm2; Ni=Mcm2; Ichi=Mcm2; Go=Mcm2; GINS=Mcm2; GINS=Mcm2; DDK=Mcm2; Go=Ichi; Go=Ni; Go=San; Ichi=Ni; Ichi=San; Ni=San	Test
+28077790_40	Dasatinib=BCR-ABL	Test
+28115426	KEAP1=CUL3; KEAP1=NRF2; CUL3=NRF2; KEAP1=CUL3; CUL3=RBX1; KEAP1=RBX1; KEAP1=NRF2; CUL3=NRF2; RBX1=NRF2; NRF2=KEAP1; NRF2=CUL3; NRF2=KEAP1; KEAP1=CUL3; NRF2=CUL3; KEAP1=NRF2; CUL3=NRF2; UFD1=NPL4	Test
+28392147_34	Val-boroPro L-allo-Ile-isoindoline=DPP8; Val-boroPro L-allo-Ile-isoindoline=9; GSDMD=caspase-1	Test
+2843516	E2=E1; E2=E1; E2=E1; E2=E1	Test
+28515143_17	Cdk8=CycC; CycC=Cdk8; CycC=Cdk; CycC=CDK3; Cdk8=cyclins; CycC=Cdks; CycC=Cdks; Cdk8=cyclins; Cdk8=cyclins	Test
+29283431	RAD4=RAD23B; RAD4=HMR	Test
+29666278	USP11=p21; USP11=p21; USP11=p21; USP11=p21; USP11=p21; USP11=p21	Test
+30389923_30	p85=PDGFRA; SHP-2=PDGFRA; PLC-gamma=PDGFRA	Test
+32094225_31	nsp8=nsp12	Test
+32367036_16	disulfiram=GSDM	Test
+34029587	PRMT1=nucleocapsid (N) protein; PRMT=nucleocapsid (N) protein; PRMT=N protein; PRMT1=N protein; PRMT1=G3BP1; PRMT1=G3BP1	Test
+4098172	ethylenediaminetetraacetate=anaphylatoxin inactivator; phenanthroline=anaphylatoxin inactivator	Test
+6330098	cyclic GMP-dependent protein kinase=G-substrate; cyclic AMP-dependent protein kinase=DARPP-32; cyclic AMP-dependent=synapsin I; Ca2+/calmodulin-dependent protein kinase=synapsin I; Calcineurin=G-substrate; Calcineurin=DARPP-32; Calcineurin=Protein K.-F.; Calcineurin=synapsin I; calcineurin=Protein K.-F.; calcineurin=G-substrate; calcineurin=DARPP-32	Test
+7524088	galanin receptor=galanin	Test
+7545681	L-selectin=GlyCAM-1; L-selectin=GlyCAM-1; GlyCAM-1=L-selectin	Test
+7916593	Mg2+=6-phosphofructo-2-kinase	Test
+8078515	exoenzyme S=Ehrap1; exoenzyme S=Ehrap2; exoenzyme S=Ehras1; exoenzyme S=Ehras2	Test
+8232104	p21 ras=Farnesyl; lovastatin=3-hydroxy-3-methylglutaryl coenzyme A reductase; compactin=3-hydroxy-3-methylglutaryl coenzyme A reductase	Test
+8407894	RNA polymerase III=70-kDa component of transcription factor IIIB; C82=C53; C53=C34; C34=C31; C82=C34; C82=C31; C53=C31; C34=TFIIIB70; C34=C82; C34=C31; C82=C31; TFIIIB=RNA polymerase III; C34=TFIIIB70	Test
+8505295	arrestin=rhodopsin; rhodopsin=arrestin; arrestin=rhodopsin; arrestin=rhodopsin; arrestin=rhodopsin; arrestin=rhodopsin; arrestin=rhodopsin; rhodopsin=arrestin	Test
+8521815	cytotoxicity-dependent APO-1-associated proteins=APO-1; APO-1=CAP4; APO-1=3; APO-1=CAP1; CAP1=APO-1; 4=APO-1	Test
+8798525	PPT=N-Ras; PPT=H-Ras	Test
+8948587	MATH4A=MASH1; MATH4A=MASH1; MATH4A=E12; E12=MATH4A; MASH1=MATH4A	Test
+8995282	LAR=insulin receptor; LAR=insulin receptor; LAR=insulin receptor; LAR=insulin receptor; LAR=insulin receptor	Test
+9115214	Grb2=SLP-76; SLAP-130=SLP-76; SLP-76=SLAP-130; SLAP-130=SLP-76	Test
+9154799	retinoid X receptor=retinoic acid receptor; retinoic acid (RA) receptor=retinoid X receptor; RXR=RAR; RXR=RAR	Test
+9195882	rhoGDI=G proteins; rhoGDI=rho family G proteins; Guanine nucleotide dissociation inhibitors=G proteins; rac=rhoGDI; rac=rhoGDI; rac=rhoGDI	Test
+9348293_33	plakoglobin=classical; plakoglobin=desmosomal cadherins; cadherin=plakoglobin; DP-NTP=plakoglobin; desmoplakin=plakoglobin; plakoglobin=cadherin; plakoglobin=cadherin; plakoglobin=Dsg1; plakoglobin=alpha-catenin; alpha-catenin=plakoglobin; Dsg1=plakoglobin; plakoglobin=alpha-catenin; plakoglobin=DP-NTP; plakoglobin=DP-NTP; desmoplakin=plakoglobin; plakoglobin=desmoplakin; desmoplakin=plakoglobin; desmosomal cadherins=plakoglobin; cadherin=plakoglobin; plakoglobin=alpha-catenin; plakoglobin=desmoplakin	Test
+9362506_22	alpha-SNAP=SNAREs; alpha-SNAP=NSF; alpha-SNAP=SNAREs	Test
+9412462_6	Tim23p=Tim17p; Tim54p=Tim22p; Tim17p=Tim23p; Tim22p=Tim54p	Test
+9448000	Brn-3a=estrogen receptor; Brn-3b=estrogen receptor; Brn-3a=ER; Brn-3b=ER; Brn-3a=ER; Brn-3b=ER; Brn-3=ER; Brn-3b=ER	Test
+9506992	epidermal growth factor receptor=phosphatidylinositol 3-kinase; phosphatidylinositol 3-kinase=platelet-derived growth factor beta receptor; epidermal growth factor (EGF) receptor=PDGFbetaR; phosphatidylinositol 3-kinase=PDGFbetaR; EGFR=PDGFbetaR; PDGFbetaR=EGFR	Test
+9765293	RAP74=FCP1; RAP74=RNA polymerase IIO; RAP30=74; FCP1a=RAP74; FCP1a=RAP74; FCP1a=RAP74; FCP1b=RAP74; FCP1=RNA polymerase II	Test
+9790534	HDAC1=2; HDAC1=histone; 2=histone; HDAC1=histone; 2=histone; 2=Mi2beta; HDAC1=Mi2beta	Test
+9808621	DOCK180=Rac	Test
+9857197	Yap1p=Crm1p; Crm1p=Yap1p; Crm1p=Yap1p	Test
+9858532	hnRNP F=KSRP; an unidentified protein of 58 kDa=KSRP; hnRNP F=an unidentified protein of 58 kDa; hnRNP F=hnRNP H; F=hnRNPs H	Test
+10022897	CD95=CD95L; p50=p65; p50=p65	Train
+10037799_64	CD34=L-selectin; vWF=coagulation Factor VIII	Train
+10049407	dinitrogenase reductase ADP-ribosyltransferase=dinitrogenase reductase	Train
+10066374	Hsp90=glucocorticosteroid receptor; Hsp90=glucocorticosteroid receptor; Hsp90=GR; Hsp90=GR; GR=Hsp90; Hsp90=GR	Train
+10075690	IkappaBalpha=h-betaTrCP; betaTrCP=IkappaBalpha; betaTrCP=IkappaBalpha; SCFbetaTrCP E3=IkappaBalpha; Skp1-Cullin-F-box protein=IkappaBalpha; betaTrCP=SCFbetaTrCP E3	Train
+10080948	TRAF2=CD40; TRAF2=CD40; TRAF2=CD40; CD40=TRAF2; TRAF2=CD40; CD40=TRAF2	Train
+10085129	GRKs=G protein-coupled receptors; GRK2=caveolin; GRK=caveolin; GRK2=caveolin; GRK=caveolin; GRK2=caveolin; Maltose=caveolin; GRK2=caveolin	Train
+10092233	adenomatous polyposis coli=axin; axin=glycogen synthase kinase 3beta; adenomatous polyposis coli=glycogen synthase kinase 3beta; B56=APC	Train
+10195903	calcineurin=BAD; Calcineurin=BAD; BAD=Bcl-xL; BAD=14-3-3	Train
+10201929	immunoglobulin-like transcript-2=HLA-B27; Jun=Fos	Train
+10209036	SHP2=SIT; syk=SIT; src=SIT; SIT=SHP2	Train
+10209041	GrpL=SLP-76; SLP-76=Vav; GrpL=SLP-76; Sos1=Grb2; Sos2=Grb2; LAT=Grb2; GrpL=SLP-76; GrpL=SLP-76	Train
+10219085	Ctr9p=Cdc73p; Ctr9p=Paf1p; Swi4p=Swi6p; Cln3p=Cdc28; Paf1p=RNA poly-merase II; Cdc73p=RNA poly-merase II	Train
+10221643	Tcf-1=beta-catenin; Lef/Tcf transcription factor=beta-catenin	Train
+10228008	CD40=CD40 ligand; CD40=CD40L	Train
+10318773	TR6=herpes virus entry mediator (HVEM)-L; TR6=Fas ligand; LIGHT=HVEM; LIGHT=LTbetaR	Train
+10330189	beta-catenin=lymphoid enhancer factor 1; beta-catenin=axin; beta-catenin=LEF-1; beta-catenin=E-cadherin; beta-catenin=APC; beta-Catenin=LEF-1; LEF-1=beta-catenin; beta-catenin=LEF/TCF; beta-catenin=LEF/TCF	Train
+10330415	glycosylation- dependent cell adhesion molecule 1=L-selectin; CD34=L-selectin; podocalyxin=L-selectin; L-selectin=glycosylation- dependent cell adhesion molecule 1; L-selectin=GlyCAM-1; L-selectin=podocalyxin; GlcNAc-6-sulfotransferase=GlyCAM-1; GlcNAc-6-sulfotransferase=CD34; Gal-6-sulfotransferase=GlyCAM-1; Gal-6-sulfotransferase=CD34; L-selectin=fucosyltransferase VII; L-selectin=CD34; IgM=fucosyltransferase VII; IgM=CD34	Train
+10347142	ERK2=beta-arrestin1; ERK1=beta-arrestin1; ERK=beta-arrestin1; clathrin=beta2-adrenergic receptor; ERKs=beta-arrestin1	Train
+10347175	Vav=SLP-76; SLP-76=Vav; SLP-76=Vav	Train
+10347217	p53=MDM2; MDM2=p53; MDM2=p53; p53=MDM2; MDM2=p53; MDM2=p53; MDM2=p53; p53=MDM2; MDM2=p53; MDM2=p53	Train
+10357820	Ikaros=Mi-2-HDAC; Ikaros=mSin3; mSin3=histone deacetylases	Train
+10364157	PU.1=GATA-1; PU.1=GATA-1; PU.1=GATA-1	Train
+10373463	Cna1p=Cnb1p; Cna1p=calmodulin; Cna1p=Fkb1p; Cna1p=Cnb1p	Train
+10383393	MAPKAP kinase 2=sHsps; 3=sHsps	Train
+10388812	Sin3=Rpd3; Sin3=Rpd3; Sin3=Rpd3; Rpd3=Sin3; Sap30=Sin3; Sap30=Rpd3; Sin3=Rpd3; GCN5=histone	Train
+10430017	PEX19=HsPEX3	Train
+10432288	Bcl-2=Bax; Bcl-2=Bad; calcium-dependent phosphatase=NFAT; Fas=Fas ligand	Train
+10438731	GATA-1=C/EBPbeta; FOG=GATA-1	Train
+10446999	VDR=retinoid X receptor	Train
+10454565	Cdc25=cyclin-dependent kinases; cyclin=Cdk; Cdc25A=cyclin; Cdc25A=Cdk; cyclin E=Cdk2; cyclin A=Cdk2; Cdc25A=Cdk2	Train
+10455134	AML1=BSAP; AML1=BSAP; AML1=BSAP	Train
+10468875	FVIII=factor IXa; FIXa=FVIII; FVIII=FIXa	Train
+10469171	seven in absentia homolog-1A=metabotropic glutamate receptors; calmodulin=metabotropic glutamate receptors; mGluRs=Siah-1A; CaM=mGluRs; Siah-1A=mGluRs; mGluRs=Siah-1A; mGluR1=Siah-1A; Siah-1A=mGluRs	Train
+10477683	c-Maf=c-Myb; Myb=Maf; Myb=Maf	Train
+10490593	RAG1=HMG1; RAG1=HMG2; RAG1=RAG2; RAG1=RAG2; RAG1=2; RAG1=2; HMG1=RAG1; HMG2=RAG1; RAG1=2; RAG1=2	Train
+10512884	Arp2/3=Las17p; Las17p=Arp2/3; Arp2p=Las17p; Las17p=actin; Las17p=verprolin; Las17p=Rvs167p	Train
+10514377	c-Cbl=RPTKs; c-Cbl=platelet-derived growth factor receptor	Train
+10514433	Skp1=Cul1; Cul1=FWD1; Skp1=FWD1; SCF=IkappaBalpha; FWD1=Skp1; FWD1=IkappaBalpha; FWD1=IkappaBalpha; IkappaBalpha=Skp1; FWD1=Skp1; IkappaBalpha=FWD1; FWD1=IkappaBalpha; IkappaBalpha=FWD1; FWD1=IkappaBalpha; FWD1=IkappaBalpha; IkappaBalpha=FWD1; FWD1=Skp1; IkappaBalpha=Skp1; FWD1=IkappaBalpha; Skp1=IkappaBalpha; Skp1=FWD1; FWD1=Skp1; IkappaBalpha=FWD1; FWD1=Skp1; Skp1=IkappaBalpha; SCF ubiquitin ligase=IkappaBalpha; SCF ubiquitin ligase=FWD1; SCF ubiquitin ligase=Skp1	Train
+10559189	Groucho=histone deacetylase; HIPK2=Groucho; HIPK2=histone deacetylase; Groucho=NK-3; Groucho=HIPK2; HIPK2=NK-3; Groucho=NK-3; NK-3=histone deacetylase; NK-3=HDAC1; HDAC1=mSin3A; Groucho=histone deacetylase; Groucho=HDAC1; histone deacetylase=NK-3; NK-3=Groucho; NK-3=histone deacetylase; Groucho=histone deacetylase; histone deacetylase=histone; Groucho=histone; NK-3=histone	Train
+10581160	GSK3beta=axin; axin=beta-catenin; beta-catenin=Lef/Tcf; Axin=beta-catenin; Axin=GSK3beta; GSK3beta=Axin; GSK3beta=Axin; Axin=beta-catenin; Axin=beta-catenin; GSK3beta=Axin; beta-catenin=Axin	Train
+10585443	tuberin=hamartin; tuberin=hamartin; tuberin=hamartin	Train
+10593883	MEKK3=MEK5; MEK5=MEKK3	Train
+10598587	human transcription intermediary factor 1alpha=estrogen receptors; estrogen receptors=human transcriptional intermediary factor 1alpha; hTIF1alpha=ERalpha; TIF1alpha=ERalpha; hTIF1alpha=ERbeta; hTIF1alpha=ERalpha	Train
+10601333	Gemin3=SMN; SMN=SIP1; SIP1=Sm core; SMN=Sm core; SMN=Gemin3; Gemin3=SMN; Gemin3=SmB; Gemin3=SmD2; Gemin3=SmD3; Gemin3=SMN; Gemin3=SMN	Train
+10613896_16	Eps15=Hrb	Train
+10623527	E2o=E2p; E1p=E2p; E1o=E2o; lipoate protein ligase A=E2p	Train
+10657632	src=MCP; Lck=MCP	Train
+10660620	PILRalpha=SHP-1; PILRalpha=PILRbeta; PILRalpha=SHP-1; PILRalpha=SHP-1; PILRalpha=SHP-1	Train
+10684251_43	Axin=GSK-3; Axin=beta-catenin; GSK-3=beta-catenin; GSK-3=Axin; GSK-3Y>F=Axin; Akt=GSK-3; Axin=GSK-3; Xgsk-3=Axin; Xgsk-3=Axin; Axin=Xgsk-3; Xgsk-3=Axin; Axin=Xgsk-3; Xgsk-3=beta-catenin; Axin=Xgsk-3; GSK-3=Axin	Train
+10684567	GTP=Ras; geranylgeranyltransferase I=Ras	Train
+10698523	Axin=adenomatous polyposis coli gene product; Axin=glycogen synthase kinase-3beta; Axin=beta-catenin; GSK-3beta=adenomatous polyposis coli gene product; beta-catenin=Axin; protein phosphatase 2A=Axin; GSK-3beta=APC; APC=Axin; GSK-3beta=APC; APC=Axin; Axin=GSK-3beta; Axin=beta-catenin; Axin=GSK-3beta; Axin=beta-catenin; GSK-3beta=APC; GSK-3beta=APC; Axin=APC; Axin=APC; GSK-3beta=APC; GSK-3beta=APC; Axin=APC; beta-catenin=APC; APC=Axin; GSK-3beta=APC; protein phosphatase 2A=Axin; PP2A=Axin; PP2A=APC; GSK-3beta=APC; GSK-3beta=APC; PP2A=Axin; beta-catenin=Axin	Train
+10702271	Pyk2=Janus kinase 1; Pyk2=IL-7Ralpha; Pyk2=Jak1; Pyk2=IL-7Ralpha	Train
+10706618	retinoblastoma=zinc-finger protein RIZ; retinoblastoma=RIZ; estrogen receptor=RIZ; estrogen=RIZ	Train
+10722742	Mdm2=p53; Mdm2=p53; Mdm2=Mdm2; Mdm2=p53	Train
+10725331_37	SMN=Gemin2	Train
+10753746	Inscuteable=Pins; Inscuteable=Bazooka; Partner of Inscuteable=Inscuteable; G-protein alpha=Inscuteable; Pins=Galpha; Pins=Galpha	Train
+10777215	ATFa=adenovirus E1a; ATFa=Jun; ATFa=Fos; ATFa=JNK2; mAM=ATFa; mAM=TFIIE; mAM=TFIIH; mAM=RNAPII	Train
+10781063	SCF=p27; SCF=p27	Train
+10781587	CCL28=CCR10; CCR10=CCL28; CCL27=CCR10; CCL28=CCR10	Train
+10786633	hMOF=histone; hMOF=histones H3; hMOF=H2A; hMOF=H4; MYST=histone; MYST=H4; MYST=H2A; MYST=histones H3	Train
+10793159	alpha=beta-tubulin; beta-tubulin=benomyl; Bim1p=alpha-tubulin; beta=alpha	Train
+10823831	Hypoxia inducible factor-alpha=von Hippel-Lindau tumor suppressor protein; von Hippel-Lindau tumor suppressor protein=Hypoxia inducible factor-alpha; pVHL=HIF-alpha	Train
+10831604_18	JIL-1=MSL; JIL-1=MSL; JIL-1=MSL; JIL-1 kinase=MSL; JIL-1=MSL	Train
+10860980	calcineurin=NFATc; calcineurin=NFATc; NFATc=Cn; Cn=NFATc; Cn=NFAT	Train
+10873650	Npw38=U5-15kD; U5-15kD=PQBP-1	Train
+10926844	Histone deacetylases=histones; HDAC8=histone H4; HDAC8=histones	Train
+10949152	exotoxin A=EF-2	Train
+10966108	TIP60=histone; TIP60=histone; TIP60=histone; TIP60=histone; TIP60=histone	Train
+10966114	c-Cbl=UbcH7; ubiquitin-conjugating enzyme=receptor tyrosine kinases; c-Cbl=E2; HECT family E3=E2; RING E3s=E2; E2=RING E3s; receptor tyrosine kinases=c-Cbl; E2=c-Cbl	Train
+10978310	HlyC=HlyA	Train
+10980697	FAK=epidermal growth factor (EGF) receptors; Pyk2=epidermal growth factor (EGF) receptors	Train
+10995389	APC=CDH1; APC=CDH1; anaphase promoting complex=CDC6; APC=CDC6; APC=CDH1	Train
+11012776	M-ficolin=N-acetyl-D-glucosamine	Train
+11020388	protein kinase C=p300; protein kinase C=p300; protein kinase C=p300	Train
+11027271	PPARgamma=retinoid X receptor; PPARgamma=p160/SRC-1; PPARgamma=DRIP; DRIP205=PPARgamma; PPARgamma=DRIP205; PPARgamma=p160; RXR=DRIP205; RXR=p160; p160=RXR; DRIP205=PPARgamma	Train
+11054122	p35=p40; GroEL=ES; DnaK=J; J=GrpE; DnaK=GrpE; DnaK=J; J=GrpE; DnaK=GrpE	Train
+11060341	Apolipoprotein E=low density lipoprotein receptor; ow density lipoprotein receptor-related protein=Apolipoprotein E	Train
+11095724	VP40=Nedd4; VP40=Rsp5; Rsp5=VP40	Train
+11106668	c-IAP1=zinc	Train
+11158580	Smurf2=Smads; Smurf2=Smad1	Train
+11231878	calcineurin=NFATp	Train
+11316790	Sum1p=Hst1p; Sum1p=Hst1p	Train
+11331609	SMRT=SHARP; SHARP=SMRT; SHARP=HDAC1; SHARP=HDAC2; SHARP=SRA; SHARP=NuRD	Train
+11333016	PHAX=CBC; PHAX=Xpo1; CRM1=nuclear cap binding complex; RanGTP=nuclear cap binding complex; PHAX=nuclear cap binding complex; RanGTP=CRM1; RanGTP=PHAX; Xpo1=CBC; PHAX=CBC; PHAX=snRNA export complexes	Train
+11335720	small GTPases=Prenylated Rab acceptor protein; Rab=prenylated Rab acceptor protein; Ha-Ras=prenylated Rab acceptor protein; prenylated Rab acceptor protein=RhoA; prenylated Rab acceptor protein=TC21; Rap1a=prenylated Rab acceptor protein; PRA1=small GTPases; PRA1=GTPases; PRA1=Ha-Ras; RhoA=PRA1; PRA1=small GTPases; small GTPases=PRA1	Train
+11336659	MYPT3=PP1; MYPT3=PP1; PP1=MYPT3; PP1=phosphorylase a; PP1=myosin light chain; PP1=myosin; farnesyltransferase=MYPT3	Train
+11337495	PI3K=Akt; Src=p85	Train
+11340081	Nck=WASP; Nck=N-WASP; N-WASP=Arp2/3; N-WASP=Arp2/3; WASP=Arp2/3; actin=Cdc42; actin=phosphatidylinositol 4,5-bisphosphate; Cdc42=GTP; Cdc42=GTP	Train
+11369260	microsomal triglyceride transfer protein=apoB	Train
+11381092_36	Mba1=Cox2; Mba1=Cox3	Train
+11390642	ATR=Chk1; ATR=Chk1; ATR=Chk1	Train
+11390669	Pex19p=Pex16p; Pex19p=Pex10p; Pex19p=Pex11pbeta; Pex19p=Pex12p; Pex19p=Pex13p	Train
+11391482	exostosin-2=exostosin-1	Train
+11427533	TGIF2=histone deacetylase 1; TGIF2=histone deacetylase; TGIF=histone deacetylase; TGIF=CtBP; TGIF2=Smads; TG-interacting factor=Smads	Train
+11430826	PML=c-Ski; PML=N-CoR; PML=mSin3A; PML=histone deacetylase 1	Train
+11431474	ERK-related proteins=AP-1; ERK2=AP-1; ERPs=AP-1; ERK1=2; Class I ERPs=AP-1; Jun=Fos; ERPs=Jun; ERPs=Fos; ERK2=Jun; ERK2=Fos; p41=AP-1; p44=AP-1; class II ERPs=AP-1	Train
+11434923	Rat protein tyrosine phosphatase eta=syntenin; syntenin=syndecan; syntenin=proTGF-alpha; syntenin=beta-ephrins; syntenin=neurofascin; r-PTPeta=syntenin; syntenin=r-PTPeta	Train
+11470830_13	dystroglycan=neurexin 1alpha; dystroglycan=neurexin	Train
+11485553	PDK1=pyruvate dehydrogenase; PDK2=pyruvate dehydrogenase; PDK3=pyruvate dehydrogenase; PDK4=pyruvate dehydrogenase; PDK1=pyruvate dehydrogenase; PDK2=pyruvate dehydrogenase; PDK3=pyruvate dehydrogenase; PDK4=pyruvate dehydrogenase; PDK2=pyruvate dehydrogenase; PDK3=pyruvate dehydrogenase; PDK4=pyruvate dehydrogenase; thiamin pyrophosphate=pyruvate dehydrogenase; PDP1=pyruvate dehydrogenase complex; PDP2=pyruvate dehydrogenase complex; PDK2=pyruvate dehydrogenase complex	Train
+11486055	ski=Hh; Skinny hedgehog=hedgehog	Train
+11494123	Raf-1=14-3-3; PP1=Raf-1; PP2A=Raf-1; Raf-1=14-3-3	Train
+11502761_6	synaptotagmin 1=AP2	Train
+11509652	HDAC3=SMRT; SMRT=HDAC3; SMRT=HDAC4; HDAC3=HDAC	Train
+11535594	HNF4alpha=small heterodimer partner; HNF4alpha=SHP	Train
+11566882	proteasome=USP14; DUB=26S proteasome; USP14=proteasome; 26S=USP14	Train
+1157293	albumin=bilirubin; serum albumin=bilirubin	Train
+11590439	alpha-synuclein=synphilin-1; Parkin=synphilin-1; alpha-synuclein=synphilin-1; parkin=synphilin-1; parkin=synphilin-1; alpha-synuclein=synphilin-1; parkin=synphilin-1	Train
+11675392	Rab geranylgeranyltransferase=Rab; Rab=Rab Escort Protein; Rab=REP; Rab=RabGGTase; REP=RabGGTase; REP-1=RabGGTase; RabGGTase=REP-1; REP-1=RabGGTase; RabGGTase=GGpp; RabGGTase=REP-1; GGpp=REP-1; Rab7=RabGGTase; Rab7=GGpp; Rab7=REP-1; REP-1=GGpp; REP-1=RabGGTase; RabGGTase=GGpp; RabGGTase=REP-1; GGpp=REP-1; REP-1=RabGGTase; Rab7=REP-1	Train
+11687965	COX-2=p53; COX-2=p53	Train
+11713293	rdgC=Rhodopsin; PPEF-1=rhodopsin; PPEF-2=rhodopsin	Train
+11714749_26	Ag 85B=I-Ab	Train
+11715018	Akt=MDM2; MDM2=p53; MDM2=p53; Akt=MDM2; Akt=MDM2; MDM2=p300; MDM2=p19ARF	Train
+11747826	CARM1=histone H3; CARM1=histone H3; CARM1=histone; CARM1=histone H3; CARM1=histone H3	Train
+11756452	methylosome=Sm proteins; JBP1=pICln; methylosome=Sm proteins; survival of motor neurons=Sm proteins; MEP50=JBP1; MEP50=Sm proteins; methylosome=Sm proteins	Train
+11779505	Smad4=Smad1; Smad4=Smad1	Train
+11805286	nucleolin=topo I; topo I=nucleolin; topo I=p53	Train
+11832247	Rab3b=polymeric immunoglobulin receptor; rab3b=pIgR; dIgA=pIgR; pIgR=rab3b; dIgA=pIgR; rab3b=GTP	Train
+11877457_16	AAK1=mu2; AAK1=mu2; AAK1=mu2; AAK1=mu2; staurosporine=PKC; KT5720=PKA	Train
+11894096	endophilin=CIN85; endophilin=Cbl; CIN85=Cbl; endophilins=CIN85; CIN85=Cbl; endophilins=Cbl; endophilins=hepatocyte growth factor (HGF) receptor; CIN85=hepatocyte growth factor (HGF) receptor; Cbl=hepatocyte growth factor (HGF) receptor; endophilins=CIN85; CIN85=Cbl; Cbl=HGF receptor; endophilin=CIN85	Train
+11909966	Sin3=histone deacetylase; Sds3=Sin3; Sds3=histone deacetylase; mSin3=HDAC; mSin3B=HDACs 1; mSin3B=2; mSin3A=HDACs 1; mSin3A=2; Sin3=HDAC; HDAC=Sds3; Sin3=Sds3	Train
+11917125	T1R3=T1R2; T1R1=T1R3; T1R3=T1R2; T1R1=T1R3	Train
+11923872	HAUSP=p53; Mdm2=p53; herpesvirus-associated ubiquitin-specific protease=p53; HAUSP=p53; HAUSP=p53; HAUSP=p53	Train
+11927591	BRCA1=BARD1; BRCA1=BARD1; BARD1=BRCA1; BARD1=BARD1; BRCA1=BRCA1; BARD1=BARD1; BRCA1=BARD1; BRCA1=BARD1; BRCA1=BARD1; BRCA1=BARD1; BRCA1=BARD1; BRCA1=BARD1; BRCA1=BARD1; Ubc5c=histone H2A; Ubc5c=H2AX	Train
+11927603_51	GOS-28=GST; GOS-28=syntaxin-5; GST=syntaxin-5; GOS-28=GST; GOS-28=syntaxin-5; GST=syntaxin-5; GOS-28=GST; GOS-28=syntaxin-5; GST=syntaxin-5; GOS-28=GST; GOS-28=syntaxin-5; GST=syntaxin-5; GOS-28=syntaxin-5	Train
+11937504	transcriptional intermediary factor 2 nuclear receptor=estrogen receptor alpha; p160=TIF2; estrogen receptor alpha=TIF2; estrogen receptor alpha=TIF2	Train
+11948691	KDR=VEGF165; NRP1=KDR; NRP1=VEGF165; KDR=NRP1; KDR=VEGF165; NRP1=KDR; KDR=NRP1; VEGF165=KDR; KDR=VEGF165; NRP1=KDR; NRP1=VEGF165; VEGF165=KDR; VEGFR-2=neuropilin-1	Train
+11972058	beta=APC; CK2alpha=APC; CK2=APC; APC=CK2; APC=CK2	Train
+11973335	CREB-binding protein=beta-catenin; CREB-binding protein=beta-catenin; CBP=beta-catenin	Train
+11994499	Cbl=Src; Cbl=Syk; Cbl=ZAP-70; Cbl-b=Src; Cbl-b=Syk; Cbl-b=ZAP-70; Cbl=PI-3-kinase; Cbl=Vav; Cbl=Src; Cbl=Syk; Cbl=ZAP-70; Cbl-b=Src; Cbl-b=Syk; Cbl-b=ZAP-70	Train
+12004135	Mga=Max; E2F-6=Mga; E2F-6=Max; histone methyltransferase=histone H3; histone methyltransferase=HP1gamma; histone methyltransferase=Polycomb group	Train
+12015973	Notum=HSPG; Notum=Dally-like; Notum=Dally	Train
+12022229	Nop7p=5.8S(L); Nop7p=5.8Ss	Train
+12024216	HDAC6=tubulin; HDAC6=alpha-tubulin; HDAC6=alpha-tubulin; HDAC6=tubulin	Train
+12032081	RanBP2=HDAC4; RanBP2=HDAC4; RanBP2=MEF2-interacting transcription repressor; RanBP2=HDAC1; RanBP2=-6	Train
+12070130_15	L1=ezrin; L1=ezrin; L1=ankyrin; L1=AP2	Train
+12072434	AP-2=UBC9; AP-2=UBC9	Train
+12130538	Suv39h=Histone H3; G9a=H3; HMTase=H3; histone methyltransferase=H3; G9a=H3; G9a=H3; G9a=H3; G9a=H3; G9a=H3; HMTase=H3	Train
+12147674_2	gigaxonin=microtubule-associated protein (MAP)1B light chain; MAP1B=gigaxonin; MAP1B-LC=gigaxonin	Train
+12147681	midkine=nucleolin; nucleolin=MK; nucleolin=CD90; nucleolin=CD59; MK=nucleolin	Train
+12185196	protein phosphatase 1 delta=nucleolin; PP1delta=nucleolin; PP1delta=nucleolin	Train
+12186903	E1B-55K=E4; E1B-55K=Cullin-5; E1B-55K=Rbx1; E1B-55K=Elongins B; E1B-55K=C; Rbx1=E1B-55K; C=E1B-55K; Elongins B=E1B-55K; Cullin-5=E1B-55K; Rbx1=E4; C=E4; Elongins B=E4; Cullin-5=E4; Cullin-5=p53; Rbx1=p53; Elongins B=p53; C=p53; E4=p53; E1B-55K=p53; E1B-55K=importin-alpha 1; E1B-55K=pp32	Train
+12218189	Cbl=CIN85; Cbl=receptor tyrosine kinases; CIN85=endophilin; Cbl=CIN85; Cbl=endophilin; Cbl=CIN85; Cbl-b=CIN85; Cbl=CMS; Cbl-b=CMS; CIN85=Cbl; Cbl=CIN85; Cbl-b=CIN85; CIN85=EGF receptors; Cbl-b=EGF receptors; Cbl-b=CIN85; Cbl=CIN85	Train
+12239347	c-Cbl=ErbB1; ErbB2=ErbB; CHIP=ErbB2; CHIP=ErbB2; CHIP=ErbB2	Train
+12242343	Janus kinase 1=IL-4 receptor; IL-4Ralpha chain=SOCS5; IL-4R=SOCS5	Train
+12354775	dishevelled=naked cuticle; Nkd=dishevelled; Dsh=Nkd; Nkd=Dsh; Nkd=Dsh; Nkd=Dsh; Nkd=Dsh; Nkd=Dsh; zinc=Nkd; zinc=Nkd	Train
+12361598	CDKs=CP110; CDK=CP110	Train
+12391162	phospholipase Cdelta=PtdIns(4,5)P(2); Spred=PtdIns(4,5)P(2); hSpry2=PtdIns(4,5)P(2)	Train
+12393906	protein inhibitor of activated STAT=Mdm2; RanBP2=Mdm2; Mdm2=p53; PIAS1=Mdm2; PIASxbeta=Mdm2; PIAS1=Mdm2; PIASxbeta=Mdm2; PIASxbeta=Mdm2; PIAS1=Mdm2; RanBP2=Mdm2; PIAS1=Mdm2; PIASxbeta=Mdm2; RanBP2=Mdm2; PIAS1=Mdm2; PIASxbeta=Mdm2; RanBP2=Mdm2; RanBP2=Mdm2; PIASxbeta=Mdm2; PIAS1=Mdm2	Train
+12411582	Nrdp1=ErbB3; Nrdp1=ErbB3; Nrdp1=ErbB3; Nrdp1=ErbB3; Nrdp1=ErbB3	Train
+12421820	Mdm2=p53; Mdm2=p53; Mdm2=p53	Train
+12433841	Rho=myosin phosphatase; PP1=SrcPTKs; Y27632=Rho	Train
+12456660	CBP=RelA; p300=RelA; p300=RelA; RelA=IkappaBalpha; RelA=IkappaBalpha	Train
+12475640	lysyl hydroxylase 3=collagens; Lysyl hydroxylase=collagens; galactosyltransferase=collagens; glucosyltransferase=collagens; LH3=collagens	Train
+12475979	DEP-1=Hepatocyte growth factor receptor tyrosine kinase; DEP-1=hepatocyte growth factor/scatter factor receptor; DEP-1=Gab1; DEP-1=p120 catenin; DEP-1=CSF; DEP-1=Met; DEP-1=colony stimulating factor 1 (CSF); DEP-1=Met; Gab1=Met; DEP-1=Met; DEP-1=Met	Train
+12482991	IkappaB kinase=p105; NF-kappaB=p105; IKK1=p105; IKK2=p105; IKK=p105; betaTrCP=p105; betaTrCP=p105; betaTrCP=p105; IkappaBalpha=p105; betaTrCP=p105; IkappaBalpha=p105; IKK=p105	Train
+12485996	BRCA1=BARD1; BRCA1=BARD1; BRCA1=BARD1; BRCA1=histones; BARD1=histones; BARD1=histone H2AX; BRCA1=histone H2AX; BRCA1=BARD1; BRCA1=BARD1; BRCA1=BAP1; BRCA1=BARD1	Train
+12486116	Fringe=Notch1; Fringe=Notch; beta1,3-N-acetylglucosaminyltransferase=Notch; Fringe=Notch1; Manic fringe=Notch1; Radical fringe=Notch1; Lunatic fringe=Notch1; Fringe=Notch1	Train
+12498683	CARM1=histone H3; CBP=histone H3; CBP=H3; CARM1=H3; CARM1=H3; CARM1=H3	Train
+12502735	SMRT=histone deacetylase 3; HDAC3=SMRT; TRiC=HDAC3; SMRT=HDAC3; SMRT=HDAC3; VHL=elongin BC; cyclin E=Cdk2; HDAC3=VHL; SMRT=elongin BC; SMRT=VHL; HDAC3=elongin BC; HDAC3=cyclin E; HDAC3=Cdk2; SMRT=cyclin E; SMRT=Cdk2	Train
+12515809_36	mannan=C-type lectin; mannose=MR; mannose=MR; dextran=MR; BSA=MR; BSA=MR	Train
+12530964	Mib=Delta; Delta=Notch	Train
+12540855	histone methyltransferases=histones; SET=histones; SET7/9=histone; SET7/9=histone; SET=histone; SET=histone	Train
+12556489	GADD34=protein phosphatase 1; PP1=GADD34; GADD34=PP1; GADD34=PP1; GADD34=PP1	Train
+12567184	HDAC=PP1; protein phosphatase 1=CREB; PKA=CREB; CBP=CREB; P300=CREB; HDAC1=CREB; HDAC1=PP1	Train
+12583813	PTP-SL=ERK1; PTP-SL=2; PTP-SL=p38alpha; STEP=ERK1; STEP=2; STEP=p38alpha; HePTP=ERK1; HePTP=2; HePTP=p38alpha; mitogen-activated protein kinase=HePTP; mitogen-activated protein kinase=STEP; PTP-SL=mitogen-activated protein kinase; MAPKs=HePTP; MAPKs=STEP; MAPKs=PTP-SL; PTP-SL=ERK1; PTP-SL=2; STEP=p38alpha; HePTP=p38alpha; p38alpha=STEP; p38alpha=HePTP; PTP-SL=p38alpha; ERK1=HePTP; 2=HePTP; ERK1=STEP; ERK1=PTP-SL; 2=STEP; 2=PTP-SL; extracellular-signal-regulated kinase 1=PTP-SL; 2=PTP-SL; p38alpha=PTP-SL; STEP=extracellular-signal-regulated kinase 1; STEP=2; STEP=p38alpha; HePTP=extracellular-signal-regulated kinase 1; HePTP=2; HePTP=p38alpha	Train
+12593795	receptor for the epidermal growth factor=Sprouty2; Sprouty2=c-Cbl; c-Cbl=Sprouty2	Train
+12694535	Mcm2=Mcm7	Train
+12724534	SCF UFO=COP9 signalosome; COP9 signalosome=SCF ubiquitin ligases; COP9 signalosome=cullins; SCF(UFO)=CSN	Train
+12725728	She4p=myosin; She4p=class I; She4p=class V myosins; She4p=Myo4p; She4p=Myo5p; Myo5p=actin; myosin=actin; She4p=Myo4p; She4p=Myo5p; She4p=myosin	Train
+12743368	actin=WASP; WASP=Arp2/3; actin=Arp2/3; WASP=actin; Arp2=Arp3	Train
+12764130	Shk1=Tea1; Shk1=Ras; Shk1=Cdc42; Cdc42=Ras; Shk1=Tea1; Shk1=Tea1; PAK=Cdc42; PAK=Ras; PAK=Shk1	Train
+12787446	beta-chymotrypsin=O2	Train
+12788921	prolyl 4-hydroxylases=hypoxia-inducible factor; P4Hs=HIF-alpha; HIF-P4Hs=HIF-1alpha; HIF-P4Hs=HIF-2alpha; HIF-P4Hs=HIF-3alpha	Train
+12802069	BP230=K5; BP230=K14; DP=K5; DP=K14; DP=K8; DP=K18; DP=K8; DP=K18; DP=vimentin; DP=cytokeratins; BP230=cytokeratins; BP230=keratins; DP=keratins; K14=BP230; K14=DP; K5=BP230; K5=DP	Train
+12820959	beta-TrCP1=Skp1; Skp1=beta-catenin; beta-TrCP1=beta-catenin; beta-TrCP1=beta-catenin; beta-TrCP1=IkappaB; SCF=IkappaB; SCF=beta-catenin; beta-TrCP1=Skp1; Skp1=beta-catenin; beta-TrCP1=beta-catenin	Train
+12842888	Rheb=tuberous sclerosis complex 2; TSC2=Rheb	Train
+12881521	Cbl=Vav; Cbl=Vav; Cbl=Vav; Cbl=Vav; Cbl=Vav; Cbl=Vav; Cbl=Vav; Cbl=Vav; Cbl=Vav	Train
+12893824	Arg=glutathione peroxidase 1; c-Abl=glutathione peroxidase 1; Arg=GPx1; c-Abl=GPx1; c-Abl=GPx1; Arg=GPx1	Train
+12904571	PIASy=Smad4; PIASy=Smad3; PIASy=Smad4; PIASy=Smads; PIASy=Smad3; PIASy=Smads; PIASy=Smad4; Smad3=PIASy; Smad3=Smad4; Smad4=PIASy; Smad3=PIASy; PIASy=histone deacetylase 1; PIASy=Smad; PIASy=HDAC; PIASy=Smad3; trichostatin A=HDAC	Train
+12925712_25	ankyrin B=L1CAM	Train
+12932319	Protein phosphatase 2A=KSR1; Protein phosphatase 2A=Raf-1; Raf-1=14-3-3; KSR1=14-3-3; PP2A=KSR1; PR65A=catalytic C; catalytic C=KSR1; PR65A=KSR1; PR55B=KSR1; PP2A=Raf; PP2A=KSR1; 14-3-3=KSR1; PP2A=KSR1; 14-3-3=KSR1; 14-3-3=Raf-1; PP2A=Raf-1; PP2A=KSR1; KSR1=MEK; KSR1=ERK	Train
+12952523	alpha=betagamma; betagamma=alpha; alpha=betagamma; alpha=S-prenyl; S-prenyl=G-protein alpha.betagamma	Train
+12952949	SNX9=adaptor protein complex 2; Sorting nexin 9=clathrin; clathrin=SNX9; dynamin-2=SNX9; AP-2=SNX9; clathrin=SNX9; dynamin-2=SNX9; SNX9=dynamin-2; SNX9=dynamin-2; SNX9=AP-2; SNX9=clathrin	Train
+12956952	TAC-1=ZYG-9; TACC=XMAP215; ZYG-9=TAC-1; ZYG-9=TAC-1	Train
+12972599	CSN=Cul1; Csn2=nuclear hormone receptors	Train
+12975610	syndecan-4=TGF-beta	Train
+1372388	c-Rel=p50; c-Rel=p50	Train
+14504268_7	Cdc31p=Kar1p; Vps13p=ZCdc31p; Thp1p=ZCdc31p; Hem15p=ZCdc31p	Train
+14506261	Siah-1=synphilin-1; Synphilin-1=alpha-synuclein; Parkin=Synphilin-1; Siah-1=synphilin-1; Synphilin-1=Siah-1; Siah-1=synphilin-1; Siah-1=synphilin-1; Siah-1=synphilin-1	Train
+14517266	TFIIH=XPC; HR23B=XPC; ERCC1=XPF; HR23B=XPC	Train
+14527407	DT=elongation factor-2; ETA=elongation factor-2	Train
+14532282	VP16=HCF-1; HCF=LZIP; HCF=Zhangfei; Krox20=HCF-1; p300=HCF-1; Krox20=HCF	Train
+14564014	Vif=Cul5; Vif=APOBEC3G; Cul5=APOBEC3G; SCF=APOBEC3G; Vif=Cul5; Vif=elongins B; Vif=C; Vif=Rbx1; Cul5=elongins B; Cul5=C; Cul5=Rbx1; elongins B=C; elongins B=Rbx1; C=Rbx1; Vif=APOBEC3G; Vif=APOBEC3G; Vif=APOBEC3G; Vif=Cul5; Vif=SCF	Train
+14592967	HSP90=RPM1; RPM1=HSP90; RAR1=HSP90; SGT1=HSP90; RPM1=HSP90; RPM1=HSP90; RAR1=HSP90; SGT1=HSP90	Train
+14597722	Px1=Px2	Train
+14612908_11	Annexin V=phosphatidyl serine	Train
+14624239_14	Rfc2=Rfc3; Rfc2=Rfc4; Rfc2=Rfc5; Rfc3=Rfc4; Rfc3=Rfc5; Rfc4=Rfc5; Rfc2=Rfc1; Rfc3=Rfc1; Rfc4=Rfc1; Rfc5=Rfc1; Rfc2=5	Train
+14636577	hSMG-5=hSMG-7; hUPF1=SMG-5; hUPF1=SMG-7; protein phosphatase 2A=hUPF1; hUPF1=protein phosphatase 2A; SMG-5=protein phosphatase 2A; SMG-5=SMG-7; SMG-7=protein phosphatase 2A; hSMG-5=hUPF1; hUPF1=hUPF3A; hSMG-1=hUPF1; PP2A=hUPF1	Train
+14684739	NEDL1=dishevelled-1; neuronal homologous to E6AP carboxyl terminus (HECT)-type ubiquitin-protein isopeptide ligase=translocon-associated protein-delta; NEDL1=Dishevelled-1; SOD1=Dishevelled-1; SOD1=NEDL1; NEDL1=translocon-associated protein-delta; translocon-associated protein-delta=Dishevelled-1; SOD1=translocon-associated protein-delta; SOD1=Dishevelled-1; NEDL1=Dishevelled-1	Train
+14690596	Pin1=p65; p65=IkappaBalpha; SOCS-1=p65	Train
+14697212	N-WASP=Cdc42	Train
+14701756	CHIP=Smad1; CHIP=Smad; CHIP=Smad; CHIP=Smad1; CHIP=Smad4; CHIP=Smad; Smad1=Smad4; Smad1=Smad4; Smad1=Smad4; CHIP=Smad1; CHIP=Smad4	Train
+14703513	IKK-i=IRF-3; TBK-1=IRF-3; epsilon=IRF-3	Train
+1470918	c-Fos=c-Jun; c-Fos=c-Jun	Train
+14716005	CREST=adenosine 3',5'-monophosphate (cAMP) response element-binding protein (CREB)-binding protein	Train
+14718519	Smad7=type I receptor; Smad7=GADD34; PP1c=Smad7; PP1c=GADD34; GADD34=PP1c; GADD34=TGFbeta type I receptor; PP1c=TGFbeta type I receptor; GADD34=PP1c; Smad7=growth arrest and DNA damage protein; PP1c=TbetaRI; GADD34=PP1c; PP1=TbetaRI; TbetaRI=PP1c; TbetaRI=GADD34; Smad7=PP1c; Smad7=GADD34; PP1c=Smad7; GADD34=Smad7; PP1c=Smad7; PP1=TbetaRI; Smad7=TbetaRI	Train
+14722103	Noc2=Rab27A; Rabphilin=Rab27A; Noc2=Rab3A; Rabphilin=Rab3A; Noc2=Rab27A; Rabphilin=Rab27A; Noc2=Rab3A; Rabphilin=Rab3A; Noc2=Rab3A; Rabphilin=Rab3A; Noc2=Rab27A; rabphilin=Rab27A; rabphilin=Rab27; rabphilin=Rab27; rabphilin=Rab27; rabphilin=Rab3A; Noc2=Rab3A; rabphilin=Rab27A; Noc2=Rab27A; rabphilin=Rab; Noc2=Rab; Rab27=rabphilin; Rab27=Noc2	Train
+1493333	p65=p50; MAD-3=p65; p65=MAD-3; MAD-3=p50; I kappa B=p65; MAD-3=NF-kappa B	Train
+15014503	Skp1=Cul1; Cul1=Skp2; Skp1=Skp2; SCF=p27; Skp1=p27; Cul1=p27; Skp2=p27; APC=securin; APC=cyclin B; APC=Skp2	Train
+15023524	DEF6=Rac1; DEF6=Rac2; DEF6=Cdc42; DEF6=actin; DEF6=RhoA	Train
+15031145	hHIF-1alphaTe=HIF-1beta	Train
+15044620	C/EBPbeta=hBrm; C/EBPbeta=Y box-associated; C/EBPbeta=Y box	Train
+15053880	HAUSP=p53; HAUSP=p53; E6=p53	Train
+15060148	pVHL=HIF	Train
+15060161	p300=beta-catenin; beta-catenin=Tcf4; p300=beta-catenin; beta-catenin=Tcf4; Tcf4=beta-catenin; beta-catenin=Tcf4; p300=beta-catenin; beta-catenin=androgen receptor; beta-catenin=Tcf4; beta-catenin=androgen receptor	Train
+15066998	tuberin=SMAD2; tuberin=SMAD3; Tuberous sclerosis complex 2=SMAD	Train
+15075292	Skn=Hh; Skn=Shh	Train
+15077114	NatC N(alpha)=Arl3p; Arl3p=Sys1p	Train
+15082796	PRL=PRLR; PRLR=Stat5; PRLR=beta-TrCP2; SCF=PRLR; SCF=PRLR; SCF=PRLR; beta-TrCP=PRLR; SCF=PRLR	Train
+15099518	EZH2=histone H1; EZH2=histone H3; Ezh2=histones; Ezh2=histone; Eed=Ezh2; Eed=Ezh2; HKMT=histone H3; HKMT=histone H1; Ezh2=histone H3; Ezh2=histone H1; Eed=histone H3; Eed=histone H1	Train
+15123609	Met=c-Cbl; Met=Cbl-b; Met=hepatocyte growth factor; Met=c-Cbl; c-Cbl=Met; c-Cbl=Met; c-Cbl=Met; c-Cbl=Met; c-Cbl=Met; c-Cbl=Met; c-Cbl=Met; Cbl-b=Met; c-Cbl=Met; Cbl-b=Met; c-Cbl=RTK; Cbl-b=RTK	Train
+15138260	p300=RUNX3; p300=RUNX3; p300=RUNX3	Train
+15140260_41	Herceptin=ErbB2; Iressa=EGFR; BAY 37-9751=Raf; CI-1040=MEK	Train
+15165234	P=N-acetyl-L-glutamate kinase; P(II)=N-acetylglutamate (NAG) kinase; P(II)=NAG kinase	Train
+15165235	FtsL=FtsB; FtsL=FtsQ; FtsB=FtsQ; FtsL=FtsB; FtsL=FtsQ; FtsB=FtsQ; FtsL=FtsB; FtsL=FtsQ; FtsB=FtsQ	Train
+15184667	PP1=CPI-17; PP1=inhibitor-2; protein kinase C=CPI-17; CPI-17=MYPT1; glycogen=PP1; glycogen=PP1; PP1=CPI-17; MYPT1=PP1; PP1=CPI-17; CPI-17=PP1; PP1=CPI-17; MYPT1=PP1C; MYPT1=PP1C; PP1C=CPI-17; MYPT1=CPI-17	Train
+15220471	cAMP-response element-binding protein (CREB)-binding protein=Foxo1; cAMP-response element-binding protein (CREB)-binding protein=Foxo1; Sir2=Foxo1; Sir2=Foxo1; cAMP-response element-binding protein-binding protein=Foxo1	Train
+15240556	Ds=Ft	Train
+15249135	Dab1=Reelin; Reelin=VLDLR; Reelin=ApoER2; Dab1=VLDLR; Dab1=ApoER2; Dab1=VLDLR; Dab1=ApoER2; Dab1=ApoER2; Dab1=VLDLR; Reelin=Dab1; Reelin=Dab1	Train
+15258597	A20=receptor interacting protein; A20=RIP	Train
+15282312	Keap1=Cul3-based E3 ligase; Keap1=Nrf2; Keap1=Nrf2; Cullin 3=Keap1; Keap1=Cul3; Cul3=Roc1; Keap1=Cul3-based E3 ligase; Nrf2=Cul3-based E3 ligase; Keap1=Cul3-based E3 ligase; Cul3-based E3 ligase=Keap1	Train
+15292171	Hal3=Ppz1; Hal3=Ppz1; protein phosphatase 1c=Hal3; Hal3=Ppz1; Hal3=Ppz1; Ppz1=Hal3; Hal3=Ppz1; Hal3=Ppz1	Train
+1531086	p50B=p50; p50B=RelB; p50B=p65; p50B=kappa B; RelB=kappa B; p50B=kappa B	Train
+15326037	atorvastatin=hydroxy methyl glutaryl co-enzyme A reductase	Train
+15340068	p62=proteasome	Train
+15364929	(E)-6-(Bromomethylene)-3-(1-naphthalenyl)-2H-tetrahydropyran-2-one=iPLA2s	Train
+15465819	EGFR=Eps15; c-Cbl=EGFR; Cbl=CIN85; Eps15=EGFR	Train
+15469825	SirT1=histone H1; SirT1=histone; SirT1=histone H4; SirT1=H3; SirT1=H4; SirT1=H3; SirT1=histone H1; SirT1=histone H1; SirT1=H4; SirT1=H3; SirT1=H1; SirT1=histone; SirT1=histone H1; SirT1=histone H1	Train
+15485929	PRMT5=histone H3; SWI/SNF=PRMT5; PRMT5=hSWI/SNF; PRMT5=BRG1; PRMT5=hBRM; PRMT5=H3; PRMT5=H4; PRMT5=hSWI/SNF; hSWI/SNF=H3; hSWI/SNF=H4; hBRM=H3; hBRM=H4; BRG1=H3; BRG1=H4; hSWI/SNF=H3; hSWI/SNF=H4; PRMT5=H3; PRMT5=H4; hSWI/SNF=PRMT5; PRMT5=H3; PRMT5=H4; hSWI/SNF=H3; hSWI/SNF=H4; PRMT5=BRG1; PRMT5=hBRM; PRMT5=nonmetastatic 23; PRMT5=suppressor of tumorigenicity 7; BRG1=nonmetastatic 23; BRG1=suppressor of tumorigenicity 7; hBRM=nonmetastatic 23; hBRM=suppressor of tumorigenicity 7; hBRM=PRMT5; BRG1=PRMT5	Train
+15496141	Smad7=type I receptors; Smad7=NEDD4-2; NEDD4-2=Smad7; NEDD4-2=R-Smads; NEDD4-2=TGF-beta superfamily receptors; NEDD4-2=Smad7; Smad7=TGF-beta type I receptor; NEDD4-2=R-Smads; NEDD4-2=Smads 2; NEDD4-2=3; NEDD4-2=Smad2; Smad2=SnoN; Smurf2=Smad2; Smurf2=SnoN; 2=Smad7; Smurfs 1=Smad7; NEDD4-2=TGF-beta type I receptor; Smurfs 1=TGF-beta type I receptor; 2=TGF-beta type I receptor	Train
+15527798	MDM2=p53; AKT=MDM2; AKT=MDM2; AKT=MDM2; AKT=MDM2	Train
+15564593	TRIP8b=HCN; Pex5p-related protein=HCN; HCN1=TRIP8b	Train
+15572695	Keap1=Cul3; Keap1=Cul3; Cul3=Rbx1; Keap1=Rbx1; Keap1=Nrf2; Cul3=Nrf2; Rbx1=Nrf2; Keap1=Nrf2; Keap1=Nrf2; Keap1=Nrf2	Train
+15601839	Cullin 3=Roc1; Cullin 3=Nrf2; Roc1=Nrf2; Cullins=Roc1; Keap1=CUL3; Keap1=Nrf2; KEAP1=CUL3; CUL3=ROC1; KEAP1=ROC1; CUL3=ROC1; CUL3=Nrf2; ROC1=Nrf2; KEAP1=NRF2	Train
+15611133	Rpn5p=Rpn8p; Rpn5p=Rpn11p; Rpn5p=Rpn9p; Rpn8p=Rpn9p; Rpn8p=Rpn11p; Rpn9p=Rpn11p; Rpn3p=Rpn7p; Rpn3p=Rpn12p; Rpn3p=Sem1p; Rpn7p=Rpn12p; Rpn7p=Sem1p; Rpn12p=Sem1p	Train
+15653507	p300=Stat3; type I histone deacetylase=Stat3	Train
+15657046	G(alpha)o/i=CB1; G(alpha)o/i=Rap1GAPII; G(alpha)o/i=CB1; G(alpha)o/i=cannabinoid receptor; CB1=cannabinoid	Train
+15660136	SCF=Zip1; Pof1=Zip1; SCF=Zip1; SCF=Zip1	Train
+15678106	MDM2=p53; p73=MDM2; p53=MDM2; p73=Itch; Itch=p73; Itch=p73	Train
+15692013	Protein O-fucosyltransferase 1=Notch; OFUT1=Notch	Train
+15692085	caveolin-1=VEGFR2	Train
+15723223	dinitrogenase reductase ADP-ribosyltransferase=dinitrogenase reductase; dinitrogenase reductase glycohydrolase=dinitrogenase reductase	Train
+15729676	Rab7=REP; Rab7=GDI	Train
+15734730	Dab2=beta1 integrin	Train
+15767661	NoRC=histone; NoRC=histone H4; NoRC=histone H3; TTF-I=NoRC; NoRC=histone H4; NoRC=histone H3	Train
+15769255	Nep1=Pcu1; Nep1=Pcu3; Nep1=Pcu4; Nep1=cullins; Nep1=Csn5; Nep1=cullins	Train
+15774718	G9a=GLP; Histone methyltransferases=H3; G9a=H3; GLP=H3; G9a=H3; GLP=H3; GLP=H3; G9a=GLP; G9a=GLP; G9a=H3; GLP=H3; G9a=GLP	Train
+15781469	CHIP=Smad3	Train
+15831457	PIASy=Tcf-4; PIASy=Tcf-4; Promyelocytic leukemia protein=PIASy; Promyelocytic leukemia protein=PIASy; PIASy=Tcf-4; PIASy=Tcf-4	Train
+15851033	Src=CDCP1; PKCdelta=CDCP1	Train
+15937107	GTP=hGBP-1	Train
+15937324	LKP2=Di19; LKP2=COL1; COL1=LKP1; COL1=LKP2; COL1=FKF1; CO/COL=LKP1; CO/COL=LKP2; CO/COL=FKF1; LKP2=CO; LKP2=COL1; CO=LKP2; COL1=LKP2; LKP2=CO; LKP2=COL1	Train
+15950904	p53=HDM2; HDM2=p53; HDM2=p53	Train
+16000296	DHHC9=H-; DHHC9=N-Ras; GCP16=H-; GCP16=N-Ras; Erf2=Erf4; Erf2=Ras; ZDHHC9=N-Ras; ZDHHC9=H-; GCP16=N-Ras; GCP16=H-; DHHC9=GCP16; Erf2=Erf4; DHHC9=GCP16; DHHC9=GCP16; DHHC9=H-; DHHC9=N-Ras; GCP16=H-; GCP16=N-Ras; DHHC9=Ras; GCP16=Ras	Train
+16006204	Phosphonocarboxylate=Rab geranylgeranyl transferase; risedronate=farnesyl diphosphate synthase; 3-PEHPC=Rab geranylgeranyl transferase; phosphonocarboxylates=Rab geranylgeranyltransferase; bisphosphonates=farnesyl diphosphate synthase	Train
+16007227	Notch4=Smad3; Notch4ICD=Smad2; Notch4ICD=Smad3; Notch4ICD=Smad4; Notch4ICD=Smad3; Smad3=ICD4	Train
+16009132	cyclin B1=Cdk1; SCF=cyclin B1	Train
+16024799	p300=p53; ING2=p53; p53=p300; ING2=p300; p53=p300; p300=p53; p300=p53	Train
+16036220	COP9 signalosome=CUL1; CUL1=CAND1; COP9 signalosome=cullins; CAND1=CUL1; COP9 signalosome=CUL1; CSN=CUL1; CUL1=CSN; CSN=CUL1; CAND1=CUL1; CAND1=CUL1; Rbx1=CUL1; Rbx1=CAND1; CSN=CUL1; CUL1=CAND1	Train
+16061479	Pc2=Smad-interacting protein 1; Smad-interacting protein 1=C-terminal-binding protein; Pc2=SIP1; PIAS=SIP1; SIP1=CtBP	Train
+16079795	LSD1=histone; LSD1=androgen receptor; androgen receptor=LSD1; LSD1=histone H3; LSD1=H3-	Train
+16081735	p21-activated kinase 2=c-Myc	Train
+16103228_18	4-Pase=Rab5; 5-=Rab5; 4-Pases=Rab5; 5-=Rab5; 5-=Rab5; 5-=Rab5; 4-Pase=Rab5; 4-Pase=Rab5; 5-=Rab5; 4-Pases=Rab5	Train
+16113677	InlB=hepatocyte growth-factor receptor; Cbl=Met; Cbl=Met; Cbl=Met	Train
+16115959_30	c-Src=integrin beta3; fibrinogen=alphaIIbbeta3; PTP-1B=alphaIIbbeta3; PTP-1B=c-Src; PTP-1B=Csk; c-Src=Csk; PTP-1B=Csk	Train
+16115959	c-Src=alphaIIbbeta3; c-Src=Csk; alphaIIbbeta3=Csk; Csk=c-Src; Fibrinogen=alphaIIbbeta3; PTP-1B=alphaIIbbeta3; PTP-1B=c-Src; PTP-1B=Csk; alphaIIbbeta3=c-Src; alphaIIbbeta3=Csk; c-Src=Csk; Csk=alphaIIbbeta3; PTP-1B=c-Src	Train
+16118227	HSPC069=huntingtin; HMTase=histone H3; HYPB=RNA polymerase II; RNAPII=HYPB; HYPB=histone; HMTase=histone	Train
+16134170	HLCS=histones	Train
+16163388	Chk2=MDMX; ATM=MDMX; ATM=MDMX; MDM2=MDMX; MDM2=MDMX; Chk2=MDMX; MDM2=MDMX	Train
+16166628	HDAC4=MEF2; HDAC4=histone; HDAC4=Ubc9; SIRT1=MEF2; HDAC4=MEF2; CBP=MEF2	Train
+16198295	follistatin=activin; activin A=follistatin; follistatin=activin; type I receptor=activin; follistatin=BMP; follistatin=type I receptor; BMP=type I receptor; activin=follistatin; type I=follistatin; type I=activin; type II receptor=follistatin; type II receptor=activin; activin A=TGF-beta	Train
+16205122	ODC=antizyme; 26S proteasome=ODC	Train
+16227611	Cbl ubiquitin ligases=Met; Cbl=Met	Train
+16274718	E2=ER; ERalpha=E2	Train
+16332960	TAZ=TBX5; p300=histone; PCAF=histone; TAZ=p300; TAZ=PCAF; YAP=TAZ; TBX5=TAZ; TBX5=TAZ; TBX5=TAZ	Train
+16352599	EFP=14-3-3sigma; EFP=14-3-3sigma; EFP=14-3-3sigma	Train
+16362057	JmjC domain-containing proteins=Histone; JHDM1=histone H3; JHDM1=H3; JHDM1=H3	Train
+16380507_12	HDAC2=p65; HDAC2=NF-kappaB; GR=p65; GR=NF-kappaB	Train
+16402859_1	HAUSP=p53; HAUSP=MDM2	Train
+16420575	von Willebrand factor=collagen; von Willebrand factor=collagen; von Willebrand factor=collagen types I; von Willebrand factor=III; VWF=collagen; collagen=VWF; ristocetin=VWF; collagen=VWF; collagen=VWF; collagen=VWF; collagen=VWF; glycoprotein (GP)Ib=VWF; collagen=VWF; GPIb=VWF; VWF=collagen	Train
+16424009	Ang2=alpha(v)beta(1) integrin; Ang2=alpha(v)beta(1) integrin	Train
+16424386	Tax=IkappaB	Train
+16431915	EDEM3=alpha1-AT	Train
+16456541	PP2A=ERK; protein phosphatase 2A=ERK; B56=ERK; ERK=IEX-1; PP2A=ERK; IEX-1=B56; IEX-1=pERK; ERK=B56; PP2A=ERK	Train
+16461343	PTPN22=Vav; PTPN22=CD3epsilon; PTPN22=valosin containing protein; PEP=Lck; PEP=Zap70; PTPN22=T cell antigen receptor (TCR) zeta; PTPN22=Lck; PTPN22=Zap70; PTPN22=TCRzeta; PTPN22=Lck; PTPN22=Zap70; PTPN22=TCRzeta; PTPN22=Lck; PTPN22=Zap70; PTPN22=TCRzeta; PTPN22=TCRzeta; PTPN22=TCRzeta	Train
+16464858	Fringe=Notch; O-fucose beta1,3-N-acetylglucosaminyltransferase=Notch	Train
+16467855	GCPII=glutamate	Train
+16473575	Rab GDI=YPT1; Rab=Rab escort protein; Rab geranylgeranyl transferase=Rab	Train
+16532030	Src=Histone deacetylase 3; HDACs=histones; c-Src=HDAC3; c-Src=HDAC3	Train
+16547496	cullin 7=p53; Cullins=ROC1; CUL7=p53; PARC=p53; CUL7=p53; PARC=p53; CUL7=p53; CUL7=p53; MDM2=p53; CUL7=p53	Train
+16547505	CtBP=TCF-4; CtBP=TCF-4; CtBP=TCF-4	Train
+1659820	cholera toxin=Gs alpha; cholera toxin=Gs alpha	Train
+16603237	JHDM2A=H3K9; JHDM1=histone; JHDM2A=histone; JHDM2A=H3K9; JHDM2A=H3K9	Train
+16603238	JMJD2=histone; JHDM1=histones; LSD1=histones; JMJD2A=H3; JMJD2A=H3; JMJD2=H3; JMJD2=H3; JMJD2=H3	Train
+16603259	ADA2=GCN5; ADA2=CBF1; CBF1=ADA2; ADA2b=GCN5; ADA2a=GCN5; ADA2=GCN5; GCN5=histones; GCN5=histones; GCN5=ADA2	Train
+16631741	Xin=filamin c; Xin=Mena; Xin=VASP; Filamin c=FATZ; Filamin c=myotilin; filamin c=Xin; Xin=Mena; Xin=VASP; filamin c=Xin; filamin c=Mena; filamin c=VASP; Xin=Mena; Xin=VASP; Mena=VASP	Train
+16669786	von Hippel-Lindau tumour-suppressor protein=protein kinase Cdelta; pVHL=elongin C; elongin C=elongin B; pVHL=elongin B; VHL (von Hippel-Lindau) tumour-suppressor protein=elongin C; VHL (von Hippel-Lindau) tumour-suppressor protein=elongin B; VHL (von Hippel-Lindau) tumour-suppressor protein=Cul-2; VHL (von Hippel-Lindau) tumour-suppressor protein=Rbx1; VCB=Cul-2; Cul-2=VCB; Cul-2=elongin B; Cul-2=elongin C; Cul-2=pVHL; elongin C=elongin B; elongin C=Cul-2; elongin C=Rbx1; elongin B=Cul-2; elongin B=Rbx1; Cul-2=Rbx1; PKCdelta=pVHL; PKCdelta=pVHL; VCB=Cul-2; VCB=PKCdelta; VCB=aPKC; Cul-2=PKCdelta; Cul-2=aPKC; VCB=hypoxia-inducible factor 1alpha; Cul-2=hypoxia-inducible factor 1alpha; VCB=aPKC; Cul-2=aPKC	Train
+16678094	CLOCK=histone; CLOCK=histones H3; CLOCK=H4; ACTR=histones H3; BMAL1=CLOCK; CLOCK=histone	Train
+16678110	CUL4=DDB; DDB=ROC1; CUL4=ROC1; CUL4=H4; DDB=H4; ROC1=H4; CUL4=Histone H3; DDB=Histone H3; ROC1=Histone H3; CUL4=DDB; DDB=ROC1; CUL4=ROC1; CUL4=H4; CUL4=histone H3; DDB=H4; DDB=histone H3; ROC1=H4; ROC1=histone H3; CUL4=DDB; ROC1=DDB; CUL4=ROC1; ROC1=H3; ROC1=H4; DDB=H3; DDB=H4; CUL4=H3; CUL4=H4; CUL4=DDB; DDB=ROC1; CUL4=ROC1; CUL4=H3; CUL4=H4; DDB=H3; DDB=H4; ROC1=H3; ROC1=H4; CUL4A=H4; CUL4A=histone H3; CUL4=DDB; DDB=ROC1; ROC1=histone; DDB=histone; CUL4=histone; CUL4=DDB; DDB=ROC1; CUL4=ROC1; ROC1=histone; DDB=histone; CUL4=histone	Train
+16705181	SCFbetaTrCP=Gli3; SCFbetaTrCP=glycogen synthase kinase 3beta; betaTrCP=Gli3; GSK3beta=Gli3; CK1=Gli3; betaTrCP=Gli3; SCFbetaTrCP=Gli3; SCFbetaTrCP=glycogen synthase kinase 3beta; betaTrCP=Gli3; PKA=Gli3	Train
+16728642	Shn3=WWP1; Shn3=Runx2; WWP1=Runx2; Runx2=Runx2	Train
+16732292	JHDM3A=histone H3; JHDM3A=H3; JHDM3A=H3K9; JHDM3A=H3; JHDM3A=H3K36; JHDM3A=H3K9; JHDM3A=ASCL2; JHDM3A=histone	Train
+16738141_62	Bop1=WDR12	Train
+16740475	HIB=Ci; HIB=Cul3	Train
+16757337	Rap1=RIAM; RIAM=Rap1	Train
+16772401_2	MutL=MutH	Train
+16788062	SIRT3=AceCS2; SIRT3=AceCS2; SIRT3=AceCS2; sirtuin=ACS	Train
+16847311	SAP=FynT; SLAM=FynT; SLAM=SAP; SAP=SLAM; SAP=Src-related kinase; SAP=FynT; SLAM=SAP; SAP=FynT; SLAM=FynT; SLAM=SAP; FynT=SLAM; FynT=SAP; SLAM=SAP; SAP=SLAM; FynT=SLAM; FynT=SAP; SLAM=SAP; SLAM=SAP; SLAM=SAP; SLAM=SAP; SAP=FynT	Train
+16855289_46	DNA Ligase I=PCNA	Train
+16884718	Pellino=IRAK-1; Pellino=IRAK-1	Train
+16892053	Protein phosphatase 5=Raf-1; Protein phosphatase 5=Raf-1; PP5=Raf-1	Train
+16906146	Uch37=proteasomes; Uch37=proteasomes; Uch37=Adrm1; Rpn13p=S1; Adrm1=Uch37; ubiquitin=7-amido-4-methylcoumarin; ubiquitin=AMC; Uch37=Adrm1; Uch37=Adrm1; Adrm1=S1; Uch37=S1; Uch37=19S	Train
+16964248	USP7=FOXO; USP7=FOXO; USP7=FOXO; USP7=FOXO	Train
+16998237	CDDO-Me=IKKbeta; CDDO=IKKbeta; CDDO=IKKbeta; CDDO-Me=IKKbeta; CDDO-Me=IKKbeta; CDDO-Me=IKKbeta	Train
+17020914	PIAS3=PRB; PIAS3=PR; PIAS3=PRB	Train
+17040568_5	type I=TGFbeta; type II receptor serine/threonine kinases=TGFbeta; activins=ACVR2A; activins=ACVR2B; activins=type II receptors; type II receptors=type I receptor; ACVR2A=type I receptor; ACVR2B=type I receptor; type II receptors=activin receptor-like kinase 4; type I receptor=Smads; type I receptor=activin A; ALK2=activin A; type I receptor=activins; ALK4=activins	Train
+17108053	K-bZIP=vPK; vPK=K-bZIP; Cdk2=K-bZIP; vPK=K-bZIP; vPK=K-bZIP	Train
+17108971	Smyd2=p53; Smyd2=p53; p53=Smyd2; Smyd2=p53; Set9=p53; Smyd2=p53	Train
+17121812	CARPs=p53; CARPs=p53; CARPs=p53	Train
+17135271	TRAF6=TRAF6; Ubc13=TRAF6; Uev1A=TRAF6; TRAF6=NEMO; TRAF6=TRAF6	Train
+17183367	cullin-containing ubiquitin ligase=NF-kappaB; Elongins B=C; Elongins B=Cul2; Elongins B=SOCS1; C=Cul2; C=SOCS1; Cul2=SOCS1; COMMD1=ECS; COMMD1=Cul2; SOCS1=RelA	Train
+17189298	Pes1=Bop1; Pes1=WDR12; Bop1=WDR12	Train
+17213197	deoxyhypusine hydroxylase=eukaryotic translation initiation factor; deoxyhypusine hydroxylase=eIF5A; deoxyhypusine hydroxylase=eIF5A; Deoxyhypusine hydroxylase=eukaryotic translation initiation factor 5A; eIF5A=DOHH; DOHH=eIF5A; DOHH=eIF5A; DOHH=eIF5A; DOHH=eIF5A; DOHH=eIF5A; DOHH=eIF5A; DOHH=eIF5A	Train
+17255944	MAPK=Capicua; MAPK=Capicua; Capicua=Rolled	Train
+17277772	lysine-specific demethylase 1=histone; LSD1=androgen receptor; LSD1=histone H3; LSD1=H3K9; JMJD2C=histone; JMJD2C=androgen receptor; androgen receptor=JMJD2C; JMJD2C=H3K9; JMJD2C=H3K9; JMJD2C=LSD1; androgen receptor=JMJD2C; JMJD2C=LSD1; androgen receptor=LSD1; LSD1=H3K9; JMJD2C=H3K9; androgen receptor=H3K9; androgen receptor=H3K9	Train
+17290220	Mdm2=p53; USP2a=Mdm2; USP2a=Mdm2; HAUSP=p53; HAUSP=Mdm2	Train
+17318175	PP1=axin; PP1=axin; casein kinase I=axin; PP1=axin; Axin=glycogen synthase kinase 3; PP1=axin	Train
+17381423	betaENaC=gammaENaC; Nedd4=gammaENaC; Nedd4=betaENaC; Nedd4-2=ENaC; ENaC=mu2	Train
+17386267	PHLPP=Akt; PHLPP2=Akt; PHLPP1=Akt; Akt2=GSK-3alpha; Akt2=HDM2; Akt3=p27	Train
+17389930	statherin=hydroxyapatite	Train
+17392790	Retinoic-acid-inducible gene-I=MAVS; TRIM25=RIG-I; TRIM25=RIG-I; TRIM25=RIG-I; TRIM25=RIG-I; RIG-I=MAVS; TRIM25=RIG-I; TRIM25=RIG-I	Train
+17420445	Nem1p=Smp2p; Dullard=lipin	Train
+17439403	Cbx4=Dnmt3a; Cbx4=Dnmt3a	Train
+17439941	Cul1=Roc1; Cul2=Roc1; Cul3=Roc1; Cul4a=Roc1; Cul4b=Roc1; Cul5=Roc1; Elongin B=C; C=Cul2; Cul2=VHL; Elongin B=Cul2; Elongin B=VHL; C=VHL; Elongin B=hypoxia-inducible factor-1alpha; C=hypoxia-inducible factor-1alpha; Cul2=hypoxia-inducible factor-1alpha; VHL=hypoxia-inducible factor-1alpha	Train
+17443180	Mad2=Cdc20; USP44=Cdc20; Mad2=Cdc20; Wee1=Cdk1; Cdc25=Cdk1	Train
+17483134	Siglecs=sialylated glycans; Siglec-15=DNAX activation protein (DAP)12; Siglec-15=DAP10	Train
+17525233	polycomb repressive complex 2=histone H3; polycomb repressive complex 2=histone H3; EZH2=histone; EZH2=histone; EZH2=histone; EZH2=Hoxa1	Train
+17535922	protein phosphatase 2A=DARPP-32; protein kinase A=DARPP-32; Cdk5=DARPP-32; PP2B=DARPP-32; calcineurin=DARPP-32; PP2A=DARPP-32; PP2A=DARPP-32; PP2A=DARPP-32; PR72=Ca(2+)	Train
+17546054	14-3-3sigma=MDM2; 14-3-3sigma=MDM2; MDM2=p53	Train
+17565966	Slit=Robo	Train
+17644729	WER=ENHANCER OF GLABRA3; WER=GLABRA3; GL3=WER; EGL3=WER	Train
+17681947	ALK=pleiotrophin; receptor protein tyrosine phosphatase (RPTP) beta=PTN; zeta=PTN; PTN=ALK; RPTPbeta=ALK; zeta=ALK; ALK=ALK; RPTPbeta=ALK; zeta=ALK	Train
+17713478	JMJD3=histone H3K27; UTX=histone H3K27; polycomb repressive complex 2=histone H3; polycomb repressive complex 2=H3K27me2; polycomb repressive complex 2=me3; UTX=histone H3; JMJD3=histone H3; JMJD3=H3K27me3; UTX=H3K27me3; JMJD3=H3K27me3; UTX=MLL2; MLL2=H3K4me3; histone methyltransferase=H3K4me3	Train
+17715127	SIRT4=insulindegrading enzyme; SIRT4=ANT2; SIRT4=ANT3; SIRT4=histones; SIRT4=bovine serum albumin	Train
+17720710	Rad18=PCNA; Rad18=Rad6; Rad18=ubiquitin; Rad18=Rad6; Rad18=ubiquitin; Rad18=PCNA; Rad6=Rad18; Rad18=PCNA; ubiquitin=Y-family polymerases	Train
+17761849	UTX=H3K27; mixed-lineage leukemia (MLL) 2=3; UTX=mixed-lineage leukemia (MLL) 2; UTX=3; UTX=histone H2A; UTX=HOX; UTX=H3K27; UTX=H3K4; MLL2=3; MLL2=H3K4; 3=H3K4; UTX=H3K27; HOX=H3K27; HOX=H3K4	Train
+17827148	MDC1=anaphase-promoting complex/cyclosome; MDC1=Cdc27; MDC1=histone H2AX; MDC1=APC/C; Cdc27=MDC1; MDC1=APC/C; MDC1=anaphase-promoting complex/cyclosome; MDC1=gamma-H2AX	Train
+17873522	Usp28=Fbw7alpha; Usp28=Fbw7alpha	Train
+17898714	PRMT6=histone H3R2; MLL=H3K4; PRMT6=H3R2; PRMT6=H3R2; ASH2=WDR5; WDR5=MLL; ASH2=MLL; ASH2=H3; WDR5=H3; MLL=H3; MLL=H3K4	Train
+17911105	Pen-2=nicastrin; nicastrin=Aph-1; Pen-2=Aph-1; presenilin=Pen-2; presenilin=nicastrin; presenilin=Aph-1; presenilin=Pen-2; Pen-2=nicastrin; nicastrin=Aph-1; Pen-2=Aph-1; presenilin=nicastrin; presenilin=Aph-1; Pen-2=nicastrin; nicastrin=presenilin; Pen-2=presenilin	Train
+17927566	2-oxoglutarate decarboxylase=E2o; E1p=E2o	Train
+17932050_31	Mmp1=S-methylmethionine	Train
+17934456	Wnt5=drl	Train
+17948050	Carma1=Bcl10; Bcl10=Malt1; Carma1=Malt1; TRAF6=Malt1; TRAF6=Malt1; TRAF6=Malt1	Train
+17982102	p300=p65; p65=p300; p65=p300	Train
+17984207	porin (Por) 1B=C4b; porin (Por) 1B=C3b; C4b=Por1B; C4b=opacity protein; C3b=opacity protein; C4b=A; C3b=A; C4b=B; C4b=C; C4b=D; C4b=E; C4b=F; C4b=I; C3b=B; C3b=C; C3b=D; C3b=E; C3b=F; C3b=I; Opa=Por1B; C3b=Opa; C4b=Opa	Train
+17991829	DUBA=tumor necrosis factor receptor-associated factor 3; DUBA=TRAF3; TRAF3=TANK-binding kinase 1; DUBA=ubiquitin; DUBA=TRAF3	Train
+17991896	PR70=pRb; PR70=pRb; cyclin-dependent kinase=cyclin; cyclin-dependent kinase=pRb; PP2A=pRb; PP2A=pRb; PR70=pRb; PR70=pRb; PR70=pRb; PR70=pRb; PR70=Ca(2+)	Train
+18001824	RNF8=histones; RNF8=MDC1; RNF8=53BP1; RNF8=BRCA1; RNF8=histone H2A; RNF8=H2AX; RNF8=histone	Train
+18031230	Daxx=androgen receptor; Daxx=glucocorticoid receptor; Daxx=Smad4; Daxx=CBP; PML=Daxx	Train
+18056411_52	IFNAR1=Tyk2	Train
+18059533	HDAC1=HDAC2; HDAC1=Sin3A; HDAC2=Sin3A; HDAC2=Sp1; butyrate=HDAC; trichostatin A=HDAC; TSA=HDAC	Train
+18066079	UPF2=UPF3b; UPF1=UPF3; UPF1=UPF2; UPF2=UPF3; UPF1=UPF2; UPF1=UPF3; UPF2=UPF3; UPF3b=MAGOH; UPF3b=Y14; UPF3b=eIF4AIII; eIF4AIII=Y14; eIF4AIII=MAGOH; Y14=MAGOH; UPF3b=UPF2; UPF3b=UPF1; UPF2=UPF1; UPF2=UPF1; UPF3b=UPF1; EJC=UPF	Train
+18079182	PRMT6=histone H3; PRMT6=histones; PRMT6=histone H3; PRMT6=histones H4; PRMT6=H2A; PRMT6=H3; WDR5=histone H3; MLL1=WDR5; PRMT6=H3	Train
+18082605	USP1=FANCD2; USP1=PCNA; USP1=FANCD2; USP1=PCNA; USP1=FANCD2	Train
+18086185_19	adhesin=N-CEA	Train
+18093584	FTI-277=farnesyltransferase	Train
+18094045	Fbx8=Arf6; Fbx8=Arf6; Fbx8=Arf6; Fbx8=Arf6	Train
+18160347	MIG-14=Wnt	Train
+18160704	Wingless=Armadillo; Armadillo=TCF; TCF=Armadillo; CBP=histone; CBP=Armadillo; TCF=Armadillo; Armadillo=CBP; TCF=CBP; CBP=histone; Armadillo=histone; TCF=histone	Train
+18171471_7	FAK=paxillin; paxillin=FAK; paxillin=FAK	Train
+18180281	Histone deacetylase 6=ubiquitin; Histone deacetylase 6=histone; Histone deacetylase 6=alpha-tubulin; Histone deacetylase 6=Hsp90; HDAC6=tubulin; HDAC6=Hsp90	Train
+18199689	Pcr1=Atf1; Gcn5=Spt; Ada2=Gcn5; Ada2=Spt; Ada=Spt; Gcn5=Ada; Ada2=Ada	Train
+18199880	G(s)=FSHRs	Train
+18220415	PDHK2=dihydrolipoyl acetyltransferase; K+=PDHK2; PDHK2=E2; K+=PDHK2	Train
+18234837	Galectin-1=h-ras; Galectin-1=H-Ras; Gal-1=H-Ras; Gal-1=H-Ras; Gal-1=H-Ras; Gal-1=H-Ras; Gal-1=H-Ras	Train
+18245485	ARC=caspase-8	Train
+18247557	Nedd8=Cul-1; Nedd8=-2; Nedd8=-3; Nedd8=-4A; Nedd8=-4B; Nedd8=-5; Nedd8=-7; Nedd8=Parc	Train
+18248330	ERK4=PRAK; ERK4=MK5; MK5=ERK4; MK5=ERK4; ERK4=MK5; ERK4=MK5; ERK4=MK5; MK5=ERK4; MK5=ERK4; MK5=ERK4	Train
+18267004	cAMP-dependent protein kinase A=Sup35; Sup35=eRF1	Train
+18281465	beta-catenin=TCF/LEF; Trabid=ubiquitin; Trabid=APC; Trabid=APC; TCF=beta-catenin	Train
+1828290	p34cdc2=cyclin B; CDC25=p34cdc2; CDC25=cyclin B; p34cdc2=cyclin B; cdc25=p34cdc2; p34cdc2=cyclin B; p54CDC25H=p34cdc2; p34cdc2=cyclin B	Train
+18312697_17	SCFhFBH1=hFBH1; SCFFbh1=Rhp51	Train
+18342605	Swd2=Ref2; Glc7=Ref2; Glc7=Swd2; Glc7=Sen1; Glc7=Sen1; Sen1=Nrd1; Sen1=Nab3; Nab3=Nrd1; Nrd1=Glc7; Glc7=Nab3; Glc7=Sen1; Nrd1=Sen1; Nab3=Sen1	Train
+18344994	Txnip=thioredoxin	Train
+18394995	PME-1=PP2A; PME-1=PP2A; PME-1=PP2A; PME-1=PP2A; PME-1=PP2A	Train
+18404153	histone=COPR5; COPR5=PRMT5; PRMT5=COPR5; PRMT5=histone H4; PRMT5=histone H3; PRMT5=histones; COPR5=histone H4	Train
+18447580_6	PABP=eRF3; PABP=ribosome; eRF3=ribosome	Train
+18452947	Dnmt3b=thymine-DNA glycosylase; Dnmt3b=Tdg; Dnmt3b=methyl-CpG binding domain protein 4	Train
+18457970	BHMT2=BHMT	Train
+18469165	Pop2p=Not; Pop2p=Ccr4p; Ccr4p=Not; Ccr4p=Vts1p; Pop2p=Vts1p; Not=Vts1p; Ccr4p=Pop2p; Ccr4p=Not; Pop2p=Not; Pop2p=Not; Ccr4p=Pop2p; Ccr4p=Not; Vts1p=Ccr4p; Vts1p=Pop2p; Vts1p=Not; Pop2p=Not; Ccr4p=Pop2p; Ccr4p=Not; Vts1p=Ccr4p; Vts1p=Pop2p; Vts1p=Not; Pop2=Not; Ccr4=Pop2; Ccr4=Not	Train
+18483193	tropomyosin=actin; actin=tropomyosin; troponin=actin; troponin=tropomyosin; TnT=tropomyosin; tropomyosin=TnT; tropomyosins=actin; tropomyosin=TnT	Train
+18485871	Nucleomethylin=histone H3; SIRT1=SUV39H1; SUV39H1=histone H3; SIRT1=histone H3; eNoSC=histone H3	Train
+18487197	prolyl 3-hydroxylase isoenzyme 2=collagen IV; P3H1=collagen I; P3H1=cartilage-associated protein; cartilage-associated protein=collagens; P3H1=collagens; P3H2=collagen IV; P3H2=collagen I; P3H2=collagen IV	Train
+18488142_5	Galpha=beta; gamma=beta; gamma=Galpha; GTP=G protein; Galpha=Gbetagamma; Gbetagamma=phospholipases; Gbetagamma=ion channels; Galpha=phospholipases; Galpha=ion channels	Train
+18488142_61	Gbetagamma=Galpha; Galpha=Gbetagamma	Train
+18488142_74	Gi=Gbetagamma; Gbetagamma=Gi; Gi=opioid receptors	Train
+18539146	HemK2=eRF1; Mtq2p=Trm112p; Mtq2p=eRF1; Trm112p=eRF1; eRF1=eRF3; eRF3=GTP; eRF1=GTP	Train
+18541707_12	transducin-like enhancer=Runx2; Runx2=CHIP; CHIP=hRunx2; CHIP=hRunx2; CHIP=hRunx2; Runx2=CHIP; CHIP=Runx2	Train
+18550409	Hsc70=Hsp110; Hsc70=Hsp110	Train
+18586671_2	TSG-6=RANKL; TSG-6=BMP-2; TSG-6=BMPs; TSG-6=BMP-2; TSG-6=RANKL	Train
+18596047	DHHC=CSP	Train
+18599869	HSF1=heat shock protein 90	Train
+18625722	HDAC7=Ubc9; HDAC7=PML	Train
+18632602_36	MEK1Q56P=ERK	Train
+18657071	Uba1=ISG65	Train
+18676843_7	MLL=Cyp33; HDAC1=MLL	Train
+18706423_12	Tim8=Tim13; Tim9=Tim10; Tim9=Tim10; Tim 8=Tim13; Tim8=Tim13; Tim9=Tim10	Train
+18719106	HLTF=proliferating cell nuclear antigen; SHPRH=proliferating cell nuclear antigen; Rad5=Ubc13; Ubc13=Mms2; Rad5=Mms2; Rad5=proliferating cell nuclear antigen; Ubc13=proliferating cell nuclear antigen; Mms2=proliferating cell nuclear antigen; HLTF=UBC13; HLTF=PCNA; HLTF=SHPRH; SHPRH=PCNA; HLTF=PCNA	Train
+18775504	SK1=subunit 7; CCTeta=SK1; SK1=CCT/TRiC; CCT/TRiC=SK1; CCT/TRiC=SK1; SK1=CCT/TRiC	Train
+18804371_10	Fz=Dsh; Stbm=Pk; Fmi=Fz; Fmi=Dsh; Fz=Dsh; Fmi=Stbm; Fmi=Pk; Stbm=Pk	Train
+18805086_7	RAR=RXR; RAR=RXR; RA=RA receptors; RA=RARalpha; RA=RARbeta; RA=RARgamma; RA=retinoid X receptors; RA=RXRalpha; RA=RXRbeta; RA=RXRgamma; RA=RA receptors; RA=RARalpha; RA=RARgamma; all-trans-RA=RA receptors; all-trans-RA=RARbeta; all-trans-RA=RARgamma; 9-cis-RA=RXRgamma; 9-cis-RA=RXRbeta; 9-cis-RA=RXRalpha; 9-cis-RA=retinoid X receptors; 9-cis-RA=RXR; RXR=RAR; RA=RXR	Train
+18818768_15	Sky1=Npl3	Train
+18840095_26	MED23=CDK8; MED1=MED23; MED1=CDK8	Train
+18946085	Borealin=INCENP; Borealin=Survivin; Borealin=Aurora B; INCENP=Survivin; INCENP=Aurora B; Survivin=Aurora B; RanBP2=CPC; SENP3=Borealin; SENP3=Borealin	Train
+18950639_9	PIKfyve=ArPIKfyve; ArPIKfyve=Sac3; PIKfyve=Sac3; PIKfyve=ArPIKfyve; ArPIKfyve=Sac3; PIKfyve=Sac3; Sac3=PIKfyve; PIKfyve=ArPIKfyve; Sac3=ArPIKfyve; ArPIKfyve=PIKfyve; ArPIKfyve=PIKfyve; PIKfyve=Sac3; PIKfyve=ArPIKfyve; ArPIKfyve=Sac3; PIKfyve=Sac3	Train
+18955570_20	CSF2RAWT=GM-CSF; CSF2RB=GM-CSF; GM-CSF=STAT5	Train
+18974846_32	ADAM22=LGI1; ADAM22=LGI1; LGI1=ADAM11; LGI1=ADAM22; LGI1=ADAM23; ADAM23=LGI1; ADAM22=LGI1; ADAM11=LGI1; ADAM23=LGI1; ADAM22=LGI1; ADAM11=LGI1; ADAM22=LGI1	Train
+19001095	DHHC7=Galpha; DHHC3=Galpha; DHHC7=Galpha(q); DHHC7=Galpha(s); DHHC7=Galpha(i2); DHHC3=Galpha(q); DHHC3=Galpha(s); DHHC3=Galpha(i2); DHHC3=Galpha(q; DHHC3=11); DHHC7=Galpha(q; DHHC7=11)	Train
+19011240	Mia40=Erv1; Mia40=Erv1	Train
+19011241	ATase1=BACE1; ATase2=BACE1; ATase1=BACE1; ATase2=BACE1	Train
+19015234	SF-1=CDK7; CDK7=SF-1	Train
+19019082_25	Hrs=amyloid beta A4 protein; Hrs=APP-like protein 2; Hrs=APP	Train
+19020623	Calcium=calpain; calpastatin=calpain; calpain 2=calcium; calpastatin=calpain 2; calpastatin=calcium; Calpastatin=calpain; calpastatin=calpain; calcium=calpain; calcium=calpain; calpastatin=calpain	Train
+19079338_27	IQGAP1=Rac1; IQGAP1=Cdc42; IQGAP1=Rac1; menin=IQGAP1; Rac1=IQGAP1; Rac1=IQGAP1; Rac1=IQGAP1; menin=IQGAP1; Rac1=IQGAP1; Rac1=IQGAP1	Train
+19081074	HDAC6=BBIP10	Train
+19081374	CREST=BRG1; CREST=BRG1; Rb=HDAC; calcineurin=Rb; CREST=BRG1	Train
+19112497	TRAF6=TRAF6; TAK1=TAB1; TAK1=TAB2; TAB1=TAB2; TAK1=TAB1; TAB1=TAB2; TAK1=TAB2; TRAF6=TAK1; TRAF6=TAB1; TRAF6=TAB2; TAK1=TAB1; TAB1=TAB2; TAK1=TAB2; TRAF6=TAK1; TRAF6=TAB1; TRAF6=TAB2; TRAF6=IKKgamma	Train
+1911548	p50=p65	Train
+19146979	GAP-43=Galpha(o); GTPgammaS=Galpha(o); GAP-43=Galpha(o); GTPgammaS=Galpha(o)	Train
+19170545_30	hTHEM2=CoA; hTHEM2=CoA	Train
+19170759_31	Poleta=REV1; Poleta=REV1; Poleta=REV1; REV1=Poleta	Train
+19183285_19	UvrB=UvrA; Mfd=UvrA	Train
+19185494	Dyn1=Num1	Train
+19192479	Cdk=Cyclin; Cdc25=Cdk; Cdc25=Cyclin; Cyclin=Cdk; Cdk1=Cyclin A; 2=Cyclin A; Cdk1=Cyclin B; Cdk1=Cyclin B	Train
+19194460_9	Rai1=Rat1; Rat1=Rai1; Rat1=Rai1; Rat1=Rai1	Train
+19194512_75	Tah18=Dre2; Dre2=iron; Tah18=Dre2; Dre2=Tah18; iron=Dre2; Dre2=Tah18; Dre2=Tah18	Train
+19204372	Axin=APC; Axin=APC	Train
+19224332	SARS-CoV helicase=Ddx5; SARS-CoV helicase=Ddx5; SARS coronavirus helicase=Ddx5	Train
+19239245	fMet-tRNA=ribosome	Train
+19286518	CLOCK=histone; CLOCK=BMAL1	Train
+19287006	TYW4=S-adenosylhomocysteine; TYW4=SAM	Train
+19289088_26	Cdc42=PAK2	Train
+19328066_4	Mex67=Mtr2; NXF1=NXT1; TAP=P15; Mex67=Mtr2; Mex67=Mtr2; Mtr2=nuclear pore proteins; Mex67=nuclear pore proteins; Yra1=Sub2; THO=Sub2; THO=Yra1	Train
+19328198	CD81=CD9; CD81=EWI-2	Train
+19351884	eyes absent=histone H2A.X; WSTF=H2A.X; Eyes Absent=histone H2A.X; EYA3=H2A.X; EYA2=H2A.X; eya3=H2A.X	Train
+19363159	Mdm2=beta-arrestin2; ubiquitin-specific protease 33=beta-arrestin2; ubiquitin-specific protease 33=beta-arrestins; beta(2)AR=beta-arrestin; vasopressin V2R=beta-arrestin; USP33=beta-arrestin	Train
+19363486_7	Cdk5=talin	Train
+19366733	actin=INF2	Train
+19410543	RAD6=H2B; hBRE1=H2B; hPAF=hBRE1; hRAD6=hBRE1; hRAD6=H2B; hBRE1=hRAD6; hBRE1=H2B; hRAD6=H2B; hSET1=H3K4	Train
+19451218	JMJD3=H3K27; EZH2=H3K27; JMJD3=Histone	Train
+19465924	acyl protein thioesterase 1=Galpha(13); APT1=Galpha(13)	Train
+19479062_45	TRAF6=IPS-1; TRAF3=IPS-1	Train
+19508429	Syntaxin 1=SNAP25; SNAP25=VAMP2; Syntaxin 1=VAMP2; syntaxin 1=VAMP2; SNAP25=VAMP2; Synaptotagmin=SNARE	Train
+19570983	Lat1=Kgd2; pyruvate dehydrogenase=alpha-ketoglutarate dehydrogenase; Gcv3=H protein; LIP3=Lat1; LIP3=Kgd2; H protein=GCV3; GCV3=Lat1; GCV3=Kgd2; LIP2=Lat1; LIP2=Kgd2; LIP2=Gcv3; LIP2=H protein; LIP5=Lat1; LIP2=Kgd2; LIP5=Gcv3; LIP5=H protein; Lip2=Lip3; Lip2=Lip5; Lip2=Gcv3; Lip3=Lip5; Lip3=Gcv3; Lip5=Gcv3	Train
+19580544_2	spartin=AIP4; spartin=AIP5; spartin=AIP5; spartin=AIP4; spartin=ITCH	Train
+19589782	HIF-1alpha=p300; HIF-alpha=p300; HIF-1alpha=p300	Train
+19596236_24	SLX1=SLX4; SLX1=SLX4; SLX1=SLX4	Train
+19596852	DHHC2=PSD-95	Train
+19602036_66	MeCP2=Brm; MeCP2=mSin3A; MeCP2=mSin3A; Brg1=MeCP2; Brg1=MeCP2; MeCP2=Brg1; Brg1=MeCP2	Train
+19608646	eNOS=caveolin-1; CAV-1=eNOS; CAV-1=eNOS; eNOS=CAV-1	Train
+19617556	Dcn1=Cul; Dcn1=Ubc12; Dcn1=Cul; DCNL3=Culs; DCNL1=Culs; DCNL2=Culs; Dcn1=Culs; DCNL3=Culs; Dcn1=Culs; DCNL2=Culs; DCNL1=Culs; DCNL3=Cul; Cul3=DCNL3; DCNL=Cul; DCNL3=Cul3	Train
+19622798	p300=PARP1	Train
+19644450	ARF6=JIP4; JNK=JIP3; JNK=JIP4; ARF6=JIP3; ARF6=JIP4; JIP4=kinesin-1; JIP4=dynactin; JIP3=kinesin-1; JIP3=dynactin; ARF6=JIP4; ARF6=JIP4; JIP4=ARF6; ARF6=JIP4; JIP4=ARF6; ARF6=JIP3; ARF6=JIP4; ARF6=JIP4; ARF6=JIP4; ARF6=JIP3; ARF6=GTP; ARF6=GTP; JIPs=kinesin-1; JIPs=dynactin; ARF6=ARF6	Train
+19656241	IkappaB kinase=IkappaBalpha; SCF-type E3-ligase=IkappaB; CSN=IkappaB; SCF=IkappaB; IKK=IkappaBalpha; IKK=Csn5; IKK=CSN; SCF=IkappaBalpha	Train
+19665973	FGFR1=phospholipase Cgamma; phospholipase Cgamma=FGFR1	Train
+19690147_51	Sprouty2=B-Raf; B-Raf=Sprouty2	Train
+19703992	MLL1=H3K4; Set1/COMPASS=H3K4; Set1A=H3K4; Set1B=H3K4; MLL1=H3K4; MLL4=H3K4; Mll1=H3K4; Mll1=Hox; menin=Mll1; menin=Mll2; menin=H3K4; Mll1=H3K4	Train
+19706536	HPK1=CARMA1; HPK1=CARMA1; HPK1=CARMA1; HPK1=CARMA1; HPK1=CARMA1; HPK1=CARMA1; HPK1=CARMA1; PKC=CARMA1; HPK1=CARMA1	Train
+19706539	ubiquitin-specific protease 33=von Hippel-Lindau tumor suppressor (VHL) protein; ubiquitin-specific protease 33=Robo1	Train
+19706679	Centrins=Ca(2+); human polycomb protein 2=centrin-2; centrin-2=XPC; centrin-2=XPC	Train
+19736312	Vinculin=F-actin	Train
+19740108	P49366=eIF-5A; Q8I701=eIF-5A	Train
+19748355_36	FBPs=Cul1p; Pof1p=Cul1p; CAND1=Cul1p; Pof7p=Cul1p; Pof3p=Cul1p	Train
+19764817_11	TPQ=AGAO; Clonidine=bovine serum amine oxidase; TPQ=bovine serum amine oxidase	Train
+19779455	PIASy=PARP-1; PIASy=PARP-1; RNF4=PARP-1; RNF4=PARP-1	Train
+19786833	Dnmt3a=c-myc; Dnmt3a=CREB; Dnmt3a=FOS; Dnmt3b=CREB; Dnmt3b=FOS; Dnmt3a=AP2alpha; Dnmt3a=p53; Dnmt3b=SP1; Dnmt3b=SP4; Dnmt3a=Dnmt3b	Train
+19809571_8	cortactin=Hip1R; clathrin=actin; clathrin=cortactin	Train
+19815555	BAP1=HCF-1; BAP1=HCF-1; HCF-1N=HCF-1C; HCF-1=BAP1; BAP1=HCF-1N; BAP1=HCF-1N; BAP1=HCF-1; BAP1=HCF-1	Train
+19843541	TFTC/STAGA=ATXN7	Train
+19864490	consortin=connexins; Consortin=GGA1; Consortin=GGA2; GGA1=clathrin; GGA2=clathrin	Train
+19893624	Triad3A=tumor necrosis factor receptor-associated factor 3; Triad3A=TRAF3; Triad3A=TRAF3; TRAF3=MAVS; Triad3A=TRAF3	Train
+19895577	TbSIR2RP1=histone H1.1	Train
+19898473_14	TLR4=TRIF; TLR4=MyD88; cIAP2=TLR4; cIAP2=TLR4; cIAP2=MyD88; dynasore=dynamin; MyD88=TLR4; cIAP2=TLR4; TRIF=TLR4; MyD88=TLR4; TRIF=TLR4; TRIF=TLR4; MyD88=TLR4	Train
+19906707	SMC1=Rad21	Train
+19914245	c-Abl=MAVS; mitochondrial antiviral signaling (MAVS) protein=c-Abl; MAVS=c-Abl; c-Abl=MAVS	Train
+19915589	PP2A=condensin II; PP2A=condensin II	Train
+19917606	protein kinase A=VACM-1; protein kinases A=VACM-1; C=VACM-1; PKA=VACM-1; PKC=VACM-1; PKA=VACM-1	Train
+19955185	PPARalpha=NCoR; PPARalpha=SMRT; PPARalpha=SRC1; PPARalpha=CBP; PIASy=hPPARalpha; hPPARalpha=NCoR; hPPARalpha=SMRT; hPPARalpha=NCoR; peroxisome proliferator-activated receptor alpha=NCoR	Train
+19955409	Cul3=Hedghog-induced MATH and BTB domain-containing protein; Hedghog-induced MATH and BTB domain-containing protein=SPOP; Cul3=SPOP; Cul3=HIB; HIB=SPOP; Cul3=SPOP; Ci=HIB; HIB=Ci; HIB=SPOP	Train
+20015075_24	collagen=GPVI; (GPO)10=GPVI; GCO-(GPO)10-GCOG-NH2=GPVI; vWF=collagen; RGQOGVMGF=collagen; GPC-(GPP)5-GPOGPSGPRGQOGVMGFOGPKGNDGAO-(GPP)5-GPC-NH2=collagen; GFOGER=integrin alpha2beta1; GPC(GPP)5GFOGER(GPP)5GPC=integrin alpha2beta1	Train
+20019888_2	Noc4p=Nop14p; Noc4p=Nop14p; Noc4p=Nop14p; pre-ribosomes=Noc4p	Train
+20043992_14	IRF-3=CBP; IRF-3=p300; IKKepsilon=IRFs; TBK1=IRFs; IKKepsilon=IRF-3; IKKepsilon=IRF-5; IKKepsilon=IRF-7; TBK1=IRF-3; TBK1=IRF-5; TBK1=IRF-7	Train
+20047764	TRAF2=TICAM-1; TRAF6=TICAM-1; TRAF1=TICAM-1; 2=TICAM-1; 6=TICAM-1; TRAF2=TICAM-1; TRAF2=TICAM-1; TRAF6=TICAM-1; TRAF2=TICAM-1; TRAF6=TICAM-1; TRAF2=TICAM-1; TRAF2=TICAM-1; 6=TICAM-1; TRAF2=TICAM-1; 6=TICAM-1; TRAF6=TICAM-1; TRAF2=TICAM-1; TRAF6=TICAM-1; TRAF2=TICAM-1; TRAF3=TICAM-1	Train
+20080676	UBR2=histone; UBR2=histone H2A; UBR2=HR6B; UBR2=H2A; HR6B=H2A; UBR2=H2A; UBR2=histone	Train
+20084082	KIAA1718=histone; KIAA1718=histone	Train
+20098713	Pc2=Pc2; Pc2=CtBP; Pc2=CtBP	Train
+20101219	NEDD8=NEDD8 ultimate buster 1	Train
+20118233	Glp=p53; G9a=p53; G9a=p53; Glp=p53; Glp=p53; G9a=p53; G9a=p53; Glp=p53	Train
+20129057	Pol eta=PCNA; Pol eta=PCNA; PCNA=Pol eta; ubiquitin=Pol eta	Train
+20144990	TORC1=S6; TORC1=Rps6; TORC1=Rps6; FKBP12=rapamycin; TORC1=Rps6; Tor2=FKBP12; Tor2=rapamycin	Train
+20214800_12	MOR=GPR177	Train
+20230748_41	Ift20=Ift80	Train
+20235143	p53=HDM2; p53=HDM2; HDM2=p53; p53=HDM2; Nutlin-3=HDM2	Train
+20300531	PIASy=VHL; VHL=HIFalpha; PIASy=VHL; PIASy=VHL; PIASy=VHL	Train
+20347429_42	MHF1=MHF2; MHF1=MHF2; MHF1=FANCM; MHF1=FANCM; MHF1=MHF2; FANCM=FAAP24; MHF1=MHF2	Train
+20404999_54	IscS=IscU; IscS=TusA; IscS=IscU	Train
+20421945	nsp16=nsp1; nsp16=nsp10	Train
+20436459	Polycomb repressive complex=Histone H2A; Polycomb repressive complex 1=histone H2A; dRing-associated factors=histone H2A; Calypso=ASX; PR-DUB=H2A; Calypso=ASX; Calypso=H2A; PRC1=H2A; dRAF=H2A; PR-DUB=H2A	Train
+20457806	Mds3=Sit4; rapamycin=TOR	Train
+20461437	Sprouty2=c-Cbl; c-Cbl=Sprouty2	Train
+20462493_9	HR2=HYL1	Train
+20463170	dual-specificity phosphatase=MAPK	Train
+20483783_41	HLA-F=MHC-I; HLA-F=MHC-I; MHC-I=HLA-F	Train
+20495530	UBPY=Frizzled; UBPY=Frizzled	Train
+20498050	SUMO1=K2P1; SUMO1=K2P1	Train
+20506188_27	BRG1=INI1; INI1=BAF155; BRG1=BAF155; RUNX1=SWI/SNF; RUNX1=BRG1; RUNX1=INI1; RUNX1=BAF155; RUNX1=SWI/SNF	Train
+20516063	histone deacetylase=BZLF1; SENP=BZLF1; BZLF1=histone deacetylase 3	Train
+20530210_2	IFT subcomplexes A=B; IFT subcomplexes A=B	Train
+20530572	BTC=ErbB1; BTC=ErbB4	Train
+20580052	M protein=S protein; S=M protein; S protein=M protein	Train
+20581839	JNK=Cdh1	Train
+20590657	XA21=Ax21; Ax21=XA21; XA21=Ax21	Train
+20603001_10	TACT1=BBSome; TACT1=Arl6GTP; Arl6GTP=BBSome; BBS1=Arl6GTP; BBS1=Arl6GTP; BBSome=Arl6GTP	Train
+20622854	PHF8=histone H4; PHF8=H3K9me1; PHF8=2; PHF8=H3K27me2; PHF8=H4K20me1; PHF8=H3K4me2; PHF8=3; PHF8=H4K20me1; N-CAPD3=N-CAPG2; PHF8=H4K20me1; N-CAPD3=H4K20me1; N-CAPG2=H4K20me1	Train
+20634189	STAG3=REC8; STAG3=SMC1 beta; SMC3=SMC1 beta; SMC3=STAG3; SMC3=REC8; SMC1 beta=REC8; REC8=STAG3; REC8=SMC1 beta; REC8=SMC3; STAG3=SMC1 beta; STAG3=SMC3; SMC1 beta=SMC3; REC8=STAG3; REC8=SMC1 beta; REC8=SMC3; STAG3=SMC1 beta; STAG3=SMC3; SMC1 beta=SMC3	Train
+20637885_14	ArfGAP1=coatomer; ArfGAP1=SNARE; ArfGAP1=coatomer; Arf GAP=coatomer	Train
+20659444	CAND-1=cullin; CAND-1=cullins; CAND-1=CUL-2; CAND-1=CUL-4	Train
+20660154_29	mDia2=RhoA; mDia2=Rho; Rho=mDia2; mDia1=RhoA; mDia2=RhoA; mDia1=RhoA; RhoA=mDia2	Train
+20679435_60	GTP=RhoG; GTP=Rac1	Train
+20701745_25	KPNA7=importin beta	Train
+20730098_41	collagen=alpha2beta1; collagen=GpVI; VWF=collagen	Train
+20804727_33	Tacc3=Int3; Rbpj=Int3; Tacc3=Int3; Int3=Rbpj; Rbpj=Int3; Tacc3=Int3; Rbpj=Int3	Train
+20805357	BAP1=YY1; BAP1=HCF-1; YY1=HCF-1; BAP1=host cell factor 1; BAP1=host cell factor 1; BAP1=HCF-1; BAP1=Yin Yang 1; HCF-1=Yin Yang 1; BAP1=YY1; HCF-1=YY1; HCF-1=YY1; HCF-1=BAP1; YY1=BAP1	Train
+20808795_28	Galpha=Gbetagamma; GPCRs=Go; Galphao=GDP	Train
+20808924_23	OppA=KAK	Train
+20829795	Gcn5=histone; alpha-tubulin acetyltransferase=alpha-tubulin; MEC-17=alpha-tubulin; MEC-17=alpha-tubulin; MEC-17=MEC-12; W06B11.1=MEC-12; W06B11.1=MEC-12; MEC-17=MEC-12; MEC-17=alpha-tubulin	Train
+20856203	transforming growth factor (TGF)-beta=endoglin	Train
+20889753	YajL=ribosomes	Train
+20940148	parkin=ataxin-3; ataxin-3=parkin; ataxin-3=parkin; ataxin-3=parkin; ataxin-3=parkin	Train
+20953180_26	Pup=Mpa; Pup=Mpa; Pup=Mpa	Train
+20965415_49	DNA polymerase=MCM; ATR=ATRIP; RPA=ATRIP; RPA=ATRIP; RPA=ATR; 5=RFC2; RFC2=RAD17; 5=RAD17; RAD9=HUS1; HUS1=RAD1; RAD9=RAD1; RAD9=TOPBP1; HUS1=TOPBP1; RAD1=TOPBP1; 9-1-1=TOPBP1	Train
+20966048	PR-Set7=histone H4; cyclin-dependent kinase 1=cyclinB; cyclin-dependent kinase 1=PR-Set7; cyclinB=PR-Set7; PR-Set7=anaphase-promoting complex; APC=PR-Set7; Cdc14=PR-Set7	Train
+20972456	TRIM=Ubc9; TRIM=Ubc9; TRIM=p53; TRIM=Mdm2	Train
+21042649	STC1=SUMO-1; STC1=SUMO-1	Train
+21057510_13	IL-6=gp130; IL-27p28=gp130; IL-27=gp130; IL-6=gp130; IL-11=gp130	Train
+21059642	cyclin-dependent kinase=RUNX1; RUNX1=HDAC1; RUNX1=HDAC3; cdks=RUNX1; RUNX1=p300; RUNX1=HDAC1; RUNX1=HDAC3; RUNX1=HDAC1; RUNX1=HDAC3; RUNX1=HDAC1; RUNX1=HDAC3; RUNX1=HDAC1; cdk1=cyclinB; cdk1=RUNX1; RUNX1=HDAC; RUNX1=HDAC; cyclinB=RUNX1	Train
+21068237	ACE2=transmembrane protease/serine subfamily member 2	Train
+21074459	TRIM56=STING; TRIM56=STING; STING=TBK1	Train
+21087996_14	SAM=Nep1	Train
+21131967	SETD6=RelA; SETD6=RelA; SETD6=RelA; GLP=histone H3; protein kinase C-zeta=RelA; GLP=RelAK310me1; GLP=RelAK310me1	Train
+21152083	Acyl-protein thioesterase 2=GAP-43; APT-2=GAP-43; APT-2=GAP-43	Train
+21169485	LptA=LptC; LptA=LptC; LptC=LptA	Train
+21169563	F-box proteins=Skp1; F-box proteins=Cul1; Cul1=Skp1; Cul1=FBPs; FBPs=Cul1; FBP=SCF ubiquitin ligases	Train
+21187453_35	LXR=RXR; LXR=RXR	Train
+21189291	Rad21=Swi6	Train
+21196496	NSD1=histone H3K36; NSD1=histone; NSD1=histone H3; NSD1=H3K36; NSD1=H3K36; H3K36=S-adenosyl-L-methionine; NSD1=H3K36	Train
+21215368_2	Cul4=Epe1; Cul4=Ddb1; CK2=Swi6	Train
+21224387_25	TAZ=Amot; TAZ=AmotL1; YAP=TAZ; TEAD1=4; TAZ=TEAD1; YAP=TEAD1; TAZ=4; YAP=4	Train
+21239494	USP17=SDS3; SDS3=Sin3A; histone deacetylase=Sin3A; histone deacetylase=SDS3; USP17=SDS3; USP17=SDS3; USP17=SDS3; SDS3=HDAC; USP17=SDS3; USP17=SDS3; USP17=SDS3	Train
+21262971	DEP-1=FLT3; DEP-1=FLT3; DEP-1=FLT3	Train
+21282463_38	XPB=XPA; XPB=RPA; XPB=XPA; XPB=RPA; XPB=RPA; XRCC1=RPA; RPA=Poldelta; XRCC1=Poldelta	Train
+21282610	SET8=Histone H4; SET8=H4K20; SET8=lymphoid enhancing factor-1; LEF1=SET8; SET8=H4K20; SET8=histone; SET8=histone	Train
+21296186_39	Coq9=Coq4p; Coq9=Coq6p; Coq9=Coq7p; Coq9=Coq; Coq8=Coq9p; Coq8p=Coq9p; Coq8=Coq	Train
+21299499_5	IQGAP=small GTPases; CaM=IQGAP; actin=N-WASP	Train
+21366928_31	HP4=HP1; HP4=HP6; LHR=HP6; HP1=HP6; LHR=HP1; HP4=HP1; HP5=HP1; LHR=HP6; HP4=HP6; HP5=HP6; LHR=HP1; LHR=HP1; HP4=HP1; HP5=HP1; LHR=HP6; HP4=HP6; HP5=HP6; LHR=HP1; HP4=HP1; HP5=HP1; LHR=HP6; HP4=HP6; HP5=HP6; LHR=HP1; HP4=HP1; HP5=HP1; HP1=HP6	Train
+21402695	Smurf1=RhoA	Train
+21422170_19	NKp30=B7-H6; NKp30=B7-H6; NKp30=B7-H6; NKp30=B7-H6; CTLA-4=B7-1; PD-1=PDL1; B7-H6=NKp30; NKp30=B7-H6	Train
+21430779_2	SETDB1=histone H3	Train
+21463458	Rtt109=H3; Vps75=Rtt109; Kap60=Kap95; Vps75=Rtt109; Rtt109=Vps75; Vps75=Rtt109; Rtt109=H3; Vps75=H3; Rtt109=histones; Rtt109=histone; Vps75=Rtt109; Nap1=histone; Vps75=histone; Rtt109=Vps75	Train
+21464368	protein O-fucosyltransferase 1=Notch receptors	Train
+21482778	G-protein=GPCR	Train
+21527249_32	SENP1=SAFB1	Train
+21532585	PHF2=ARID5B; PHF2=histone; ARID5B=histone; PHF2=ARID5B; PHF2=histone; ARID5B=histone; PKA=PHF2; PHF2=H3K9Me2; PHF2=ARID5B; PHF2=ARID5B; PHF2=ARID5B; PHF2=H3K9Me2; ARID5B=H3K9Me2; PHF2=ARID5B	Train
+21532587_7	TRAPPI=Sec23p; COPII=TRAPPI	Train
+21550984	p55=H3; p55=H4; p55=Su(z)12; Nurf55=histone H4; Nurf55=histone H3; Su(z)12=Nurf55; histone H4=Nurf55; Nurf55=Su(z)12; Nurf55=histone H4; PRC2=Nurf55; Nurf55=histone H3; Nurf55=histone H4; Nurf55=Su(z)12; Nurf55=H3; Nurf55=H3	Train
+21554500	SENP2=Aurora-B; VX-680=Aurora	Train
+21573187_5	TUB4=SPC97; TUB4=SPC98; Tub4=Spc98; Tub4=Spc97; Spc97=Spc98; Spc97=Spc98; Spc97=Tub4; Spc98=Tub4	Train
+21596310_6	L3MBTL2=PcG	Train
+21596315	APC=CDH1; anaphase-promoting complex=CDC20; anaphase-promoting complex=CDH1; APC=CDH1; APC=cyclin A; APC=CDH1; USP37=CDH1; USP37=cyclin A; CDK2=USP37; CDK2=USP37; APC=CDH1	Train
+21658004	tropomyosin=actin; tropomyosin=actin; Cdc8=actin; Cdc8=actin; Tm=actin; actin=Cdc8	Train
+21680713_16	CK1gamma1=Claspin	Train
+21774791	PRMT6=H2AR29; PRMT6=H2A	Train
+21806555	dopamine D2=adenosine A2A receptor; dopamine D2=adenosine A2A receptor	Train
+21835666_13	Sgt2FLAG=Sec22; Get4=Get5; Sec22=Get3; Get4=Get5; Get3=Sec22; Get3=Sgt2; Get4=Get5; Get4=Get5; Get4=Get5	Train
+21840311	MEMO=PYD; MEMO=PYD	Train
+21878643	casein kinase 2=Daz interacting protein 1; protein phosphatase 2As=Daz interacting protein 1; CK2=Dzip1; PP2As=Dzip1; PP2As=Dzip1; CK2=Dzip1; CK2=Dzip1; PP2As=Dzip1	Train
+21931591_7	XIAP=RIP3; XIAP=RIP4; cIAP1=RIP3; cIAP1=RIP4; cIAP2=RIP3; cIAP2=RIP4; cIAP1=RIP; cIAP2=RIP; cIAP1=RIP; cIAP1=RIP4	Train
+21940857	Ubc12=Cul1; Ubc12=Dcn1	Train
+22031296	DHHC-7=sex steroid receptors; -21=sex steroid receptors; -21=sex steroid receptors; DHHC-7=sex steroid receptors; -21=ER; -21=PR; -21=AR; DHHC-7=ER; DHHC-7=PR; DHHC-7=AR	Train
+22045334	Smurf2=Smad3; Smurf2=Smad3; Smurf2=Smad3; Smurf2=Smad3; Smurf2=Smad3; Smurf2=Smad3	Train
+22064484	RNF34=PGC-1alpha; RNF34=PGC-1alpha; RNF34=PGC-1alpha; RNF34=PGC-1alpha; RNF34=PGC-1alpha; RNF34=PGC-1alpha	Train
+22069710_6	diphtheria toxin=heparin binding epidermal growth factor precursor	Train
+22099308	NSD2=histone H3; NSD2=histone; NSD2=histone H3; NSD2=H3K36me2; NSD2=H3K36me2; NSD2=H3K36me2	Train
+22101327	Esco2=Cohesin; Sororin=cohesin; Esco2=cohesin; Esco2=cohesin	Train
+22108505	Wls=Wnt; Porcupine=Wnt; Wls=Wnts; Wls=Wg; Wls=Wnts; Wls=Wnts; Por=Wnts	Train
+22137580	RNA Pol II-associated protein 2=Integrator; RNA Pol II-associated protein 2=Pol II; RPAP2=Pol II; RPAP2=Integrator	Train
+22153078	Sec22b=syntaxin 4	Train
+22153499_7	mCSF-1=mCSF-1R; c-kit=Stem Cell Factor	Train
+22155231	TcpB=MyD88; TcpB=MyD88; TcpB=TIRAP; TcpB=TIRAP; TcpB=MyD88; TcpB=MyD88; MyD88=MyD88; MyD88=MyD88; MyD88=MyD88; MyD88=MyD88; MyD88=MyD88	Train
+22159419	ARL4A=GCC185; GCC185=ARL4A; ARL4A=GCC185; GCC185=CLASP1; GCC185=CLASP2; GCC185=CLASPs	Train
+22177953	RAF=MEK1; ERK=MEK1	Train
+22178396	APC/C=Cdh1; APC/C=Cdh1; GLP=histone H3K9; G9a=histone H3K9; APC/C=GLP; APC/C=G9a; Cdh1=GLP; Cdh1=G9a; APC/C=Cdh1; APC/C=Cdh1	Train
+22179786_4	MutL=MutS; Msh2=Msh6; Msh2=Msh3	Train
+22196728	Smad2=3; TRIM33=Smad2; TRIM33=3; Smad2=3; Smad4=Smad2; Smad4=3; TRIM33=Smad2; Smad2=3; TRIM33=3; 3=H3K9me3; Smad2=H3K9me3; TRIM33=H3K9me3; TRIM33=Smad2; TRIM33=3; Smad2=3; 3=H3K9me3; Smad2=H3K9me3; TRIM33=H3K9me3; 3=H3K18ac; Smad2=H3K18ac; TRIM33=H3K18ac; TRIM33=Smad2; TRIM33=3; Smad2=3; Smad2=Smad4; 3=Smad2; 3=Smad4	Train
+22238360	NUP107=MAD1; NPP-5=MAD1; NUP96=ELYS; NUP96=NUP133; ELYS=NUP133	Train
+22267219_9	Akt=Foxo	Train
+22304967_2	XIAP=TCF/Lef; XIAP=Groucho (Gro)/TLE; Gro/TLE=TCF/Lef; beta-catenin=TCF/Lef; XIAP=Gro/TLE; Gro/TLE=TCF/Lef	Train
+22325351_6	CBFbeta=CBFalpha; CBFbeta=Runx1; CBFbeta=-2; CBFbeta=-3	Train
+22334672_50	ICP27=Nup62; ICP27=Nup62; ICP27=Nup62; ICP27=Nup62; ICP27=Nup62	Train
+22368268_37	HDA19=AtERF7; AtERF7=AtSin3; AtSin3=HDA19; AtERF7=AtSin3; AtSin3=HDA19; AtERF7=HDA19	Train
+22373579	JMJD2A=histone H4K20; 53BP1=histone H4K20; RNF8=JMJD2A; RNF168=JMJD2A	Train
+22396495_4	NOTCH=CSL	Train
+22402492	CBX4=BMI1	Train
+22405651_35	Cand1=CRLs; Glmn=CRLs; Cand1=cullins; Glmn=cullins; Cand1=cullins; cullins=Cand1; Cand1=Rbx1; Cand1=Cullins	Train
+22460582_35	LigIII=PCNA; LigIII=PCNA; XRCC1=PCNA	Train
+22487722_42	Ebi3=p35; Ebi3=p35	Train
+22493095	HDAC2=p53; HDAC2=p53; HDAC2=p53; HDAC2=p53	Train
+22508508	PIAS4=HERC2; PIAS4=RNF168; HERC2=RNF8; RNF8=Ubc13; HERC2=RNF8; HERC2=RNF8	Train
+22510687_14	FANCM=MHF1; FANCM=MHF2; FANCM=MHF1; MHF1=MHF2; MHF1=MHF2; FANCM=MHF2; FANCM=MHF1; FANCM=MHF2; MHF1=MHF2; MHF1=MHF2; FANCM=MHF1; FANCM=MHF2; MHF2=MHF2; MHF1=MHF2	Train
+22562055_43	COPI=Arfs; coatomer=Arf	Train
+22570530_12	hCL-L1=mannose; hCL-L1=D-mannose; hCL-L1=L-fucose; hCL-L1=D-galactose; hCL-L1=N-acetylglucosamine; hCL-L1=N-acetylgalactosamine; CL-K1=L-fucose; CL-K1=D-mannose; CL-K1=L-fucose; CL-K1=mannan; CL-K1=N-acetylglucosamine; MBL=maltose; MBL=L-fucose; MBL=mannan; MBL=N-acetylglucosamine; CL-K1=mannose; CL-K1=L-fucose; CL-K1=D-mannose; CL-K1=D-glucose; CL-K1=N-acetylglucosamine; CL-K1=D-galactose; lectin=D-mannose; lectin=D-glucose; lectin=L-fucose; lectin=N-acetylglucosamine; CL-K1=L-fucose; CL-K1=N-acetylglucosamine; CL-K1=N-acetylglucosamine	Train
+22623373_2	Alfa-=Beta-type; Beta=Alfa1; Beta=Alfa2; Alfa1-=Beta; Alfa1-=Alfa2-; Alfa2-=Beta	Train
+22648168_67	Sbf=MTMR13	Train
+22742743	DPAGT1=acetylcholine-receptor	Train
+22759635	Src family kinases=RUNX1; Shp2=RUNX1; Shp2=RUNX1; RUNX1=GATA1; RUNX1=SWI/SNF	Train
+22764087_68	HRS=STAM; TSG101=VPS28; TSG101=Vps37; TSG101=Mvb12; VPS28=Vps37; VPS28=Mvb12; Vps37=Mvb12; PCSK9=LDLR; PCSK9=LDLR	Train
+22770216	VRK-1=BAF; LEM-4L=PP2A; Lem4=PP2A; PP2A=BAF	Train
+22792074_47	FANCJ=BRCA1; FANCJ=RPA; FANCJ=BLM	Train
+22817896_35	RIP1=RIP3; RIP3=myelin basic protein; RIP1=RIP3	Train
+22829779_13	VeA=VelB; VeA=LaeA; LaeA=VelB; VelB=VeA; VeA=LaeA; VelB=LaeA; VeA=KapA; VelB=VeA; VeA=LaeA; VelB=LaeA; VeA=VelB	Train
+22848449_21	NEMO=RIP1; NEMO=RIP1	Train
+22869600	Pil1=Lsp1; Seg1=Pil1; Seg1=Pil1; Lsp1=Pil1; Seg1=Pil1; Seg1=Lsp1	Train
+22902537_4	hnRNP A1=telomerase	Train
+22916032_47	NOL11=hUTP4; NOL11=Pol I; NOL11=t-UTPs; NOL11=fibrillarin; NOL11=SSU processome	Train
+22916032	NOL11=hUTP4; NOL11=hUTP4	Train
+22921828_17	Shank 1=IRTKS; Shank 1=IRSp53; 3=IRTKS; 3=IRSp53; EspFU=Eps8; IRTKS=Eps8; EspFU=Eps8; EspFU=Eps8; Eps8=IRSp53; Eps8=IRTKS	Train
+22927463_32	MSP-300=actin	Train
+22933705_6	sunitinib=PDGFR; sunitinib=PDGFRalpha	Train
+22959436	Cop9 signalosome=Skp1-Cul1-Fbox (SCF) E3 ligases; CSN=SCF(Skp2/Cks1; CSN=SCF(Fbw7; Rbx1=Cul1; SCF=E2; CSN=SCF; CSN=SCF; CSN=SCF	Train
+22977173_30	PIKK=RPA32; CDK=RPA32; DNA-PK=RPA32; DNA-PK=RPA32; CDK=RPA32	Train
+22977173_37	MRN=RPA; MRN=ATR; ATR=Chk1; MRN=Chk1; RPA=MRN; ATR=RPA32; ATR=RPA32; PPA2=RPA32; TopBP1=ATR; ATR=TopBP1	Train
+23022729_31	UHRF1=histone; UHRF1=H3	Train
+23029530_31	Fbw8=TBC1D3; Fbw8=TBC1D3; TBC1D3=Fbw8; Fbw8=TBC1D3; Fbw8=TBC1D3	Train
+23063561	fibroblast growth-factor receptor=PLCgamma1	Train
+23125099	LARGE=alpha-dystroglycan; LARGE2=alpha-dystroglycan; LARGE=alpha-dystroglycan; LARGE=alpha-DG; LARGE2=alpha-DG; LARGE=alpha-DG; LARGE=alpha-DG; LARGE2=alpha-DG	Train
+23155421_7	TLR3=TLR10; TLR2=1; TLR2=6	Train
+23201271	DCN-like=cullin; DCN-like=UBC12; DCN-like=UBE2F; DCNL=cullin; DCNL=E2; DCNL2=UBC12; DCNL2=UBE2F; DCNL3=UBC12; DCNL3=UBE2F; DCNL=E2s	Train
+23202509_28	ORF6=karyopherin alpha2; ORF9b=ORF6	Train
+23209303_15	SynCAM 1=Farp1; Farp1=SynCAM 1; Farp1=SynCAM 1; Farp1=SynCAM 1; FAK=SynCAMs 1; FAK=3	Train
+23233753	FKBP12.6=RyR2; CaM=RyR2; RyR2=FKBP12.6; RyR2=CaM; CaM=RyR2; FKBP12.6=RyR2; CaM=RyR2; DPc10=RyR2; DPc10=RyR2; DPc10=RyR2; RyR2=DPc10; FKBP12.6=RyR2; CaM=RyR2; DPc10=RyR2; DPc10=RyR2; CaM=RyR2; DPc10=RyR2; FKBP12.6=RyR2; CaM=RyR2; DPc10=RyR2; CaM=RyR2; DPc10=RyR2; CaM=RyR2; DPc10=RyR2; FKBP12.6=RyR2; DPc10=RyR2; FKBP12.6=RyR2	Train
+23234702_44	SMG5=Upf1; SMG7=Upf1; PNRC2=Upf1	Train
+23240775_5	ARNT=TACC3; CCC=ARNT; CCC=ARNT; ARNT=CCC	Train
+23258412_7	cyclic-di-GMP=STING; cyclic-di-AMP=STING	Train
+23300935_2	Src-like adaptor protein=Cbl; SLAP=Flt3; SLAP=Flt3	Train
+23319653	damaged DNA-binding protein 2=PARP-1; PARP-1=damaged DNA-binding protein 2; DDB2=PARP-1; DDB2=xeroderma pigmentosum group C	Train
+23349863	SIRT1=HSF1	Train
+23360980_9	ERK=C-Raf; ERK=C-Raf; ERK=C-Raf; ERK=C-Raf; ERK=C-Raf	Train
+23372810_8	Est3p=telomerase	Train
+23391514_5	G/T mismatch Binding Protein=hMSH2; hMSH6=hMSH2	Train
+23395181_23	Sec23=Sec24; Sec23=Sar1; 24=Sar1	Train
+23404503	UHRF2=zinc finger protein 131; SAE1=SAE2; UHRF2=ZNF131	Train
+23424281_32	Arc=PSD-95; TrkB=PSD-95	Train
+23431171	MOZ=p53; MOZ=p53; MOZ=p53; p53=promyelocytic leukemia; MOZ=promyelocytic leukemia; MOZ=PML; PML=p53; MOZ=p53; MOZ=p53; PML=MOZ; Akt=MOZ; Akt=MOZ; PML=MOZ; PML=MOZ; MOZ=p53; MOZ=PML	Train
+23431328	PRC2=histone H3; Polycomb repressive complex=histone H3	Train
+23439680	Par6=aPKC; aPKC=Crb3; Par6=Crb3; aPKC=Par6; Par6=aPKC; mitogen-activated protein kinase organizer 1=Par6; Par6=aPKC; Morg1=Crumbs3; Par6=aPKC; aPKC=Crumbs3; Par6=Crumbs3; Par6=aPKC	Train
+23453667	B3GALNT2=alpha-dystroglycan; alpha-DG=laminin; B3GALNT2=alpha-DG	Train
+23505436_6	GUCY1A3=GUCY1B3	Train
+23524851	SENP3=dynamin-related protein 1; SENP3=Drp1; SENP3=Drp1	Train
+23543736	UCH-L1=CDK1; UCH-L1=CDK4; UCH-L1=CDK5; UCH-L1=CDKs; UCH-L1=CDK	Train
+23622243_24	hMSH6=H3K36me3	Train
+23644657_5	Siah2=OGDH; Siah2=GAPDH; Siah2=TPX2; Siah=OGDH; Siah=GAPDH; Siah=TPX2; Siah2=ASPPs; Siah2=ASPP; ASPP1=Siah1; ASPP1=2; 2=Siah1; 2=2; ASPP1=Siah1; ASPP1=2; 2=Siah1; 2=2; ASPP1=Siah2; 2=Siah2; ASPP1=Siah2; 2=Siah2; 2=Siah2; ASPP1=Siah2; 2=Siah2; ASPP1=Siah2; Siah2=ASPPs	Train
+23679895	polycomb repressive complex 2=histone H3; EZH2=H3K27; EZH (enhancer of zeste homologue) 1=H3K27; vSET=H3K27; vSET=histone H3; EZH2=H3K27; vSET=H3K27; EZH2=histone; vSET=histone	Train
+23723241	KDM4B=histone H3; KDM4B=GATA-3; KDM4B=H3K9me3; KDM4B=H3K9me3	Train
+23762398	mTOR=Rictor; mTOR=SIN1; Rictor=SIN1; NBS1=mTOR; NBS1=Rictor; NBS1=SIN1; NBS1=Mre11; NBS1=Rad50; Mre11=Rad50; Mre11=NBS1; Rad50=NBS1; SIN1=mTOR; SIN1=Rictor; mTOR=Rictor; mTOR=SIN1; Rictor=SIN1; NBS1=mTOR; NBS1=Rictor; NBS1=SIN1; mTOR=NBS1; Rictor=NBS1; SIN1=NBS1; mTOR=Rictor; mTOR=SIN1; Rictor=SIN1; NBS1=mTOR; NBS1=Rictor; NBS1=SIN1; mTOR=Rictor; mTOR=SIN1; Rictor=SIN1	Train
+23777859	receptor protein tyrosine phosphatase beta=pleiotrophin; zeta=pleiotrophin; zeta=ALK; RPTPbeta=ALK	Train
+23824326	USP49=histone H2B; ubiquitin-specific peptidase 49=histone H2B; USP49=H2B; USP49=RuvB-like1; USP49=SUG1; RuvB-like1=SUG1; USP49=histone H2B; USP49=H2B; USP49=H2B; USP49=histone H2B	Train
+23825189_33	TAK1=TAB1	Train
+23837592_13	ASB9=EloBC; ASB9=Cul5NTD; EloBC=Cul5NTD; ASB9=EloBC; ASB9=Cul5NTD; EloBC=Cul5NTD	Train
+23850456_32	PRDC=BMP; SOST=BMP; SOST=BMP; SOST=BMP; Noggin=BMP; SOST=LRP5; SOST=6; PRDC=BMP; PRDC=BMP	Train
+23864707	Sec23p=Sec24p; Sec23p=Sec24p; Sec13p=Sec31p; Sec23p=Hrr25p; Hrr25p=COPII; Sit4p=COPII	Train
+23873864	Swi4=Swi6; Mbp1=Swi6; CK2 alpha=RNA polymerase II; beta=RNA polymerase II; CK2 alpha=beta	Train
+23882114_10	Dicer=importins beta; Dicer=7; Dicer=8	Train
+23884233	ATG5=ULK1	Train
+24012004	DAF-21=EBAX-1; EBAX=Robo3	Train
+24019521	RNF185=cystic fibrosis transmembrane conductance regulator; RNF5=CFTR; RNF185=CFTR; RNF5=Cystic fibrosis transmembrane conductance regulator	Train
+24039841_36	G1=GPR30; tamoxifen=ERalpha; ICI 182780=ERalpha	Train
+24040102	SIRT1=p53	Train
+24081491_36	Rag=FLCN; FLCN=Rag; FLCN=RagA; GTP=RagA; FLCN=Rags; FLCN=Rags	Train
+24107629	NEDD4=LATS1; NEDD4=LATS1; NEDD4=LATS1	Train
+24186360	nNOS=heat-shock protein 70; nNOS=Hsc70-interacting protein	Train
+24244684_7	TALE=Hoxa2	Train
+24260525	USP25=retinoic acid-inducible gene I; USP25=tumornecrosis factor (TNF) receptor-associated factor 2; USP25=TRAF6	Train
+24316671	RIP3=MLKL; MLKL=RIP3	Train
+24339748_21	MED19a=Mediator; MED6=MED19a; MED6=MED19a; MED19a=Mediator; MED19a=Mediator	Train
+24355937_2	IQGAP1=small GTPases; IQGAP1=RhoC; IQGAP1=Rac2; IQGAP1=M-Ras; IQGAP1=RhoQ; IQGAP1=Rab10; IQGAP1=Rab5; IQGAP1=Tiam1; IQGAP1=RacGAP1; IQGAP1=srGAP2; IQGAP1=HERC1; IQGAP1=PAK6; IQGAP1=N-WASP; IQGAP1=Arp2/3; IQGAP1=mDia1; small GTPase=IQGAP1; IQGAP1=small GTPases; beta1 integrin=Arf6	Train
+24371268	MUS81=EME2; MUS81=EME1; MUS81=EME1; EME2=MUS81; MUS81=EME2; EME2=MUS81; EME1=MUS81; MUS81=EME2; EME1=MUS81; MUS81=EME1; MUS81=EME2; EME1=MUS81; EME2=MUS81; MUS81=EME2; EME1=MUS81; MUS81=EME1; EME2=MUS81	Train
+24371278_69	H2ac=ERalpha; H2ac=ERalpha; H2ac=ERalpha; H2ac=ERalpha; ERalpha=H2ac; ERalpha=H2ac; ERalpha=H2a	Train
+24385939	Smc5=6; Smc5=6; Smc5=6; Smc5=6; Smc5=6; Smc5=6; Smc5=6; Smc5=6	Train
+24460703_20	Mid2=Apm4	Train
+24466140_9	Utp18=Utp21	Train
+24515439	CTLA-4=TRIM; CTLA-4=TRIM; CTLA-4=LAX; LAX=Rab8; LAX=Rab8; LAX=CTLA-4; TRIM=Rab8; LAX=Rab8; CTLA-4=TRIM; TRIM=LAX; LAX=Rab8; TRIM=Rab8; CTLA-4=LAX; CTLA-4=TRIM; Rab8=LAX; LAX=TRIM; CTLA-4=Rab8; TRIM=Rab8; Rab8=GTP; Rab8=GTP	Train
+24586161_20	AvrBsT=ACIP1; HopZ1a=tubulin	Train
+24655550	SPAK=K-Cl co-transporter 3	Train
+24662292	Pex10p=Pex12p; Pex12p=Pex5p; Pex10p=Pex5p; Pex5p=Pex14p; Pex10p=Pex5p	Train
+24725409_17	PCDH24=MLPCDH; PCDH24=MLPCDH; PCDH24=MLPCDH	Train
+24756126_46	Stat3=GRP58; Stat3=Hsp90; 17-DMAG=Hsp90	Train
+24784881	HHAT=Hedgehog; HHAT=Hh; HHAT=DHH; HHAT=SHH	Train
+24793696_5	CUL7=CUL9; CUL9=survivin	Train
+24807418	Derlin-1=p97; p97=VIMP; VIMP=SEL1L; Derlin-1=VIMP; Derlin-1=SEL1L; p97=SEL1L; Derlin-1=Derlin-2; Derlin-2=VIMP; VIMP=p97; Derlin-1=VIMP; Derlin-1=p97; Derlin-2=p97; TMEM129=Derlin-1; TMEM129=Derlin-2; TMEM129=VIMP; TMEM129=p97	Train
+24876489_7	GluN1a=GluN2B; GluN1a=GluN2B; GluN1=GluN2B; GluN1a=GluN2B; GluN1=GluN2B; GluN1a=GluN2B	Train
+24894996_5	PYR1=protein phosphatase type 2Cs; PYL=protein phosphatase type 2Cs; RCARs=protein phosphatase type 2Cs; SnRK2s=ABA-responsive element binding factors; SnRK2s=ABI5; SnRK2s=nicotinamide adenine dinucleotide phosphate oxidase; SnRK2s=RBOHF; SnRK2s=slow anion channel 1; SnRK2s=K+ channel in Arabidopsis 1; SnRK2s=mechanosensitive channel of small conductance- like 9	Train
+24901984	Glycogen synthase kinase (GSK) 3beta=nuclear myosin 1c; PCAF=H3K9; glycogen synthase kinase (GSK) 3beta=NM1; GSK3beta=NM1; UBR5=NM1; GSK3beta=NM1	Train
+24905007	FA core complex=FANCD2; FA core complex=FANCD2; FANCB=FANCL; FANCL=FAAP100; FANCB=FAAP100; FA core complex=FANCD2	Train
+24933155_20	FilGAP=FLNa	Train
+24997600	RPRD1A=RPRD1B; RPRD1B=RNAPII; RPRD1A=RNAPII; RPRD2=RNAPII; RPRD1B=RNAPII; RPRD1A=RNAPII; RPRD1B=RPAP2; RPRD1A=RPAP2; RPAP2=RNAPII; RPAP2=RNAPII	Train
+25024377	Hsp90=ACT1; Hsp90=ACT1; Hsp90=ACT1	Train
+25074811	Ric8a=NCS-1; Ric8a=Frq2; NCS-1=Ric8a; Ric8a=Frq2; Frq2=Ric8a	Train
+25117454_9	MBP=SelK; MBP=cMBP	Train
+25138275	LARGE2=alpha-dystroglycan; LARGE=alpha-dystroglycan; LARGE=alpha-dystroglycan; alpha-DG=laminin; LARGE2=alpha-DG; LARGE=alpha-DG	Train
+25161877_7	Emi1=APC/C; Emi2=APC/C; E2S=APC/C	Train
+25197364	USP21=IL-33; USP21=IL-33; Ubiquitin-specific protease 21=IL-33; USP21=IL-33	Train
+25219551_61	Rap=RalGEF; Ras=RalGEF; RalGDS=PDK; RalGDS=Akt	Train
+25240135_25	Tip60=ATM; ATM=Tip60; ATM=Tip60; Tip60=ATM; ATM=Tip60; ATM2904=ATM; ATM2904=P53; ATM2904=H2AX; ATM2907=ATM; ATM2907=P53; ATM2907=H2AX; ATM2908=ATM; ATM2908=P53; ATM2908=H2AX	Train
+25299333	RPM1=RIN4; AvrB=RIN4; RIN4=ROC1	Train
+25328409_2	Platelet-derived growth factor=PDGFR; Platelet-derived growth factor=PDGFRalpha; Platelet-derived growth factor=PDGFRbeta; Crenolanib=tyrosine kinase; Crenolanib=PDGFR; Crenolanib=FMS-related tyrosine kinase 3	Train
+25343031_31	VPS11=VPS16; VPS11=VPS18; VPS11=VPS33; VPS16=VPS18; VPS16=VPS33; VPS18=VPS33; CORVET=Rabs; CORVET=SNAREs; HOPS=Rabs; HOPS=SNAREs; Vps8=VPs3; Vps41=Vps39; Rab=Vps39; Rab=Vps41; Rab=VPs3; Rab=Vps8; Rabs=SNAREs	Train
+25356737	WWP2=Notch3; WWP2=Notch3; WWP2=N3; WWP2=Notch3; WWP2=Notch3; WWP2=Notch3	Train
+25362487	coronin=actin; actin=crn1; coronin=F-actin; actin=coronin; beryllium fluoride=actin	Train
+25457772_18	Lif1=Dnl4	Train
+2550422	protein phosphatase 2A=rhodopsin; protein phosphatase 2A=rhodopsin; protein phosphatase 2A=rhodopsin; arrestin=rhodopsin; protein phosphatase 2A=rhodopsin	Train
+25538220_76	ERCC1=USP45; ERCC1=USP45	Train
+2558719	type 2A=phosphorylase kinase; type 2A=phosphorylase a; type 2A phosphatase=opsin; type 2A phosphatase=rhodopsin; protein phosphatase 2A=opsin	Train
+25588830	SEPT12=SEPT7; SEPT12=SEPT 6; SEPT12=SEPT2; SEPT12=SEPT4; SEPT7=SEPT 6; SEPT7=SEPT2; SEPT7=SEPT4; SEPT 6=SEPT2; SEPT 6=SEPT4; SEPT2=SEPT4; 12=4; 12=6; 12=7; 7=6; 7=4; 6=4; 12=2; 12=6; 12=7; 7=6; 7=2; 2=6; SEPT12=SEPT7; 12=2; 12=6; 12=7; 12=12; 7=2; 7=6; 7=7; 7=12; 6=2; 6=6; 6=7; 6=12; 2=2; 2=6; 2=7; 2=12; 12=4; 12=6; 12=7; 12=12; 7=4; 7=6; 7=7; 7=12; 6=4; 6=6; 6=7; 6=12; 4=4; 4=6; 4=7; 4=12; SEPT12=GTP; GTP=SEPT12	Train
+25675981_18	INTS3=NABP; NABP=Integrator; INTS3=Integrator	Train
+25683140	bc1=cytochrome c oxidase	Train
+25732088	VHL=nsp16	Train
+25756347	ubiquitin=Rad18; ubiquitin=Rad18; diubiquitin=Rad18; Rad18=polyubiquitin; Rad18=monoubiquitin; Rad18=polyubiquitin; Rad18=polyubiquitin; Rad18=polyubiquitin; ubiquitin=Rad18; Rad18=monoubiquitin; Rad18=polyubiquitin; Rad18=ubiquitin; Rad18=ubiquitin; Rad18=polyubiquitin	Train
+25862245_8	Dock10=Cdc42; Dock10=Rac1	Train
+26002084_4	CPAP=tubulin; SAS-5=CPAP; Sas-6=CPAP; SAS-5=Sas-6	Train
+26023895_5	TF=FVIIa	Train
+26041935_5	ELYS=Nup107	Train
+26042225	auxilin=clathrin; auxilin=Hsc70; clathrin=Hsc70; clathrin=Hsc70; calcineurin=Hsp110; Hsc70=clathrin	Train
+26071132	CA4=Wilms' tumour 1-associating protein	Train
+26134678_46	clathrin=TACC3; clathrin=TACC3	Train
+26183061_18	NEDD4-1=PTEN; WWP2=PTEN; NEDD4=PTEN; MKRN1=PTEN; NEDD4=PTEN; MKRN1=PTEN; MKRN1=PTEN	Train
+26251439	Obscurin=Baellchen; Obscurin=MASK; Ball=Obscurin; MASK=Obscurin	Train
+26317213_16	FK506=FKBP	Train
+26449471_14	leucine=Sestrin2; leucine=Sestrin2; RagA=RagC; leucine=Sestrin2	Train
+26545399	YLR285W=eEF1A; YLR285W=eEF1A; N6AMT2=eEF1A; N6AMT2=eEF1A; Efm5=eEF1A	Train
+26553926	BubR1=Bub3; Bub3=BubR1; Bub3=BubR1; anaphase-promoting complex/cyclosome=Cdc20	Train
+26658609_8	Apl4=Apm2; Aps1=Apl4; Aps1=Apm2	Train
+26749448_6	BamA=BamD; BamA=BamD; BamA=BamB	Train
+26787927	Profilin=PTEN; Profilin=phosphatase and tension homologue; PTEN=IKK	Train
+26791243_28	Opi1p=PA	Train
+26845565_2	EBNA2=BS69; BS69=EBNA2; EBNA2=BS69; BS69=EBNA2	Train
+26866270_9	MLKL=Hsp90; MLKL=Hsp90; MLKL=Hsp90; MLKL=Hsp90; Hsp90alpha=MLKL; MLKL=Hsp90alpha	Train
+26900751	Hsp70=STUB1	Train
+26906416	ubiquitin-like protein NEDD8=cullin; DCNLs=CAND1; cullins=DCNLs; CAND1=cullins; CAND=cullin; cullin=DCNL; CAND=DCNL; DCNLs=cullin; DCNLs=cullin; DCNL-type NEDD8 E3=cullin	Train
+26912900_35	Rpn1=ubiquitin; Rpn1=UBL	Train
+26960795	Psh1=Cse4; Siz1=Cse4; Siz2=Cse4; Slx5=Cse4	Train
+27018634	NleB1=ensconsin; EspL=ensconsin; Ensconsin=kinesin-1; NleB1=ensconsin; EspL=ensconsin	Train
+27068241_3	cyclin-dependent kinase 5=drebrin	Train
+27068747	hDREF=Mi2alpha; hDREF=Mi2alpha; hDREF=Mi2alpha; hDREF=Mi2alpha	Train
+27137657	Scl=Vegfa; HEB=GATA1; HEB=3; HEB=LMO1; HEB=2; HEB=LDB1; GATA1=3; GATA1=LMO1; GATA1=2; GATA1=LDB1; 3=LMO1; 3=2; 3=LDB1; LMO1=2; LMO1=LDB1; 2=LDB1; ETO2=RUNX1; ETO2=ERG; ETO2=FLI1; RUNX1=ERG; RUNX1=FLI1; ERG=FLI1	Train
+27222660	Cullin-2=Elongin B; Cullin-2=C; Cullin-2=Rbx1; Cullin-2 based E3 ubiquitin ligases=VHL; Cullin-2 based E3 ubiquitin ligases=Lrr-1; Cullin-2 based E3 ubiquitin ligases=Fem1b; Cullin-2 based E3 ubiquitin ligases=Prame; Cullin-2 based E3 ubiquitin ligases=Zyg-11; Cullin-2 based E3 ubiquitin ligases=BAF250; Cullin-2 based E3 ubiquitin ligases=Rack1	Train
+27233966	Cullin-5=TRAF6; Cul-5=TRAF6; Cul-5=TRAF6; TLR4=MyD88	Train
+27416755	USP15=Nrf1	Train
+27449295	Mc=SENP1; Momordin Ic=SENP1; Mc=SENP1; Mc=SENP1	Train
+27490928	EVA1A=ATG16L1; BECN1=PIK3C3; ATG12=ATG5; EVA1A=ATG16L1; ATG12=ATG5	Train
+27532772_38	BOLA1=GLRX5; GLRX5=BOLA1; GLRX5=BOLA3; GLRX5=BOLA1; GLRX5=BOLA3	Train
+27704052	Ccr4=Not; Ccr4=Not; Not=Ccr4; POP2=Ccr4; POP2=Not; Ccr4=Not; DEAD box RNA helicase=Ccr4; DEAD box RNA helicase=Not; Ccr4=Not; Ccr4=Not	Train
+27806292_2	actin=SWAP70; phosphatidylinositol (3,4)-bisphosphate=SWAP70	Train
+27864078	Gcn2=eIF2alpha	Train
+28148647_5	Vps33=SNAREs	Train
+28216227_9	aphidicolin=DNA polymerase	Train
+28276439_10	pUb=Parkin; pUb=Parkin; pUb=Parkin; RING1=pUb; pUb=Parkin; pUb=Parkin	Train
+28281558_5	PEX3=PEX19; PEX14=PEX19	Train
+28286024_18	Elk-1=Mediator; Mediator=Elk-1; Elk-1=SRF	Train
+28286521_18	MG132=proteasome; pCAF=CIITA	Train
+28330605_15	Rpn1=19S; Rpn1=UBLs; Rpn1=polyUb	Train
+28380357	Keap1=Cullin3; Keap1=Cullin3; Cullin3=p62; Keap1=p62; Keap1=Cullin3; Cullin3=p62; Keap1=p62; p62=LC3; p62=Keap1	Train
+28447717	ZFPL1=golgin A2; ZFPL1=GM130; ZFPL1=GM130	Train
+28553222_48	drebrin A=Arc	Train
+28666118_68	KRAS4b=calmodulin; PKC=KRAS4b; KRAS4b=Calmodulin; KRAS4b=Ca; Ca=Calmodulin	Train
+28724915_8	VX950=NS3/4 A protease	Train
+28769084_18	FGF1=FGFR1; Pitstop2=clathrin; Dynasore=dynamin	Train
+28781232_31	GW182=Ago; Ago=hGW182; hAgo2=hGW182	Train
+28784611_2	phosphatidylinositol-4 kinase Stt4=efr3	Train
+28939558	BVD-523=ERK1; BVD-523=2	Train
+29056322_14	GDP=Rag GTPases; GTP=RagA; GTP=RagC; small GTP binding proteins=GDP; small GTP binding proteins=GTP; GTP=small GTP binding proteins	Train
+29066499	male-specific lethal 2=roX; Maleless=roX	Train
+29203883_5	ABIN-1=ubiquitin; ABIN-1=ubiquitin	Train
+29321502_42	Pex1=Pex6; Pex1=Pex6	Train
+29540529_15	Atg1=Atg13; Atg1=Atg13	Train
+29563586	Jumonji-C (JmjC) domain-containing protein 5=histone; JMJD5=regulator of chromosome condensation domain-containing protein 1; JMJD5=ribosomal protein S6	Train
+29650645_27	Cis1=Msp1; Msp1=Cis1	Train
+29795337_6	ChAT=Kinesin-2; Kinesin-2=ChAT	Train
+30057274	Cbl=PDGFRalpha	Train
+30293565	ANKRD9=CUL5; ANKRD9=ELOB; ANKRD9=ELOC; ANKRD9=RNF7; CUL5=CUL2; CUL5=ELOB; CUL5=ELOC; CUL5=RNF7; CUL2=ELOB; CUL2=ELOC; CUL2=RNF7; ELOB=ELOC; ELOB=RNF7; ELOC=RNF7; ANKRD9=inosine monophosphate dehydrogenase; IMPDH=ANKRD9; ANKRD9=IMPDH	Train
+30348783	SHOC2=MRAS; SHOC2=PP1; MRAS=PP1; MRAS=SHOC2; MRAS=protein phosphatase 1; protein phosphatase 1=RAF; SHOC2=RAF; MRAS=RAF; MRAS=PP1; SHOC2=PP1; MRAS=SHOC2; MRAS=RAF; SHOC2=RAF; SHOC2=PP1; MRAS=SHOC2; SHOC2=PPP1CB; MRAS=PPP1CB; SHOC2=MRAS; SHOC2=PPPC1B; MRAS=PPPC1B; PPPC1B=RAF; MRAS=RAF; SHOC2=RAF	Train
+30452242_21	Ssp2=Smk1; Smk1=Ssp2KAD	Train
+30644389	Src=KRAS; SHP2=KRAS; SHP2=KRAS	Train
+30770249	OGT=RIPK3; RIPK3=RIPK1; RIPK3=RIPK3	Train
+31431478_68	ROCK1=RhoBTB1; RhoBTB1=Cullin3; ROCK1=RhoBTB1	Train
+31543423_26	cyclin E=CDK; A=CDK; cyclin E=CDK; A=CDK; cyclin E=Rb; A=Rb; CDK=Rb; cyclin E=CDK; A=CDK; cyclin E=Rb; A=Rb; CDK=Rb; CDK2=cyclin E; cyclin E=CDK; A=CDK; CDK4=Rb; 6=Rb; cyclin E=CDK; A=CDK; CDK4=Rb; 6=Rb	Train
+32005965	MUL1=CRL2(VHL)	Train
+3346227	Diphtheria toxin=EF-2; exotoxin A=EF-2	Train
+33727702	papain-like protease=MDA5	Train
+34528721	S protein=ACE2; ZDHHCs=S	Train
+4074707	albumin=Hemin; hemopexin=Hemin; hemin=albumin; hemin=hemopexin; hemin=albumin; hemopexin=hemin; heme=serum albumin; heme=hemopexin	Train
+6487575	streptokinase=plasminogen; streptokinase=plasminogen; Streptokinase=plasminogen; Streptokinase=streptokinase; plasminogen=p-nitrophenyl p-guanidinobenzoate; plasminogen=H-D-valyl-L-leucyl-L-lysyl-p-nitroanilide; streptokinase=plasminogen; NPGB=plasminogen; plasminogen=streptokinase	Train
+7499293	casein kinase 2=NIPP-1; protein kinase A=NIPP-1	Train
+7534293	E2F-1=DP1	Train
+7540942	CD30=CD30L; CD30=CD30L	Train
+7565732	VDR=retinoid X receptor; NFATp=AP-1; NFATp=AP-1; VDR=retinoid X receptor; NFATp=AP-1	Train
+7589461	GLP-1 receptor=GLP-1(7-36)amide	Train
+7592744	rhoA p21=GTP gamma S; GTP gamma S=rhoA p21; C3 exoenzyme=rhoA p21	Train
+7608543	Ig alpha=lg beta; mlg=Ig alpha; mlg=lg beta	Train
+7659529	Epo=EpoR	Train
+7663514	p53=XPD; p53=XPB; p53=CSB	Train
+7665588	p50=p65	Train
+7667268	TAFII80=TAFs; TAFII80=TAFII250; TAFII80=TAFII31; TAFII80=TAFII20; TAFII80=TBP; TAFII80=TFIIE alpha; TAFII80=TFIIF alpha; TAFII80=TAFII31; TAFII80=TAFII20; TAFII80=TAFII250; TAFII80=TFIIF alpha; TAFII80=TBP; TAFII80=TFIIE alpha; TAFII80=TFIIE alpha; TAFII80=TFIIF alpha; TATA-binding polypeptide=TBP-associated factors; TAFs 80=31; 31=20; TAFs 80=20	Train
+7673174	2=rat hepatic lectins (RHL) 1; 3=2; 3=rat hepatic lectins (RHL) 1	Train
+7691810	Shc=Grb2; p52shc=Grb2	Train
+7721857	ubiquitin=CDC34; Ub=CDC34; Ub=CDC34; Ub=CDC34	Train
+7791785	Sds22p=PP1; Sds22p=PP1	Train
+7843230	p50=p65; p50=c-rel; TcR=CD3	Train
+7848679	p50=p56	Train
+7859290	OBF-1=Oct-1; OBF-1=Oct-2; OBF-1=Oct-1; OBF-1=Oct-2	Train
+7862168	Elf-1=c-Rel; Elf-1=p50; Elf-1=HMG-I; Elf-1=HMG-I(Y); Elf-1=NF-kappa B; HMG-I(Y)=NF-kappa B; Ets=NF-kappa B	Train
+7901201	thioesterase=H-Ras; Mg2+=H-Ras; palmitoyl-protein thioesterase=H-Ras	Train
+7915519	p65=p50; p65=c-rel; p50=c-rel; gp160=NF-kappa B	Train
+7916016	palmitoyl-protein thioesterase=Ha-Ras; palmitoyl-protein thioesterase=Ha-Ras; palmitoyl-protein thioesterase=G proteins	Train
+7918411	NAIR=AIR carboxylase; NAIR=PurE	Train
+7929104	p50=p65; p50=c-Rel	Train
+7929355	c-Rel=p65; c-Rel=p65; c-Rel=p65; c-Rel=p65; c-Rel=p65	Train
+7929371	Ca2+/calmodulin-dependent protein kinase=cardiac sarcoplasmic reticulum Ca(2+)-ATPase; Ca2+/calmodulin-dependent protein kinase II=Ca(2+)-ATPase of cardiac muscle sarcoplasmic reticulum; CaM kinase=SERCA2; CaM kinase=SERCA2	Train
+7957109	I kappa B-alpha=NF-kappa B; I kappa B-alpha=NF-kappa B; I kappa B-alpha=p65; Cbz-Leu-leucinal=m-calpain	Train
+7964516	c-Myc=Max; Myc=Max; Myc=Max	Train
+7991565	Rab geranylgeranyl transferase=small GTPases; Rab geranylgeranyl transferase=Rab1A; Rab geranylgeranyl transferase=Rab3A; Rab geranylgeranyl transferase=Rab5A; Rab-specific geranylgeranyltransferase=Rab; Rab geranylgeranyltransferase=Rab; Rab escort protein=Rab; Rab geranylgeranyltransferase=Rab escort protein; Rab geranylgeranyltransferase=Rab; Rab escort protein=Rab	Train
+8051110	zinc=botulinum neurotoxin serotype G	Train
+8062389	big ET-1=ECE-1	Train
+8065341	AHR=AHR nuclear translocator; AHR=ARNT; 2,3,7,8-tetrachlorodibenzo-p-dioxin [TCDD]=AHR	Train
+8144878	p50=p65; herbimycin A=tyrosine kinase	Train
+8164652	p50=p52; p50=p65; p50=cRel; p52=p65; p52=cRel; p65=cRel; p50=p52; p50=p65; p50=cRel; p52=p65; p52=cRel; p65=cRel; p50=p52	Train
+8183915	I kappa B gamma-1=p50; I kappa B gamma-2=p50; I kappa B gamma=Rel/NF-kappa B	Train
+8196620	c-Rel=p65; p50=p65; p50=p65; c-Rel=p65; c-Rel=p65; c-Rel=p65; c-Rel=p65; c-Rel=TF; p65=TF	Train
+8226619	draT=dinitrogenase reductase; draG=dinitrogenase reductase; DRAT=dinitrogenase reductase; DRAG=dinitrogenase reductase	Train
+8232542	Mad2p=Bet2p; Bet2p=Ypt1p; Bet2p=Sec4p; Mad2p=Ypt1p; Mad2p=Sec4p; Bet2p=Ypt1p; GGTase-II=Ypt1p; Mad2p=Bet2p; Bet2p=Mad2p; geranylgeranyl pyrophosphate=Bet2p; geranylgeranyl pyrophosphate=Mad2p	Train
+8413252	E2F=cyclin A; E2F=retinoblastoma tumor suppressor protein; E2F=pRB; E2F=p107; E2F=cyclin A; E2F=cdk2; p107=cdk2; p107=cyclin A; cyclin A=cdk2; E2F=cyclin A; E2F=cyclin A; E2F=cyclin A; E2F=cyclin A; E2F=cyclin A; E2F=cyclin A; E2F=cyclin A; E2F=cyclin A; E7=E2F; E7=cyclin A; E7=E2F; E7=cyclin A; E7=E2F; E7=cyclin A; E2F=E7; cyclin A=E7	Train
+8429920	lovastatin=3-hydroxy-3-methylglutaryl-CoA (HMG-CoA) reductase	Train
+8430087	guanine nucleotide regulatory protein gamma 2=transducin; guanine nucleotide regulatory protein gamma 2=rhodopsin; guanosine 5'-[gamma-thio]triphosphate=Gt alpha; GTP=Gt alpha; pertussis toxin=Gt alpha	Train
+8468462	c-jun=c-fos; c-Jun=c-Fos	Train
+8493578	Elf-1=Rb; Elf-1=Rb; Elf-1=Rb; Elf-1=Rb; Elf-1=retinoblastoma protein; Elf-1=Rb; Rb=Ets	Train
+8530384	BOB.1=Oct1; BOB.1=Oct2; BOB.1=Oct1; BOB.1=Oct2	Train
+8628258	SNF1=SIP4; SIP4=SNF1; SNF1=SIP4	Train
+8652528	beta gamma=alpha	Train
+8659928	calcium=Human protein C	Train
+8700872	Vascular endothelial growth factor-related protein=Flt4; vascular endothelial growth factor=Flk1; vascular endothelial growth factor=Flt1; Flt4=VEGF-related protein	Train
+8706659	PP2A=phosphoopsin	Train
+8754855	Ets-1=TFE3; PU.1=Ets-1; PU.1=TFE3	Train
+8797708	Tax=HsN3; HsN3=Tax; Tax=p100; Tax=p65; I kappa B alpha=p65; Tax=proteasome; Tax=I kappa B alpha	Train
+8798676	Syk=Lck; Lck=Syk; Lck=Zap; Syk=Lck; Lck=Syk	Train
+8816454	PTF gamma=TBP; PTF delta=TBP; PTF gamma=delta; PTF=Oct-1; TATA-binding protein=PTF; TFIIIB90=PTF; PTF=TBP	Train
+8837778	TRAF6=IRAK; IRAK=IL-1 receptor	Train
+8901870	cyclooxygenase-2=NSAID; NSAID=cyclooxygenase-2; NSAID=cyclooxygenase-1; NSAID=COX-2	Train
+8905624	FXIII=Fn; FXIIIa=Fbn; Fgn=FXIIIa; Fn=FXIIIa; Tg=Fn; Tg=Fgn; Tg=Fbn; FXIII=Fbn; FXIII=Fgn; FXIII=Fn; FXIIIa=Fgn; FXIIIa=Fbn; FXIIIa=Fn; FXIIIa=Fgn; FXIIIa=Fbn; FXIII=Fbn; FXIII=Fgn; Tg=Fgn; Tg=Fbn; Tg=Fn; FXIIIa=Fn; FXIIIa=Fgn; FXIIIa=Fbn; Tg=Fn; Tg=Fn; FXIIIa=Fgn; FXIIIa=Fbn; FXIII=Fbn; FXIII=Fgn; FXIIIa=Fn; Tg=Fbn; Tg=Fgn; FXIII=Fn; human factor XIII=fibrinogen; human factor XIII=fibrin; human factor XIII=fibronectin; factor XIIIa=fibrinogen; factor XIIIa=fibrin; factor XIIIa=fibronectin; endothelial cell transglutaminase=fibrinogen; endothelial cell transglutaminase=fibrin; endothelial cell transglutaminase=fibronectin; Factor XIII=fibrinogen; Factor XIII=fibrin; Factor XIII=fibronectin; Factor XIIIa=fibrinogen; Factor XIIIa=fibrin; Factor XIIIa=fibronectin; transglutaminase=fibrinogen; transglutaminase=fibrin; transglutaminase=fibronectin; FXIII=Fbn; FXIII=Fgn; FXIII=Fn	Train
+8910345	Farnesyltransferase=p21(ras)	Train
+8943311	rat hepatic lectins (RHL) 1=2; 2=3; rat hepatic lectins (RHL) 1=3; HHL1=HHL2	Train
+8943321	Spt3p=TATA-binding protein; Mot1p=TBP	Train
+8990121	Vav=Zap-70; Vav=Vap-1; Vav=Slp-76	Train
+9018153	RFX1=MIBP1	Train
+9032232	adenylyl cyclase=Ras; Ras=adenylyl cyclase; Ras=adenylyl cyclase; adenylyl cyclase=adenylyl cyclase-associated protein; adenylyl cyclase-associated protein=adenylyl cyclase; adenylyl cyclase=CAP; CAP=adenylyl cyclase; adenylyl cyclase=CAP; adenylyl cyclase=CAP	Train
+9105043	actin=tropomyosin	Train
+9111020	protein kinase A=eNOS	Train
+9111040	NOTCH1=RBP-Jkappa; NOTCH1=RBP-Jkappa; NOTCH1=RBP-Jkappa	Train
+9115440	Max=Mad; Max=Mxi1; Max=Myc	Train
+9129143	rhombotin-2=retinoblastoma-binding protein 2; RBTN2=retinoblastoma-binding protein 2; RBTN2=RBP2; RBTN2=RBP2; RBTN2=RBP2; RBTN2=RBP2; RBP2=RBTN2; RBTN2=RBP2; RBTN2=RBP2; RBTN2=RBP2	Train
+9133417	Jak3=CD40; Jak3=CD40	Train
+9139698	MUC1=beta-catenin; DF3=beta-catenin; DF3=gamma-catenin; beta-catenin=DF3; DF3=beta-catenin; beta-catenin=DF3; adenomatous polyposis coli gene product=beta-catenin; E-cadherin=beta-catenin	Train
+9162034	B956=farnesyl transferase; B957=farnesyl transferase	Train
+9177217	CIITA=RFX5; RFX5=CIITA; RFX5=CIITA; CIITA=RFX5	Train
+9192873	Cyclin E=CDK2; cyclin=CDK; cyclin=CDK; cyclin E=CDK2; CDK2=cyclin E; cyclin E=CDK2; cyclin E=CDK2; cyclin E=CDK2; cyclin E=CDK2; cyclin E=CDK2; CDK2=cyclin E; cyclin E=p27Kip1; CDK2=p27Kip1; cyclin E=p27; CDK2=p27; cyclin E=p27; CDK2=p27; cyclin E=p27; CDK2=p27; p27=cyclin E; p27=CDK2; CDK=p27; cyclin E=p27; CDK2=p27; cyclin E=p27; CDK2=p27	Train
+9192902	SRC-1=oestrogen receptor; lipophilic hormones=nuclear-receptor; retinoids=nuclear-receptor; vitamins=nuclear-receptor; TIF-2=nuclear receptors; CBP=nuclear receptors; RIP-140=nuclear receptors; TIF-1=nuclear receptors; TRIP-1=nuclear receptors; RIP-140=nuclear receptors; SRC-1=nuclear receptors; CBP=nuclear receptors; SRC-1=nuclear receptors; p160=nuclear receptors	Train
+9199305	Sp1=Egr-1; IL-2Rbeta=IL-2; IL-2Rbeta=IL-15; Sp1=Egr-1	Train
+9199898	p65=p50	Train
+9211847	BOB.1=Oct2; BOB.1=Oct1	Train
+9214382_7	Ran=Ran binding protein 1; Ran=RanBP2; Ran=RanBP1; Ran=importin-beta; Ran=importin-beta; Ran=RanBP1; Ran=importin-beta; Ran=RanBP1; importin-beta=RanGTP	Train
+9233623	RP1=APC	Train
+9265649_58	tubulin=C; tubulin=E; C=E; C=D; D=E; C=E; tubulin=C; tubulin=D; tubulin=E; cofactor E=alpha-tubulin; FEalpha=FDbeta; FEalpha=FDbeta; cofactor D=beta-tubulin; cofactor D=beta-tubulin; D=alpha-tubulin; E=alpha-tubulin; cofactor D=beta-tubulin; FDbeta=FEalpha; D=E; D=beta-tubulin; E=beta-tubulin; FEalpha=FDbeta	Train
+9315095	FTI-277=farnesyltransferase; GGTI-286=geranylgeranyltransferase I	Train
+9317131	p50=p65; p50=relB	Train
+9334334	Chip=Apterous	Train
+9341193	tax=Sp1; tax=NGFI-A; Tax=Sp1; Tax=NGFI-A; Tax=Egr-1; Tax=NGFI-A	Train
+9353267	Rad52=Rad51	Train
+9380700	Spectrin=dynactin; ankyrin=dynactin; actin=betaI spectrin; spectrin=AnkG119; ankyrin=spectrin	Train
+9388475	mNFATc=AP-1	Train
+9398404	STAT5A=STAT5B; STAT5A=STAT5B; STAT3=STAT5	Train
+9414129	c-Rel=p50; c-Rel=p65	Train
+9442023	CaMKIIPase=CaMKII; cAMP-dependent protein kinase=alpha-casein; cAMP-dependent protein kinase=myelin basic protein; cAMP-dependent protein kinase=histones; cAMP-dependent protein kinase=phosphorylase kinase; phosphorylase kinase=phosphorylase a; CaMKII=CaMKII; CaMKIIPase=CaMKII; CaMKIIPase=CaMKII; CaMKIIPase=CaMKII	Train
+9442374	p65=I kappa B alpha; c-Rel=I kappa B alpha; c-Rel=I kappa B beta; p65=I kappa B beta; I kappa B alpha=p65; I kappa B beta=p65	Train
+9464836	CD40=CD40L	Train
+9472046_57	CAS=Crk; CAS=Crk	Train
+9490735_27	ABP-280=TF; ABP-280=TF; TF=ABP-280	Train
+9616112	BMAL1=CLOCK; BMAL1=CLOCK; CLOCK=BMAL1	Train
+9632764	OCA-B=Oct-1; OCA-B=PC4	Train
+9642256	PRMT1=TIS21; PRMT3=GAR; PRMT1=rmt1; PRMT3=rmt1; PRMT3=rmt1	Train
+9649503	XSMC3=XSMC1; Smc3p=Smc1p; XSMC1=XSMC3	Train
+9651577	CRY1=phytochrome A; CRY1=phytochrome A	Train
+9657698	transducin=beta gamma; transducin=Galpha; beta gamma=Galpha; pertussis toxin=transducin-alpha; GTPgammaS=Talpha; beta1 gamma1S74L=Goalpha; beta1 gamma1S74L=adenylyl cyclase; beta1 gamma2=Goalpha; beta1 gamma2=adenylyl cyclase	Train
+9657743	Crkl=STAT5	Train
+9659924	IRF1=ATF2; NF-kappa B=IRF1; NF-kappa B=ATF2; c-Jun=HMG I(Y); IRF1=HMG I(Y); NF-kappa B=HMG I(Y)	Train
+9660765	ZFM1=EWS; ZFM1=EWS; EWS=ZFM1; ZFM1=EWS; hTAFII68=ZFM1; TLS=ZFM1; EWS=RNA polymerase II; hTAFII68=RNA polymerase II; ZFM1=EWS; ZFM1=TLS; ZFM1=hTAFII68	Train
+9663467	Thrombopoietin=c-Mpl	Train
+9692672	p21Ras=GTP; farnesyltransferase=p21Ras	Train
+9707608	TNFRI=TRAF2; TNFRI=TRADD; TNFRI=RIP; TNFRI=IkappaB alpha; TNFRII=TRAF1; TNFRII=TRAF2; TNFRI=TRADD; TNFR=TRAF1; TNFR=TRAF2	Train
+9722600	Tax=INK4A	Train
+9755872	2A=perilipin; PP1=perilipin	Train
+9773983	p160s=CREB-binding protein; p160s=p300 and CBP-associated factor; CREB-binding protein=p300 and CBP-associated factor	Train
+9790970	UCH-L3=NEDD8; UCH-L3=ubiquitin	Train
+9812988	IkappaBbeta=retinoid X receptor; Bcl3=RXR; Bcl3=RXR; IkappaBbeta=RXR; Bcl3=TFIIB; Bcl3=TBP; Bcl3=TFIIA	Train
+9819382	GATA3=TAL1; GATA3=LMO; TAL1=LMO; LIM-only=GATA3; TAL1=GATA3; LMO=GATA3; TAL1=GATA3	Train
+9832424	IRS-2=phosphatidylinositol 3-kinase; IRS-2=Grb2; Grb2=IRS-2; Grb2=IRS-2; wortmannin=PI 3-K; LY294002=PI 3-K	Train
+9843958	sec61beta=apoB100	Train
+9858547	KSR=14-3-3; KSR=mitogen-activated protein kinase; KSR=14-3-3; mitogen-activated protein kinase=KSR; MAPK=KSR; MAPK=KSR	Train
+9858618	class II transactivator=CREB binding protein; CIITA=CBP; CIITA=CREB binding protein	Train
+9875237	Ca2+/calmodulin-dependent protein kinase kinase alpha=Ca2+/calmodulin-dependent protein kinases I; Ca2+/calmodulin-dependent protein kinase kinase alpha=IV; Ca2+/calmodulin-dependent protein kinase phosphatase=Ca2+/calmodulin-dependent protein kinase II; Ca2+/calmodulin-dependent protein kinase phosphatase=Ca2+/calmodulin-dependent protein kinases I; Ca2+/calmodulin-dependent protein kinase phosphatase=IV	Train
+9878548	osteoclast differentiation factor=RANK; osteoclastogenesis-inhibitory factor=Osteoclast differentiation factor; ODF=ODFR; ODF=RANK	Train
+9949196	FUT4=asialo-fetuin; FUT8=asialo-fetuin; alpha1,6-fucosyltransferase=asialo-fetuin; beta-galactosidase=asialo-fetuin	Train
+9971736_30	FEZ1=PKCzeta; PKCzeta=nucleolin	Train
+10048324	BCCP=BirA; BCCP=biotin carboxylase; BCCP=acetyl-CoA carboxylase; BCCP=transcarboxylase; biotin=BCCP; biotin=BCCP; biotin=acetyl-CoA carboxylase	Devel
+10096561	CD40=CD40L	Devel
+10225955_54	l-afadin=nectin; AF-6=neurexin; AF-6=Eph receptor tyrosine kinase	Devel
+10229231	Fas=FasL; Fas=FasL	Devel
+10387016	NSF=SNAPs; NSF=SNAP receptors; Sec18p=Sec17p; Sec18p=alpha-SNAP; Sec18p=SNARE	Devel
+10395652	TLR2=CD14; TLR2=IRAK; LPS=CD14; LPS=TLR2; CD14=LPS; TLR2=IRAK	Devel
+10395671	CD40=CD40 ligand	Devel
+10402173	RelA=NFkappaB1; NF-kappaB1=RelA	Devel
+10409763	latent membrane protein 1=TRADD; LMP1=TRADD; LMP1=TRADD; LMP1=receptor-interacting protein; LMP1=RIP; RIP=LMP1; latent membrane protein 1=RIP; TRADD=tumor necrosis factor receptor	Devel
+10444591	RbAp48=histone; RbAp46=histone; Sin3=histone deacetylase; HDAC1=HDAC2; HDAC2=RbAp48; HDAC1=RbAp48; HDAC1=RbAp46; HDAC2=RbAp46; RbAp48=RbAp46; metastasis-associated protein 1=methyl-CpG-binding domain-containing protein; MTA2=histone deacetylase; MBD2=NuRD	Devel
+10702794	HePTP=ERK2; HePTP=p38 MAP-kinases; HePTP=ERK; HePTP=ERK2; ERK2=HePTP; ERK2=HePTP; HePTP=ERK2; ERK2=HePTP; ERK2=HePTP; HePTP=ERK2; HePTP=ERK2	Devel
+10704443_5	Emp24p=Erv25p; Emp24p=Erp1p; Emp24p=Erp2p; Erv25p=Erp1p; Erv25p=Erp2p; Erp1p=Erp2p	Devel
+10748112	histone deacetylases=histone; HDAC8=histone; histone deacetylase=histone	Devel
+10800694	T alpha=GDP; T beta gamma=T alpha; transducin=rhodopsin; R*=T alpha; R*=T beta gamma; transducin=rhodopsin	Devel
+10958785	Kuzbanian=ephrin-A2; Eph receptor=ephrin-A2	Devel
+10982844	Jak=STAT1; CBP=STAT1; Jak1=STAT1	Devel
+11032757	cdk 2=retinoblastoma protein; cdk 4=retinoblastoma protein; cyclin=cyclin-dependent kinase; cdk 2=pRb; cdk 4=pRb	Devel
+11057907	Ubc13=Uev1A; Ubc13=Uev1A	Devel
+11073998	TAP=p15; TAP=nucleoporins; p15=nucleoporin; p15=TAP; p15=NXF2; p15=NXF3	Devel
+11248038	HSP17=malate dehydrogenase	Devel
+11274389	retinol-binding protein=retinoid; II=retinoid; CRBP I=retinoid; type II=retinoid; retinol-binding protein resembling type I=retinoid; CRBP III=retinoid; CRBP III=all-trans-retinol; CRBP I=retinol; II=retinol; CRBP III=retinol	Devel
+11278251	Smurf1=transforming growth factor-beta type I receptor; Smurf1=Smad7; transforming growth factor-beta type I receptor=Smad7; Smad7=TGF-beta type I receptor; Smurf1=Smads; Smurf1=Smad7; Smurf1=TbetaR-I; Smurf1=Smad7; Smad7=TbetaR-I	Devel
+11405640	Rpd3p=Sin3p; Sds3p=Rpd3p; Sds3p=Sin3p; Sin3p=Rpd3p; Rpd3p=Sin3p	Devel
+11461910	mSel-10=Notch 1; mSel-10=Notch 1; mSel-10=Notch; proteasome=mSel-10	Devel
+11559360	lipoate protein ligase=P64K; dihydrolipoyl dehydrogenase=dihydrolipoyl acyltransferase	Devel
+11694501	protein-tyrosine phosphatase 1B=JAK2; protein-tyrosine phosphatase 1B=TYK2; PTP1B=TYK2; PTP1B=JAK2; PTP1B=insulin receptor; PTP1B=JAK2; PTP1B=TYK2; PTP1B=JAK2	Devel
+11959841	KAP-1=SETDB1; SETDB1=histone H3; SETDB1=H3; SETDB1=H3; SETDB1=histone H3; HP1=histone H3; KAP-1=histone; SETDB1=histone H3	Devel
+11959842	HDAC1=mSin3B; E2F=HDAC1; HDAC1=mSin3B; E2F=HDAC1; mSin3B=HDAC1	Devel
+12024017	ArgR=Mcm1; ArgR=Mcm1	Devel
+12093729	CRAM=CRMP; plexinA1=Fes; Fes=PlexA1; Fes/Fps=CRMP; Fes/Fps=CRAM; Fes=PlexA1; Fes=CRAM; Fes=CRMP2; PlexA1=Fes; CRAM=CRMP	Devel
+12101228	von Hippel-Lindau tumor suppressor protein=hypoxia-inducible factor; von Hippel-Lindau tumor suppressor protein=alpha subunits of hypoxia-inducible factor; VHL=HIF-alpha; VHL=HIF-alpha; VHL=HIF-alpha	Devel
+12167593	WWP2=epithelial Na(+) channel; Nedd4=epithelial Na(+) channel; WWP2=ENaC; Nedd4-2=ENaC; WWP2=ENaC	Devel
+12208845	methyltransferase=Histone H4; methyltransferase=H4; methyltransferase=H4; PR-Set7=H4; PR-Set7=H4; PR-Set7=H4	Devel
+12208882	Mac-1=junctional adhesion molecule 3; Mac-1=JAM-3; Mac-1=JAM-3; JAM-3=p150.95; Mac-1=JAM-3	Devel
+12223469	EphB1=Grb7; Grb7=EphB1; Grb7=EphB1; EphB1=Grb7; EphB1=ephrinB1; EphB1=Grb7; EphB1=Grb7; EphB1=Grb7; EphB1=Grb7	Devel
+12226657	MMS2=UBC13; RAD18=RAD6; RAD5=MMS2; RAD5=UBC13; UBC9=proliferating cell nuclear antigen; RAD6=PCNA; RAD18=PCNA; UBC9=PCNA; MMS2=PCNA; UBC13=PCNA; RAD5=PCNA	Devel
+12231510	FRAP=CLIP-170; mTOR/RAFT=CLIP-170; FRAP=CLIP-170; FRAP=CLIP-170	Devel
+12234931	Dab2=AP-2; Dab2=phosphoinositides; Dab2=clathrin; phosphoinositides=Dab2; Disabled-2=LDL-receptor; Dab2=AP-2; Dab2=clathrin	Devel
+12369018	POMT1=alpha-dystroglycan	Devel
+12399160	4-methyl pyrazole=ADH	Devel
+12486103	IKK=IkappaBalpha	Devel
+12538644	pVHL=hypoxia-inducible factor (HIF) 1; pVHL=2	Devel
+12554878	Smg5/7a=Upf1; Smg1=Upf1; hSmg5/7a=Upf1; hSmg5/7a=Upf2; hSmg5/7a=Upf3X; hSmg5/7a=Smg1; hSmg5/7a=protein phosphatase 2A	Devel
+12593796	c-Cbl=hSpry2; hSpry2=c-Cbl; hSpry2=c-Cbl; hSpry2=c-Cbl; c-Cbl=hSpry2; hSpry2=c-Cbl	Devel
+12644454	ubiquitin=Npl4; Npl4=ubiquitin	Devel
+12679040	SUMO E1=CtBP; E2=CtBP; Ubc9=CtBP; Pc2=CtBP; CtBP=PcG bodies; CtBP=PcG bodies; Ubc9=PcG bodies; E2=CtBP; E2=CtBP	Devel
+12748279	JAK2=PTP-1B; JAK2=STAT3; JAK2=STAT5; PTP-1B=JAK2; PTP-1B=JAK2	Devel
+12897057	CLOCK=BMAL1; BMAL1=CLOCK; BMAL1=CLOCK	Devel
+14523005	Aft1p=Pse1p; Aft1p=Pse1p	Devel
+14585973	Keap1=Nrf2; Keap1=Nrf2; Keap1=Nrf2; proteosome=Nrf2	Devel
+14699049	POMT1=POMT2	Devel
+14707132	PAK1=OSR1; OSR1=PAK1; OSR1=PAK	Devel
+14966532_14	Lefty1=Cripto; Lefty1=Cripto; Cripto=Lefty; Lefty1=Cripto; Lefty1 precursor=Cripto; Sqt=ActRIIB; Sqt=Alk4; Sqt=Cripto	Devel
+14973287	HtrA1=Bmp4; HtrA1=Gdf5; HtrA1=Tgfbetas; HtrA1=activin; HtrA1=Tgfbeta	Devel
+14992727	Menin=trithorax; Menin=histone methyltransferase; menin=histone methyltransferase; menin=trithorax; menin=MLL2; menin=Ash2L; menin=Set1; MLL2=Ash2L; menin=histone methyltransferase; menin=RNA polymerase II; menin=histone	Devel
+15107829	Suv39h=Smads; Smad5=suppressor of variegation 3-9 homolog 2; Smad5=Suv39h; Smad=Suv39h; Smad=Suv; Suv39h=histone H3	Devel
+15134439	G protein beta gamma=phosducin; G protein beta gamma=phosducin-like protein; betagamma=Phosducin; betagamma=phosducin-like protein; Gbetagamma=Pdc; Pdc=Gbetagamma; Pdc=Gbetagamma; PhLP=Gbetagamma; Pdc=Gbeta(1)gamma(2); Pdc=Gbetagamma	Devel
+15142525	B7-1=CTLA-4; B7-2=CTLA-4; liCTLA-4=TcRzeta; liCTLA-4=TcRzeta	Devel
+15150273	Menin=Smads; Menin=Runx2; Menin=Smad1; Menin=Runx2; Menin=Smad3; menin=Runx2; Menin=5	Devel
+15159550	Hsp90=glucocorticoid receptor; FK506-binding protein 52=FK506; FKBP52=heat-shock protein 90	Devel
+15225555	MKK2=MPK4; MKK2=MPK6	Devel
+15282304	RIZ1=SRC1; RIZ1=p300; RIZ1=H3; RIZ1=histone H3; ER=estrogen	Devel
+15294024_41	HIP=Shh	Devel
+15314162	Skp2=Smad4; Smad4=Skp2	Devel
+15362974	SAPK3=SAKS1; SAPK4=SAKS1; JNK=SAKS1; SAPK2a=SAKS1; SAPK2b=SAKS1; ERK (extracellular-signal-regulated kinase) 2=SAKS1; SAKS1=ubiquitin; SAKS1=VCP; SAKS1=VCP; SAKS1=VCP; PNGase=VCP; PNGase=SAKS1; SAKS1=VCP; SAKS1=PNGase	Devel
+15620648	NOD2=RIP2; NOD2=RIP2; NOD2=NEMO	Devel
+15673720_22	hMSH2=hMSH6; hMYH=hMutSalpha	Devel
+15689518	PLP=L-serine dehydratase; PLP=hSDH; PLP=hSDH; rSDH=PLP-OMS	Devel
+15824097	mind bomb=Delta; Mib1=Delta; Mib2=Delta; Mib2=XD	Devel
+15829515	Neuralized=Delta; Mind bomb=Delta; D-mib=Serrate; D-mib=Delta; Neuralized=Delta; Neuralized=Serrate; D-mib=Delta; D-mib=Serrate	Devel
+15893728	YAP=p73; YAP=p73; p300=p73	Devel
+15962011	Cbl=CIN85; Cbl=receptor tyrosine kinases; CIN85=endophilins; Cbl=CIN85; Cbl=endophilins; Cbl=Sprouty2; Sprouty2=CIN85; Cbl=CIN85; CIN85=Sprouty2; Sprouty2=Cbl; Cbl=CIN85; Sprouty2=CIN85	Devel
+16093323	Notch=Delta; Notch=Serrate; Serrate=Neuralized; Neuralized=Delta; Neuralized=Serrate; mib1=Delta; mind bomb=Delta	Devel
+16100378_25	5S rRNA=60S; 60S=5S rRNA; L11=60S; L5=5S rRNA; L5=Rrs1p; L11=Rrs1p; Rrs1p=L5; Rrs1p=L11; L5=L11; L11=L5	Devel
+16115877	Rip1=Traf2; Rip1=TLR3; Rip1=Traf6; Rip1=Tak1; Traf2=Rip1	Devel
+16252010	p75=NRIF; TRAF6=NRIF; TRAF6=NRIF; p75=NRIF; TRAF6=NRIF; TRAF6=NRIF; TRAF6=NRIF; TRAF6=NRIF; NRIF=TRAF6; traf6=NRIF	Devel
+16278047	hFBX25=Skp1; hFBX25=Cul1; hFBX25=Skp1	Devel
+1628823	hsp70=HSF; HSF=hsp70; HSF=hsp70; HSF=hsp70	Devel
+16401342	SCF ubiquitin ligases=p27; SCF ubiquitin ligases=cyclin E; Csn5=cullin; Cop9 Signalosome=cullin	Devel
+16407834	Pix=Pak; Cool=Pak; betaPix=Cbl; betaPix=Cbl; betaPix=Pak1; Pak1=betaPix; Cbl=betaPix; Cbl=betaPix; Cdc42=betaPix	Devel
+16531995	ubiquitin specific protease 1=PCNA; USP1=PCNA	Devel
+16537444	Imatinib=c-Abl	Devel
+16546083	DNA polymerase zeta=Rev1; Polzeta=Rev1; Polzeta=Rev1; Polzeta=Rev1; Polzeta=Rev1; Rad18=PCNA; Rad6=PCNA; REV3=REV7; Rev1=Polzeta; Rad6=Rad18	Devel
+16547521	KLHL12=Cullin-3; KLHL12=Dishevelled; Cullin-3=Dishevelled; Dishevelled=Cullin-3 ubiquitin ligase complex; Broad Complex=Tramtrack; Tramtrack=Bric a Brac; Bric a Brac=Kelch-like 12; Broad Complex=Kelch-like 12; Broad Complex=Bric a Brac; Tramtrack=Kelch-like 12; Dishevelled=Broad Complex; Dishevelled=Tramtrack; Dishevelled=Bric a Brac; Dishevelled=Kelch-like 12; Cullin-3 ubiquitin ligase complex=Dishevelled	Devel
+16628230	dAPP-BP1=APPL; APP-BP1=beta-amyloid precursor protein; dAPP-BP1=APP-like protein; APPL=dAPP-BP1	Devel
+16682010	WHISTLE=histone; WHISTLE=H3K4; WHISTLE=H3K27; WHISTLE=histones; WHISTLE=H3K4; WHISTLE=H3K27	Devel
+16720433	ART2=P2X7; ART2=P2X7	Devel
+16732293	GASC1=histone H3; H3K9me3=HP1; me2=HP1; histone H3=HP1; H3K9me3=GASC1; GASC1=H3K9me3; GASC1=me2; GASC1=histone	Devel
+16738318	p66beta=MBD2; p66beta=MBD3; Human p66alpha=MBD2; Human p66alpha=MBD3; MBD3=RbAp46; MBD3=RbAp48; MBD3=HDAC1; RbAp46=RbAp48; RbAp46=HDAC1; RbAp48=HDAC1; MBD3=p66alpha; MBD3=p66beta; RbAp46=p66alpha; RbAp46=p66beta; RbAp48=p66alpha; RbAp48=p66beta; HDAC1=p66alpha; HDAC1=p66beta; HDAC1=p66alpha; RbAp46=p66alpha	Devel
+16751101	PPM1A=Smad; TGFbeta type I receptor=Smads; TGFbeta type I receptor=Smads; PPM1A=Smad; PPM1A=Smad2; PPM1A=3; PPM1A=Smad2; PPM1A=3	Devel
+1675604	KBF1=v-rel; KBF1=c-rel	Devel
+16780420	Cbl=stem cell factor receptor; Cbl=stem cell factor receptor; Cbl=c-Kit; Cbl=c-Kit; Cbl=c-Kit; c-Kit=Cbl; Cbl=c-Kit; Cbl=c-Kit; SFK=Cbl; Cbl=c-Kit	Devel
+16782898	15.5K=RNP; 15.5K=RNP; 15.5K=hU3-55K; 15.5K=RNP	Devel
+16787403	C-terminal binding protein (CtBP)2=calsenilin; calsenilin=CtBP1; calsenilin=CtBP; calsenilin=CtBP; calsenilin=CtBP; calcium=Calsenilin	Devel
+1680914	CD2=LFA-3	Devel
+16854980	Pex26p=Pex1p; Pex26p=Pex6p; Pex1p=Pex6p; Pex6p=Pex1p; Pex6p=Pex1p; Pex1p=Pex6p; Pex6p=Pex1p	Devel
+16906147	PIASy=NEMO; PIASy=NEMO; PIASy=NEMO; PIASy=NEMO; PIASy=NEMO; PIASy=NEMO; IKK=NEMO; PIASy=NEMO; IKK=NEMO; PIASy=NEMO	Devel
+16923963	RAD18=PCNA	Devel
+16959562	SIRT4=glutamate dehydrogenase	Devel
+16990252_6	Fli-I=CARM1; actin=gelsolin; Fli-I=actin; Fli-I=BAF53; Fli-I=actin; Fli-I LRR associating protein 1=Fli-I; LRR Fli-I interacting proteins 1=Fli-I; 2=Fli-I	Devel
+1700011	c-Jun=c-Fos; c-Fos=c-Jun; c-Fos=c-Jun	Devel
+17003037	Neuralized-2=Delta; Neuralized-2=Delta	Devel
+17030947_32	vitronectin=alphavbeta3; entactin=alphavbeta3	Devel
+17355984	SirT1=H4; SirT1=Dnmt1	Devel
+17452446	Rap1=Fhl1; Fhl1=Ifh1; Rap1=Ifh1; Rap1=Ifh1; Fhl1=Ifh1; Ifh1=casein kinase 2; Ifh1=Utp22; Ifh1=Rrp7; CK2=Utp22; CK2=Rrp7; Utp22=Rrp7; CK2=Ifh1; Utp22=Rrp7; Fhl1=CURI	Devel
+17500065	PTIP=histone H3 lysine 4 methyltransferase; PTIP=MLL3; PTIP=MLL4; MLL3=MLL4; PTIP=53BP1; PTIP=PTIP; PTIP=PA1; 53BP1=PA1; MLL3=MLL4; ASH2L=RBBP5; ASH2L=WDR5; ASH2L=hDPY-30; ASH2L=NCOA6; RBBP5=WDR5; RBBP5=hDPY-30; RBBP5=NCOA6; WDR5=hDPY-30; WDR5=NCOA6; hDPY-30=NCOA6; PTIP=PA1; 53BP1=ASH2L; 53BP1=RBBP5; 53BP1=WDR5; 53BP1=hDPY-30; 53BP1=NCOA6; 53BP1=MLL3; 53BP1=MLL4; PTIP=ASH2L; PTIP=RBBP5; PTIP=WDR5; PTIP=hDPY-30; PTIP=NCOA6; PTIP=MLL3; PTIP=MLL4; PA1=ASH2L; PA1=RBBP5; PA1=WDR5; PA1=hDPY-30; PA1=NCOA6; PA1=MLL3; PA1=MLL4; 53BP1=UTX; PTIP=UTX; PA1=UTX; PTIP=histone H3; PA1=PTIP; hDPY-30=ASH2L; hDPY-30=ASH2L; ASH2L=RBBP5; RBBP5=WDR5; hDPY-30=RBBP5; hDPY-30=WDR5; ASH2L=WDR5; PTIP=PA1; PTIP=UTX; PA1=UTX; PTIP=HMT	Devel
+17575052	PP1=TIM; SHAGGY=TIM	Devel
+1763325	DCoH=HNF-1 alpha	Devel
+17666399	beta-arrestin2=beta(2)-adrenergic receptor; beta-arrestin2=beta(2)AR; beta-arrestin=7TMRs	Devel
+17923702	Tip60=ATM; Tip60=histone; Tip60=ATM; Tip60=histone; ATM=p53; ATM=chk2; Tip60=ATM	Devel
+18029035	A20=Ymer; Ymer=receptor-interacting serine/threonine-protein kinase 1	Devel
+18070888	seven in absentia homolog=alpha-synuclein; seven in absentia homolog=alpha-synuclein; seven in absentia homolog=alpha-synuclein; SIAH=alpha-synuclein; SIAH=alpha-synuclein; SIAH=alpha-synuclein; SIAH=alpha-synuclein; SIAH=alpha-synuclein	Devel
+18161010	chondrolectin=Rab geranylgeranyl transferase; Rabggtb=chodl	Devel
+18161731	beta-chain=alpha-chain; hemoglobin=alpha-chain	Devel
+18165232	Protein phosphatase 2Cepsilon=ceramide transport protein; PP2Cepsilon=vesicle-associated membrane protein-associated protein A; VAPA=ceramide transport protein; PP2Cepsilon=CERT; CERT=VAPA; PP2Cepsilon=CERT; PP2Cepsilon=CERT	Devel
+18287095	ISG15=Nedd4; Nedd4=E2	Devel
+18292223	BIG1=nucleolin; BIG1=fibrillarin; BIG1=nucleolin; fibrillarin=BIG1; fibrillarin=nucleolin; BIG1=nucleolin; nucleoporin p62=BIG1; nucleoporin p62=nucleolin; La=BIG1; La=nucleolin; BIG1=nucleolin; BIG1=U3; BIG1=fibrillarin; BIG1=La; nucleolin=U3; nucleolin=fibrillarin; nucleolin=La; U3=fibrillarin; U3=La; fibrillarin=La; BIG1=nucleolin; BIG1=U3 snoRNA; fibrillarin=U3	Devel
+18323857	Elongin B=C; CUL2=C; VHL=C; VHL=Elongin B; CUL2=Elongin B; CUL2=VHL; VHL=FN; CUL2=VHL; FN=VHL	Devel
+18378770_56	Plk1=Wee1; Plk1=Emi1; Cdk1=Plk1; ATR=Claspin; ATR=Claspin; Plk1=Claspin; Plk1=Bora; Plk1=Bora	Devel
+18378904	Wnt=Frizzled; Frizzled=lipoprotein receptor-related proteins 5; Wnt=lipoprotein receptor-related proteins 5; Frizzled=6; Wnt=6	Devel
+18406180	SWI/SNF=C/EBP alpha	Devel
+18426978	GT1=HA; GT1=HA	Devel
+18443287	GOAT=ghrelin; membrane-bound O-acyl transferase=ghrelin; GOAT=ghrelin; GOAT=ghrelin	Devel
+18455122	EGFR=sodium/glucose cotransporter 1	Devel
+18534984	Hhat=Sonic Hedgehog; Hhat=Shh; Hhat=Shh; Porcupine=Wnt; Hhat=Shh; Hhat=Shh	Devel
+18541373	Nrdp1=Parkin; Nrdp1=Parkin; Nrdp1=Parkin; Nrdp1=Parkin; Nrdp1=Parkin; Nrdp1=Parkin	Devel
+18701287_18	Cdc3=Cdc12; Cdc12=Cdc3; Cdc12=Shs1	Devel
+18716324	CDC28=CDK; Cdc28p=Ctf7p; CDK=Ctf7p	Devel
+18716620	herpesvirus-associated ubiquitin-specific protease=PTEN; HAUSP=PTEN; PML=DAXX; HAUSP=DAXX; PML=DAXX; DAXX=HAUSP; PML=HAUSP	Devel
+18775314_21	Sec22b=Sec23; Sec22b=24; Sec23=24; Sec22b=Sec23; Sec22b=24; Sec23=24; Sec22b=Sec23; Sec22b=24; Sec22b=Sec23; Sec22b=24; Sec23=Sec22b; 24=Sec22b; Sec23=24; Sec23=24; Sec23=24; Hrb=VAMP7; Hrb=VAMP7; VAMP7=Hrb; VAMP7=Hrb; VAMP7=Hrb; Hrb=VAMP7; VAMP7=VAMP7; VAMP7=Hrb; Hrb=VAMP7; VAMP7=Hrb; VAMP7=SNAP23; SNAP23=syntaxin4; VAMP7=syntaxin4; VAMP7=Hrb; VAMP7=Hrb; Hrb=VAMP7; VAMP7=Hrb	Devel
+18801063_33	TRAPP I=COP II; TRAPP I=Bet3p; TRAPP I=Sec23p; Sec23p=Sec24p; TRAPP I=COP II; GDI=Ypt1p; Ypt1p=SNARE	Devel
+18805092_53	Cul5ctd=Rbx1; Cul5ctd=Rbx1; Cul5ctd=Rbx1; Cul5ctd=Rbx1; Cul5ctd=Rbx1; Cul5=Rbx1; Cul5ctd=Rbx11; Cul5=Rbx1; Cul5ctd=Rbx12; Cul5=Rbx1; Cul5ctd=Rbx1	Devel
+19022706	Pellino=IRAK1; Pellino=IRAK	Devel
+19026781	Ez=histone H3; Ezh1=Ezh2	Devel
+19041634	SENP2=RORalpha; PIASy=RORalpha; PIAS3=RORalpha; PIASxalpha=RORalpha; PIAS=RORalpha	Devel
+19088067	FUT10s=conalbumin; FUT11=conalbumin	Devel
+19135894	Smad4=Smad2; Ectodermin=Smad4; FAM=Smad4	Devel
+19141288_18	PhK=GPb; PhK=GPb; PhK=GPb; PhK=GPb; PhK=GPb; PhK=GPb; PhK=GPb; PhK=GPb	Devel
+19150429	Upf1=PNRC2; Dcp1a=PNRC2; PNRC2=Upf1; PNRC2=Upf1	Devel
+19187765	ING4=H3K4me3; ING4=H3K4me3; HBO1=H3; ING4=H3K4me3	Devel
+19217404	Scm3=CENP-A; Scm3=CENP-A; CENP-A=histone H4; Scm3=CENP-A; Scm3=histone H4; Scm3=CENP-A; CENP-A=Scm3; Sim3=CENP-A	Devel
+19234442_18	Eya=H2AX; MDC1=H2AX; H2AX=MDC1	Devel
+19234465	PRMT5=histone H4R3; DNMT3A=histone H4R3; PRMT5=histone H4; H4R3me2s=DNMT3A; DNMT3A=histone	Devel
+19380584	MG53=caveolin-3; caveolin-3=dysferlin; dysferlin=MG53; MG53=dysferlin; MG53=Cav3; MG53=dysferlin; dysferlin=Cav3; Cav3=MG53	Devel
+19414608_38	Nup82p=Nup159p; Nup82p=Nup84p; Nup159p=Nup84p	Devel
+19484123	REUL=RIG-I; REUL=RIG-I; REUL=RIG-I; REUL=RIG-I; REUL=RIG-I	Devel
+19509293	PRMT6=histone H3; PRMT6=H3R2; PRMT6=H3R2; PRMT6=H3K4; PRMT6=H3R2; PRMT6=H3K4	Devel
+19517013_23	Wnt=Myostatin	Devel
+19648934	p300=FoxO4; FoxO=p300; p300=FoxO	Devel
+19656901	TRIF=TANK binding kinase (TBK)1; TLR4=TRIF	Devel
+19675569	UBC13=UEV1A; TRAF6=TAK1; UBC13=TAK1; UEV1A=TAK1; TAK1=IkappaB kinase; TAK1=TAB2	Devel
+19776740_10	TBK1=Sec5; STING=Sec5; TBK1=Sec5; STING=exocyst; TBK1=exocyst; Trapb=Sec61b; STING=TBK1	Devel
+19843542	iron=PHF8; iron=2-oxoglutarate-dependent oxygenases; PHF8=histone; PHF8=histones	Devel
+19858358	Ca(V)beta2a=Ca(V)2.2; AA=Ca(V)2.2; Ca(V)betas=Ca(V)2.2; Ca(V)beta2a=Ca(V)2.2; AA=Ca(V)2.2	Devel
+1990263	p65=p50s	Devel
+19914168_73	YAP=Smad1; YAP=Smad1; YAP=Smad1; CDK8=Smad1; 9=Smad1	Devel
+19956733	Zdhhc21=Fyn	Devel
+20023638	histone 3=PHF8; H3K4me3=PHF8; histone 3=KIAA1718; H3K4me3=KIAA1718; PHF8=H3K9me2; KIAA1718=H3K9me2; PHF8=H3K27me2; KIAA1718=H3K27me2; PHF8=H3K9me2; KIAA1718=H3K9me2; KIAA1718=H3K4me3	Devel
+20039095	Hsp90=EGFR; Hsp90=Raf-1; Hsp90=Akt; Hsp90=survivin; vorinostat=HDAC; panobinostat=HDAC	Devel
+20096447	USP10=p53; Mdm2=p53; USP10=p53; ATM=USP10	Devel
+20104595_25	Six3=gemenin	Devel
+20159561_2	ELL=P-TEFb; P-TEFb=AFF4; ELL=AFF4	Devel
+20159561_20	Dot1=H3K79; MLL=AFF1; AFF1=Dot1; MLL=AFF1; AFF1=MLL; Dot1=H3K79; Dot1=H3K79; MLL=AFF1; MLL=SEC; AFF1=SEC; ELL1=P-TEFb; AFF1=ELL; AFF4=ELL; AFF4=AFF3; AFF1=AFF3; MLL=AFF3	Devel
+20184375_38	Dicer=Ago2; Dicer=TRBP; Ago2=TRBP	Devel
+20231902	RASSF=MST2; Akt=MST2	Devel
+20372964	long-chain acyl-CoAs=Bet3; Pal-CoA=Bet3	Devel
+20418879	acyl protein thioesterase 1=Ras	Devel
+20434986_6	NLRX1=MAVS	Devel
+20472562	TSP2=Jagged1; TSP2=Notch3; TSP2=LRP1	Devel
+20506188_30	BRG1=INI1; BRG1=RUNX1; INI1=RUNX1	Devel
+20541251_2	MLL1=histone H3K4me3/2; MLL1=CyP33; CyP33=HDAC; MLL1=CyP33; MLL1=CyP33; H3K4me3/2=MLL1; CyP33=MLL1; MLL1=H3K4me3/2; MLL1=HDAC	Devel
+20585641	Hedgehog acyltransferase=Sonic Hedgehog; Hedgehog acyltransferase=Shh; Hhat=Shh; MBOAT=Wnt; MBOAT=ghrelin	Devel
+20603015	FA core complex=FANCD2; KIAA1018=FANCD2	Devel
+20682797	JMJD2B=histone; JMJD2B=histone	Devel
+20711181	Cdk1=histone H1; PP2A=histone H1; B55alpha=histone H1	Devel
+20921139_4	mTOR=ULK1; mTOR=ULK1; mTOR=ULK1; ULK1=FIP200; ULK1=ATG13; BECLIN 1=VPS34; BECLIN 1=VPS34; BECLIN 1=VPS15; VPS34=VPS15; BECLIN 1=ATG14; BECLIN 1=UVRAG; BECLIN 1=RUBICON; VPS34=ATG14; VPS34=UVRAG; VPS34=RUBICON; VPS15=ATG14; VPS15=UVRAG; VPS15=RUBICON; BECLIN 1=VPS34	Devel
+20937913	Smad ubiquitination regulatory factor 2=TGF-beta receptors; Smurf2=Smad7; Smurf2=Smad7; Smurf2=Smad; Smad1=Smurf2; Smad2=Smurf2; Smurf2=Smad7; Smurf1=Smad7	Devel
+21059949	GIMAP2=GDP	Devel
+21063388_2	GW182=Argonaute; GW182=poly(A)-binding protein; GW182=PABPC1; PABP=GW182; TNRC6C=PABP; HsTNRC6A=DmPABPC1; TNRC6A=PABPC1; GW182=PABPC1	Devel
+21074048	CCP1=tubulin; CCP4=tubulin; CCP6=tubulin; CCP5=tubulin; CCP1=tubulin; CCP4=tubulin; CCP6=tubulin; CCP1=myosin light chain kinase 1; CCP4=myosin light chain kinase 1; CCP6=myosin light chain kinase 1; CCP5=myosin light chain kinase 1; CCP1=myosin light chain kinase 1; CCP4=myosin light chain kinase 1; CCP6=myosin light chain kinase 1	Devel
+21102408	TA=subunit 4; TA=CSN4; TA=snapin; protein kinase D=Snapin	Devel
+21152083_9	APT-2=GAP-43; APT-2=GAP-43; APT-2=GAP-43	Devel
+21335549	HIF-alpha=von Hippel-Lindau ubiquitin E3 ligase; p300=HIF-alpha; Fe(II) and 2-oxoglutarate (2-OG) oxygenase=HIF-alpha; 2-OG oxygenases=HIF-1alpha	Devel
+21441902	Dbp5=Nup159; Dbp5=Gle1; Dbp5=Nup159; Gle1=Dbp5; Gle1=Dbp5; InsP(6)=Gle1; InsP(6)=Dbp5; eIF4A=eIF4G	Devel
+21445275	JMJD2B=Histone; JMJD2B=ERalpha; JMJD2B=H3K9me3	Devel
+21490058	Rumi=Notch	Devel
+21508930	CBP=histone; CBP=histone; CBP=histones H2B; CBP=H3; CBP=H4; CREB=CBP	Devel
+21559432	William syndrome transcription factor=SNF2h; SNF2h=nuclear myosin 1; William syndrome transcription factor=nuclear myosin 1; WSTF=UBF; WSTF=H3; WSTF=H3K9; PCAF=histone; p300=histone; GCN5=histone; MOF=histone	Devel
+21664574_35	GGA3=Rabaptin-5; Rabaptin-5=Rab4; Rabaptin-5=Rab5; Rabaptin-5=Rabex-5; GGA1=clathrin; HGF=Met	Devel
+21685921_32	Im7=E7; E7=Im9; Galphai1=RGS4; Galphai1=RGS16; Galphao=RGS16; Galphai3=RGS10; Galphai1=RGS1; Galphai3=RGS8; Galphai1/t=RGS9; Galphai3=RGS2; E7=Im7; E7=Im7; Galphai1=RGS4	Devel
+21726814_4	Dicer=TRBP; Ago2=TRBP; Ago2=Dicer; PACT=Dicer	Devel
+21862668	HCF243=D1	Devel
+21907143_20	synaptotagamin-1=Ca2+	Devel
+21907821	Stx1A=P1; Stx1A=P2; Stx1=ribosome	Devel
+21939639	trissin=G protein-coupled receptor	Devel
+21985068_5	Catsup=GTP cyclohydrolase I; Catsup=TH	Devel
+22009753	ITCH=lysosomal-associated protein multispanning transmembrane 5; ITCH=LAPTM5; ITCH=LAPTM5; ITCH=LAPTM5	Devel
+22056990	protein Vpx=SAMHD1	Devel
+22065755	SIAH=alpha-Synuclein; USP9X=alpha-synuclein; USP9X=alpha-synuclein; USP9X=alpha-synuclein; USP9X=alpha-synuclein	Devel
+22110129	Jarid2=histone; Jmj=histone; SETDB1=Jarid2; Jarid2=SETDB1; SETDB1=Jarid2; Jarid2=H3K9; Jarid2=histone H3; Jarid2=SETDB1; Jarid2=H3K9	Devel
+22160715	GCase=Hsp70; Hsp90=GCase; GCase=Hsp70; GCase=TCP1	Devel
+22163034_5	Dicer=AGO2; AGO2=TRBP; Dicer=TRBP; Dicer=HIV-1 TAR RNA-binding protein; Dicer=protein activator of PKR; TRBP=PACT; TRBP=Dicer; PACT=Dicer	Devel
+22210188	PIAS2=receptor of activated C kinase 1; receptor of activated C kinase 1=PIAS2; RACK1=PIAS2; RACK1=PIAS2; PIAS2=RACK1	Devel
+22210884_24	Lin28=Oct4; Lin28=Oct4	Devel
+22275911_83	Rv3363c=Rv3365c; NOD2=meso-diaminopimelic acid; NOD1=muramyl dipeptide	Devel
+22328055_45	OS9=BRI1; OS9=BRI1; BRI1=OS9	Devel
+22334690	HDAC6=survivin; Histone deacetylase 6=survivin; CREB-binding protein=survivin; CBP=survivin; HDAC6=survivin; HDAC6=survivin	Devel
+22371489	USP9X=PEX5; USP9X=PEX5	Devel
+22388039	DTX4=TBK1; NLRP4=DTX4; DTX4=TBK1; DTX4=TBK1; NLRP4=TBK1; NLRP4=DTX4	Devel
+2244873	protein kinase C=MARCKS	Devel
+22579246_3	(apo)A-I=cell surface ATP binding cassette transporter; apoA-II=cell surface ATP binding cassette transporter; apoA-IV=cell surface ATP binding cassette transporter	Devel
+22615488	KDM3B=histone H3K9; KDM3B=CBP; KDM3B=H3K9; KDM3B=CBP; CBP=histone	Devel
+22641346	LATS1=MYPT1; Dbf2=Cdc14; LATS1=MYPT1; LATS1=MYPT1; MYPT1=PLK1; LATS1=MYPT1	Devel
+22675546_10	14.7K=optineurin; TNFR1=optineurin; RIP1=optineurin; optineurin=14.7K; optineurin=RIP1; 14.7K=optineurin; optineurin=TNFR1; TNFR1=RIP1; 14.7K=optineurin; RIP1=optineurin; optineurin=RIP1	Devel
+22815787	L1CAM=ErbB; L1CAM=erbB receptor; L1CAM=erbB receptors; L1CAM=erbB; L1CAM=erbB receptors; L1CAM=erbB receptors	Devel
+22820378_8	PP2A=BZR1	Devel
+22833611_6	Rrp44=Rrp41; Rrp44=Rrp45; Rrp45=Rrp41	Devel
+22842725	Piwi=Piwi-interacting RNAs	Devel
+22904036	Opy2=Mig1; Opy2=Mig2; Mig1=Opy2; Mig2=Opy2; Mig1=Msb2; Mig2=Msb2; Mig1=Ste7; Mig2=Ste7; Mig1=Kss1; Mig2=Kss1	Devel
+23033541	BZR1=DELLAs; BZR1=REPRESSOR OF ga1-3	Devel
+23045548_38	DDB2=ALC1; ALC1=PARP1; DDB2=PARP1; PAR=XPC	Devel
+23088497_17	WIPI-1=PtdIns(3)P; WIPI-1=PtdIns(3,5)P2; RR=phospholipids	Devel
+23212305	L1=FGFR; L1=FGFR	Devel
+23290524	c-Cbl=TGF-beta type II receptor; Casitas B-lineage lymphoma=type II receptor; c-Cbl=TbetaRII; c-Cbl=TbetaRII	Devel
+23319600	FBH1=replication protein A	Devel
+23393134	14-3-3=-9; 14-3-3=-7; 14-3-3=-5; 14-3-3=HDAC4; SIK3=deacetylases; SIK2=deacetylases; 14-3-3=deacetylases	Devel
+23435229	KDM4B=AR	Devel
+23437046	Gcn5=histone H3; Gcn5=histone; p300=histone; Gcn5=histone; p300=histone; Gcn5=H3	Devel
+23446637	NPHP5=Cep290; NPHP5=Cep290; NPHP5=CaM	Devel
+23468639_6	Mre11=Rad50; Mre11=Nbs1; Rad50=Nbs1; CtIP=MRN; CtIP=BRCA1; CtIP=MRN; CtIP=Nbs1; Nbs1=Ctp1; Ctp1=Nbs1	Devel
+23486472	HA22=elongation factor-2; HA22=CD22; HA22=EF2; DPH5=EF2	Devel
+23498974	Ufd1=Npl4; VCP=Npl4; VCP=Ufd1	Devel
+23538446_18	Itch=RASSF5AY24A; RASSF5=Itch	Devel
+23583660	CSN1=CSN8; CRLs=CSN; CSN=CRL; CSN=cullin	Devel
+23590194_17	Rif1=Rif2	Devel
+23622515_19	Cdk7=Rb; Cdk4=Rb; 6=Rb; Cdk2=Rb	Devel
+2373701	prothrombin=carboxylase	Devel
+23746843	OTULIN=diubiquitin; OTULIN=LUBAC; NEMO=RIPK1; Ub=OTULIN	Devel
+23871147_2	PARP-1=Ubc9; Ubc9=PARP-1	Devel
+24056413	MDM2=AR; CHIP=AR; NEDD4=AR; Usp12=Uaf-1; Usp12=WDR20; Usp12=Uaf-1; Usp12=WDR20; Usp12=AR	Devel
+24130457_21	NECAP 1=AP-2	Devel
+24163432	integrin alpha5=14-3-3theta; Cx43=14-3-3theta; Cx43=integrin alpha5; 14-3-3theta=Cx43; 14-3-3theta=integrin alpha5; integrin alpha5=14-3-3theta; Cx43=14-3-3theta; 14-3-3theta=Cx43; 14-3-3theta=integrin alpha5	Devel
+24465968_22	Ccr4=Not	Devel
+24498054	Psy2=Pph3; Pph3p=Psy2p; Pph3=Psy2	Devel
+24508166_4	Pom1=Cdr2; Pom1=Cdr2	Devel
+24652835	YETI=histone H2A.V; YETI=H2A.V; YETI=HP1a; YETI=Domino-A; DOM=Tip60; YETI=H2A.V; DOM=Tip60; YETI=DOM; YETI=Tip60	Devel
+24695225_9	SCH51344=MTH1; (S)-crizotinib=MTH1; (S)-crizotinib=MTH1; SCH51344=MTH1; (R)-Crizotinib=ALK; (R)-Crizotinib=MET; (R)-Crizotinib=LCK; (R)-Crizotinib=IRAK1; (R)-Crizotinib=JAK3; (R)-Crizotinib=LOK; (R)-Crizotinib=SLK; (S)-crizotinib=MTH1; (R)-crizotinib=MTH1; (S)-crizotinib=MTH1; (R)-=MTH1; (R)-=MTH1	Devel
+24743777_19	Bcl-2=Bax; Bcl-2=Bak; Mcl-1=Bax; Mcl-1=Bak; Bcl-2=Bax; Bcl-2=Bak	Devel
+24746704_18	MEK1=CRAF	Devel
+24751536	PINK1=Parkin; PINK1=ubiquitin; PINK1=ubiquitin; PINK1=Parkin; TcPINK1=ubiquitin; PINK1=ubiquitin	Devel
+24828152	Met=LRIG1; LRIG1=Hrs; Met=Hrs; USP8=LRIG1; USP8=LRIG1; LRIG1=USP8; USP8=LRIG1	Devel
+24937142_8	Raf=Ksr; Raf=Raf; Raf=Ksr	Devel
+24958774_11	US2=TRC8; TRC8=SPP	Devel
+25043001_15	Sec22=Get3	Devel
+25161659	PRIN2=CSP41b; PRIN2=CSP41b; PRIN2=CSP41b	Devel
+25170678	Arsenite=RNF20; Arsenite=RNF40; RING finger E3 ubiquitin ligases=histones; RNF20=RNF40; RNF40=histone H2B; RNF20=histone H2B; arsenite=RNF20; arsenite=RNF40	Devel
+25196463_5	TrkC=neurotrophin 3; NT-3=TrkC	Devel
+25242263	Robo=ubiquitin-specific protease 33; ubiquitin-specific protease 33=Robo1	Devel
+25281559	Atg34=Ams1; Atg34=Atg11; Ams1=Atg34; Hrr25=Atg34; Hrr25=Atg34; Hrr25=Atg34	Devel
+25356737_15	WWP2=rhN3; N3=WWP2; WWP2=Notch3	Devel
+25472718_12	PP1=Klp5; PP1=Klp6; Klp5=PP1; PP1=Klp6; Klp5=PP1; Klp6=PP1; Klp5=PP1; Klp6=PP1; Klp5=PP1; Klp6=PP1	Devel
+25480299_42	LSM1=7	Devel
+25753038_49	OCN=hydroxyapatite	Devel
+25908590_2	Receptor protein tyrosine phosphatase delta=interleukin-1 receptor accessory protein; Receptor protein tyrosine phosphatase delta=IL-1RAcP-like-1; PTPdelta=IL1RAPL1; PTPdelta=IL-1RAcP; PTPdelta=IL1RAPL1; PTPdelta=IL-1RAcP; PTPdelta=IL1RAPL1; PTPdelta=IL1RAPL1; PTPdelta=IL1RAPL1; PTPdelta=IL1RAPL1; PTPdelta=IL-1RAcP	Devel
+25994790	glycosides=Na+-K+-ATPase	Devel
+25999965	HY5=phytochrome B	Devel
+26042670_24	CUL4=UV-DDB	Devel
+26126536	Protein Arginine Methyltransferase 1=Smurf2; PRMT1=Smurf2; PRMT1=Smurf2; PRMT1=Smurf2; PRMT1=Smurf2; PRMT1=Smurf2; Smurf2=Smads; Smurf2=TGF-beta receptor	Devel
+26235645_26	Otulin=UbVME	Devel
+26438829_2	BuGZ=Bub3; BuGZ=importin-Beta; BuGZ=Ubr5; Bub3=importin-Beta; Bub3=Ubr5; importin-Beta=BuGZ; importin-Beta=Bub3; BuGZ=Ubr5; Bub3=Ubr5	Devel
+26496426_19	Hoxa2=RCHY1	Devel
+26542710	Csh3=Cap1; cap1=csh3; Csh3=Cap1; Csh3=Cap1; Cap1=adenylyl cyclase; Cap1=actin; Cap1=Csh3; Cap1=actin; Cap1=Cap1; Cap1=Cap1	Devel
+26621829	Sun4=Sun3; Sun4=Nesprin1	Devel
+26675234	RNF168=SUMO2; RNF168=SUMO2; RNF168=ubiquitin; RNF168=ubiquitin; RNF168=ubiquitin; RNF168=ubiquitin; RNF168=NBs; PML NBs=RNF168	Devel
+26778333	Skp2=Runx2; Skp2=Runx2; Runx2=Skp2; Skp2=Runx2	Devel
+26972597	FADD=procaspase-8; FADD=RIP1; FADD=procaspase-8; ITCH=cFLIPL	Devel
+26996158	FAT10=RIG-I; FAT10=RIG-I; RIG-I=TRIM25; FAT10=TRIM25	Devel
+27044741	Casein Kinase II=Pah1; Pho85=Pho80; Cdc28=cyclin B; Pho85=Pah1; Cdc28=Pah1; protein kinases A=Pah1; C=Pah1; Spo7=Nem1; Nem1=Pah1; casein kinase II=Pah1; CKII=Pah1; Nem1=Spo7; Nem1=Pah1; protein kinase A=Pah1; protein kinase C=Pah1; CKII=Pah1; CKII=Pah1; protein kinase A=Pah1; protein kinase C=Pah1; CKII=Pah1; Pho85=Pho80; Pho85=Pah1; Spo7=Nem1; Pho80=Pah1; cyclin B=Pah1	Devel
+27264673	SHOC2=protein phosphatase 1; SHOC2=PP1C; PPP1CB=RAF	Devel
+27334688	Sox 2=VRK1	Devel
+27462423	ERLIN2=alpha-tubulin; ERLIN2=Cyclin B1; ERLIN2=Cdk1; Cyclin B1=Cdk1	Devel
+27694803_7	Cbr1=Dph3; Cbr1=Dph1; Dph3=Dph1; Cbr1=Dph2; Dph3=Dph2; Cbr1=Dph3; Cbr1=Dph3; Cbr1=Dph3	Devel
+27899653_8	KLHL12=KHSRP; KLHL12=KHSRP	Devel
+27986851_21	Trm11=Trm112; Trm112=Trm11; Trm11=Trm112; Trm112=Trm11; Bud23=Trm112; Trm112=Bud23; Trm11=Trm112; Trm11=Trm112; Bud23=Trm112; Trm11=Trm112; zinc=Trm112; Trm11=SAM	Devel
+28815832	Sld5=Ctf4; Ctf4=Sld5; Sld5=Ctf4; Sld5=Ctf4; Ctf4=DNA polymerase alpha	Devel
+28871079	Sirt6=histone H3K9	Devel
+29559111_11	serum response factor=Arc	Devel
+29563586_14	JMJD5=p53; JMJD5=NFATC1; JMJD5=PKM2; JMJD5=RCCD1; JMJD5=RCCD1	Devel
+29643770	Dop1R1=DA	Devel
+2995373	phosphoprotein phosphatase=myosin; Smooth muscle phosphatase (SMP) IV=myosin; Smooth muscle phosphatase (SMP) IV=meromyosin; Smooth muscle phosphatase (SMP) IV=myosin light chains; Smooth muscle phosphatase (SMP) IV=phosphorylase alpha; Smooth muscle phosphatase (SMP) IV=histone IIA; Smooth muscle phosphatase (SMP) IV=phosphorylase kinase; SMP-IV=phosphorylase kinase; SMP-IV=meromyosin; SMP-IV=myosin light chains	Devel
+30037213	RNF168=PARP1; RNF168=PARP1; RNF168=PARP1; RNF168=PARP1	Devel
+7492771	Factor VII/VIIa=tissue factor (TF) receptor; p65=c-Rel; c-Rel=p65; c-Rel=p65	Devel
+7521688	G-CSFR=Granulocyte colony-stimulating factor; STAT3=STAT1	Devel
+7537762	P-selectin=P-selectin glycoprotein ligand-1	Devel
+7556078	Sup45p=Sup35p; Sup45p=Sup35p; Sup35p=Sup45p; Sup45p=Sup35p; GTP=Sup35p	Devel
+7747417	Rb=IE2; Rb=IE2	Devel
+7747447	Tat=Sp1; OKA=PP2A	Devel
+7760810	GATA-1=ER; GATA-1=ER; GATA-1=ER; GATA-1=ER	Devel
+7877695	SRB10=SRB11; SRB10=11; SRB10=11; SRB10=11; SRB10=11; SRB10=11	Devel
+8096091	I kappa B alpha=p65; NF-kappa B=I kappa B alpha	Devel
+8098618	p50=p65; c-Rel=p65	Devel
+8108127	NFKB2 precursor=Tax; NFKB2 precursor=c-Rel	Devel
+8108414	RelA=NF-kappa B1; RelA=I kappa B alpha; RelA=NF-kappa B2; RelA=p100; RelA=I kappa B alpha; p50=p65; RelA=p100; RelA=I kappa B alpha; I kappa B alpha=p65	Devel
+8119279	dinitrogenase reductase-activating glycohydrolase=nitrogenase; dinitrogenase reductase ADP-ribosyl transferase=nitrogenase	Devel
+8156587	cyclin E=Dmcdc2c	Devel
+8513495	Rabs=Rab3A guanine nucleotide dissociation inhibitor; component A=Rab1A; Rab=component A; Rab=component A; Rab=Rab3A GDI; component A=Rab; component A=Rab	Devel
+8524232	IBR=casein kinase II	Devel
+8561779	calcineurin=calmodulin	Devel
+8626752	STAT1=STAT3; STAT1=STAT2; STAT1=STAT3; STAT1=STAT3; STAT1=STAT2; STAT2=STAT1; STAT3=STAT1; STAT1=STAT2; STAT1=STAT2; STAT1=STAT3	Devel
+8649779	p50=p105; RelA=p105; c-Rel=p105; c-Rel=RelA; RelA=p50; c-Rel=p50	Devel
+8684469	calcineurin=NF-AT; NF-AT4=calcineurin; calcineurin=NF-AT4; NF-AT4=calcineurin	Devel
+8861913	p21=PCNA; p21=PCNA; PCNA=p21; p21=PCNA	Devel
+8892614	Fas=Fas ligand; Ac-DEVD-CHO=interleukin-1beta; CrmA=interleukin-1beta	Devel
+9028946	collagen=syk; collagen=PLC gamma2	Devel
+9159166	IL-4=IL-4Ralpha chain; Jak1=IL-4Ralpha	Devel
+9160887	Tax1=SRF; Tax1=CREB/ATF; Tax1=NF-kappaB	Devel
+9164841	aldosterone=hMR; progesterone=hMR; steroid=MR	Devel
+9171108	CIITA=TAFII32; CIITA=TAFII32; CIITA=TAFII32; TAFII32=CIITA; TBP=TAFII32	Devel
+9200449	CTLA-4=AP50; CTLA-4=B7-1; CTLA-4=B7-2; CD28=B7-1; CD28=B7-2; AP50=CTLA-4; AP50=CTLA-4; CTLA-4=AP50; AP50=clathrin; AP50=CTLA-4	Devel
+9233773	T-cell receptor=phospholipase Cgamma; T-cell receptor=Grb2; T-cell receptor=phosphatidylinositol 3-kinase; APS=Shc; APS=Grb2	Devel
+9345306	ALDP=ALDRP; ABC-transporters=ALDRP	Devel
+9353251	CD30=TRAF2; TRAF2=CD30; CD30=TRAF; TRAF=CD30; TNFR=TRAF	Devel
+9356494	TRADD=LMP1; TRADD=LMP1; TRADD=LMP1; latent membrane protein 1=tumor necrosis factor receptor-associated death domain protein; tumor necrosis factor receptor-associated death domain protein=LMP1; TRADD=LMP1	Devel
+9382878_54	catenins=E-cadherin; beta-catenin=E-cadherin; E-cadherin=beta-catenin; alpha-catenin=beta-catenin	Devel
+9394011	-T2=CD8; GalNAc-T1=CD8	Devel
+9396761_52	alphavbeta1=L1; alphavbeta3=L1; alphavbeta1=L1	Devel
+9512491	oxytocin receptor=Ghalpha; oxytocin receptor=PLC-delta1; Ghalpha=PLC-delta1; Ghalpha=PLC-delta1; PLC-delta1=Ghalpha; Ghalpha=GTP; desGly-NH2d(CH2)5[Tyr(Me)2,Thr4]ornithine vasotocin=oxytocin	Devel
+9531531	rub1p=Cdc53p	Devel
+9651585	SAP30=Sin3; SAP30=HDAC1; SAP30=HDAC2; SAP30=RbAp46; SAP30=RbAp48; Sin3=HDAC1; Sin3=HDAC2; Sin3=RbAp46; Sin3=RbAp48; HDAC1=HDAC2; HDAC1=RbAp46; HDAC1=RbAp48; HDAC2=RbAp46; HDAC2=RbAp48; RbAp46=RbAp48; SAP30=histone	Devel
+9733846	Fas=Fas ligand; Fas=Fas ligand	Devel
+9751051	Cdk6=p19INK4d; Cdk6=p19 INK4d; cyclin D-dependent protein kinase=INK4; INK4=CDKs; p27Kip1=CDKs	Devel
+9763524	low density lipoprotein=LOX-1; lectin-like Ox-LDL receptor=LDL; LOX-1=LDL; class A scavenger receptors=LDL; LOX-1=LDL; LOX-1=LDL; LOX-1=LDL; LDL=class A; B scavenger receptors=LDL	Devel
+9794375	CD28=CD80; CD28=CD86; Lck=HSI; CD45=HSI	Devel
+9826654	DNA-PKcs=Ku86; Ku86=Ku70; DNA-PKcs=Ku70	Devel
+9852070	RANK=2; RANK=3; RANK=6; RANK=tumor necrosis factor receptor-associated factors (TRAFs) 1; RANK=5; RANK=RANKL; TRAF=RANK; TRAF=RANK	Devel
+9989503	Stat5b=Nmi; p300=Stat1; p300=Stat5; Nmi=STATs	Devel
+9990065	GLP-2=GLP-2R	Devel
