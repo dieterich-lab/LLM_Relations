@@ -1,0 +1,9 @@
+SPC97
+SPC98
+Spc97
+Spc98
+spindle pole body component of 97 kDa
+TUB4
+gamma-tubulin
+Tub4
+gamma-TuSC

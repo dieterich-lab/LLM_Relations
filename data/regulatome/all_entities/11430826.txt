@@ -1,0 +1,11 @@
+retinoic acid receptor-alpha
+RAR
+N-CoR
+histone deacetylase 1
+PML
+Mad
+promyelocytic leukemia
+RARalpha
+c-Ski
+mSin3A
+PML-RARalpha

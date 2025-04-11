@@ -1,0 +1,10 @@
+BNA2
+NPT1
+cdc3
+tryptophan 2,3-dioxygenase
+nicotinate phosphoribosyltransferase
+cdc13
+nicotinic acid
+tryptophan
+kynurenine
+telomerase

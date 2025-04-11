@@ -1,0 +1,13 @@
+ADH2
+alcohol dehydrogenase
+beta 2
+ethanol
+Agarose
+agarose
+hexane
+AMP
+beta 1
+alpha
+gamma 1
+gamma 2
+NADH

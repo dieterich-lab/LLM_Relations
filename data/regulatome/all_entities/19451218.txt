@@ -1,0 +1,15 @@
+Histone
+JMJD3
+INK4a
+ARF
+RAS
+Polycomb group
+PcG
+H3K27
+EZH2
+p16
+Jmjd3
+Ink4a
+Arf
+p53
+INK4a/ARF tumor suppressor locus

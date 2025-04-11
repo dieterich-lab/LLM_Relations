@@ -1,0 +1,6 @@
+WIPI-1
+GFP
+PtdIns(3)P
+PtdIns(3,5)P2
+RR
+phospholipids

@@ -1,0 +1,11 @@
+MDM2
+SUMO-2
+3
+p53
+small ubiquitin-related modifier
+SUMO
+ubiquitin
+Nedd8
+SUMO-1
+ARF
+L11

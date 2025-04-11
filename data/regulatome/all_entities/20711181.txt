@@ -1,0 +1,11 @@
+PP2A
+B55alpha
+importin-beta1
+Cdk1
+cyclin dependent kinase 1
+protein phosphatase 1
+2A
+PP1
+histone H1
+Cdk1 substrates
+mitotic exit

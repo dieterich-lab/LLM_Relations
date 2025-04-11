@@ -1,0 +1,10 @@
+GFP
+Farp1
+Cherry
+SynCAM 1
+SynCAMs 1
+4
+GST
+SynCAM
+FAK
+3

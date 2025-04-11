@@ -1,0 +1,11 @@
+dihydrolipoyl succinyltransferase
+E2o
+2-oxoglutarate decarboxylase
+E1o
+E2p
+pyruvate decarboxylase
+E1p
+2-oxoglutarate dehydrogenase
+2OGDH
+lipoic acid
+pyruvate dehydrogenase

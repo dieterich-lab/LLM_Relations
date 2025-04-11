@@ -1,0 +1,6 @@
+protein inhibitor of activated STAT
+RanBP2
+Mdm2
+PIAS1
+PIASxbeta
+p53

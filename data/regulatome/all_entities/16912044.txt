@@ -1,0 +1,12 @@
+SUSP1
+SUMO-1
+retinoic acid receptor-alpha
+peroxisome proliferator-activated receptor-gamma
+PPARgamma
+androgen receptor
+RXRalpha
+Retinoid X receptor alpha
+small ubiquitin-related modifier
+SUMO
+SUMO-specific protease
+small ubiquitin-related modifier (SUMO)-specific protease

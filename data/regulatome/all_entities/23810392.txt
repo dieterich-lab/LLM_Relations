@@ -1,0 +1,21 @@
+RIG-I
+TRK-fused gene
+TFG
+retinoic acid inducible gene I
+TRIM25
+MAVS
+mitochondrial antiviral signaling protein
+RIG-I-like receptor
+tripartite motif protein 25
+nuclear factor (NF)-kappaB
+type I interferon
+IFN
+type-I IFN
+RLR
+nuclear factor (NF)-kappaB signaling pathways
+RIG-I-like receptor (RLR) family signaling pathways
+type-I IFN signaling
+RIG-I-mediated signaling
+MAVS (mitochondrial antiviral signaling protein)-induced signaling,
+VSV
+RIG-I-mediated antiviral signaling

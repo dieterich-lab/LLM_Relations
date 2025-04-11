@@ -1,0 +1,25 @@
+sprouty
+mitogen-activated protein kinase
+phosphatidylinositol 4,5-bisphosphate
+Sprouty
+Spry
+Ras
+MAPK
+Rac
+actin
+PtdIns(4,5)P(2)
+pleckstrin
+phospholipase Cdelta
+ionomycin
+green fluorescent protein
+inositol 5-phosphatase
+Spred
+hSpry2
+Ras/mitogen-activated protein kinase (MAPK) cascade
+COS-1
+Swiss 3T3
+SpryTD
+Spry2TD
+hSpry2TD
+MDCK
+receptor tyrosine kinases

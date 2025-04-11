@@ -1,0 +1,17 @@
+Dcn1
+DCNL3
+Cul3
+Cullin (Cul)-based E3 ubiquitin ligases
+Nedd8
+Cul
+defective in Cul neddylation 1 protein
+Nedd8 E3-ligase
+E2
+Ubc12
+Dcn1-like
+DCNL
+DCNL1
+DCNL2
+Culs
+dcn1Delta
+Nedd8-E3 ligases

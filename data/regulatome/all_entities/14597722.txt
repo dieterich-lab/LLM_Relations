@@ -1,0 +1,6 @@
+pannexins
+pannexin 1
+Px1
+Px2
+pannexin
+Pannexins

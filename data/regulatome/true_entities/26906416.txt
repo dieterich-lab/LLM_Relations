@@ -1,0 +1,8 @@
+ubiquitin-like protein NEDD8
+DCNLs
+cullins
+CAND1
+CAND
+cullin
+DCNL-type NEDD8 E3
+DCNL

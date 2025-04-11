@@ -1,0 +1,10 @@
+suppressor of cytokine signaling-5
+SOCS5
+IL-4
+STAT6
+Janus kinase 1
+IL-4 receptor
+IL-4R
+signal transducer and activator of transcription-6
+Janus kinase
+IL-4Ralpha chain

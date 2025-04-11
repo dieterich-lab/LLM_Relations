@@ -1,0 +1,17 @@
+pVHL
+SOCS
+elongin C
+elongin B
+Cul2
+C
+hypoxia-inducible factor
+HIF
+HIFalpha
+cullin-RING E3 ubiquitin ligase
+CRL
+O2
+ubiquitin-ligase
+ubiquitin
+VHL
+von Hippel-Lindau
+prolyl hydroxylase

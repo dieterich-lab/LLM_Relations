@@ -1,0 +1,12 @@
+B3GALNT2
+alpha-dystroglycan
+alpha-DG
+dystrophin
+laminin
+beta-1,3-N-acetylgalactosaminyltransferase 2
+N-acetyl galactosamine
+GalNAc
+N-acetyl glucosamine
+GlcNAc
+dystroglycan
+b3galnt2

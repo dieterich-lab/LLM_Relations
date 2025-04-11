@@ -1,0 +1,11 @@
+Dasatinib
+BCR-ABL
+imatinib
+nilotinib
+FLT3
+Midostaurin
+lestaurtinib
+sorafenib
+TKI
+ATP
+tyrosine kinase

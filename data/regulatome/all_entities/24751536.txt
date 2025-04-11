@@ -1,0 +1,6 @@
+PINK1
+Parkin
+ubiquitin
+TcPINK1
+E3 ubiquitin ligase
+E3 ligase

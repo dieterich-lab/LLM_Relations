@@ -1,0 +1,8 @@
+histone H3
+coactivator-associated arginine methyltransferase 1
+CARM1
+H3
+GGFGGRGGFGG-amide
+protein arginine methyltransferase 1
+R1
+nuclear receptors

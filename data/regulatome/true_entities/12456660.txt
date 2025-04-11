@@ -1,0 +1,4 @@
+CBP
+p300
+RelA
+IkappaBalpha

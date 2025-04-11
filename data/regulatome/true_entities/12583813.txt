@@ -1,0 +1,9 @@
+PTP-SL
+STEP
+HePTP
+mitogen-activated protein kinase
+MAPKs
+p38alpha
+ERK1
+2
+extracellular-signal-regulated kinase 1

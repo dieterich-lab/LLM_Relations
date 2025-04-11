@@ -1,0 +1,13 @@
+COPR5
+PRMT5
+Protein arginine methyltransferase 5
+cooperator of PRMT5
+histone H4
+histone H3
+cyclin E1
+CCNE1
+histone
+histones
+PRMT
+histone H4 (R3)
+histone H3 (R8)

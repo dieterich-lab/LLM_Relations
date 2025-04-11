@@ -1,0 +1,4 @@
+p300
+CREB-binding protein
+protein kinase C
+CBP

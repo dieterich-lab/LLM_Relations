@@ -1,0 +1,4 @@
+phosphomannose isomerase
+mannose-6-phosphate isomerase
+EC 5.3.1.8
+MPI

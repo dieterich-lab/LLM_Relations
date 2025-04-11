@@ -1,0 +1,20 @@
+Siah2
+Siah
+OGDH
+GAPDH
+TPX2
+microtubule-associated protein
+ASPP
+ASPP1
+ASPP2
+Siah1
+Siah2RM
+2-oxoglutarate dehydrogenase
+glyceraldehyde-3-phosphate dehydrogenase
+ASPPs
+2
+MG132
+ubiquitin ligases
+proteasome
+ubiquitin
+silver

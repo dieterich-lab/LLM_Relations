@@ -1,0 +1,6 @@
+cytotoxicity-dependent APO-1-associated proteins
+APO-1
+CAP1
+4
+CAP4
+3

@@ -1,0 +1,17 @@
+SUMO
+RanBP2
+HDAC4
+histone
+class II histone deacetylase
+ubiquitin
+SUMO-1
+histone deacetylase
+Calcium/calmodulin-dependent protein kinase
+CaMK
+MEF2-interacting transcription repressor
+MITR
+HDAC1
+-6
+class I
+II HDACs
+Calcium/calmodulin-dependent protein kinase (CaMK) signalling

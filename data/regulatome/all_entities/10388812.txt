@@ -1,0 +1,22 @@
+Rpd3
+RPD3
+Sap30
+Sir2
+Sir4
+Rad6
+Ubc2
+Cac3
+GCN5
+Sin3
+SIN3
+Enhanced silencing associated
+histone
+histone deacetylase
+sin3Delta
+rpd3Delta
+sap30Delta
+gcn5Delta
+cac3Delta
+CAF-I chromatin assembly factor
+ubiquitin-conjugating enzyme
+HMR

@@ -1,0 +1,11 @@
+general amino acid permease
+Gap1p
+SEC13
+sec13
+PEP12
+Sec13p
+ammonia
+urea
+COPII vesicle coat
+nitrogen
+glutamate

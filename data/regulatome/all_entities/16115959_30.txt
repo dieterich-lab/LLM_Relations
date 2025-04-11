@@ -1,0 +1,10 @@
+Src
+actin
+c-Src
+integrin beta3
+fibrinogen
+alphaIIbbeta3
+PTP-1B
+Csk
+fibrin
+integrin

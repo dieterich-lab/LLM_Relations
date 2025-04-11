@@ -1,0 +1,9 @@
+dynein heavy chain
+Dyn1
+Num1
+Bik1
+CLIP-170
+Pac1
+LIS1
+dynein
+Dyn1/HC

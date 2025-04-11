@@ -1,0 +1,13 @@
+SUMO-1
+SENP1
+SENP2
+Small ubiquitin-related modifier (SUMO)-specific proteases
+SENPs
+-2
+-3
+-5
+-7
+-6
+SUMOs
+SUMO
+small ubiquitin-related modifiers

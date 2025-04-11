@@ -1,0 +1,8 @@
+p66beta
+Human p66alpha
+MBD3
+RbAp46
+RbAp48
+HDAC1
+MBD2
+p66alpha

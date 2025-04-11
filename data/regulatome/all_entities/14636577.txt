@@ -1,0 +1,11 @@
+hUPF1
+hSMG-5
+hSMG-7
+UPF1
+SMG-2
+SMG-5
+SMG-7
+protein phosphatase 2A
+PP2A
+hUPF3A
+hSMG-1

@@ -1,0 +1,13 @@
+histone H3
+Set2
+bur2delta
+set2delta
+paf1delta
+histone
+Bur1
+Paf1
+Bur2
+H3
+H4
+Set2-independent pathway
+histones

@@ -1,0 +1,6 @@
+SUMO-1
+DJ-1
+PIASxalpha
+PIASy
+ras
+proteasome

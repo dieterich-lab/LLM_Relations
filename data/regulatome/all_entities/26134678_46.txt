@@ -1,0 +1,18 @@
+TACC3
+nocodazole
+Noc
+MG132
+IgG
+clathrin
+clathrin heavy chain
+CHC
+alpha-tubulin
+FITC
+sucrose
+ch-TOG
+Aurora-A
+TPX2
+EB1
+BSA
+Apoferritin
+Thyroglobulin

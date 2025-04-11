@@ -1,0 +1,4 @@
+thioesterase
+Mg2+
+palmitoyl-protein thioesterase
+H-Ras

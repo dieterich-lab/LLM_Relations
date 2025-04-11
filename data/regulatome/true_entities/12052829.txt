@@ -1,0 +1,7 @@
+ShcA
+protein kinase C
+protein kinase Calpha
+-epsilon
+-delta
+PTP-PEST
+p52(Shc)

@@ -1,0 +1,7 @@
+Cdk6
+cyclin D-dependent protein kinase
+INK4
+p27Kip1
+p19INK4d
+p19 INK4d
+CDKs

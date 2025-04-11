@@ -1,0 +1,10 @@
+25S rRNA
+Nop2DB
+Nop2
+Dim1p
+Emg1
+Bud23
+Nop2p
+p120
+rRNA-MTases
+RNA:m5C-MTase

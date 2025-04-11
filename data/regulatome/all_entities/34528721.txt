@@ -1,0 +1,20 @@
+S protein
+S
+ACE2
+C75
+zinc finger DHHC domain-containing palmitoyltransferase
+ZDHHC
+2-BP
+ZDHHC2
+ZDHHC3
+ZDHHC4
+ZDHHC5
+ZDHHC8
+ZDHHC9
+ZDHHC11
+ZDHHC14
+ZDHHC16
+ZDHHC19
+ZDHHC20
+ZDHHCs
+Fatty acid synthase

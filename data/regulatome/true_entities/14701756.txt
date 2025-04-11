@@ -1,0 +1,4 @@
+CHIP
+Smad1
+Smad
+Smad4

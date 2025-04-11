@@ -1,0 +1,9 @@
+SDS22
+sds22
+Sds22p
+Glc7p
+GLC7
+glc7
+type 1 protein serine-threonine phosphatase
+PP1
+type 1 protein phosphatase

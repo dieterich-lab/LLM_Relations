@@ -1,0 +1,17 @@
+CAND-1
+CAND1
+CUL-2
+CUL-4
+ubiquitin
+Nedd8
+cand-1
+cul-1
+lin-23
+GLR-1
+SCF(LIN-23)
+cullin
+Cullin-RING ubiquitin ligases
+CRLs
+CRL
+cullins
+glutamate receptor

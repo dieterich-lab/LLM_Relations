@@ -1,0 +1,9 @@
+cTAGE5
+collagen VII
+TANGO1
+SDS
+Sec31A
+Sec24D
+beta-actin
+TCA
+BFA

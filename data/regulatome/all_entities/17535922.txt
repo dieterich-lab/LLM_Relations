@@ -1,0 +1,21 @@
+B''
+PR72
+Ca2+
+DARPP-32
+protein phosphatase 2A
+dopamine- and cAMP-regulated phosphoprotein of 32 kDa
+dopamine
+protein kinase A
+protein phosphatase 1
+PP1
+Cdk5
+cyclin-dependent kinase 5
+Ca(2+)
+PP2B
+calcineurin
+PP2A
+cAMP
+PPP2R3A
+glutamate
+alpha-amino-3-hydroxy-5-methylisoxazole-4-propionic acid
+NMDA receptors

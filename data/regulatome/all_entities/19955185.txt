@@ -1,0 +1,14 @@
+peroxisome proliferator-activated receptor alpha
+NCoR
+PPARalpha
+SRC1
+CBP
+p300
+SMRT
+hPPARalpha
+SUMO-1
+E2
+Ubc9
+SUMO
+PIASy
+nuclear receptor

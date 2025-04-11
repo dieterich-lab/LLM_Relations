@@ -1,0 +1,9 @@
+MeCP2
+miR-137
+Sox2
+Ezh2
+histone H3
+DNA methyl-CpG-binding protein
+histone methyltransferase
+Polycomb group
+PcG

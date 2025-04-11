@@ -1,0 +1,10 @@
+DnaK
+GrpE
+GroEL
+HSP17
+small heat shock proteins
+sHSPs
+malate dehydrogenase
+DnaJ
+ES
+hsp17

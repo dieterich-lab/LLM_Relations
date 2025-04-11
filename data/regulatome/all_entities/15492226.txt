@@ -1,0 +1,15 @@
+TIFA
+IkappaB kinase
+IKK
+TRAF6
+tumor necrosis factor receptor-associated factor 6
+ubiquitin
+Ub
+transforming growth factor beta-activated kinase
+TAK1
+TRAF-interacting protein with a forkhead-associated domain
+T2BP
+Ubc13
+Uev1A
+proteasome
+polyubiquitin

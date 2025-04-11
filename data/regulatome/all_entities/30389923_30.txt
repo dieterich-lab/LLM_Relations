@@ -1,0 +1,19 @@
+PDGFRA
+STATs
+Src
+p85
+PI3K
+SHP-2
+MAPK
+PLC-gamma
+monensin
+brefeldin A
+BFA
+calnexin
+Monensin
+STAT3
+5
+STAT
+Akt
+ERK1/2
+PDGFR

@@ -1,0 +1,15 @@
+SEC18
+N-ethylmaleimide-sensitive fusion protein
+alpha-SNAP
+Sec18p
+Sec17p
+NSF
+cytoplasmic ATPases
+SNAPs
+soluble NSF attachment proteins
+SNAP receptors
+SNAREs
+20S
+SNARE
+ATPase
+N-ethylmaleimide

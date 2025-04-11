@@ -1,0 +1,6 @@
+TAP
+p15
+nucleoporins
+nucleoporin
+NXF2
+NXF3

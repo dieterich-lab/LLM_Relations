@@ -1,0 +1,13 @@
+KCNJ11
+ABCC8
+Kir6.2
+SUR1
+sulfonylurea
+ATP-sensitive K(+) channel
+ATP-sensitive K(+) (K(ATP)) channels
+Sulfonylureas
+K(ATP) channel
+K(ATP) channels
+gliclazide
+glibenclamide
+repaglinide

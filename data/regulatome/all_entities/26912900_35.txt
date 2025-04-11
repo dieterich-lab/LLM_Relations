@@ -1,0 +1,7 @@
+deubiquitinating enzyme
+Ubp6
+Rpn1
+ubiquitin
+UBL
+proteasome
+ATPase

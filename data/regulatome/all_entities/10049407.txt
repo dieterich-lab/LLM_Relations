@@ -1,0 +1,5 @@
+dinitrogenase reductase
+dinitrogenase reductase ADP-ribosyltransferase
+DRAT
+ADP-ribosyltransferase
+nitrogenase

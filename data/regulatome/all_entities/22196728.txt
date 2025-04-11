@@ -1,0 +1,17 @@
+Smad4
+Smad2
+TRIM33
+Mixl1
+histone H3
+HP1gamma
+TGF-beta
+3
+H3K9me3
+H3K18ac
+Gsc
+Pol II
+histone
+K9me3
+K18ac
+TGF-beta signals
+PHD

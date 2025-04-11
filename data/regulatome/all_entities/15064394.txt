@@ -1,0 +1,9 @@
+synphilin-1
+alpha-synuclein
+SIAH
+parkin
+Synphilin-1
+ubiquitin
+SIAH-1
+SIAH-2
+proteasome

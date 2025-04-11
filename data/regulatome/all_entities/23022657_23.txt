@@ -1,0 +1,6 @@
+ABI-1
+MIG-10
+mig-10
+MIG-10A
+MIG-10B
+GFP

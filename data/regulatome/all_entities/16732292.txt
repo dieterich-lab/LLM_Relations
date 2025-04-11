@@ -1,0 +1,11 @@
+JHDM3A
+histone H3
+histone
+jumonji C (JmjC)-domain-containing histone demethylase 3A
+JMJD2A
+H3
+H3K9
+H3K36
+HP1
+heterochromatin protein 1
+ASCL2

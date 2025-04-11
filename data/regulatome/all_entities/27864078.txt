@@ -1,0 +1,11 @@
+eIF2alpha
+Gcn2
+Gcn4
+GCN2
+Hog1
+tryptophan
+eukaryotic initiation factor 2alpha
+TRP1
+trp1
+MAPK
+Gcn2-eIF2alpha

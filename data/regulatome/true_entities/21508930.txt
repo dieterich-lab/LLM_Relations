@@ -1,0 +1,6 @@
+CBP
+CREB
+histone
+histones H2B
+H3
+H4

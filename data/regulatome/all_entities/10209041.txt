@@ -1,0 +1,17 @@
+GrpL
+Grb2-related adaptor protein
+SLP-76
+SH2 domain-containing protein 76
+Vav
+Grb2
+Grb2-related protein of the lymphoid system
+Sos1
+Sos2
+LAT
+pp36/38
+NF-AT
+CD3
+T cell antigen receptor
+TCR
+nuclear factor of activated cells
+nuclear factor of activated T cell

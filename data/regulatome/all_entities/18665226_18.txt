@@ -1,0 +1,10 @@
+Orc2
+Rbf1N
+ORC
+actin
+GAL4
+RFP
+UAS
+BrdU
+GMR
+ey

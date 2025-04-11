@@ -1,0 +1,12 @@
+anaphase-promoting complex
+APC
+ubiquitin
+proteasome
+USP44
+ubiquitin-specific protease 44
+Mad2
+Cdc20
+Cdk1
+Wee1
+Cdc25
+hairpin

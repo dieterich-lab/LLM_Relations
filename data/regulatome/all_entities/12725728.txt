@@ -1,0 +1,20 @@
+UNC-45
+CRO1
+Myo4p
+Myo5p
+Myo3p
+Myo2p
+actin
+Myo2
+She4p
+myosin
+class V myosin
+SHE4
+class I
+class V myosins
+class I myosin
+class I myosins
+class II myosins
+UCS domain proteins
+Myosins
+UCS (UNC-45/CRO1/SHE4) domain-containing family

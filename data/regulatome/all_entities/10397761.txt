@@ -1,0 +1,10 @@
+sterol regulatory element-binding protein-2
+SREBP-2
+NTF2
+importin beta
+importin alpha
+Ran
+G19VRan
+p10
+GTP
+GDP

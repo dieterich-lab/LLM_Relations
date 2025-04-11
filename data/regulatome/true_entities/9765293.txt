@@ -1,0 +1,8 @@
+RAP74
+RAP30
+FCP1a
+FCP1b
+FCP1
+RNA polymerase IIO
+74
+RNA polymerase II

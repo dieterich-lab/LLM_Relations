@@ -1,0 +1,17 @@
+CD40
+IFN-gamma
+tumor necrosis factor-alpha
+interleukin (IL)-1beta
+CD40L
+intercellular adhesion molecule-1
+IL-6
+IL-8
+tumor necrosis factor-a
+granulocyte macrophage colony-stimulating factor
+HLA-A2
+MelanA
+MART1
+MART-1
+class II
+MHC class I
+nuclear factor kappaB

@@ -1,0 +1,9 @@
+NF-Yalpha
+LKB1
+NF-YA
+NF-YB
+GAPDH
+ethidium bromide
+SDS
+AMPK
+actin

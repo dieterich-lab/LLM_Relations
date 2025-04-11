@@ -1,0 +1,12 @@
+IkappaB kinase
+TRAF6
+polyubiquitin
+NF-kappaB
+IKK
+Ubc13
+Ubc
+Uev1A
+ubiquitin
+proteasome
+ubiquitin conjugating enzyme
+ubiquitin-conjugating enzyme

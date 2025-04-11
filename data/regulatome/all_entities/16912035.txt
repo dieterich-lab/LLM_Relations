@@ -1,0 +1,10 @@
+PCSK9
+furin
+PC5
+6A
+low density lipoprotein (LDL) receptor
+furin-like
+LDL receptor
+proprotein convertase
+PC
+LDL cholesterol

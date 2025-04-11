@@ -1,0 +1,9 @@
+cullin-containing ubiquitin ligase
+Elongins B
+C
+Cul2
+COMMD1
+SOCS1
+NF-kappaB
+ECS
+RelA

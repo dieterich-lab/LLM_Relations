@@ -1,0 +1,3 @@
+actin
+phosphatidylinositol (3,4)-bisphosphate
+SWAP70

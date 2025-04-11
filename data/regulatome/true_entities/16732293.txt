@@ -1,0 +1,6 @@
+GASC1
+H3K9me3
+me2
+histone H3
+HP1
+histone

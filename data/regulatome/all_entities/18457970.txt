@@ -1,0 +1,6 @@
+betaine-homocysteine methyltransferase
+BHMT
+BHMT2
+Betaine-homocysteine methyltransferase
+homocysteine
+Luciferase

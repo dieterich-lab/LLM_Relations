@@ -1,0 +1,16 @@
+CycC
+Cdk8
+Med12
+Med13
+Cdk
+CDK3
+med12
+med13
+cyclins
+Mediator
+med12Delta
+med13Delta
+Cdks
+med12Deltamed13Delta
+Cdk8-L-CycC
+CycC-L-Cdk8

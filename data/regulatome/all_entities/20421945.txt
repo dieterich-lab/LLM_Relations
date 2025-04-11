@@ -1,0 +1,9 @@
+nsp16
+nsp14
+nsp1
+replicase
+S-adenosyl-L-methionine (AdoMet)-dependent (guanine-N7)-methyltransferase
+N7-MTase
+AdoMet-dependent (nucleoside-2'O)-methyltransferase
+nsp10
+aurintricarboxylic acid

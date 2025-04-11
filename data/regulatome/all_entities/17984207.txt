@@ -1,0 +1,23 @@
+C4b
+C3b
+complement C4b
+C4A
+C3
+C4
+porin (Por) 1B
+Por1A
+1B
+Por1B
+opacity protein
+Opa
+adhesin
+A
+B
+C
+D
+E
+F
+I
+C4Ab
+C4Bb
+C5 convertase

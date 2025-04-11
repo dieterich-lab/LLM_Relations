@@ -1,0 +1,6 @@
+RAG1
+RAG2
+HMG1
+HMG2
+2
+HMG

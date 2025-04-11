@@ -1,0 +1,7 @@
+low density lipoprotein receptor
+LDLR
+ubiquitin
+inducible Degrader of the LDLR
+IDOL
+liver X receptor
+inducible degrader of the LDL receptor

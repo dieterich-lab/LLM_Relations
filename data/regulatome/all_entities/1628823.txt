@@ -1,0 +1,4 @@
+hsp70
+HSF
+heat shock transcription factor
+heat shock protein

@@ -1,0 +1,13 @@
+Hsp90
+EBAX-1
+DAF-21
+Robo3
+EBAX-type Cullin-RING E3 ligase
+SAX-3
+Robo receptor
+Elongin BC-binding axon regulator
+Elongin BC-containing Cullin-RING ubiquitin ligase
+CRL
+EBAX-type CRL
+SAX-3-mediated axon pathfinding
+EBAX

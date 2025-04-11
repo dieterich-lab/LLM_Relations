@@ -1,0 +1,10 @@
+male-specific lethal 2
+MSL2
+Maleless
+MLE
+ubiquitin ligase
+roX2
+roX
+ubiquitin
+RNA helicase
+MSL

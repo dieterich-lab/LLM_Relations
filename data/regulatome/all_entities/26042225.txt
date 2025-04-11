@@ -1,0 +1,13 @@
+clathrin
+Hsc70
+Hsp70
+auxilin
+clathrin heavy chain
+Hsp110
+Hsp70 NEF
+calcium
+Ca(++)
+calmodulin
+calcineurin
+ADP
+ATP

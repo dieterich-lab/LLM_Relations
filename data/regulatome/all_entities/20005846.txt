@@ -1,0 +1,17 @@
+linear ubiquitin chain assembly complex
+TNF-R1 signaling complex
+TNF
+HOIL-1
+HOIP
+TNF-RSC
+LUBAC
+NEMO
+ubiquitin
+TRADD
+TRAF2
+cIAP1
+2
+RIP1
+cIAPs
+NF-kappaB
+JNK

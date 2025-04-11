@@ -1,0 +1,8 @@
+PTEN
+USP13
+AKT
+FOXO1
+3
+FOXO
+insulin
+AKT signaling

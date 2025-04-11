@@ -1,0 +1,12 @@
+SUMO
+centrin-2
+Centrins
+Ca(2+)
+Centrin-2
+xeroderma pigmentosum group C
+XPC
+SUMO2
+3
+human polycomb protein 2
+PC2
+hPC2

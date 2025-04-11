@@ -1,0 +1,10 @@
+protein arginine methyltransferase 6
+Sin3a
+RUNX1
+PRMT6
+WDR5
+p300
+HDAC1
+histone H3
+MLL
+pCAF

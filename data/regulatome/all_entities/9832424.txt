@@ -1,0 +1,13 @@
+insulin receptor substrate-2
+IGF-I
+IGF-IR
+IRS-2
+IRS-1
+Grb2
+mitogen-activated protein kinase
+phosphatidylinositol 3-kinase
+Insulin-like growth factor I
+type I IGF receptor
+PI 3-K
+wortmannin
+LY294002

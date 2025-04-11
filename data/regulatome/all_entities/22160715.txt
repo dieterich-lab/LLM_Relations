@@ -1,0 +1,11 @@
+Hsp70
+TCP1
+Hsp90
+glucocerebrosidase
+GCase
+HDAC
+Histone deacetylase
+histone deacetylase
+ubiquitin
+ubiquitin-proteasome pathway
+proteasome

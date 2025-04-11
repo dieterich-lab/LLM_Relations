@@ -1,0 +1,4 @@
+protein inhibitor of activated STAT 2
+PIAS2
+RACK1
+receptor of activated C kinase 1

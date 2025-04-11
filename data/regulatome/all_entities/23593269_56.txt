@@ -1,0 +1,7 @@
+Fyn
+IL-4
+IFN-gamma
+IgG1
+IgE
+IgG2a
+IgG2c

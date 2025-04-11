@@ -1,0 +1,9 @@
+ORF6
+type I IFN
+IFN
+karyopherin alpha2
+signal transducer and activator of transcription factor 1
+STAT1
+ORF9b
+IFN signaling pathways
+IFN signaling

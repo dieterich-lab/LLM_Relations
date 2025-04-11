@@ -1,0 +1,12 @@
+phe-p
+peptidyl prolyl cis-trans isomerase
+AtCyp19
+Bovine serum albumin
+cyclophilin
+N-succinyl-ala-ala-pro-phe-p-nitroanilidine
+PPIase
+BSA
+cyclosporin A
+CsA
+FKBP
+FK506

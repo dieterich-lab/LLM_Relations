@@ -1,0 +1,19 @@
+mTOR
+ULK1
+ATG1
+mATG9
+FIP200
+ATG13
+phosphatidylinositol 3-phosphate
+PI3P
+BECLIN 1
+VPS34
+class III phosphatidylinositol 3-OH kinase
+PI3K
+class III PI3K
+VPS15
+ATG14
+BARKOR
+UVRAG
+RUBICON
+AMBRA1

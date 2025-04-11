@@ -1,0 +1,9 @@
+mRR
+RR1
+RR
+ATP
+dATP
+alpha2beta2
+mRR1
+gemcitabine
+dNTP

@@ -1,0 +1,29 @@
+pyrabactin resistance 1
+PYR1
+PYR1-like proteins
+PYL
+ABI5
+transcription factor 3
+mechanosensitive channel of small conductance- like 9
+nicotinamide adenine dinucleotide phosphate oxidase
+RBOHF
+PP2C-SnRK2 pathway
+ABA
+ABA signaling pathways
+ABA-specific receptors
+phosphatases
+kinases
+PYLs
+regulatory component of ABA receptor
+RCAR
+ABA receptors
+RCARs
+protein phosphatase type 2Cs
+PP2Cs
+SnRK2
+SnRK2s
+ABA-responsive element binding factors
+ion channels
+slow anion channel 1
+K+ channel in Arabidopsis 1
+PP2C

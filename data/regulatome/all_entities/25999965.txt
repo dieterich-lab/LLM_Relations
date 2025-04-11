@@ -1,0 +1,14 @@
+LSD1
+HY5
+lesion simulating disease1
+elongated hypocotyl 5
+lsd1
+hy5
+phytochrome B
+phyB
+enhanced disease susceptibility 1
+EDS1
+salicylic acid
+SA
+SR1
+reactive oxygen species

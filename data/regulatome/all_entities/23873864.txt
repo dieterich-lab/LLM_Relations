@@ -1,0 +1,14 @@
+Swi4
+Swi6
+CK2 alpha
+Protein kinase CK2
+SBF
+SCB binding factor
+MBF
+MCB binding factor
+Mbp1
+CK2
+ckb1Delta
+ckb2Delta
+beta
+RNA polymerase II

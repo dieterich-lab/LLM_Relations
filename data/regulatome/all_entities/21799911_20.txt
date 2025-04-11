@@ -1,0 +1,23 @@
+Wnt
+Wnt3a
+RNF146
+tankyrases
+TNKS1
+TNKS2
+AXIN1
+AXIN2
+beta-catenin
+tankyrase
+Axin
+doxycycline
+DOX
+GSK3alpha
+betaimmunoblotting
+IWR-2
+GAPDH
+RNF46
+RNF
+lacZ
+HA
+Wnt signaling
+siRNAs

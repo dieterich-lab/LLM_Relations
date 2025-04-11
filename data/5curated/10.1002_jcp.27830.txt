@@ -1,0 +1,446 @@
+# Author Manuscript
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+
+Published in final edited form as:
+
+J Cell Physiol. 2019 July; 234(7): 10964–10976. doi:10.1002/jcp.27830.
+
+Maduramicin induces cardiac muscle cell death by ROS-dependent PTEN/Akt-Erk1/2 signaling pathway
+
+Xin Chen1,2,4, Yue Li1, Meng Feng1, Xiaoyu Hu1, Hai Zhang1, Ruijie Zhang1, Xiaoqing Dong1, Chunxiao Liu1, Zhao Zhang1, Shanxiang Jiang4, Shile Huang2,3,* and Long Chen1,*
+
+1Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, PR China;
+
+2Department of Biochemistry and Molecular Biology, Louisiana State University Health Sciences Center, Shreveport, LA 71130-3932, USA;
+
+3Feist-Weiller Cancer Center, Louisiana State University Health Sciences Center, Shreveport, LA 71130-3932, USA;
+
+4Laboratory of Veterinary Pharmacology and Toxicology, College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, PR China.
+
+# Abstract
+
+Maduramicin (Mad), a polyether ionophore antibiotic, has been reported to be toxic to animals and humans because of being used at high doses or for a long time, resulting in heart failure. However, the toxic mechanism of Mad in cardiac muscle cells is not well understood. Here, we show that Mad induced cell viability reduction and apoptosis in cardiac-derived H9c2, HL-1 cells, primary cardiomyocytes and murine cardiac muscles, which was due to inhibition of extracellular signal-regulated kinase 1/2 (Erk1/2). Expression of constitutively active mitogen-activated protein kinase kinase 1 (MKK1) attenuated Mad-induced cell death in H9c2 cells, whereas silencing Erk1/2 or ectopic expression of dominant negative MKK1 strengthened Mad-induced cell death. Moreover, we found that both phosphatase and tensin homologue on chromosome 10 (PTEN) and Akt were implicated in the regulation of Erk1/2 inactivation and apoptosis in the cells and tissues exposed to Mad. Overexpression of dominant negative PTEN and/or constitutively active Akt, or constitutively active Akt and/or constitutively active MKK1 rescued the cells from Mad-induced dephosphorylated-Erk1/2 and cell death. Furthermore, Mad-induced reactive oxygen species (ROS) activated PTEN and inactivated Akt-Erk1/2 contributing to cell death, as N-acetyl-L-cysteine (NAC) ameliorated the event. Taken together, the results disclose that Mad inhibits Erk1/2 via ROS-dependent activation of PTEN and inactivation of Akt, leading to cell death in cardiac muscle cells. Our findings suggest that manipulation of ROS-PTEN-Akt-Erk1/2 pathway may be a potential approach to prevent Mad-induced cardiotoxicity.
+
+*Address correspondence to: Long Chen, Ph.D. (College of Life Sciences, Nanjing Normal University, 1 Wenyuan Road, Chixia District, Nanjing 210023, Jiangsu, P. R. China. Phone: 86-25-85891797, Fax: 86-25-85891526, lchen@njnu.edu.cn); and Shile Huang, Ph.D. (Department of Biochemistry and Molecular Biology, Louisiana State University Health Sciences Center, 1501 Kings Highway, Shreveport, LA 71130-3932, USA. Phone: (318) 675-7759, Fax: (318) 675-5180, shuan1@lsuhsc.edu).
+
+Conflict of interest
+
+The authors declare they have no competing financial interests.
+# Chen et al. - Page 2
+
+Author Manuscript Keywords: maduramicin; apoptosis; ROS; PTEN; Akt; cardiac muscle cells
+
+# Introduction
+
+Maduramicin (Mad), a most potent polyether ionophore antibiotic for coccidiosis prevention, is used as a feed additive at 5–7 ppm (mg/kg) with a withdrawal period of 5 days before slaughter in chickens and turkeys for fattening (Dorne et al., 2013). Many reports have documented that Mad is toxic to animals and humans if improperly used (Bastianello et al., 1995; Dorne et al., 2013; Fourie et al., 1991; Jayashree and Singhi, 2011; Shimshoni et al., 2014). Clinical data have shown that Mad evokes anorexia, diarrhea, dyspnea, depression, ataxia, recumbency and death, and especially Mad results in degeneration and/or necrosis of heart and skeletal muscles (Bastianello et al., 1995; Dorne et al., 2013; Fourie et al., 1991; Jayashree and Singhi, 2011; Shimshoni et al., 2014). For example, Mad induces severe myocardial lesions in chickens, pigs, gilts, calves (Bastianello et al., 1995; Dorne et al., 2013; Fourie et al., 1991; Sanford and McNaughton, 1991; Shimshoni et al., 2014; Shlosberg et al., 1992; Shlosberg et al., 1997; Singh and Gupta, 2003). Importantly, increasing cases of poisoning with Mad by accident have been reported in humans especially in children, leading to rhabdomyolysis, acute renal failure and even death (Jayashree and Singhi, 2011; Sharma et al., 2005). Recently, we have demonstrated that Mad inhibits proliferation by arresting cells at G0/G1 phase of the cell cycle, and induces caspase-dependent apoptosis in C2C12 myoblast cells (Chen et al., 2014b). However, how Mad induces apoptotic cell death in cardiac muscle cells is not well understood.
+
+Extracellular signal-regulated kinase 1/2 (Erk1/2), a member of mitogen-activated protein kinases (MAPKs), plays a crucial role in the regulation of cell proliferation/growth and apoptosis (Kyriakis and Avruch, 2012; Xia et al., 2016). For example, Erk1/2 is involved in the doxorubicin-induced apoptosis in H9c2 cells and neonatal cardiomyocytes (Liu et al., 2008). Sialyltransferase 7A promotes cardiomyocyte apoptosis through inhibition of Erk1/2 activity under hypoxic conditions (Zhang et al., 2015). Erk2 knockdown enhances caspase 3 activity in H2O2-stimulated neonatal rat cardiomyocytes (Ulm et al., 2014). Besides, it has been reported that monensin, another polyether ionophore antibiotic, increases Erk1/2 activity in NCI-H929 myeloma cells (Park et al., 2003). This prompted us to focus on studying whether Mad affects Erk1/2 activity leading to apoptosis in cardiac muscle cells.
+
+Phosphatase and tensin homologue on chromosome 10 (PTEN), a dual phosphatase which dephosphorylates proteins and phosphoinositides substrates, is an important negative regulator of Akt (Bermudez Brito et al., 2015; Maehama and Dixon, 1999; Panigrahi et al., 2004). Interestingly, recent studies have shown that PTEN also negatively regulates Erk1/2 pathway in several malignancies (Chetram and Hinton, 2012). Additionally, Akt is able to activate Erk1/2 through protein kinase C (PKC) (Chetram and Hinton, 2012). Of note, multiple studies have documented that excessive reactive oxygen species (ROS)-induced cardiomyocyte apoptosis links to dysfunction of PTEN, Akt and/or Erk1/2 signaling (Kim et al., 2014; Lv et al., 2014; Matsuno et al., 2012; Tian et al., 2012; Yao et al., 2016; Yao et al.,
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al.
+
+Author Manuscript
+
+2012). For example, H2O2 induces injury in cardiac myocytes via inhibiting PTEN protein expression (Lv et al., 2014). Doxorubicin induces injury through PTEN/Akt and Erk pathway in H9c2 cells (Yao et al., 2016). Salinomycin, another polyether ionophore, induces intracellular ROS overproduction (Verdoodt et al., 2012; Zhou et al., 2013). Based on the above findings, we hypothesized that Mad may affect Erk1/2 pathway via ROS-mediated PTEN-Akt signaling pathway, thereby leading to cardiac apoptosis.
+
+Here, for the first time, we show that Mad-induced ROS activates PTEN and inactivates Akt-Erk1/2, leading to apoptosis in cardiac muscle cells. Our findings underline that intervention in ROS-PTEN-Akt-Erk1/2 signaling pathway may be a potential approach to prevent Mad-induced cardiotoxicity.
+
+Author ManuscriptReagents2. Materials and Methods
+
+# 2.1. Maduramicin ammonium was purchased from Santa Cruz Biotechnology (Santa Cruz, CA, USA). 4’, 6-diamidino-2-phenylindole (DAPI), N-acetyl-L-cysteine (NAC) and 5-Bromo-2-deoxyUridine (BrdU) were from Sigma (St. Louis, MO, USA). Dulbecco’s modified Eagle’s medium (DMEM), Ham’s F12 nutrient medium (F12) and 0.05% Trypsin-EDTA were purchased from Invitrogen (Grand Island, NY, USA), whereas Claycomb medium was provided by Sigma. Fetal bovine serum (FBS) was supplied by Hyclone (Logan, UT, USA). CellTiter 96® AQueous One Solution Cell Proliferation Assay kit was from Promega (Madison, WI, USA). Annexin V-FITC/Propidium Iodide (PI) Apoptosis Dectection kit was purchased from BD Biotsciences (San Diego, CA, USA). 5-(and-6)-chloromethyl-2’, 7’-dichlorodihydrofluorescein diacetate (CM-H2DCFDA) was from MP Biomedicals (Solon, OH, USA). Enhanced chemiluminescence reagent was from Millipore (Billerica, MA, USA). Other chemicals were purchased from local commercial sources and were of analytical grade.
+
+# 2.2. Cell culture
+
+Rat cardiac myoblast H9c2 cells (CRL-1446, American Type Culture Collection, Manassas, VA, USA) were cultured in DMEM supplemented with 10% FBS, 4.5 mg/ml high glucose, 100 U/ml penicillin, 100 U/ml streptomycin, 2 mM L-glutamine. Murine cardiomyocytes HL-1 cells, a gift from William Claycomb (Louisiana State University Health Sciences Center, New Orleans, LA, USA), were grown in Claycomb medium supplemented with 10% FBS, 100 μM norepinephrine, 100 U/ml penicillin, 100 U/ml streptomycin, and 2 mM L-glutamine (Sun et al., 2017). All cell lines were maintained in a humidified incubator containing 5% CO2 at 37°C.
+
+Primary cardiomyocytes were isolated from hearts of neonatal mice at 1–3 days old as described previously (Zhang et al., 2016). Briefly, neonatal ICR mice were sacrificed by cervical dislocation and hearts were removed with the ventricles only retained by a chest operation under sterile conditions, followed by washing with cold Ca2+/Mg2+-free Hank’s balanced salt solution (HBSS). Then, the ventricles were minced into small pieces and digested with 0.05% trypsin without Ca2+ and Mg2+, with serial cycles of agitation.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al.
+
+Author Manuscript
+
+Subsequently, the supernatant containing the isolated cells was collected and FBS was added to a final concentration of 10%. The resulting mixture was centrifuged for 10 min at 100 g, and the pelleted cells were then resuspended in DMEM/F12 (1:1) supplemented with 10% FBS. As nonmyocytes attach to the substrata more rapidly, to exclude nonmyocytes, the isolated cells were first seeded in 100-mm culture dishes. Following 2 h culture in a humid incubator (37°C, 5% CO2), the non-attached cells were collected. Finally, the isolated cells were seeded at a 96-well plate (1 × 104 cells/well) or a 6-well plate (2 × 106 cells/well), supplemented with 100 μM BrdU during the first 48 h to prevent proliferation of nonmyocytes.
+
+# 2.3. Animals and administration with Mad
+
+Author Manuscript
+
+Thirty male ICR mice, weighing 18–22 g, were purchased from the Laboratory Animal Center, Nanjing Medical University (Nanjing, China). All animals were handled in accordance with the guidelines of the Institutional Animal Care and Use Committee, and were in compliance with the guidelines set forth by the Guide for the Care and Use of Laboratory Animals. The mice were housed at room temperature (20–25°C), relative humidity of 60%, subjected to a 12 h-light/dark cycle under conventional barrier protection, and supplied with water and feed ad libitum. After acclimatization to these conditions for 1 week, the mice were randomly divided into normal control group and Mad treatment group (15 mice/group). A subacute Mad regimen (3.5 mg/kg), according to 1/10 LD50, was used. The mice in the Mad treatment group were intragastrically administered with Mad solution, which was dissolved in 2 ml of 100% ethanol and then diluted 10-fold with distilled water to obtain a final concentration of 0.2 mg/ml, and the control group received intragastric administration of water/vehicle daily for 7 d. At the end of the experiment, all animals were sacrificed by cervical dislocation, and heart tissues (retaining the ventricles only) were immediately removed and fixed in 4% paraformaldehyde or stored at −80°C for further analysis.
+
+# 2.4. Recombinant adenoviral constructs and infection of cells
+
+Author Manuscript
+
+Recombinant adenoviruses expressing green fluorescence protein (Ad-GFP), FLAG-tagged constitutively active MKK1 (Ad-MKK1-R4F), FLAG-tagged dominant negative MKK1 (Ad-MKK1-K97M), and human dominant negative PTEN (Ad-PTEN-C/S) were described previously (Findley et al., 2007). Recombinant adenovirus expressing HA-tagged constitutively active Akt (Ad-myr-Akt) was generously provided by Dr. Kenneth Walsh (Boston University, Boston, MA) (Fujio and Walsh, 1999). For experiments, cells were grown in the growth medium and infected with the individual adenovirus for 24 h at 5 of multiplicity of infection (MOI=5). Subsequently, cells were used for experiments. Ad-GFP served as a control. Expression of FLAG-tagged MKK1-R4F and MKK1-K97M, and HA-tagged myr-Akt was determined by Western blot analysis with antibodies to FLAG and HA, respectively.
+
+# 2.5. Lentiviral shRNA cloning, production, and infection
+
+Author Manuscript
+
+Lentiviral shRNAs to Erk1/2 and GFP (for control) were constructed and infected as described previously (Chen et al., 2008). For use, monolayer H9c2 cells, when grown to about 70% confluence, were infected with above lentivirus-containing supernatant in the
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al. - Page 5
+
+Author Manuscript
+
+Presence of 8 μg/ml polybrene for 24 h and exposed to 2 μg/ml puromycin for 48 h. In 5 days, cells were used for experiments.
+
+# 2.6. Analysis for cell viability
+
+H9c2 cells, HL-1 cells and primary cardiomyocytes, or H9c2 cells infected with Ad-MKK1-R4F, Ad-MKK1-K97M, Ad-PTEN-C/S, Ad-myr-Akt, Ad-PTEN-C/S/Ad-myr-Akt, Ad-myr-Akt/Ad-MKK1-R4F or Ad-GFP, or H9c2 cells infected with lentiviral shRNAs to Erk1/2 or GFP, respectively, were seeded in a 96-well plate (1 × 104 cells/well). Next day, cells were treated with 0–1 μM Mad or with/without 0.5 and 1 μM Mad for 48 h, or treated with/without 0.5 and/or 1 μM Mad for 48 h following pre-incubation with/without 5 mM NAC for 1 h with 6 replicates of each treatment. Subsequently, cell viability, after incubation with MTS reagent (one solution reagent) (20 μl/well) for 3 h, was evaluated by measuring the optical density (OD) at 490 nm using a Victor X3 Light Plate Reader (PerkinElmer, Waltham, MA, USA).
+
+Author Manuscript
+
+# 2.7. Flow cytometry of apoptotic cells and cell caspase-3/7 activity
+
+H9c2 cells, HL-1 cells and primary cardiomyocytes were seeded in a 100-mm dish (5 × 105 cells/dish) or 96-well plate (1 × 104 cells/well), respectively. The next day, cells were treated with 0–1 μM Mad for 48 h or 24 h, with 6 replicates of each treatment. Subsequently, apoptotic cells were monitored by annexin V-FITC/PI staining and analyzed using a fluorescence-activated cell sorter (FACS) Vantage SE flow cytometer (Becton Dickinson, California, USA). Caspase-3/7 activity was determined using Caspase-Glo® 3/7 Assay Kit (Promega, Madison, WI, USA), following the instructions of the supplier.
+
+# DAPI and TUNEL staining
+
+H9c2 cells, HL-1 cells and primary cardiomyocytes, or H9c2 cells infected with Ad-MKK1-R4F, Ad-MKK1-K97M, Ad-PTEN-C/S, Ad-myr-Akt, Ad-PTEN-C/S/Ad-myr-Akt, Ad-myr-Akt/Ad-MKK1-R4F or Ad-GFP, or H9c2 cells infected with lentiviral shRNAs to Erk1/2 or GFP, respectively, were seeded in a 6-well plate (5 × 105 cells/well). Next day, cells were treated with 0–1 μM Mad or with/without 0.5 and 1 μM Mad for 48 h, or treated with/without 0.5 and/or 1 μM Mad for 48 h following pre-incubation with/without 5 mM NAC for 1 h with 6 replicates of each treatment. Subsequently, the cells with fragmented and condensed nuclei were determined using DAPI staining as described (Chen et al., 2008). For the cells pretreated with/without 0–1 μM of Mad for 48 h, following DAPI staining, TUNEL staining was performed according to the manufacturer’s protocols of In Situ Cell Death Detection Kit® (Roche, Mannheim, Germany). For cardiac muscle of Mad-exposed mice, paraffin-embedded cardiac tissue sections were prepared, followed by TUNEL staining, as described (Chen et al., 2014a). Finally, photographs were taken under a fluorescence microscope (Leica DMi8, Wetzlar, Germany) equipped with a digital camera. For quantitative analysis of the fluorescence intensity using TUNEL staining, the integral optical density (IOD) was measured by Image-Pro Plus 6.0 software (Media Cybernetics Inc., Newburyport, MA, USA).
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Author Manuscript
+
+Immunofluorescence staining2.9.
+
+H9c2 cells, HL-1 cells and primary cardiomyocytes were seeded at a density of 2 × 105 cells/well in a 6-well plate containing a glass coverslip per well. The next day, following treatment with Mad (0–1 μM) for 24 h, the cells on the coverslips were fixed with 4% paraformaldehyde and incubated with 3% normal goat serum to block non-specific binding. For cardiac muscle of Mad-exposed mice, paraffin sections were dewaxed using xylene and dehydrated, followed by antigen retrieval, washing with PBS, and sealing in 10% bovine serum albumin (BSA), as described (Xu et al., 2014). Next, the cells and tissue sections were incubated with mouse anti-phospho-Erk1/2 antibody (Santa Cruz Biotechnology, 1:50, diluted in PBS containing 1% BSA) overnight at 4°C, washed three times (5 min per time) with PBS, followed by incubating with FITC-conjugated goat anti-mouse IgG (Santa Cruz Biotechnology, 1:500, diluted in PBS containing 1% BSA) for 1 h at room temperature. The cells and tissue sections were then washed three times (5 min per time) with PBS. Finally, the slides for the cells and tissue sections were mounted in glycerol/PBS (1:1, v/v) containing 2.5% 1,4-diazabiclo-(2,2,2)octane. Cell images were captured under a fluorescence microscope (Leica DMi8, Wetzlar, Germany) equipped with a digital camera. IOD for fluorescence intensity was quantitatively analyzed by Image-Pro Plus 6.0 software as described above.
+
+# 2.10. ROS detection
+
+Detecting intracellular ROS were performed using an oxidant-sensitive probe, CM-H2DCFDA, as described previously (Zhang et al., 2017). H9c2 cells, HL-1 cells and primary cardiomyocytes were seeded in a 96-well plate (1 × 104 cells/well). Next day, cells were treated with 0–1 μM Mad or treated with/without 0.5 and/or 1 μM Mad for 24 h following pre-incubation with/without 5 mM NAC for 1 h with 6 replicates of each treatment. Subsequently, cells were loaded with 10 μM CM-H2DCFDA for 40 min. Fluorescent intensity was recorded by excitation at 485 nm and emission at 535 nm using a Victor X3 Light Plate Reader (PerkinElmer, Waltham, MA, USA).
+
+For heart tissues, the ventricle homogenates were diluted 1:20 (vol/vol) with ice-cold Locke’s buffer (154 mM NaCl, 5.6 mM KCl, 3.6 mM NaHCO3, 2.0 mM CaCl2, 10 mM D-glucose, and 5 mM HEPES, pH 7.4) to obtain a concentration of 10 mg tissue/ml. The reaction mixture (1 ml) containing Locke’s buffer (pH 7.4), 0.2 ml homogenates and 10 μl of CM-H2DCFDA (10 μM) was incubated for 15 min at room temperature to allow the CM-H2DCFDA to be incorporated into any membrane-bound vesicles and the diacetate group to be cleaved by esterases. After further incubation for 30 min, the fluorescent intensity for the conversion of CM-H2DCFDA to fluorescent product DCF was recorded. Above ROS formation was quantified from a DCF-standard curve and data were expressed as pM DCF formed/min/mg protein.
+
+# 2.11. Western blot analysis
+
+Western blotting was performed, as described previously (Chen et al., 2014b). Heart tissues were homogenized in 3 ml of ice-cold RIPA buffer. For in vitro H9c2 cells, HL-1 cells and primary cardiomyocytes, after treatment, cells were briefly washed with cold PBS, and then on ice, lysed in RIPA buffer. Homogenates or lysates were sonicated for 10 s and centrifuged
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Author Manuscript
+
+at 14,000 rpm for 10 min at 4°C. After that, the supernatants or lysates containing equivalent amounts of protein were separated on 7–12% sodium dodecyl sulfate-polyacrylamide gel and transferred to polyvinylidene difluoride membranes (Millipore, Bedford, MA, USA). Membranes were incubated with PBS containing 0.05% Tween 20 and 5% nonfat dry milk to block nonspecific binding, and then with primary antibodies against phospho-Akt (p-Akt) (Thr308), p-Akt (Ser473), cleaved-caspase-3, poly (ADP-ribose) polymerase (PARP), GAPDH (Cell Signaling Technology, Danvers, MA, USA), p-Erk1/2 (Thr202/Tyr204), Erk2, Akt (Santa Cruz Biotechnology), p-PTEN (Thr366), PTEN (Epitomics, Burlingame, CA, USA), MKK1, FLAG, HA (Sigma) overnight at 4°C, respectively, followed by incubation with appropriate secondary antibodies including horseradish peroxidase-coupled goat anti-rabbit IgG, goat anti-mouse IgG, or rabbit anti-goat IgG (Pierce, Rockford, IL, USA) overnight at 4°C. Immunoreactive bands were visualized by using enhanced chemiluminescence solution (Millipore).
+
+# Statistical analysis
+
+Results were expressed as mean values ± standard error (SE). Statistically significant differences between treatment means were identified by using the Student’s t-test for non-paired replicates. One-way or two-way ANOVA followed by Bonferroni’s post-tests to compare replicate means was conducted to compare group variability and interaction. A level of P < 0.05 was considered to be significant.
+
+# Results
+
+# Mad induces apoptotic cell death in cardiac muscle cells
+
+Our previous study has shown that exposure of Mad to C2C12 skeletal muscle cells results in cell viability reduction, and identified that Mad induces apoptosis in the myoblasts (Chen et al., 2014b). In line with the above findings, here we also observed that treatment with Mad (0–1 μM) for 48 h resulted in cell viability reduction in cardiac muscle cells (H9c2, HL-1 cells and primary cardiomyocytes) in a concentration-dependent manner (Figure 1a). To elucidate Mad-induced cardiac apoptosis, annexin-V-FITC/PI staining was used. The results showed that Mad increased the relative number of apoptotic H9c2, HL-1 cells and primary cardiomyocytes dose-dependently (Figure 1b and c). Mad at 1 μM elicited apoptotic cell proportion by 34.33%, 26.89% and 42.87% compared to control group in H9c2, HL-1 cells and primary cardiomyocytes (Figure 1b and c), respectively. In addition, we further tested the cells with nuclear fragmentation and condensation, a hallmark of apoptosis (Hao et al., 2013), using DAPI staining, and concurrently analyzed DNA strand breaks in the cells by TUNEL staining (Figure 1d–f). Imaged and quantified results exhibited that the percentage of the cells with nuclear fragmentation and condensation (arrows) and the number of TUNEL-positive cells with fragmented DNA (in green) increased significantly in H9c2, HL-1 cells and primary cardiomyocytes induced by 48-h exposure to Mad, compared with the control (Figure 1d–f). Similar results were also observed in the cardiac muscle of Mad-exposed mice (3.5 mg/kg) by intragastric administration for 7 days (Figure 1g and h). Collectively, the findings indicate that Mad induces apoptotic cell death in cardiac muscle cells.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al. - Page 8
+
+Author ManuscriptMad inhibits Erk1/2 pathway contributing to apoptosis in cardiac muscle cells3.2.
+
+It has been reported that Erk1/2 was involved in the regulation of cell apoptosis (Kyriakis and Avruch, 2012; Xia et al., 2016). Our Western blot analysis also showed that Mad dose-dependently evoked robust cleavages of caspase-3 and PARP in H9c2, HL-1 cells and primary cardiomyocytes (Figure 2a). Interestingly, we found that Mad reduced phosphorylation of Erk1/2 (Thr202/Tyr204) (Figure 2a), indicating that Mad triggers inactivation of Erk1/2, which may mediate apoptotic cell death. To confirm this, we further conducted p-Erk1/2 (Thr202/Tyr204) immunofluorescence staining and caspase3/7 activity assay in the cells, respectively. The results revealed that treatment with Mad (0.05–1 μM) for 24 h resulted in an obvious decline in phosphorylation of Erk1/2 (Thr202/Tyr204) (in green) (Figure 2b and c). In line with the Mad-increased cleaved-caspase-3, Mad profoundly induced activation of caspases 3/7 in the cells (Figure 2d). Moreover, the events were also observed in murine cardiac muscles exposed to Mad (Figure 2e–g). These data demonstrate that Mad induced inactivation of Erk1/2 and apoptotic cell death in cardiac muscle cells.
+
+To verify the role of Erk1/2 inactivation in Mad-induced apoptosis in cardiac muscle cells, Erk1/2 was silenced by RNA interference. As detected by Western blotting, lentiviral shRNA to Erk1/2, but not to GFP, downregulated expression of Erk1/2 by ~ 90% in H9c2 cells (Figure 3a). Silencing Erk1/2 strengthened Mad-induced dephosphorylation of Erk1/2 and cleavage of caspase-3 (Figure 3b). Consistently, downregulation of Erk1/2 enhanced cell viability reduction and apoptosis in H9c2 cells in response to Mad (Figure 3c and d). Further, we extended our studies by modifying MKK1 (an upstream kinase of Erk1/2) activity. To this end, H9c2 cells, infected with recombinant adenoviruses expressing FLAG-tagged constitutively active MKK1 (Ad-MKK1-R4F), dominant negative MKK1 (Ad-MKK1-K97M) and control virus encoding GFP alone (Ad-GFP), respectively, were exposed to Mad (0.5 and 1 μM) for 24 h or 48 h. As expected, expression of high levels of FLAG-tagged MKK1 mutants was seen in Ad-MKK1-R4F- or Ad-MKK1-K97M-infected cells, but not in Ad-GFP-infected cells (control) (Figure 3e). Expression of MKK1-R4F led to robust phosphorylation of Erk1/2 even with exposure to Mad, whereas expression of MKK1-K97M almost completely abolished the basal or Mad-inhibited phosphorylation of Erk1/2 (Figure 3e), indicating that the MKK1 mutants function in the cells. Of note, expression of MKK1-R4F in H9c2 cells conferred profound resistance to Mad-induced cleaved-caspase-3, cell viability reduction and apoptosis (Figure 3e–g). In contrast, expression of MKK1-K97M in the cells dramatically reinforced the events triggered by Mad (Figure 3e–g). The results clearly indicate that Mad inhibits Erk1/2 pathway leading to apoptosis in cardiac muscle cells.
+
+Author ManuscriptMad induces Erk1/2 inhibition and apoptosis in part by activating PTEN and3.3. inactivating Akt in cardiac muscle cells
+
+It is well-known that PTEN, Akt and Erk1/2 interact with each other and regulate cell proliferation/growth and death in a series of cells (Bermudez Brito et al., 2015; Chetram and Hinton, 2012; Xu et al., 2015). The current study has found that Mad induces inactivation of Erk1/2 pathway (Figure 2 and 3). Therefore, we reasoned that PTEN and/or Akt signaling may be involved in Mad-induced inactivation of Erk1/2, leading to apoptosis in cardiac muscle cells. Firstly, we checked the phosphorylation status of PTEN and Akt in the cells
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al.
+
+Author Manuscript and murine cardiac muscles exposed to Mad. The results showed that Mad inhibited the phosphorylation of PTEN (Thr366) and Akt (Thr308 and Ser473) in H9c2, HL-1 cells, primary cardiomyocytes dose-dependently (Figure 4a). Similar results were observed in murine cardiac muscles (Figure 4b), implying that Mad activates PTEN and inactivates Akt in cardiac muscle cells. Next, H9c2 cells, infected with Ad-PTEN-C/S, Ad-PTEN-C/S/Ad-myr-Akt and Ad-GFP (as control), respectively, were exposed to Mad (0.5 and 1 μM) for 24 or 48 h. Infection with Ad-PTEN-C/S and Ad-myr-Akt, but not Ad-GFP, evoked expression of high levels of p-PTEN and HA-tagged Akt mutant in the cells (Figure 4c).
+
+Overexpression of PTEN-C/S in H9c2 cells rendered remarkable resistance to Mad-induced dephosphorylation of Erk1/2 and cleavage of caspase-3 (Figure 4c), as well as cell viability reduction and apoptosis (Figure 4d and e). Of importance, Mad-induced events were more potently ameliorated in Ad-PTEN-C/S/Ad-myr-Akt-infected cells than in Ad-PTEN-C/S- or Ad-GFP-infected cells (Figure 4c–e). Collectively, the findings support the notion that Mad induces suppression of Erk1/2 and consequential cell apoptosis in cardiac muscle cells, in part, by activation of PTEN and inactivation of Akt.
+
+To further uncover the role of Akt in Mad-induced Erk1/2 inactivation and apoptosis in cardiac muscle cells, H9c2 cells infected with Ad-myr-Akt and/or Ad-MKK1-R4F were utilized. As shown in Figure 4f, expression of high levels of HA-tagged Akt and/or FLAG-tagged MKK1 mutants was seen in H9c2 cells infected with Ad-myr-Akt and/or Ad-MKK1-R4F, but not in the cells infected with Ad-GFP (control virus). Overexpression of myr-Akt remarkably prevented Mad-induced dephosphorylation of Akt and Erk1/2, cleaved-caspase-3, cell viability reduction and apoptosis (Figure 4f–h). Interestingly, the cells expressing myr-Akt/MKK1-R4F possessed more powerful inhibitory effects on Mad-induced events than the cells expressing myr-Akt alone (Figure 4f–h). These data indicate that Mad elicited Erk1/2 inhibition contributing to apoptosis partly by inactivation of Akt in cardiac muscle cells.
+
+# 3.4. Mad-induced ROS results in PTEN activation and Akt-Erk1/2 inactivation, leading to apoptosis in cardiac muscle cells
+
+ROS has been identified as a key player in cardiomyocyte apoptosis (Lv et al., 2014; Matsuno et al., 2012; Tian et al., 2012; Yao et al., 2016). To unveil whether Mad induces ROS in cardiac muscle cells, H9c2, HL-1 cells and primary cardiomyocytes were treated with Mad (0–1 μM) for 24 h, or mice were intragastrically administered with Mad (3.5 mg/kg) for 7 days, followed by ROS detection using CM-H2DCFDA. As shown in Figure 5a and b, Mad treatment significantly increased the ROS levels in the cells and cardiac muscles, which was markedly attenuated by pretreatment with NAC, an antioxidant and ROS scavenger (Figure 5c). NAC also attenuated the effects of Mad on the expression of p-PTEN, p-Akt and p-Erk1/2 in the cells (Figure 5d). Importantly, Mad-induced cleaved-caspase-3, cell viability reduction and apoptosis were substantially weakened by pretreatment with NAC (Figure 5d–f). These results clearly indicate that Mad-elevated ROS activates PTEN and inactivates Akt-Erk1/2, thereby leading to apoptosis in cardiac muscle cells.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Author Manuscript
+
+4. Discussion
+
+Mad, an anticoccidial agent used in the poultry, has been reported to be toxic to the humans, and animals such as chickens, turkeys, pigs, cattle, sheep, etc. (Bastianello et al., 1995; Dorne et al., 2013; Fourie et al., 1991; Jayashree and Singhi, 2011; Shimshoni et al., 2014). Especially, emerging studies have pointed out Mad-induced severe myocardial and skeletal muscle lesions (Bastianello et al., 1995; Dorne et al., 2013; Fourie et al., 1991; Jayashree and Singhi, 2011; Shimshoni et al., 2014). Of importance, growing reports have documented the human cases of poisoning with Mad by accident (Jayashree and Singhi, 2011; Sharma et al., 2005). Our recent study has shown that Mad inhibits proliferation and induces apoptosis in C2C12 skeletal muscle cells (Chen et al., 2014b). However, little is known about the toxic mechanism of Mad in cardiac muscle cells. Here we provide evidence that Mad induced apoptotic cell death by inhibiting Erk1/2 pathway in cardiac muscle cells. Further, we found that Mad induction of intracellular ROS elicited inhibition of Erk1/2 contributing to cell apoptosis via activation of PTEN and inactivation of Akt.
+
+In this study, we found that Mad induced dephosphorylation of Erk1/2 and cleavages of caspase-3 and PARP in H9c2, HL-1 cells, primary cardiomyocytes and murine cardiac muscle, as detected by Western blotting (Figure 2a and e). This is further supported by the results of phospho-Erk1/2 immunofluorescence staining and caspase3/7 activity assay (Figure 2b, c, d, f and g). To corroborate the above findings, genetic inhibition/silencing, or rescue experiments for Erk1/2 was carried out. We showed that silencing Erk1/2 strengthened Mad-induced dephosphorylation of Erk1/2 and cleavage of caspase-3 (Figure 3b). Concurrently, silencing Erk1/2 conferred substantial enhancement of Mad-induced apoptotic cell death, as evidenced by more reduced cell viability and elevated percentages of cells with nuclear fragmentation and condensation in H9c2 cells (Figure 3c and d). Further, we found that ectopic expression of dominant negative MKK1 (MKK-K97M) strengthened Mad-induced dephosphorylation of Erk1/2, cleaved-caspase-3 and cell apoptosis, whereas expression of constitutively active MKK1 (MKK1-R4F) attenuated these events in H9c2 cells (Figure 3e–g). Taken together, these observations support that Mad induces apoptotic cell death, at least in part, by inactivation of Erk1/2 pathway in cardiac muscle cells.
+
+It is well-known that PTEN negatively regulates Akt signaling (Maehama and Dixon, 1999; Panigrahi et al., 2004). In this study, we observed that Mad upregulated PTEN activity and inhibited Akt, as Mad reduced the phosphorylation levels of PTEN and Akt in H9c2, HL-1 cells, primary cardiomyocytes and mice cardiac muscle (Figure 4a and b). Recent studies have suggested that PTEN also negatively regulates Erk1/2 pathway in several malignancies (Chetram and Hinton, 2012). Additionally, Akt is able to activate Erk1/2 through PKC (Chetram and Hinton, 2012). Putting all data together, we postulated that there may exist a cross-talk between PTEN, Akt and Erk1/2 pathways in cardiac muscle cells in response to Mad, i.e. Mad upregulation of PTEN and concurrent inhibition of Akt may cause inactivation of Erk1/2. Here, for the first time, we present evidence that Mad induced cardiac apoptosis indeed by upregulation of PTEN and inactivation of Akt, resulting in inhibition of Erk1/2 pathway. This is strongly supported by the findings that ectopic expression of dominant negative PTEN (PTEN-C/S) and/or myr-Akt, or myr-Akt and/or constitutively active MKK1 (MKK1-R4F) dramatically rescued the cells from Mad-induced
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al.
+
+Author Manuscript
+
+Abbreviations
+
+|Akt|protein kinase B (PKB)|
+|---|---|
+|BrdU|5-Bromo-2-deoxyUridine|
+|BSA|bovine serum albumin|
+|CM-H2DCFDA|5-(and-6)-chloromethyl-2’, 7’-dichlorodihydrofluorescein diacetate|
+
+dephosphorylated-Erk1/2 and cell death in H9c2 cells (Figure 4c–h). Our data underscore that Mad induces activation of PTEN and inactivation of Akt, also contributing to Erk1/2 inhibition, and eventually apoptosis in cardiac muscle cells.
+
+A new question that arises from this work is how Mad activates PTEN signaling, and thus inhibits Akt-Erk1/2 pathway, leading to apoptosis in cardiac muscle cells. Many studies have shown that ROS can alter the structures and functions of cellular proteins, and also activate or inhibit related signaling pathways, leading to cardiomyocyte apoptosis (Lv et al., 2014; Matsuno et al., 2012; Tian et al., 2012; Yao et al., 2016). It has been reported that the polyether ionophore such as salinomycin induces intracellular ROS overproduction (Verdoodt et al., 2012; Zhou et al., 2013). Excessive ROS-induced cardiomyocyte apoptosis links to dysfunction of PTEN, Akt and/or Erk1/2 signaling (Kim et al., 2014; Lv et al., 2014; Matsuno et al., 2012; Tian et al., 2012; Yao et al., 2016; Yao et al., 2012). During our research, we also observed that when H9c2, HL-1 cells and primary cardiomyocytes were exposed to Mad (0.05–1 μM) for 24 h, or mice were intragastrically administered with Mad (3.5 mg/kg) for 7 days, cellular ROS level was significantly elevated compared to the vehicle-treated cells or murine cardiac muscles (Figure 5a and b). Pretreatment with NAC not only scavenged Mad-induced cellular ROS but also reversed Mad-elicited activation of PTEN and inactivation of Akt-Erk1/2, as well as apoptosis in the cells (Figure 5c–f). Taken together, we conclude that Mad acts by the mechanism that activates PTEN and inactivates Akt, and consequently inhibits Erk1/2 pathway leading to cardiac apoptosis through induction of ROS generation. Mad may be involved in interactions of diverse signals and expression of genes associated with cardiotoxicity. Undoubtedly, more studies are needed to address this issue.
+
+Author Manuscript
+
+In summary, here we have demonstrated that Mad induction of ROS inhibits Erk1/2 leading to apoptosis through upregulation of PTEN and inactivation of Akt in cardiac muscle cells (Figure 6). The results indicate that Mad induces cardiac apoptosis, at least in part, through targeting ROS-dependent PTEN-Akt-Erk1/2 signaling network. Our findings suggest that manipulation of ROS-PTEN-Akt-Erk1/2 pathway may be a potential approach for the prevention of Mad-induced cardiotoxicity.
+
+# Acknowledgments
+
+This work was supported by the grants from National Natural Science Fundation of China (No. 30971486, 81271416; L.C.), National Institutes of Health (CA115414; S.H.), Project for the Priority Academic Program Development of Jiangsu Higher Education Institutions of China (PAPD-14KJB180010; L.C.), and American Cancer Society (RSG-08-135-01-CNE; S.H.).
+# Chen et al.
+
+|DAPI|4’, 6-diamidino-2-phenylindole|
+|---|---|
+|D-Hank’s|Hank’s balanced salt solution without Ca2+ and Mg2+|
+|DMEM|Dulbecco’s Modified Eagle’s Medium|
+|Erk1/2|extracellular signal-regulated kinase ½|
+|F12|Ham’s F12 nutrient medium|
+|FBS|fetal bovine serum|
+|GFP|green fluorescence protein|
+|Mad|maduramicin|
+|MAPK|mitogen-activated protein kinase|
+|MKK|mitogen-activated protein kinase kinase|
+|NAC|N-acetyl-L-cysteine|
+|PARP|poly (ADP-ribose) polymerase|
+|PBS|phosphate buffered saline|
+|PKC|protein kinase C|
+|PTEN|phosphatase and tensin homologue on chromosome 10|
+|ROS|reactive oxygen species|
+|TUNEL|the terminal deoxynucleotidyl transferase (TdT)-mediated deoxyuridine triphosphate (dUTP) nick-end labeling|
+
+# References
+
+Bastianello SS, Fourie N, Prozesky L, Nel PW, Kellermann TS. 1995 Cardiomyopathy of ruminants induced by the litter of poultry fed on rations containing the ionophore antibiotic, maduramicin. II. Macropathology and histopathology. Onderstepoort J Vet Res 62(1):5–18. [PubMed: 8539035]Bermudez Brito M, Goulielmaki E, Papakonstanti EA. 2015 Focus on PTEN Regulation. Front Oncol 5:166. [PubMed: 26284192]Chen L, Liu L, Luo Y, Huang S. 2008 MAPK and mTOR pathways are involved in cadmium-induced neuronal apoptosis. J Neurochem 105(1):251–261. [PubMed: 18021293]Chen S, Ren Q, Zhang J, Ye Y, Zhang Z, Xu Y, Guo M, Ji H, Xu C, Gu C, Gao W, Huang S, Chen L. 2014a N-acetyl-L-cysteine protects against cadmium-induced neuronal apoptosis by inhibiting ROS-dependent activation of Akt/mTOR pathway in mouse brain. Neuropathol Appl Neurobiol 40(6):759–777. [PubMed: 24299490]Chen X, Gu Y, Singh K, Shang C, Barzegar M, Jiang S, Huang S. 2014b Maduramicin inhibits proliferation and induces apoptosis in myoblast cells. PLoS One 9(12):e115652. [PubMed: 25531367]Chetram MA, Hinton CV. 2012 PTEN regulation of ERK1/2 signaling in cancer. J Recept Signal Transduct Res 32(4):190–195. [PubMed: 22737980]Dorne JL, Fernandez-Cruz ML, Bertelsen U, Renshaw DW, Peltonen K, Anadon A, Feil A, Sanders P, Wester P, Fink-Gremmels J. 2013 Risk assessment of coccidostatics during feed cross-J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al.
+
+Author Manuscript
+contamination: animal and human health aspects. Toxicol Appl Pharmacol 270(3):196–208. [PubMed: 21215766]
+
+# Findley CM, Cudmore MJ, Ahmed A, Kontos CD
+
+2007 VEGF induces Tie2 shedding via a phosphoinositide 3-kinase/Akt dependent pathway to modulate Tie2 signaling. Arterioscler Thromb Vasc Biol 27(12):2619–2626. [PubMed: 17901375]
+
+# Fourie N, Bastianello SS, Prozesky L, Nel PW, Kellerman TS
+
+1991 Cardiomyopathy of ruminants induced by the litter of poultry fed on rations containing the ionophore antibiotic, maduramicin. I. Epidemiology, clinical signs and clinical pathology. Onderstepoort J Vet Res 58(4):291–296. [PubMed: 1780131]
+
+# Fujio Y, Walsh K
+
+1999 Akt mediates cytoprotection of endothelial cells by vascular endothelial growth factor in an anchorage-dependent manner. The Journal of biological chemistry 274(23): 16349–16354. [PubMed: 10347193]
+
+# Hao B, Cheng S, Clancy CJ, Nguyen MH
+
+2013 Caspofungin kills Candida albicans by causing both cellular apoptosis and necrosis. Antimicrob Agents Chemother 57(1):326–332. [PubMed: 23114781]
+
+# Jayashree M, Singhi S
+
+2011 Changing trends and predictors of outcome in patients with acute poisoning admitted to the intensive care. J Trop Pediatr 57(5):340–346. [PubMed: 20978013]
+
+# Kim DE, Kim B, Shin HS, Kwon HJ, Park ES
+
+2014 The protective effect of hispidin against hydrogen peroxide-induced apoptosis in H9c2 cardiomyoblast cells through Akt/GSK-3beta and ERK1/2 signaling pathway. Exp Cell Res 327(2):264–275. [PubMed: 25128810]
+
+# Kyriakis JM, Avruch J
+
+2012 Mammalian MAPK signal transduction pathways activated by stress and inflammation: a 10-year update. Physiol Rev 92(2):689–737. [PubMed: 22535895]
+
+# Liu J, Mao W, Ding B, Liang CS
+
+2008 ERKs/p53 signal transduction pathway is involved in doxorubicin-induced apoptosis in H9c2 cells and cardiomyocytes. Am J Physiol Heart Circ Physiol 295(5):H1956–1965. [PubMed: 18775851]
+
+# Lv G, Shao S, Dong H, Bian X, Yang X, Dong S
+
+2014 MicroRNA-214 protects cardiac myocytes against H2O2-induced injury. J Cell Biochem 115(1):93–101. [PubMed: 23904244]
+
+# Maehama T, Dixon JE
+
+1999 PTEN: a tumour suppressor that functions as a phospholipid phosphatase. Trends Cell Biol 9(4):125–128. [PubMed: 10203785]
+
+# Matsuno K, Iwata K, Matsumoto M, Katsuyama M, Cui W, Murata A, Nakamura H, Ibi M, Ikami K, Zhang J, Matoba S, Jin D, Takai S, Matsubara H, Matsuda N, Yabe-Nishimura C
+
+2012 NOX1/NADPH oxidase is involved in endotoxin-induced cardiomyocyte apoptosis. Free Radic Biol Med 53(9):1718–1728. [PubMed: 22982050]
+
+# Panigrahi AR, Pinder SE, Chan SY, Paish EC, Robertson JF, Ellis IO
+
+2004 The role of PTEN and its signalling pathways, including AKT, in breast cancer; an assessment of relationships with other prognostic factors and with outcome. J Pathol 204(1):93–100. [PubMed: 15307142]
+
+# Park WH, Kim ES, Kim BK, Lee YY
+
+2003 Monensin-mediated growth inhibition in NCI-H929 myeloma cells via cell cycle arrest and apoptosis. Int J Oncol 23(1):197–204. [PubMed: 12792794]
+
+# Sanford SE, McNaughton C
+
+1991 Ontario. Inonophore (maduramicin) toxicity in pigs. The Canadian veterinary journal = La revue veterinaire canadienne 32(9):567.
+
+# Sharma N, Bhalla A, Varma S, Jain S, Singh S
+
+2005 Toxicity of maduramicin. Emergency medicine journal : EMJ 22(12):880–882. [PubMed: 16299200]
+
+# Shimshoni JA, Britzi M, Pozzi PS, Edery N, Berkowitz A, Bouznach A, Cuneah O, Soback S, Bellaiche M, Younis A, Blech E, Oren P, Galon N, Shlosberg A, Perl S
+
+2014 Acute maduramicin toxicosis in pregnant gilts. Food Chem Toxicol 68:283–289. [PubMed: 24705019]
+
+# Shlosberg A, Harmelin A, Perl S, Pano G, Davidson M, Orgad U, Kali U, Bor A, Van Ham M, Hoida G
+
+1992 Cardiomyopathy in cattle induced by residues of the coccidiostat maduramicin in poultry litter given as a feedstuff. Vet Res Commun 16(1):45–58. [PubMed: 1598754]
+
+# Shlosberg A, Perl S, Harmelin A, Hanji V, Bellaiche M, Bogin E, Cohen R, Markusfeld-Nir O, Shpigel N, Eisenberg Z, Furman M, Brosh A, Holzer Z, Aharoni Y
+
+1997 Acute maduramicin toxicity in calves. The Veterinary record 140(25):643–646. [PubMed: 9226847]
+
+# Singh T, Gupta RP
+
+2003 Clinico-haematological and mineral studies on experimental maduramicin toxicity in chickens. Veterinary parasitology 116(4):345–353. [PubMed: 14580805]
+# Chen et al.
+
+Author ManuscriptSun XL, Yuan JF, Jin T, Cheng XQ, Wang Q, Guo J, Zhang W, Zhang Y, Lu L, Zhang Z. 2017 Physical and functional interaction of Snapin with Cav1.3 calcium channel impacts channel protein trafficking in atrial myocytes. Cell Signal 30:118–129. [PubMed: 27915047]Tian Y, Daoud A, Shang J. 2012 Effects of bpV(pic) and bpV(phen) on H9c2 cardiomyoblasts during both hypoxia/reoxygenation and H2O2-induced injuries. Mol Med Rep 5(3):852–858. [PubMed: 22200881]Ulm S, Liu W, Zi M, Tsui H, Chowdhury SK, Endo S, Satoh Y, Prehar S, Wang R, Cartwright EJ, Wang X. 2014 Targeted deletion of ERK2 in cardiomyocytes attenuates hypertrophic response but provokes pathological stress induced cardiac dysfunction. J Mol Cell Cardiol 72:104–116. [PubMed: 24631771]Verdoodt B, Vogt M, Schmitz I, Liffers ST, Tannapfel A, Mirmohammadsadegh A. 2012 Salinomycin induces autophagy in colon and breast cancer cells with concomitant generation of reactive oxygen species. PLoS One 7(9):e44132. [PubMed: 23028492]Xia P, Liu Y, Cheng Z. 2016 Signaling Pathways in Cardiac Myocyte Apoptosis. Biomed Res Int 2016:9583268. [PubMed: 28101515]Xu C, Zhang H, Liu C, Zhu Y, Wang X, Gao W, Huang S, Chen L. 2015 Rapamycin inhibits Erk1/2-mediated neuronal apoptosis caused by cadmium. Oncotarget 6(25):21452–21467. [PubMed: 26046303]Xu Y, Liu C, Chen S, Ye Y, Guo M, Ren Q, Liu L, Zhang H, Xu C, Zhou Q, Huang S, Chen L. 2014 Activation of AMPK and inactivation of Akt result in suppression of mTOR-mediated S6K1 and 4E-BP1 pathways leading to neuronal cell death in in vitro models of Parkinson’s disease. Cell Signal 26(8):1680–1689. [PubMed: 24726895]Yao H, Shang Z, Wang P, Li S, Zhang Q, Tian H, Ren D, Han X. 2016 Protection of Luteolin-7-O-Glucoside Against Doxorubicin-Induced Injury Through PTEN/Akt and ERK Pathway in H9c2 Cells. Cardiovasc Toxicol 16(2):101–110. [PubMed: 25724325]Yao Y, Li R, Ma Y, Wang X, Li C, Zhang X, Ma R, Ding Z, Liu L. 2012 alpha-Lipoic acid increases tolerance of cardiomyoblasts to glucose/glucose oxidase-induced injury via ROS-dependent ERK1/2 activation. Biochim Biophys Acta 1823(4):920–929. [PubMed: 22366396]Zhang D, Zhu L, Li C, Mu J, Fu Y, Zhu Q, Zhou Z, Liu P, Han C. 2015 Sialyltransferase7A, a Klf4-responsive gene, promotes cardiomyocyte apoptosis during myocardial infarction. Basic Res Cardiol 110(3):28. [PubMed: 25860962]Zhang R, Zhang N, Zhang H, Liu C, Dong X, Wang X, Zhu Y, Xu C, Liu L, Yang S, Huang S, Chen L. 2017 Celastrol prevents cadmium-induced neuronal cell death by blocking reactive oxygen species-mediated mammalian target of rapamycin pathway. British journal of pharmacology 174(1):82–100. [PubMed: 27764525]Zhang W, St Clair D, Butterfield A, Vore M. 2016 Loss of Mrp1 Potentiates Doxorubicin-Induced Cytotoxicity in Neonatal Mouse Cardiomyocytes and Cardiac Fibroblasts. Toxicol Sci 151(1):44–56. [PubMed: 26822305]Zhou J, Li P, Xue X, He S, Kuang Y, Zhao H, Chen S, Zhi Q, Guo X. 2013 Salinomycin induces apoptosis in cisplatin-resistant colorectal cancer cells by accumulation of reactive oxygen species. Toxicol Lett 222(2):139–145. [PubMed: 23916687]
+Chen et al.
+
+(a)
+
+|H9c2 cells|HL-1 cells|
+|---|---|
+|1|1.25|
+|Primary cardiomyocytes|0.05|
+|1.00|0.2|
+|220.75| |
+|Mad pM 0.00|0.05|
+| |1|
+
+(b)
+
+Mad (HM) for 48 hJV39Mad pM 0.051
+(c)
+
+O H9c2 cellsHL-1 cellsPrimary cardiomyocytes30Mad pM 0.05H9-2 cellsHL-1 cellsPrimary cardiomyocytes3312Mad pM 0.05H9-2 cellsPrimary cardiomyocytesHL-1 cells3810018126Mad AM 0.05Cardiac muscleCardiac muscle1008300.050.5Mad (pM) for 48hMad mglkgMad mglkg for din mice
+FIGURE 1.
+
+Mad evokes apoptotic cell death in cardiac muscle cells and tissues. H9c2, HL-1 cells and primary cardiomyocytes were treated with Mad (0–1 μM) for 48 h. The mice were intragastrically administered with Mad (3.5 mg/kg) for 7 days. (a) Cell viability was determined by the MTS assay. (b) The percentages of live (Q4), early apoptotic (Q3), late apoptotic (Q2), and necrotic cells (Q1) were determined by FACS using annexin-V-FITC/PI staining. The results from a representative experiment are shown. (c) Quantitative analysis of apoptotic cells by FACS assay. (d-h) Cell apoptosis was assayed using DAPI and/or TUNEL staining. The cells with nuclear fragmentation and condensation (arrows) and TUNEL-positive cells (in green) with DNA brand breaks were shown (d, g), respectively, and the quantitative data were indicated (e, f, h). Scale bar: 20 μm. For (a), (c), (e), (f), and (h), all data were expressed as mean ± SE (n = 6). **P<0.01, difference with the control group.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+| |H9c2 cells|HL-1 cells|Primary cardiomyocytes|
+|---|---|---|---|
+|p-Erk1/2| | | |
+|Cleaved-caspase-3| | | |
+|Cleaved-PARP| | | |
+|(b) GAPDH|Mad uM 0.05 0.1 0.2 0.5|0.05 0.1 0.2 0.5|0.05 0.1 0.2 0.5 1 100|
+
+| |H9c2 cells|HL-1 cells|Primary cardiomyocytes|
+|---|---|---|---|
+|Mad (uM) for 24 h| | | |
+|Mad mglkg for 7 d in mice| | | |
+|Mad uM|0.05 0.2| | |
+|Mad mglkg|3.5| | |
+
+FIGURE 2. Mad induces inactivation of Erk1/2 and activation of caspases in cardiac muscle cells and tissues. H9c2, HL-1 cells and primary cardiomyocytes were treated with Mad (0–1 μM) for 24 h. The mice were intragastrically administered with Mad (3.5 mg/kg) for 7 days. (a, e) Total cell lysates and homogenized cardiac muscle supernatants were subjected to Western blotting using indicated antibodies. (b, c, f, g) Expression of phospho-Erk1/2 (Thr202/Tyr204) was imaged and quantified using immunofluorescence staining, showing that Mad reduced phospho-Erk1/2 expression (in green) in the cells dose-dependently (b, c), and similar findings were seen in cardiac muscles (f, g). Scale bar: 50 μm. (d) Caspase-3/7 activity was determined using Caspase-3/7 Assay Kit, showing that Mad activated caspase-3/7 in the cells. For (a) and (e), the blots were probed for GAPDH as a loading control. Similar results were observed in at least three independent experiments. For (c), (d) and (g), all data were expressed as mean ± SE (n = 6). **P < 0.01, difference with the control group.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# FIGURE 3
+
+Down-regulation of Erk1/2 or ectopic expression of MKK1-R4F or MKK1-K97M intervenes in Mad-induced apoptosis in cardiac muscle cells. H9c2 cells, infected with lentiviral shRNA to Erk1/2 or GFP (as control), or with Ad-MKK1-R4F, Ad-MKK1-K97M or Ad-GFP (as control), respectively, were exposed to Mad (0.5 and 1 μM) for 24 h (for Western blotting) or 48 h (for cell viability assay and cell apoptosis analysis).
+
+|(a) shRNA GFP Erk1/2|Erkin z|GAPDH|H9c2 cells| |
+|---|---|---|---|---|
+|(b) shRNA GFP Erk1/2| | | | |
+|(c) H9cZIGFP shRNA|1.25|H9cZIErk1/2 shRNA|1.00| |
+|(d) H9c2IGFP shRNA| |H9cZ/Erk1/2 shRNA| | |
+|(e) Ad-GFPAd-MKKI-R4FAd-MKKI-K97m|MKK1|FLAG|p-Erk1/2|GAPDH|
+|(f)| | | | |
+|(g) H9cZJAd-GFP|60|H9cZIAd-MKKI-RAF|3| |
+
+For (a), (b) and (e), the blots were probed for GAPDH as a loading control. Similar results were observed in at least three independent experiments. For (c), (d), (f), and (g), all data were expressed as means ± SE (n = 6). aP < 0.05, difference with control group; bP < 0.05, Erk1/2 shRNA group versus GFP shRNA group; cP < 0.05, Ad-MKK1-R4F group or Ad-MKK1-K97M group versus Ad-GFP group.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al. - Page 18
+
+Author Manuscript
+
+| |H9c? cells|HL-1 cells|Primary cardiomyocytes|(b) Cardiac muscle|
+|---|---|---|---|---|
+|p-PTEN|PTEN|p-PTEN| | |
+|P-Akt (Ser473)|P-Akt (Thr308)|GAPDH|Mad pM|0.05 0.10.2 0.5 0.05 0.1 0.2 0.05 0.1 0.2 Mad mglkg|
+
+(c) Ad-PTEN-Cis Ad-PTEN-CiS-Ad-myr-Akt Ad GFPAd-myt-Akt + 4Ad-Mkki-R4F Ad-GFP
+
+| |P-PTEN|FLAG|
+|---|---|---|
+|PTEN|p-Akt (Ser473)|p-Akt (Thr3o8)|
+|P-Akt (Ser473)|p-Akt (Thr308)|MkKI|
+|p-Erk1/2|Erk2|Cleaved-caspase-3|
+|GAPDH|Mad UM|Mad pM|
+
+(d) HocZlad-GFP HIcZlAd-PTENCIS HocZAd-myr-Akt+Ad-MKKI-RAF HBcZIAd-PTEN-Cis+Ad-myt-Akt
+
+| |1.25|1.00|0.75|0.50|0.25|0.00| | |
+|---|---|---|---|---|---|---|---|---|
+|Mad pM| | |0.2|1.00|0.75|0.50|0.25|0.00|
+
+(e) HicZAd GFP HocZAd-GFP HicziAd-PTEN-CiS HAc?lAd PTEN C s+Ad-nyt-Akt
+
+| |H1|H8|
+|---|---|---|
+|Mad UM| |Mad pM|
+
+FIGURE 4. PTEN-Akt pathway is involved in Mad-induced Erk1/2-dependent apoptosis in cardiac muscle cells and tissues. H9c2, HL-1 cells and primary cardiomyocytes, or H9c2 cells infected with Ad-GFP (as control), Ad-PTEN-C/S, Ad-myr-Akt, and/or Ad-MKK1-R4F, were treated with Mad (0–1 μM, or 0.5 and 1 μM) for 24 h (for Western blotting) or 48 h (for cell viability assay and cell apoptosis analysis). The mice were intragastrically administered with Mad (3.5 mg/kg) for 7 days. (a, b, c, f) Total cell lysates and homogenized cardiac muscle supernatants were subjected to Western blotting using indicated antibodies. (d, g) Cell viability was detected by MTS assay. (e, h) Apoptotic cells were evaluated by nuclear fragmentation and condensation using DAPI staining. For (a), (b), (c) and (f), the blots were probed for GAPDH as a loading control. Similar results were observed in at least three independent experiments. For (d), (e), (g) and (h), all data were expressed as means ± SE (n = 6). aP < 0.05, difference with control group; bP < 0.05, Ad-PTEN-C/S and/or Ad-myr-Akt
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+Chen et al.
+
+Author Manuscript group versus Ad-GFP group; cP &lt; 0.05, Ad-myr-Akt and/or Ad-MKK1-R4F group versus Ad-GFP group.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+# Chen et al.
+
+Page 20
+
+| |H9c2 cells|HL-1 cells|Primary cardiomyocytes|
+|---|---|---|---|
+|Mad AM|0.05| | |
+|Mad mglkg| | | |
+|NAC mM|0.5|0.5|0.5|
+|Mad UM|0.5|0.5|0.5|
+
+FIGURE 5.
+
+Mad induces apoptosis by triggering ROS-dependent activation of PTEN and inactivation Akt-Erk1/2 in cardiac muscle cells and tissues. H9c2, HL-1 cells and primary cardiomyocytes were exposed to Mad (0–1 μM) for 24 h, or pretreated with/without NAC (5 mM) for 1 h and then exposed to Mad (0.5 and 1 μM) for 24 h (for ROS detection and Western blotting) or 48 h (for cell viability assay and cell apoptosis analysis). The mice were intragastrically administered with Mad (3.5 mg/kg) for 7 days.
+
+(a-c) ROS level was detected using an oxidant-sensitive probe CM-H2DCFDA. (d) Total cell lysates were subjected to Western blotting using indicated antibodies. (e) Cell viability was detected by MTS assay. (f) Apoptotic cells were evaluated by nuclear fragmentation and condensation using DAPI staining. For (d), the blots were probed for GAPDH as a loading control. Similar results were observed in at least three independent experiments. For (a), (b), (c), (e) and (f), all data were expressed as means ± SE (n = 6). *P < 0.05, **P < 0.01, control group; bP < 0.05, difference with 0.5 μM Mad group; caP < 0.05, difference withP < 0.05, difference with 1 μM Mad group.
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.
+Chen et al.
+
+Page 21
+
+Author Manuscript
+
+Maduramicin
+
+| |ROS| |PTEN|
+|---|---|---|---|
+| |Erk1/2| |Akt|
+
+Author Manuscript
+
+Cardiac Cell survival
+
+FIGURE 6.
+
+A schematic model of how Mad inhibits Erk1/2, leading to cardiomyocyte apoptosis.
+
+Author Manuscript
+
+Mechanistically, Mad induction of ROS inhibits Erk1/2 leading to apoptosis by upregulation of PTEN and inactivation of Akt in cardiac muscle cells.
+
+Author Manuscript
+
+J Cell Physiol. Author manuscript; available in PMC 2020 July 01.

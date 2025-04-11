@@ -1,0 +1,14 @@
+Sec61betaOPG
+TRC40
+Protein A
+Sepharose
+PDI
+protein disulfide-isomerase
+Hepes
+KOH
+potassium acetate
+MgCl2
+NaCl
+Triton X-100
+SDS
+opsin

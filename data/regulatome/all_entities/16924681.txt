@@ -1,0 +1,11 @@
+N-acetylglucosaminyltransferase V
+integrin beta1
+GnT-V
+delta cGnT-V
+Integrin beta1
+wtGnT-V
+beta1
+fibronectin
+Fn
+GlcNAc
+beta1-6 GlcNAc branching

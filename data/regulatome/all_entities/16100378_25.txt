@@ -1,0 +1,15 @@
+Rex1p
+5S rRNA
+rex1
+RPL5
+ribosomal protein L5
+rex1Delta
+60S
+Rrs1p
+L11
+rrs1
+L5
+rpl11aDelta
+rpl11bDelta
+TAP
+ribosome

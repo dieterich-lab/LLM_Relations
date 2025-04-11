@@ -1,0 +1,5 @@
+DEN1
+COP9 signalosome
+CUL1
+Nedd8
+cullin 1

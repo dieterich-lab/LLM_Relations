@@ -1,0 +1,13 @@
+SCH51344
+(S)-crizotinib
+(R)-Crizotinib
+(R)-crizotinib
+(R)-
+MTH1
+ALK
+MET
+LCK
+IRAK1
+JAK3
+LOK
+SLK

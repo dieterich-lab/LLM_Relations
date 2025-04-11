@@ -1,0 +1,11 @@
+PTP-1B
+integrin alphaIIbbeta3
+c-Src
+protein-tyrosine phosphatase (PTP)-1B
+alphaIIbbeta3
+Csk
+Fibrinogen
+fibrinogen
+Ca2+
+integrin alphaIIbbeta3 signaling
+outside-in alphaIIbbeta3 signaling

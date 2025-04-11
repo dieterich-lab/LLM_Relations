@@ -1,0 +1,24 @@
+Cul1
+Cul2
+Cul3
+Cul4a
+Cul4b
+Cul5
+Roc1
+Rbx1
+ubiquitin
+Nedd8
+CAND1
+hypoxia-inducible factor-1alpha
+HIF-1alpha
+Elongin B
+C
+VHL
+COP9 signalosome
+cullin
+Cullin-based E3 ligases
+ubiquitin ligases
+ligases
+cullin-based ligases
+cullin-based E3 ligases
+ubiquitin ligase

@@ -1,0 +1,14 @@
+H3K27
+polycomb
+H2A
+histone H3
+UTX
+Jumonji C
+HOX
+polycomb repressive complex 1
+histone H2A
+mixed-lineage leukemia (MLL) 2
+3
+retinoic acid
+H3K4
+MLL2

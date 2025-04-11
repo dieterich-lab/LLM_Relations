@@ -1,0 +1,7 @@
+NLRP4
+type I interferon
+TBK1
+ubiquitin
+DTX4
+IRF3
+type I interferon signaling

@@ -1,0 +1,7 @@
+type 2A
+type 2A phosphatase
+protein phosphatase 2A
+phosphorylase kinase
+phosphorylase a
+opsin
+rhodopsin

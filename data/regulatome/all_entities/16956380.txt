@@ -1,0 +1,26 @@
+Ptc3p
+hal3
+PTC3
+ENA1
+Hog1
+PTC2
+PTC4
+PTC5
+PTC1
+ena1
+ptc1
+Hal3p
+Ptc1p
+Ena1p
+Hal3
+Ppz1
+protein phosphatases 2C
+lithium
+Protein phosphatases 2C
+Na(+)-ATPase
+MAP kinase
+MAP kinase pathway
+LiCl
+Li(+)
+2
+Hal3/Ppz1,2 pathway

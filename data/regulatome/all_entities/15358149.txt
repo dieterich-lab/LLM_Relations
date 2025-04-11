@@ -1,0 +1,9 @@
+Kv4.2
+KChIP1
+KChIP2.1
+KChIP2.2
+KChIP
+Ca(2+)
+KChIPs
+K(+) channel
+Kv channel

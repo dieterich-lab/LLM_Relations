@@ -1,0 +1,12 @@
+apoA-II
+apoA-IV
+ABCA1
+lipoproteins
+water
+oil
+lipoprotein
+high-density lipoproteins
+HDL
+apolipoproteins
+(apo)A-I
+cell surface ATP binding cassette transporter

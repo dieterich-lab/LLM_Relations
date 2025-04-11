@@ -1,0 +1,13 @@
+type II inositol polyphosphate 5-phosphatase
+5-phosphatase II
+types I
+II 5-phosphatase
+type II 5-phosphatase
+Ins(1,4,5)P3
+Ins(1,4)P2
+PtdIns(4,5)P2
+PtdIns(4)P
+inositol phosphatases
+mevalonate
+GTPase activating proteins
+phospholipid

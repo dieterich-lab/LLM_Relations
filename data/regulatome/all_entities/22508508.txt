@@ -1,0 +1,8 @@
+HERC2
+RNF8
+SUMO
+RNF168
+ubiquitin
+SUMO1
+PIAS4
+Ubc13

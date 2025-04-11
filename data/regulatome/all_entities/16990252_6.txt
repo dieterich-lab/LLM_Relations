@@ -1,0 +1,15 @@
+Fli-I
+CARM1
+NR
+gelsolin
+actin
+BAF53
+Brg1 associated factor 53
+Swi/Snf
+Fli-I LRR associating protein 1
+FLAP1
+LRR Fli-I interacting proteins 1
+2
+LRRFIP1
+TAR RNA interacting protein
+TRIP

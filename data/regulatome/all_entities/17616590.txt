@@ -1,0 +1,11 @@
+protease HhoA
+Deg
+HhoA
+beta-casein
+DegP
+casein
+DeltahhoA
+Mg(2+)
+Ca(2+)
+ATP
+resorufin

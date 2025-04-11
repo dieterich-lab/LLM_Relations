@@ -1,0 +1,15 @@
+smg GDS
+rho p21
+rhoA p21
+C3
+EDIN
+GTP
+ADP
+GDP
+rho GDI
+ras p21-related small GTP-binding proteins
+G proteins
+small GTP-binding protein
+GDP/GTP exchange proteins
+G protein
+ADP-ribosyltransferases

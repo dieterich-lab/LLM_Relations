@@ -1,0 +1,6 @@
+PP2A
+protein phosphatase 2A
+B56
+ERK
+IEX-1
+pERK

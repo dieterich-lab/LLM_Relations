@@ -1,0 +1,14 @@
+peroxisome proliferator-activated receptor gamma
+lipopolysaccharide
+NCoR
+kappaB
+PPARgamma
+LPS
+NF-kappaB
+TNF-alpha
+IL-6
+small ubiquitin-like modifier
+SUMO
+PIAS1
+protein inhibitor of activated STAT1
+nuclear receptor corepressor

@@ -1,0 +1,8 @@
+ITCH
+LAPTM5
+lysosomal-associated protein multispanning transmembrane 5
+E3 ubiquitin ligase
+HECT-type ubiquitin ligase
+ubiquitin ligase
+HECT-type ligase
+ubiquitin

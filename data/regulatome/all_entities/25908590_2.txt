@@ -1,0 +1,6 @@
+Receptor protein tyrosine phosphatase delta
+PTPdelta
+interleukin-1 receptor accessory protein
+IL-1RAcP
+IL-1RAcP-like-1
+IL1RAPL1

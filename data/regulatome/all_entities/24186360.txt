@@ -1,0 +1,13 @@
+insulin
+Insulin
+insulin receptor
+GLUT4
+Hsc70-interacting protein
+CHIP
+heat-shock protein 70
+neuronal nitric oxide synthase
+nNOS
+ubiquitin
+glucose
+ubiquitin proteasome pathway
+proteasome

@@ -1,0 +1,18 @@
+Protein tyrosine phosphatase 1B
+growth hormone
+JAK2
+STAT
+Protein tyrosine phosphatase-1B
+PTP-1B
+insulin
+PDGF
+EGF
+IGF-I
+GH
+STAT3
+STAT5
+JAK2-STAT signaling
+insulin, PDGF, EGF, and IGF-I signaling
+corresponding receptors
+growth hormone (GH) signal
+GH signaling

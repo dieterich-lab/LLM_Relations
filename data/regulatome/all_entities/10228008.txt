@@ -1,0 +1,21 @@
+CD40 ligand
+IL-4
+STAT-6
+I gamma 3
+C gamma 3
+I gamma 1
+I gamma 2
+I gamma 4
+CD40
+CD40L
+p50
+p65
+c-Rel
+Ig heavy chain S gamma 3
+NF-kappa B
+NF-kappa B/Rel
+The evolutionarily conserved sequence
+luciferase
+IgM
+IgD
+IgG

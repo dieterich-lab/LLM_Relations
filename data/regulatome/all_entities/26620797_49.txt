@@ -1,0 +1,11 @@
+VRAC
+LRRC8A
+d-[3H]aspartate
+[14C]taurine
+l-glutamate
+taurine
+LRRC8
+LRRC8B
+LRRC8C
+LRRC8D
+LRRC8E

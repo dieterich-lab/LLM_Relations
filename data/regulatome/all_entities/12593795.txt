@@ -1,0 +1,9 @@
+Sprouty
+EGF
+c-Cbl
+ubiquitin
+Sprouty2
+receptor for the epidermal growth factor
+EGFR
+Cbl
+EGF signaling

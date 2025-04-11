@@ -1,0 +1,7 @@
+MUL1 E3 ubiquitin ligase
+Hypoxia Inducible Factor
+HIF-1alpha
+UBXN7
+MUL1
+ubiquitin
+CRL2(VHL)

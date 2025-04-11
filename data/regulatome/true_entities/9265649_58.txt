@@ -1,0 +1,10 @@
+tubulin
+C
+D
+cofactor E
+FEalpha
+cofactor D
+E
+FDbeta
+alpha-tubulin
+beta-tubulin

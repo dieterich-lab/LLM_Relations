@@ -1,0 +1,8 @@
+H3K9me2
+H3K27me3
+miR-10a
+histone
+hoxd4
+bisulphite
+bisulfite
+2'-O-methyl-

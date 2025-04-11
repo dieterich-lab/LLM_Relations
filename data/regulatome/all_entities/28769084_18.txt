@@ -1,0 +1,8 @@
+FGF1
+FGFR1
+clathrin
+dynamin
+scFvD2
+Pitstop2
+Dynasore
+dynamin/clathrin dependent pathways

@@ -1,0 +1,6 @@
+beta-catenin
+Trabid
+TCF
+TCF/LEF
+ubiquitin
+APC

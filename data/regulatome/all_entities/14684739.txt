@@ -1,0 +1,9 @@
+NEDL1
+ubiquitin
+dishevelled-1
+superoxide dismutase-1
+SOD1
+neuronal homologous to E6AP carboxyl terminus (HECT)-type ubiquitin-protein isopeptide ligase
+translocon-associated protein-delta
+Dishevelled-1
+Wnt

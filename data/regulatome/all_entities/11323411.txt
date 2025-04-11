@@ -1,0 +1,14 @@
+Gab1
+SHP2
+Grb2-associated binder-1
+epidermal growth factor
+EGF
+protein-tyrosine phosphatase
+extracellular signal-regulated kinase
+ERK
+mitogen-activated protein (MAP) kinase
+ERK2
+SHP2DeltaN
+Gab1FF
+mitogen-activated protein kinase
+PTPase

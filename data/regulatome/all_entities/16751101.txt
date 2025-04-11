@@ -1,0 +1,11 @@
+PPM1A
+Smad
+TGFbeta
+Smads
+TGFbeta type I receptor
+PP2Calpha
+Smad2
+3
+Nodal
+TGFbeta signaling
+antiproliferative and transcriptional responses

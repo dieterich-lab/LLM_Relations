@@ -1,0 +1,9 @@
+APC
+cyclin B
+Cdc2
+human Cdc14a
+hCdc14a
+securin
+cyclins
+human Cdh1
+hCdh1

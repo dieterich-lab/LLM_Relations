@@ -1,0 +1,8 @@
+BACE1
+beta-site amyloid precursor protein-cleaving enzyme 1
+amyloid beta
+PCSK9
+NARC-1
+ATase1
+ATase2
+ceramide

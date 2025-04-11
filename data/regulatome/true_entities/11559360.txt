@@ -1,0 +1,4 @@
+lipoate protein ligase
+dihydrolipoyl dehydrogenase
+P64K
+dihydrolipoyl acyltransferase

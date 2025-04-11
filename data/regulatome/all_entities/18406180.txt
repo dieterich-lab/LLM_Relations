@@ -1,0 +1,5 @@
+CCAAT enhancer binding protein alpha
+C/EBP alpha
+small ubiquitin-related modifier
+SUMO
+SWI/SNF

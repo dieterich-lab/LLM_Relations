@@ -1,0 +1,21 @@
+ROS1
+RD29A
+IDM1
+SUC2
+idm2
+sucrose transporter 2
+idm1
+At1g26400
+At1g54840
+IDM2
+LUC
+HPTII
+NPTII
+H3K4me2
+35S
+sucrose
+Bisulfite
+H3K9me2
+glycine
+GAG
+35

@@ -1,0 +1,6 @@
+TAZ
+YAP
+TEAD1
+Amot
+AmotL1
+4

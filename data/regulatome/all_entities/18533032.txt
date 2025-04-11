@@ -1,0 +1,19 @@
+GATA3
+estrogen receptor alpha
+ERalpha
+TFF1
+TFF3
+FOXA1
+ERBB4
+XBP1
+NRIP1
+IL6ST
+keratin 18
+KRT18
+cyclin D1
+CCND1
+BCL2
+pS2
+estrogen receptor alpha pathway
+estrogen receptor alpha (ERalpha) pathway
+ERalpha pathway

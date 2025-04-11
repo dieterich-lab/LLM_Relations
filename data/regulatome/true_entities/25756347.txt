@@ -1,0 +1,5 @@
+ubiquitin
+diubiquitin
+Rad18
+polyubiquitin
+monoubiquitin

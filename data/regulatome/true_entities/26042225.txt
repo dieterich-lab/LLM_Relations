@@ -1,0 +1,5 @@
+auxilin
+clathrin
+calcineurin
+Hsc70
+Hsp110

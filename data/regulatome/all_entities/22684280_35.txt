@@ -1,0 +1,6 @@
+Heterochromatin protein 1
+CBX3
+SNRNP70
+SRSF1
+IL1A
+spliceosome

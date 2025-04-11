@@ -1,0 +1,15 @@
+E-cadherin
+CDH1
+vimentin
+VIM
+MMP-2
+MMP2
+Snail2
+SNAI2
+Twist1
+TWIST1
+Notch4
+Notch
+CSL
+RBPJ
+N4ICD

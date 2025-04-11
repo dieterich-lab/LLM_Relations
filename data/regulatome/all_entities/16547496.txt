@@ -1,0 +1,9 @@
+ubiquitin
+cullin 7
+p53
+Cullins
+ROC1
+CUL7
+large T antigen
+PARC
+MDM2

@@ -1,0 +1,7 @@
+RelA
+p50
+I kappa B alpha
+NF-kappa B1
+NF-kappa B2
+p100
+p65

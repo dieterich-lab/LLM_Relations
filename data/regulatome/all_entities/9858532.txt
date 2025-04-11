@@ -1,0 +1,12 @@
+hnRNP H
+c-src
+hnRNP F
+KSRP
+src
+an unidentified protein of 58 kDa
+p58
+hnRNPs H
+F
+ammonium sulfate
+spliceosome
+Q

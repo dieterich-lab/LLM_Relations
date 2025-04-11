@@ -1,0 +1,1 @@
+Secondly, we determined the molar binding ratio of GFP-Ligase III to RFP-Xrcc1. Xrcc1 binds in a molar ratio of 0.61+/-0.14 to Ligase III but did not bind to other proteins such as GFP-PBD, GFP-Dnmt1DeltaPBD or GFP. Previous studies demonstrated that DNA Ligase III was recruited to DNA repair sites via its BRCT domain mediated interaction with Xrcc1.

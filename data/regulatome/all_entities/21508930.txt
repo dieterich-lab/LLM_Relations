@@ -1,0 +1,8 @@
+CBP
+histone
+CREB-binding protein
+histones H2B
+H3
+H4
+p300
+CREB

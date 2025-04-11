@@ -1,0 +1,12 @@
+Sit4p
+PP6
+COPII
+GTPase
+Sar1p
+Sec23p
+Sec24p
+Sec13p
+Sec31p
+Hrr25p
+sit4Delta
+PP2A-like phosphatase

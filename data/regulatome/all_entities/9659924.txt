@@ -1,0 +1,9 @@
+p300
+IFN beta
+IRF1
+c-Jun
+CBP
+NF-kappa B
+ATF2
+HMG I(Y)
+p65

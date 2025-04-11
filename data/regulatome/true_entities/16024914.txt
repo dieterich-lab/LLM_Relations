@@ -1,0 +1,4 @@
+HDL
+TTP
+tocopherol
+ABC-type transporter

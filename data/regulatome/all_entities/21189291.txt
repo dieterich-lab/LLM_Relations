@@ -1,0 +1,7 @@
+mis4
+histone H3
+Rad21
+cohesin
+Swi6
+H3K4me
+H3K9me

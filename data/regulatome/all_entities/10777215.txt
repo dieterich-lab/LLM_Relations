@@ -1,0 +1,12 @@
+ATFa
+CREB/ATF
+Jun
+Fos
+JNK2
+mouse ATFa-associated Modulator
+adenovirus E1a
+mAM
+TFIIE
+TFIIH
+RNAPII
+ATPase

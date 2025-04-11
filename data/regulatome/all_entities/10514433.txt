@@ -1,0 +1,10 @@
+IkappaBalpha
+FWD1
+Skp1
+ubiquitin
+SCF
+Cul1
+F-box
+Slimb
+beta-TrCP
+SCF ubiquitin ligase

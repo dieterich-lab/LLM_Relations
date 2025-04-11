@@ -1,0 +1,32 @@
+polyubiquitin
+VCP
+SAPKs
+ubiquitin
+stress-activated protein kinases
+SAKS1
+SAPK substrate-1
+SAPK3
+p38gamma
+SAPK4
+p38delta
+JNK
+c-Jun N-terminal kinase
+SAPK2a
+p38alpha
+SAPK2b
+p38beta2
+ERK (extracellular-signal-regulated kinase) 2
+SB 203580
+PD 184352
+ERK1
+ERK2
+JNK1
+JNK2
+valosin-containing protein
+GST
+glutathione S-transferase
+S5a
+19 S proteasomal
+PNGase
+peptide N-glycanase
+proteasome

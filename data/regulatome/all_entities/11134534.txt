@@ -1,0 +1,6 @@
+PKN
+Cdc25C
+Rho small GTPase
+Cdc2
+cyclin B
+histone H1

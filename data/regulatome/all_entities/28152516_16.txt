@@ -1,0 +1,10 @@
+TNFAIP8
+YAP
+TEAD luciferase
+TEAD
+cycloheximide
+CHX
+Hippo signaling pathway
+Hippo
+Hippo signaling
+luciferase
