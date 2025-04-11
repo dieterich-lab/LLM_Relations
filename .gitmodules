@@ -1,0 +1,3 @@
+[submodule "subrepo"]
+	path = llm_extractions
+	url = /home/pwiesenbach/LINDA_LLM/scripts/
