@@ -84,9 +84,7 @@ We used the RegulaTome dataset for high throughput evaluation and cureated 5 car
 
 The regulatome corpus can be found [here](https://zenodo.org/records/10808330) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) licencse.
 
-The five curated papers are the following:
-
-@Enio: citations here
+The five curated papers are provided as .pdf files in the [/src directory](https://github.com/dieterich-lab/LLM_Relations/tree/main/src/curated_manuscripts).
 
 We processed the corpus and the annotated papers to have easy access to the input texts and their according ground truths. They are automatically used by the scripts when choosing the option `--data [regulatome | 5curated]` and can be found here:
 
