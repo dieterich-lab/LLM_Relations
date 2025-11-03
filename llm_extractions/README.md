@@ -4,13 +4,15 @@ Production-ready scripts for extracting molecular interaction triples with large
 
 ## Quick Start
 
+Requires Python 3.11 and [Poetry](https://python-poetry.org/docs/) 1.7+. Install Poetry first if it is not already available:
+
 ```bash
+command -v poetry >/dev/null || pipx install poetry  # or follow Poetry's official installer
+
 git clone https://github.com/dieterich-lab/LLM_Relations.git
 cd LLM_Relations/llm_extractions
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-baml-cli generate
+poetry install
+poetry run baml-cli generate
 ```
 
 ## Configure Paths
@@ -89,8 +91,6 @@ The framework works with local Ollama deployments or external providers (Nebius,
 | --- | --- |
 | llama31 | `ollama pull llama3.1` or corresponding HF ID |
 | llama33 | `ollama pull llama3.3:70b` |
-| llama31regu | UnsLoTH LoRA adapter (`phiwi/Meta-Llama-3.1-8B-Instruct-bnb-4bit_regulatome-lora`) |
-| llama33regu | pending public release |
 
 ## Data
 
