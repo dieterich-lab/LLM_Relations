@@ -1,8 +1,0 @@
-ribosome
-eNoSC
-Nucleomethylin
-histone H3
-SIRT1
-SUV39H1
-NAD(+)
-NADH

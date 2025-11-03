@@ -1,7 +1,0 @@
-UHRF1
-ICBP90
-Np95
-DNA methyltransferase 1
-DNMT1
-E3 ligase
-SRA

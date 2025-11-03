@@ -1,7 +1,0 @@
-hDREF
-SUMO
-Mi2alpha
-DNA replication-related element-binding factor
-small ubiquitin-like modifier
-SUMO-1
-ribosomal protein genes

@@ -1,7 +1,0 @@
-APC
-Cdh1
-ubiquitin
-anaphase promoting complex
-Cdc20
-Nek2
-B99

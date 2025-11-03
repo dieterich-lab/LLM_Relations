@@ -1,4 +1,0 @@
-Src
-CDCP1
-PKCdelta
-protein Ser/Thr kinase

@@ -1,6 +1,0 @@
-microRNA-138
-APT1
-miR-138
-acyl protein thioesterase 1
-Galpha(13)
-G proteins

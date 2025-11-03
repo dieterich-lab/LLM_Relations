@@ -1,6 +1,0 @@
-T alpha
-T beta gamma
-transducin
-R*
-GDP
-rhodopsin

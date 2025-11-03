@@ -1,8 +1,0 @@
-p53
-MDM2
-indoline-3,2'-thiazolidine
-spiro[imidazo[1,5-c]thiazole-3,3'-indoline]-2',5,7(6H,7aH)-trione
-thiazolidine
-5-bromo-3'-(cyclohexane carbonyl)-1-methyl-2-oxospiro[indoline-3,2'-thiazolidine]
-4n
-nutlin

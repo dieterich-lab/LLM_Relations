@@ -1,9 +1,0 @@
-CTLA-4
-AP50
-CD28
-B7-1
-B7-2
-TCR
-AP-2
-clathrin-associated adaptor complex
-clathrin

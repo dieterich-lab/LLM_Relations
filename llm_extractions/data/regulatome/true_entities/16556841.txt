@@ -1,8 +1,0 @@
-TCT
-LCa
-peptidoglycan
-PGRP-LCa
-PGRP-LCx
-LCx
-PGRPs
-PGRP

@@ -1,5 +1,0 @@
-Hepatocyte nuclear factor-1 alpha
-HNF-1 alpha
-dimerization cofactor of HNF-1 alpha
-DCoH
-GAL4

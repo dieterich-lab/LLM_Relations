@@ -1,5 +1,0 @@
-IQGAP
-CaM
-actin
-small GTPases
-N-WASP

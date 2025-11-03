@@ -1,9 +1,0 @@
-MLKL
-mixed lineage kinase domain-like protein
-RIP3
-receptor interacting protein 3
-TRPM7
-TNF
-tumour necrosis factor
-Ca(2+)
-transient receptor potential melastatin related 7

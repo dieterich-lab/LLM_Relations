@@ -1,5 +1,0 @@
-SHP-2
-PTPase
-protein tyrosine phosphatase
-MAP kinase
-MAP kinase pathway

@@ -1,4 +1,0 @@
-p300
-beta-catenin
-Tcf4
-androgen receptor

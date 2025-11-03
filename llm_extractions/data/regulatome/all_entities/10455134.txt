@@ -1,8 +1,0 @@
-AML1
-CBFalpha2
-B cell-specific activating protein
-BSAP
-PAX5
-BLK
-B cell-specific tyrosine kinase
-blk

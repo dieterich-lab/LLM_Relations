@@ -1,6 +1,0 @@
-UBC9
-AP-2
-E2 (ubiquitin carrier protein)-conjugating enzyme
-SUMO-conjugating enzyme
-SUMO
-small ubiquitin-like modifier

@@ -1,6 +1,0 @@
-NEDL1
-neuronal homologous to E6AP carboxyl terminus (HECT)-type ubiquitin-protein isopeptide ligase
-SOD1
-translocon-associated protein-delta
-dishevelled-1
-Dishevelled-1

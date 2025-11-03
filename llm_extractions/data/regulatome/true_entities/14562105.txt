@@ -1,2 +1,0 @@
-TUG
-GLUT4

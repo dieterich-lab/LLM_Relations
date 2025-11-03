@@ -1,9 +1,0 @@
-Sae1
-SUMO-1
-SUMO E1
-E2
-E1
-Sae2
-ubiquitin
-ubiquitin-like proteins
-SUMO

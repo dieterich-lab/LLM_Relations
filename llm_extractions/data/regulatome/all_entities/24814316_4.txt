@@ -1,6 +1,0 @@
-receptor tyrosine kinase
-RTK
-MET
-hepatocyte growth factor
-HGF
-p53

@@ -1,9 +1,0 @@
-MED19a
-MED6
-HaRxL44
-GFP
-3HA
-GUS
-Strep2
-MG132
-Mediator

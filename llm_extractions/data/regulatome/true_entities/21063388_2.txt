@@ -1,9 +1,0 @@
-GW182
-PABP
-TNRC6C
-HsTNRC6A
-TNRC6A
-Argonaute
-poly(A)-binding protein
-PABPC1
-DmPABPC1

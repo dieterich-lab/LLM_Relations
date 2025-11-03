@@ -1,4 +1,0 @@
-PHLPP
-PH domain leucine-rich repeat protein phosphatase
-Akt
-Akt1

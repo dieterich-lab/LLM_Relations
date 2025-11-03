@@ -1,8 +1,0 @@
-PRMT6
-MLL
-ASH2
-WDR5
-histone H3R2
-H3K4
-H3R2
-H3

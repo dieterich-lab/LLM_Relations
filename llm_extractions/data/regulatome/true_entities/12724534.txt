@@ -1,6 +1,0 @@
-SCF UFO
-COP9 signalosome
-SCF(UFO)
-SCF ubiquitin ligases
-cullins
-CSN

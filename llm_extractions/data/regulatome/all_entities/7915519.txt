@@ -1,7 +1,0 @@
-CD4
-gp160
-p65
-p50
-c-rel
-NF-kappa B
-protein kinase C

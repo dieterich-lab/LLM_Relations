@@ -1,3 +1,0 @@
-rhoA p21
-GTP gamma S
-C3 exoenzyme

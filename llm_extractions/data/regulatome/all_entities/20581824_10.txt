@@ -1,8 +1,0 @@
-Rev-erbalpha
-NCoR
-PEG 3350
-glycerol
-proline
-HEPES
-N2
-hVDR

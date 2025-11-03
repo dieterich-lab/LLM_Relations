@@ -1,8 +1,0 @@
-Thrombospondin-1
-PRMT6
-Protein arginine methyltransferase 6
-histone H3
-H3R2
-H3K4
-thrombospondin-1
-TSP-1

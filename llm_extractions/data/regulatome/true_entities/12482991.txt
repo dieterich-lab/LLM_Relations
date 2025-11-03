@@ -1,8 +1,0 @@
-IkappaB kinase
-NF-kappaB
-IKK1
-IKK2
-IKK
-betaTrCP
-IkappaBalpha
-p105

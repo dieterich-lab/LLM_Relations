@@ -1,9 +1,0 @@
-CTLA-4
-B7
-Cytotoxic T lymphocyte-associated antigen-4
-ligand-independent CTLA-4
-liCTLA-4
-B7-1
-B7-2
-TcRzeta
-flCTLA-4

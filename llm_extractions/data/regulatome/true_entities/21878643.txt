@@ -1,6 +1,0 @@
-casein kinase 2
-protein phosphatase 2As
-CK2
-PP2As
-Daz interacting protein 1
-Dzip1

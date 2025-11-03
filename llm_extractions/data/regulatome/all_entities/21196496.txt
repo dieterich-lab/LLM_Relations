@@ -1,6 +1,0 @@
-NSD1
-histone H3K36
-histone
-histone H3
-H3K36
-S-adenosyl-L-methionine

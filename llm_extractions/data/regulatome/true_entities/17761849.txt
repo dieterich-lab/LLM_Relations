@@ -1,8 +1,0 @@
-UTX
-mixed-lineage leukemia (MLL) 2
-MLL2
-3
-HOX
-H3K27
-histone H2A
-H3K4

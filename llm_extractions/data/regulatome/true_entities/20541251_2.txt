@@ -1,5 +1,0 @@
-MLL1
-CyP33
-H3K4me3/2
-histone H3K4me3/2
-HDAC

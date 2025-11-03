@@ -1,6 +1,0 @@
-ataxin-3
-parkin
-ubiquitin
-Ub
-DUB
-deubiquitinating (DUB) enzyme

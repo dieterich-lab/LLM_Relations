@@ -1,8 +1,0 @@
-Cdc25
-cyclin
-Cdc25A
-cyclin E
-cyclin A
-cyclin-dependent kinases
-Cdk
-Cdk2

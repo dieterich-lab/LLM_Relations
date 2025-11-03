@@ -5,7 +5,7 @@
 models/
 phiwi/
 llama.cpp/
-*llama.cpp*/
+*llama*cpp*/
 .gitignore
 *unsloth*/
 run_baml.py

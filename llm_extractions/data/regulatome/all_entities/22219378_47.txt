@@ -1,7 +1,0 @@
-EPI64
-JFC1
-GST
-Myc
-GFP
-HXP
-SHD

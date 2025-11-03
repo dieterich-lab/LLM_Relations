@@ -1,5 +1,0 @@
-DUBA
-TRAF3
-tumor necrosis factor receptor-associated factor 3
-TANK-binding kinase 1
-ubiquitin

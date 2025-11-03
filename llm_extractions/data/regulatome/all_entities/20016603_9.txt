@@ -1,9 +1,0 @@
-replication protein A
-RPA
-ATR
-PIAS1
-PIAS4
-camptothecin
-CtIP
-BRCA1
-ATR signalling

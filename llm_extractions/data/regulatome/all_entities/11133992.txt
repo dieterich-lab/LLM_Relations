@@ -1,7 +1,0 @@
-HSP70
-Heat shock protein 70
-human apurinic/apyrimidinic endonuclease
-endonuclease
-human heat shock protein 70
-HAP1
-ATP

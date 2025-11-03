@@ -1,9 +1,0 @@
-Stat1
-Stat3
-IL-13
-15-LO
-MAO-A
-Stat1 and Stat3 decoy ODNs
-Stat1 or Stat3 mismatched ODNs
-M2 gene
-Stat1 and Stat3 decoy ODN

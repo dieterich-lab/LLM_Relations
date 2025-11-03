@@ -1,9 +1,0 @@
-EZH2
-histone methyltransferase
-Histone
-histone H3
-histone H1
-H1
-H3
-Embryonic Ectoderm Development
-EED

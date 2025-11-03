@@ -1,6 +1,0 @@
-malin
-ubiquitin
-laforin
-dual-specificity phosphatase
-Ub
-E3 ubiquitin ligase

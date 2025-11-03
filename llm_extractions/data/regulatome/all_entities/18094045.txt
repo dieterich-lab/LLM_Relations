@@ -1,4 +1,0 @@
-Fbx8
-Arf6
-small GTP-binding protein
-F-box

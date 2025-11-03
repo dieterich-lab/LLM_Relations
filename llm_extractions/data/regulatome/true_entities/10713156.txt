@@ -1,5 +1,0 @@
-SCF(beta(TrCP))
-Cul-1
-IkappaBalpha
-beta-catenin
-betaTrCP

@@ -1,5 +1,0 @@
-APC/C
-GLP
-G9a
-Cdh1
-histone H3K9

@@ -1,4 +1,0 @@
-PRMT5
-Cbl E3 ligase
-Cbl
-PDGFRalpha

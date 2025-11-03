@@ -1,6 +1,0 @@
-Rpn11
-DUB
-ubiquitin
-Ubiquitin
-proteasomes
-proteasome

@@ -1,124 +1,103 @@
-# LLM_Relations
+# LINDA-LLM Extraction Toolkit
 
-## Installation
+Production-ready scripts for extracting molecular interaction triples with large language models. This directory mirrors the `llm_extractions/` folder of the public [dieterich-lab/LLM_Relations](https://github.com/dieterich-lab/LLM_Relations) repository.
 
-Clone this project and install the requirements in a python environment of your choice.
+## Quick Start
+
+Requires Python 3.11 and [Poetry](https://python-poetry.org/docs/) 1.7+. Install Poetry first if it is not already available:
 
 ```bash
-git clone  https://github.com/dieterich-lab/LLM_Relations
+command -v poetry >/dev/null || pipx install poetry  # or follow Poetry's official installer
+
+git clone https://github.com/dieterich-lab/LLM_Relations.git
 cd LLM_Relations/llm_extractions
-python3 -m venv ~/.venvs/llm  # or any other choice of directory # tested with Python 3.11.2
-. ~/.venvs/llm/bin/activate # or your choice of directory
-pip install -r requirements.txt
+poetry install
+poetry run baml-cli generate
 ```
 
-We also use the [BAML](https://www.boundaryml.com/) framework as structured output parser to extract triples from the LLM's response. The library will already get installed with the requirements and we also prepared the according [baml](./baml/baml_src/) files. All you need to do now is to trigger the initiation of the src code by running from the command line:
+## Configure Paths
+
+Runtime paths are now configurable through environment variables. Defaults point to the project-relative locations shown below, but you can override any value without editing the source code.
+
+| Variable | Default | Purpose |
+| --- | --- | --- |
+| `LINDA_LLM_PROJECT_ROOT` | project root (this folder) | Base directory for relative defaults |
+| `LINDA_LLM_OUTPUT_ROOT` | `outputs/` | Root for generated artefacts and checkpoints |
+| `LINDA_LLM_TRIPLES_ROOT` | `outputs/triples/` | Base folder for extracted triples |
+| `LINDA_LLM_REGULATOME_ROOT` | `../RegulaTome/` | Location of the RegulaTome evaluation corpus |
+| `LINDA_LLM_RESOURCES_ROOT` | `../resources/` | Shared resources such as UniProt tables |
+
+Create a `.env` (or export the variables manually) before running the scripts:
 
 ```bash
-baml-cli generate
+cp .env.example .env  # edit .env with your paths
+source .env
 ```
 
-## Folder Structure
+All scripts import `paths.py`, which resolves these variables and creates any missing output folders on demand. If an environment variable is omitted, the default path is used.
 
-### Project Folders
+## Repository Layout
+
+- `add_names.py` – query LLMs for alternative entity names
+- `baml/` – BoundaryML schema used for structured parsing of model outputs
+- `clients.py` – client registry with model aliases and inference endpoints
+- `converter.py` – transform Pydantic triples into JSON/JSONL artefacts
+- `data/` – curated and pre-processed inputs (RegulaTome, 5 curated cardiac papers)
+- `documents.py` – utilities to prepare inputs from parsed PDFs
+- `embed.py` – build dense vector indices for retrieval-augmented extraction
+- `extract.py` – main CLI entrypoint for extraction experiments
+- `finetune.py` & `finetuning_tools.py` – supervised fine-tuning pipeline
+- `parser.py` – centralised CLI argument definitions
+- `paths.py` – single source of truth for runtime paths (now environment-aware)
+- `prompts.py` – prompt templates, exemplars, and ToT strategies
+- `regu_names.py` / `add_names.py` – generate synonym dictionaries for evaluation
+- `requirements.txt` – Python dependencies
+
+## Running Extractions
 
 ```bash
-.
-├── add_names.py # script to query an LLM for alternative names for extracted triples
-├── baml # we use boundary ml ("baml") to parse structured outputs (e.g. triples)
-│   └── baml_src                      
-│       ├── clients.baml # a dummy client, as all clients will be created live from a dictionary and added to the client registry (see clients.py)
-│       ├── generators.baml # standard file for baml that declares the language and version of baml
-│       ├── names.baml # function and classes for generating alt names for triples
-│       └── rel.baml # function and classes for extracting triples from text
-├── clients.py # here are aliases for the used models saved, ips for GPU nodes in our compute environment and the client registry for baml
-├── converter.py # containing a function to convert pydantic triples to json and save them
-├── data # containing the curated and pre-processed input data
-├── documents.py # script to prepare the input documents
-├── embed.py # function to embed the trainig and development set of regulatome in a vector store
-├── extract.py # main script to extract triples from texts
-├── finetune.py # main script to finetune a model
-├── finetuning_tools.py # outsourced configurations used for finetuning a model
-├── llama_parse.ipynb # notebook to parse papers via llama_parse
-├── parser.py # argparser for CLI
-├── paths.py # declaration of all the input and outpt pathes
-├── prompts.py # declaration of the prompts for the different styles and regimes
-├── README.md # this readme :-)
-├── regu_names.py # script to query an LLM for alternative names for the entities in the RegulaTome test dataset
-├── requirements.txt # installation requirements
+python extract.py \
+  --model llama33 \
+  --data regulatome \
+  --target ppi \
+  --extractionmode direct \
+  --chattype oneshot
 ```
 
-### Output Folders
+Useful flags:
 
-The project will save the outputs in a folder `outputs` in the same directoy as this code is located:
+- `--ensemble N` – enable self-consistency ensembles (default temperature 0.8)
+- `--tot N` – activate Tree-of-Thoughts reasoning with `vote|best|merge` strategies
+- `--lookup` – query STRING metadata before relation extraction (forces `nerrel` mode)
+- `--force_new` – overwrite existing outputs under the resolved run directory
+
+Outputs are stored beneath `${LINDA_LLM_TRIPLES_ROOT}/{data}/{target}/…` with JSON and JSONL artefacts for each run configuration.
+
+## Fine-tuning
+
+Fine-tune LoRA adapters with:
 
 ```bash
-├── outputs            
-│   ├── datasets # folder for the RegulaTome dataset saved as arrow files for fine-tuning
-│   ├── docs # here we save the input data documents
-│   ├── finetunedmodels # path for the finetuned models
-│   ├── parsed_papers # a folder for your custom parsed papers
-│   ├── regulatome_train_idx.bin # the train and development set of RegulaTome as vector store binary
-│   ├── regu_test_names.json # the alternative names and abbreviations for the entities in the RegulaTome test set
-│   └── triples # the actual extracted triples
+python finetune.py --model llama31 --data regulatome --save
 ```
 
-### LLMs and Inference Server:
+Resulting checkpoints are written to `${LINDA_LLM_OUTPUT_ROOT}/finetunedmodels/` (configurable via environment variables).
 
-As we used [Ollama](ollama.com) for inference and [huggingface](huggingface.co)/[unsloth](https://unsloth.ai/) for fine-tuning. All models can be acquired from the following sources:
+## Model Hosting
 
+The framework works with local Ollama deployments or external providers (Nebius, etc.). Update `clients.py` to map `--model` aliases to your chosen backends and ensure the models are available:
 
-| model  | alias |huggingface  | ollama |
-|---|---|---|---|
-|llama3.1:8b   | llama31 | https://huggingface.co/unsloth/Meta-Llama-3.1-8B |https://ollama.com/library/llama3.1 |
-|llama3.3:70b   | llama33 | https://huggingface.co/meta-llama/Llama-3.3-70B  |https://ollama.com/library/llama3.3:70b |
-|llama3.1:8b (finetuned)  | llama31regu | _tbd_ | - |
-|llama3.3:70b (finetuned)  | llama33regu | _tbd_ | - |
+| Alias | Suggested model |
+| --- | --- |
+| llama31 | `ollama pull llama3.1` or corresponding HF ID |
+| llama33 | `ollama pull llama3.3:70b` |
 
+## Data
 
-To set up the ip's and corresponding aliases for your Ollama server, customize the `ip_dict` in [clients.py](./clients.py) and don't forget to pull the models via `ollama pull [llama3.1 | llama3.3:70b]`.
+The RegulaTome corpus is available at [Zenodo](https://zenodo.org/records/10808330) under CC BY 4.0. Place the files under `${LINDA_LLM_REGULATOME_ROOT}` or point the environment variable to your copy. The repository also includes five manually curated cardiac signalling papers; see `data/5curated/` for plain-text inputs.
 
-### Data
+## Contributing / Publishing
 
-We used the RegulaTome dataset for high throughput evaluation and cureated 5 cardiac research to analyze performance on real-world data.
-
-The regulatome corpus can be found [here](https://zenodo.org/records/10808330) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) licencse.
-
-The five curated papers are provided as .pdf files in the [/src directory](https://github.com/dieterich-lab/LLM_Relations/tree/main/src/curated_manuscripts).
-
-We processed the corpus and the annotated papers to have easy access to the input texts and their according ground truths. They are automatically used by the scripts when choosing the option `--data [regulatome | 5curated]` and can be found here:
-
-```bash
-data/
-├── 5curated # containing the 5 chosen papers in plaintext format (parsed with llama_parse)
-├── regulatome # containing the regulatome texts in plaintext format
-├── transformers_datasets # the regulatome data as transformers datasets
-├── uniprot_lookup # a compiled list from the uniprot database containing related molecule information
-└── vector_index # the train and development set saved as a HNSW vector index
-```
-
-### Relation Extraction
-
-To extract relations, you can use [extract.py](./extract.py). To get all possible options, use the help of the argparser:
-
-```bash
-python extract.py -h
-```
-
-The most important parameters the following:
-
-```bash
-  --model {llama31,llama33,deepseek8b,gemma,gemmaregu,deepseek70b,llama31regu,llama33regu}
-                        Aliases pointing back to model names of the local Ollama server or the provider. More specifically defined in `clients.py`.
-  --extractionmode {direct,nerrel}
-                        `nerrel`: Extract entities first, from these, extract corresponding relations. `direct`: Extract relations (triples) in a single step.
-  --chattype {oneshot,stepwise,lookup}
-                        `oneshot`: extract relations in a single step (don't ask for revising). `stepwise`: Let the LLM revise the prompts in two additional steps. `lookup`: Sets `extractionmode` to `nerrel` and queries information about the entities from our uniprot
-                        database.
-  --data {5curated,regulatome}
-                        Aliases that point to the according txt/md files of the RegulaTome corpus or our 5 curated papaers.
-```
-
-### Fine-tuning
-
-For finetuning, you can use the [finetune.py](./finetune.py) script with either the `--model llama31` or the `--model llama33` flag, depending what model you want to fine-tune.
+1. Keep this directory in sync with the `llm_extractions/` folder in the public repository. See the project wiki (or internal runbook) for the release checklist.
+2. Document any environment assumptions in this README and keep `.env.example` aligned with the code.
+3. Run the evaluation scripts in `outputs/` (or your configured directory) to verify reproductions before tagging a release.

@@ -1,6 +1,0 @@
-interleukin-6 receptor
-interleukin-5
-STAT1
-STAT
-interleukin-5 receptor
-gp130

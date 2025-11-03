@@ -1,6 +1,0 @@
-SLAP-130
-SLP-76
-Grb2
-Interleukin-2
-SLP-76-associated phosphoprotein
-interleukin-2

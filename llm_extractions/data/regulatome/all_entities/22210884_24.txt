@@ -1,8 +1,0 @@
-Lin28
-RNA helicase A
-RHA
-Oct4
-rLin28
-let-7a
-let-7
-LRE

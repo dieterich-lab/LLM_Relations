@@ -1,9 +1,0 @@
-Sox10
-H3K27ac
-Olig2
-Myrf
-Egr2
-Fa2h
-Sox10/H3K27ac
-Sox10 locus
-Fa2h locus

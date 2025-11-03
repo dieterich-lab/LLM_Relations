@@ -1,9 +1,0 @@
-acetyl-CoA carboxylase 2
-acetyl-CoA carboxylase 1
-ACC1
-ACC2
-N-{3-[2-(4-alkoxyphenoxy)thiazol-5-yl]-1-methylprop-2-ynyl}carboxy
-ACC
-acetyl coenzyme A carboxylase
-acetyl-CoA
-Xin

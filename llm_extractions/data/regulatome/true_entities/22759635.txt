@@ -1,5 +1,0 @@
-Src family kinases
-Shp2
-RUNX1
-GATA1
-SWI/SNF

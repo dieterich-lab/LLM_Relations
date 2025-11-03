@@ -1,7 +1,0 @@
-caspases
-inflammasome
-gasdermin D
-GSDMD
-gasdermin
-caspase
-caspase-1

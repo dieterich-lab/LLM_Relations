@@ -1,9 +1,0 @@
-APOBEC3G
-Vif
-Cul5
-SCF
-CEM15
-elongins B
-C
-Rbx1
-Skp1-cullin-F-box (SCF)-like complex

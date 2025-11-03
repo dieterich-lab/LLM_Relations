@@ -1,8 +1,0 @@
-PNRC2
-Upf1
-Dcp1a
-proline-rich nuclear receptor coregulatory protein 2
-decapping complex
-mRNA surveillance machinery
-general decay complex
-RNPs

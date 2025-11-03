@@ -1,6 +1,0 @@
-LYVE-1
-CD44
-L-selectin
-CD34
-coagulation Factor VIII
-vWF

@@ -1,7 +1,0 @@
-Rab8
-LAX
-CTLA-4
-TRIM
-Ras-related GTPase
-GTP
-T-cell receptor

@@ -1,1 +1,0 @@
-NADPH cytochrome c reductase activity was measured as previously described in a 50 mM phosphate, 0.1 mM EDTA buffer, pH 7.7, using 1 mg/ml NADPH and 25 mug/ml cytochrome c as substrates. Absorbance increases were measured at 550 nm over a 3-min period.

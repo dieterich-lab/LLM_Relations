@@ -1,6 +1,0 @@
-BMAL1
-CLOCK
-Clock
-PAS
-PER1
-per1

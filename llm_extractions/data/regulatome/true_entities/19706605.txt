@@ -1,6 +1,0 @@
-GSK-3
-Delta-catenin
--3beta
-GSK-3alpha
-delta-catenin
-presenilin-1

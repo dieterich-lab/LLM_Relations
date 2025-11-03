@@ -1,9 +1,0 @@
-Dnmt3b
-thymine-DNA glycosylase
-Dnmt1
-Dnmt3a
-G/T mismatch-specific thymine-DNA glycosylase
-Tdg
-methyl-CpG binding domain protein 4
-DNA methyltransferase(s)
-DNA methyltransferases

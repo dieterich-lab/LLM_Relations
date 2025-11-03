@@ -1,7 +1,0 @@
-p35
-GroEL
-DnaK
-J
-p40
-ES
-GrpE

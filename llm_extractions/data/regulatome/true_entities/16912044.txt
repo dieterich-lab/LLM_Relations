@@ -1,6 +1,0 @@
-RXRalpha
-retinoic acid receptor-alpha
-SUMO-1
-peroxisome proliferator-activated receptor-gamma
-androgen receptor
-PPARgamma

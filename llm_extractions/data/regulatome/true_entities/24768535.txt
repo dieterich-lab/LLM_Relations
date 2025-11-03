@@ -1,5 +1,0 @@
-polymerase-eta
-EFP
-PCNA
-USP10
-UBP43

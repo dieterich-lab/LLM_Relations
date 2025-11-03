@@ -1,6 +1,0 @@
-Cdc3
-Cdc12
-Spr3
-Shs1
-septins
-GFP

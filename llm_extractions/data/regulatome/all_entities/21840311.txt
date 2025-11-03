@@ -1,4 +1,0 @@
-ErbB2
-MEMO
-Mediator of ErbB2-driven cell motility
-PYD

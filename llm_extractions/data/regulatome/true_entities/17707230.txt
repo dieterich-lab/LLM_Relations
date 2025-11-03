@@ -1,9 +1,0 @@
-CSB
-RNA polymerase I
-G9a
-H3K9me2
-H3K9
-histone H3
-heterochromatin protein 1gamma
-HP1gamma
-Pol I

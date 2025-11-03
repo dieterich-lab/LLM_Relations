@@ -1,6 +1,0 @@
-HDAC6
-alpha-tubulin
-tubulin
-histone deacetylase
-p150(glued)
-histone

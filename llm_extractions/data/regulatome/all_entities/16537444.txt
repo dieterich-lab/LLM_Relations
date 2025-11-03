@@ -1,5 +1,0 @@
-c-Met
-c-Abl
-c-Src
-PTP1B
-Imatinib

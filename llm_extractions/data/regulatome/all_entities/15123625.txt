@@ -1,9 +1,0 @@
-peroxisome proliferator-activated receptor gamma
-SUMO-1
-peroxisome proliferator-activated receptor (PPAR) gamma
-PPARgamma
-PIAS
-PIAS1
-PIASxbeta
-ubiquitin
-Ubc9

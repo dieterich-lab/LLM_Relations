@@ -1,7 +1,0 @@
-MUC1
-beta-catenin
-E-cadherin
-DF3
-gamma-catenin
-alpha-catenin
-adenomatous polyposis coli gene product

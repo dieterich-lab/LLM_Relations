@@ -1,8 +1,0 @@
-ARF6
-JNK
-JIP4
-JIP3
-JIPs
-kinesin-1
-dynactin
-GTP

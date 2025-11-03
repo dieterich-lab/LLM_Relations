@@ -1,8 +1,0 @@
-MutSalpha
-MutS
-MSH2
-MSH6
-G/T mismatch Binding Protein
-GTBP
-hMSH2
-hMSH6

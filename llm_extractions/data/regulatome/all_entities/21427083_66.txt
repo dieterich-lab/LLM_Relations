@@ -1,5 +1,0 @@
-miR-373
-miR-320
-POLR3D
-AGO1
-AGO2

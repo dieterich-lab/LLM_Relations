@@ -1,8 +1,0 @@
-Stat3
-signal transducers and activators of transcription
-STAT
-p300
-type I histone deacetylase
-HDAC
-oncostatin M
-cell cycle progression

@@ -1,4 +1,0 @@
-leucine
-RagA
-Sestrin2
-RagC

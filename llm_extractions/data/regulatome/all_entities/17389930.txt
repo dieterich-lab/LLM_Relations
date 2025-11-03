@@ -1,7 +1,0 @@
-statherin
-Tyrosylprotein sulfotransferase
-TPST
-tyrosylprotein sulfotransferase
-SDS
-polyacrylamide
-hydroxyapatite

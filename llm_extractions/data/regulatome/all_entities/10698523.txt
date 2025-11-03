@@ -1,9 +1,0 @@
-GSK-3beta
-beta-catenin
-protein phosphatase 2A
-Axin
-adenomatous polyposis coli gene product
-APC
-glycogen synthase kinase-3beta
-SDS
-PP2A

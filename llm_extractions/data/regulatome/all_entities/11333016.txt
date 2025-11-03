@@ -1,9 +1,0 @@
-PHAX
-CRM1
-Xpo1
-phosphorylated adaptor for RNA export
-nuclear cap binding complex
-CBC
-RanGTP
-snRNA export complexes
-snRNA export complex

@@ -1,6 +1,0 @@
-POFUT2
-fucose
-protein O-fucosyltransferase 2
-TSR
-thrombospondin type 1 repeat
-thrombospondin type 1 repeats

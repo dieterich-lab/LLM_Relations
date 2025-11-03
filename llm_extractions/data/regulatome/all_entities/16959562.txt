@@ -1,7 +1,0 @@
-Insulin
-SIRT4
-histone deacetylases
-Sir2
-glutamate dehydrogenase
-insulin
-sirtuins

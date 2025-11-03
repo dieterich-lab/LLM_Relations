@@ -1,8 +1,0 @@
-p105
-NF-kappaB1
-p50
-RelA
-c-Rel
-NF-kappaB
-proteasome
-lipopolysaccharide

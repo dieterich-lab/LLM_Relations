@@ -1,7 +1,0 @@
-cyclin E
-A
-CDK
-CDK2
-CDK4
-6
-Rb

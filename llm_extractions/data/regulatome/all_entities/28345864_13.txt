@@ -1,5 +1,0 @@
-FBP1
-gluconeogenesis pathway
-glucose
-FLAG
-carbon

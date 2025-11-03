@@ -1,5 +1,0 @@
-c-Src
-alphaIIbbeta3
-Csk
-Fibrinogen
-PTP-1B

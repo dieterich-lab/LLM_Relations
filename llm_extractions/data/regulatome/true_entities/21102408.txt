@@ -1,6 +1,0 @@
-TA
-protein kinase D
-subunit 4
-CSN4
-snapin
-Snapin

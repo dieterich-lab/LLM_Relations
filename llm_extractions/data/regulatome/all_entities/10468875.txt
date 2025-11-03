@@ -1,7 +1,0 @@
-FVIII
-factor VIII
-Factor X
-FX
-FVIIIa
-factor IXa
-FIXa

@@ -1,9 +1,0 @@
-MZF-1
-CD34
-GAL4
-chloramphenicol acetyl transferase
-CAT
-thymidine kinase
-luciferase
-zinc fingers
-zinc finger

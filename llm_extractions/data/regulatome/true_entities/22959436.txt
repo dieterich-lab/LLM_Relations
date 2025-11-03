@@ -1,9 +1,0 @@
-Cop9 signalosome
-CSN
-Rbx1
-SCF
-Skp1-Cul1-Fbox (SCF) E3 ligases
-SCF(Skp2/Cks1
-SCF(Fbw7
-Cul1
-E2

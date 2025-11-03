@@ -1,6 +1,0 @@
-CLOCK
-ACTR
-BMAL1
-histone
-histones H3
-H4

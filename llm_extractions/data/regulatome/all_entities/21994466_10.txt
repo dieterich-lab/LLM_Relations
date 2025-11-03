@@ -1,8 +1,0 @@
-SOCS3
-IL-6
-TNFalpha
-STAT3
-NFkappaB
-TNFR2
-penicillin
-streptomycin

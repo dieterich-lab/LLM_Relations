@@ -1,7 +1,0 @@
-E2F
-p107
-cyclin A
-E7
-retinoblastoma tumor suppressor protein
-pRB
-cdk2

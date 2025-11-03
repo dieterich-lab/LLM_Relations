@@ -1,7 +1,0 @@
-p53
-histone deacetylase-1
-HDAC1
-PID
-metastasis-associated protein 2
-MTA2
-NuRD

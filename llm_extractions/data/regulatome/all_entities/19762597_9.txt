@@ -1,8 +1,0 @@
-SCFFBXL5
-IRP2
-iron
-oxygen
-FBXL5
-proteasome
-MG132
-O2

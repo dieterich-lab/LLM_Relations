@@ -1,5 +1,0 @@
-LARGE2
-LARGE
-alpha-DG
-alpha-dystroglycan
-laminin

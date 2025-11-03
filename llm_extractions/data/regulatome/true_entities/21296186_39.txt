@@ -1,8 +1,0 @@
-Coq9
-Coq8
-Coq8p
-Coq4p
-Coq6p
-Coq7p
-Coq
-Coq9p

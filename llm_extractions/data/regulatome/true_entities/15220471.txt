@@ -1,4 +1,0 @@
-cAMP-response element-binding protein (CREB)-binding protein
-Sir2
-cAMP-response element-binding protein-binding protein
-Foxo1

@@ -1,5 +1,0 @@
-polycomb repressive complex 2
-EZH2
-histone H3
-histone
-Hoxa1

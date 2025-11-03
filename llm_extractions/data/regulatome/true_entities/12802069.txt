@@ -1,9 +1,0 @@
-BP230
-DP
-K14
-K5
-K8
-K18
-vimentin
-cytokeratins
-keratins

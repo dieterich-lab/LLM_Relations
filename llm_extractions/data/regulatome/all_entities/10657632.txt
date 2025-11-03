@@ -1,9 +1,0 @@
-Membrane cofactor protein
-CD46
-src
-Lck
-MCP
-IL-12
-measles virus hemagglutinin
-src family-dependent pathway
-calcium

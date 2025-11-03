@@ -1,8 +1,0 @@
-TAZ
-TBX5
-histone
-p300
-PCAF
-YAP
-TBX5-dependent promoters
-TBX5-dependent transcription

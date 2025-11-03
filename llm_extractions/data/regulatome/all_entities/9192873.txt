@@ -1,8 +1,0 @@
-Cyclin E
-CDK2
-p27Kip1
-cyclin E
-p27
-CDK
-cyclin
-ATP

@@ -1,5 +1,0 @@
-RAG1
-HMG1
-HMG2
-RAG2
-2

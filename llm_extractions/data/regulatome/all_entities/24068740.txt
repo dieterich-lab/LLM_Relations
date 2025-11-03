@@ -1,8 +1,0 @@
-histone deacetylase 1
-Histone deacetylase 1
-HDAC1
-SUMO1
-SUMO2
-SUMO
-PIASy
-HDAC

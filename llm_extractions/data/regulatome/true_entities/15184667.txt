@@ -1,7 +1,0 @@
-PP1
-protein kinase C
-CPI-17
-glycogen
-MYPT1
-PP1C
-inhibitor-2

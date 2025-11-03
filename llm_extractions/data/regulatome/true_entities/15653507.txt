@@ -1,3 +1,0 @@
-p300
-type I histone deacetylase
-Stat3

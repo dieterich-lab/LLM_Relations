@@ -1,5 +1,0 @@
-UPF3b
-UPF3a
-T-cell receptor
-TCR
-TCRbeta

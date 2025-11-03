@@ -1,7 +1,0 @@
-APC
-anaphase-promoting complex
-USP37
-CDK2
-CDH1
-CDC20
-cyclin A

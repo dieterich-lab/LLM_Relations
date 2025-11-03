@@ -1,9 +1,0 @@
-JMJD5
-Jumonji-C (JmjC) domain-containing protein 5
-histone N(epsilon)-methyl lysine demethylase
-KDM
-regulator of chromosome condensation domain-containing protein 1
-RCCD1
-ribosomal protein S6
-RPS6
-histone

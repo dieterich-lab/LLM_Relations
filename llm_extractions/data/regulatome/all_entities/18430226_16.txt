@@ -1,8 +1,0 @@
-PER2
-CRY1
-CRY2
-CLOCK
-lacZ
-HA
-Clock
-Per2

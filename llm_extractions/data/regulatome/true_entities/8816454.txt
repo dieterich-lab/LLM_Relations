@@ -1,8 +1,0 @@
-PTF gamma
-PTF delta
-PTF
-TATA-binding protein
-TFIIIB90
-TBP
-delta
-Oct-1

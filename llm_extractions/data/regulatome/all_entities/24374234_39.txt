@@ -1,9 +1,0 @@
-insulin
-MyoIIA
-F-actin
-GLUT4
-blebbistatin
-calcium
-actin
-glucose
-MyoII

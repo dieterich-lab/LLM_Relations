@@ -1,5 +1,0 @@
-MSH2
-MSH6
-MSH3
-MutSalpha
-MutSbeta

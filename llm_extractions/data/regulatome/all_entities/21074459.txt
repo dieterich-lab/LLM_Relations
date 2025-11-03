@@ -1,8 +1,0 @@
-ubiquitin
-TRIM56
-type I interferon
-IFN
-interferon-inducible tripartite-motif (TRIM) 56
-IFN-beta
-STING
-TBK1

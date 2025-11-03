@@ -1,6 +1,0 @@
-JIL-1
-roX
-MLE
-JIL-1 kinase
-MSL
-GST

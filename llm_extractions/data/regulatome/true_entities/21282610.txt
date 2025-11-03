@@ -1,6 +1,0 @@
-SET8
-LEF1
-Histone H4
-H4K20
-lymphoid enhancing factor-1
-histone

@@ -1,9 +1,0 @@
-DUBA
-type I interferon
-IFN-I
-Deubiquitinating enzyme A
-tumor necrosis factor receptor-associated factor 3
-TRAF3
-ubiquitin
-polyubiquitin
-TANK-binding kinase 1

@@ -1,6 +1,0 @@
-Dbp5
-Gle1
-InsP(6)
-eIF4A
-Nup159
-eIF4G

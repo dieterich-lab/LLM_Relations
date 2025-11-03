@@ -1,6 +1,0 @@
-CIITA
-pCAF
-ubiquitin
-proteasome
-26S proteasome
-MG132

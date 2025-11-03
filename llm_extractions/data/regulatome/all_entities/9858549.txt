@@ -1,6 +1,0 @@
-hnRNP A1
-fibroblast growth factor receptor 2
-K-SAM
-MS2
-tat
-RNA molecules

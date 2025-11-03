@@ -1,9 +1,0 @@
-Translation Elongation Factor 1A
-Eukaryotic elongation factor 1A
-eEF1A
-YLR285W
-elongation factor methyltransferase 7
-Efm7
-N6AMT2
-Efm5
-eEF1A-KMT1

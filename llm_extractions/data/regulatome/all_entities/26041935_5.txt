@@ -1,9 +1,0 @@
-ELYS
-Nup107
-fuse
-NPC
-Integral pore membrane proteins
-Poms
-Nups
-Ndc1
-Pom

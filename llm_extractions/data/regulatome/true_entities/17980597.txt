@@ -1,7 +1,0 @@
-deubiquitinating enzymes
-ubiquitin-specific protease 3
-USP3
-uH2A
-uH2B
-H2A
-H2B

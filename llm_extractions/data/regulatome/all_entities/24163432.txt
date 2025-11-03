@@ -1,5 +1,0 @@
-connexin 43
-Cx43
-integrin alpha5
-14-3-3theta
-brefeldin A

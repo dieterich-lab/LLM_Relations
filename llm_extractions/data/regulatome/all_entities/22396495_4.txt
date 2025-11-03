@@ -1,7 +1,0 @@
-NOTCH
-NOTCH1
-NOTCH4
-ADAM metalloprotease
-gamma-secretase
-CSL
-RBPJk

@@ -1,9 +1,0 @@
-RelA
-IkappaBalpha
-SOCS-1
-NF-kappaB
-Pin1
-p65
-ubiquitin
-ubiquitin ligase
-NF-kappaB signaling

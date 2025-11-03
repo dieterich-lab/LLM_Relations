@@ -1,5 +1,0 @@
-Polycomb
-Xist
-Polycomb repressive complex
-PRC2
-histone H3

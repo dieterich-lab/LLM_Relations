@@ -1,9 +1,0 @@
-histone deacetylase 6
-tubulin
-Histone deacetylase 6
-HDAC6
-class II HDAC
-ubiquitin
-histone
-alpha-tubulin
-Hsp90

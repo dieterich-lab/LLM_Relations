@@ -1,8 +1,0 @@
-IkappaB kinase
-SCF-type E3-ligase
-CSN
-SCF
-IKK
-IkappaBalpha
-IkappaB
-Csn5

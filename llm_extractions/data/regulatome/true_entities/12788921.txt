@@ -1,8 +1,0 @@
-prolyl 4-hydroxylases
-P4Hs
-HIF-P4Hs
-hypoxia-inducible factor
-HIF-alpha
-HIF-1alpha
-HIF-2alpha
-HIF-3alpha

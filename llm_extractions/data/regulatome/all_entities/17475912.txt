@@ -1,9 +1,0 @@
-c-CBL
-CBL-b
-ubiquitin
-CBL ubiquitin ligase
-tyrosine kinases
-TKs
-CBL
-Ub
-E2

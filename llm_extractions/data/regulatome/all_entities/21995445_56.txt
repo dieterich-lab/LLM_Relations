@@ -1,9 +1,0 @@
-CFTR
-mu2
-Dab2
-Eps15 homology domain 4
-EDH4
-Rab5
-EEA1
-LDL
-myosin VI

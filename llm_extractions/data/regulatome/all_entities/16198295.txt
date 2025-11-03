@@ -1,9 +1,0 @@
-follistatin
-activin
-TGF-beta
-activin A
-BMP
-type I receptor
-type I
-type II receptor
-II receptors

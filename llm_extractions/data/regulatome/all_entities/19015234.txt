@@ -1,8 +1,0 @@
-SF-1
-CDK7
-Steroidogenic factor 1
-adrenocorticotropin
-ACTH
-StAR
-nuclear receptor
-steroid

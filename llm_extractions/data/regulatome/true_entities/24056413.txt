@@ -1,7 +1,0 @@
-MDM2
-CHIP
-NEDD4
-Usp12
-AR
-Uaf-1
-WDR20

@@ -1,8 +1,0 @@
-Sestrin2
-Sestrin1
-leucine
-Sestrin
-TOR
-RagA
-RagC
-arginine

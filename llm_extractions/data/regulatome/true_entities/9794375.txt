@@ -1,6 +1,0 @@
-CD28
-Lck
-CD45
-CD80
-CD86
-HSI

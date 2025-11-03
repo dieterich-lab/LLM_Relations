@@ -1,7 +1,0 @@
-p53
-survivin
-CDC25C
-CDC25B
-doxorubicin
-nutlin-3
-p21

@@ -1,7 +1,0 @@
-ICP27
-Nup62
-d1-2
-ICP0
-M15
-alpha-globin
-NPC

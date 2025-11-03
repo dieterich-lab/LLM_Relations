@@ -1,6 +1,0 @@
-Rrp1p
-RRP1B
-protein phosphatase 1
-pre-60S
-E2F
-RRP1

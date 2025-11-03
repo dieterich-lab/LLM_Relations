@@ -1,6 +1,0 @@
-RhoG
-Rac1
-GTP
-GST
-ELMO
-CRIB

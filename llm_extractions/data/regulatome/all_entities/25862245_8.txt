@@ -1,7 +1,0 @@
-Dock10
-Rho GTPases
-Cdc42
-Rac1
-Rac
-GEF
-zizimin

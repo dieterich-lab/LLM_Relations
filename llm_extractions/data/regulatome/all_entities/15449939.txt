@@ -1,7 +1,0 @@
-IFNAR1
-IFNAR2
-IFN-alpha
-type I human interferon receptor
-type I interferons
-IFNs
-IFN

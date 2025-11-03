@@ -1,9 +1,0 @@
-NIPA
-SCF
-ubiquitin
-proteasome
-F-box
-nuclear interaction partner of ALK
-SCF-type E3 ligase
-cyclin B1
-Cdk1

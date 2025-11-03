@@ -1,6 +1,0 @@
-c-Src
-fibrinogen
-PTP-1B
-integrin beta3
-alphaIIbbeta3
-Csk

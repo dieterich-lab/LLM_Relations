@@ -1,9 +1,0 @@
-Akt
-Tyr
-p85
-phosphatidylinositol 3-kinase
-PI3K
-p110
-Src
-SHP1
-NFkappaB

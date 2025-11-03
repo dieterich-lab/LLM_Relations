@@ -1,9 +1,0 @@
-Dnmt3a
-Dnmt3b
-c-myc
-CREB
-FOS
-AP2alpha
-p53
-SP1
-SP4

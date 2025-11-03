@@ -1,6 +1,0 @@
-TORC1
-FKBP12
-Tor2
-S6
-Rps6
-rapamycin

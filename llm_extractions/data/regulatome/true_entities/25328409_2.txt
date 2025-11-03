@@ -1,7 +1,0 @@
-Platelet-derived growth factor
-Crenolanib
-PDGFR
-PDGFRalpha
-PDGFRbeta
-tyrosine kinase
-FMS-related tyrosine kinase 3

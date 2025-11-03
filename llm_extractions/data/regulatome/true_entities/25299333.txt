@@ -1,4 +1,0 @@
-RPM1
-AvrB
-RIN4
-ROC1

@@ -1,8 +1,0 @@
-histones
-H2ac
-ERalpha
-E2
-BCL2
-c-MYC
-H2a
-DNA-binding domain

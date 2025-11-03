@@ -1,6 +1,0 @@
-PPM1A
-TGFbeta type I receptor
-Smad
-Smads
-Smad2
-3

@@ -1,7 +1,0 @@
-retinoid
-Hoxa1
-Pbx1
-lacZ
-beta-gal
-Raldh2
-RA

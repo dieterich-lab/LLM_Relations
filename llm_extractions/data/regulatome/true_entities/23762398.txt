@@ -1,6 +1,0 @@
-mTOR
-Rictor
-NBS1
-Mre11
-Rad50
-SIN1

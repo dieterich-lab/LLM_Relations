@@ -1,8 +1,0 @@
-GluN2B
-GluA2
-GluN1
-GluN1a
-ATD
-LBD
-iGluR
-AMPA receptor

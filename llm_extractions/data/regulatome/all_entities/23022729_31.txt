@@ -1,5 +1,0 @@
-UHRF1
-H3S10p
-H3K9me3
-histone
-H3

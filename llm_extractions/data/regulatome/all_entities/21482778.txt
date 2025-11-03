@@ -1,9 +1,0 @@
-EGF receptor
-TrkB
-dopamine receptors
-GPCRs
-G protein-coupled receptors
-GPCR
-G-protein
-receptor tyrosine kinase
-receptor protein kinases

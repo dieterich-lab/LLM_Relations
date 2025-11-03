@@ -1,3 +1,0 @@
-TRAF6
-TRAF3
-IPS-1

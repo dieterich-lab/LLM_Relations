@@ -1,6 +1,0 @@
-p53
-HDM2
-E3 ubiquitin ligase
-Nutlin-3
-p53 pathways
-ubiquitin

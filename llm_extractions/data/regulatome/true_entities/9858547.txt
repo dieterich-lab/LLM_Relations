@@ -1,4 +1,0 @@
-KSR
-mitogen-activated protein kinase
-MAPK
-14-3-3

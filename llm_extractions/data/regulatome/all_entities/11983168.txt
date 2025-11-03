@@ -1,8 +1,0 @@
-Cyclin G
-PP2A
-Mdm2
-cyclin G
-p53
-phosphatase 2A
-Hdm2
-p53 target

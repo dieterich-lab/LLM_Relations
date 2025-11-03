@@ -1,6 +1,0 @@
-Rad18
-Rad6
-ubiquitin
-PCNA
-E2 ubiquitin-conjugating enzyme
-Y-family polymerases

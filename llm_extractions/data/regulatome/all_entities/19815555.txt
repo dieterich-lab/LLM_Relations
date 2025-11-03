@@ -1,7 +1,0 @@
-BAP1
-HCF-1
-BRCA1-associated protein 1
-host cell factor-1
-HCF-1C
-polyubiquitin
-HCF-1N

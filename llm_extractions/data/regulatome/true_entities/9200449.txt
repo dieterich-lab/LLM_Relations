@@ -1,6 +1,0 @@
-CTLA-4
-CD28
-AP50
-B7-1
-B7-2
-clathrin

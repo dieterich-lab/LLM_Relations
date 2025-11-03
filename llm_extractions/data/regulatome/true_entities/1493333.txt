@@ -1,5 +1,0 @@
-p65
-MAD-3
-I kappa B
-p50
-NF-kappa B

@@ -1,6 +1,0 @@
-SNX9
-Sorting nexin 9
-clathrin
-dynamin-2
-AP-2
-adaptor protein complex 2

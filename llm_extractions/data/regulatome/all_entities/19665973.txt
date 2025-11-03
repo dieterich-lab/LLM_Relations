@@ -1,5 +1,0 @@
-FGFR1
-phospholipase Cgamma
-signaling via activated FGFR1
-receptor tyrosine kinases
-receptor tyrosine kinase

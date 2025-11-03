@@ -1,9 +1,0 @@
-DCN-like
-DCNL
-DCNL2
-DCNL3
-cullin
-UBC12
-UBE2F
-E2
-E2s

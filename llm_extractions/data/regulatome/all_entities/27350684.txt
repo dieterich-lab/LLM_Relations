@@ -1,8 +1,0 @@
-rna14
-Rna14
-Chk1
-chk1
-Prp28
-Spliceosome
-3'-end processing
-prp1

@@ -1,5 +1,0 @@
-NuMA
-kinesin
-Map2
-tau
-tubulin

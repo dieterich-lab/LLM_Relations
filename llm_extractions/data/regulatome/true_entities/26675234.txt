@@ -1,5 +1,0 @@
-RNF168
-PML NBs
-SUMO2
-ubiquitin
-NBs

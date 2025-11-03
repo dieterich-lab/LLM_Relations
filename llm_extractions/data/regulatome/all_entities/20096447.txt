@@ -1,6 +1,0 @@
-USP10
-p53
-ubiquitin
-Mdm2
-ATM
-tumor cell growth

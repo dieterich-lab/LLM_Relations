@@ -1,4 +1,0 @@
-hMSH2
-hMYH
-hMSH6
-hMutSalpha

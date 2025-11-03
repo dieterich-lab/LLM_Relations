@@ -1,9 +1,0 @@
-protein phosphatase 2A
-protein kinase A
-Cdk5
-PP2B
-calcineurin
-PP2A
-PR72
-DARPP-32
-Ca(2+)

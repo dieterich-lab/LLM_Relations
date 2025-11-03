@@ -1,8 +1,0 @@
-HDAC
-protein phosphatase 1
-PKA
-CBP
-P300
-HDAC1
-PP1
-CREB

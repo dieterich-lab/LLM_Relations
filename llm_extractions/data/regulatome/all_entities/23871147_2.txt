@@ -1,6 +1,0 @@
-Poly(ADP-ribose) polymerase 1
-PARP-1
-small ubiquitin-related modifier
-SUMO
-HSP70.1
-Ubc9

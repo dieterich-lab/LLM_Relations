@@ -1,5 +1,0 @@
-p50
-TcR
-p65
-c-rel
-CD3
