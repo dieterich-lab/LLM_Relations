@@ -1,6 +1,0 @@
-MDC1
-Cdc27
-anaphase-promoting complex/cyclosome
-histone H2AX
-APC/C
-gamma-H2AX

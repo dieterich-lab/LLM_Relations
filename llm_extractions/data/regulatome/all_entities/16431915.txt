@@ -1,9 +1,0 @@
-EDEM3
-EDEM
-ER degradation-enhancing alpha-mannosidase-like protein
-Class I alpha-mannosidases
-glycosyl hydrolase family 47
-alpha1-antitrypsin
-TCRalpha
-alpha1-AT
-alpha1,2-mannosidases

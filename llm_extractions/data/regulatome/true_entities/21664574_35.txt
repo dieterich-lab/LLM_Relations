@@ -1,9 +1,0 @@
-GGA3
-Rabaptin-5
-GGA1
-HGF
-Rab4
-Rab5
-Rabex-5
-clathrin
-Met

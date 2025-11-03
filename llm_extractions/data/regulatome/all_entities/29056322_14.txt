@@ -1,7 +1,0 @@
-Rag GTPases
-GDP
-GTP
-RagA
-RagC
-small GTP binding proteins
-GTPases

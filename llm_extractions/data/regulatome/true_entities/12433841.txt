@@ -1,5 +1,0 @@
-Rho
-PP1
-Y27632
-myosin phosphatase
-SrcPTKs

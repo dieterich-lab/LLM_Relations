@@ -1,5 +1,0 @@
-MAPK
-C-Raf
-ERK
-Raf
-MEK

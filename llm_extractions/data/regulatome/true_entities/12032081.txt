@@ -1,5 +1,0 @@
-RanBP2
-HDAC4
-MEF2-interacting transcription repressor
-HDAC1
--6

@@ -1,2 +1,0 @@
-CLOCK
-BMAL1

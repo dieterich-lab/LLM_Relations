@@ -1,2 +1,0 @@
-clathrin
-TACC3

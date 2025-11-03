@@ -1,8 +1,0 @@
-IL-23R
-Stat3
-FoxP3
-IL-10
-CD4
-IL-23
-Stat5
-Treg

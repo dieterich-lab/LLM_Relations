@@ -1,8 +1,0 @@
-c-fos
-c-jun
-p50
-IL-2
-NF kappa B
-CD3
-T-cell antigen receptors
-lectins

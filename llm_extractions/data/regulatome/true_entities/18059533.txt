@@ -1,8 +1,0 @@
-HDAC1
-HDAC2
-butyrate
-trichostatin A
-TSA
-Sin3A
-Sp1
-HDAC

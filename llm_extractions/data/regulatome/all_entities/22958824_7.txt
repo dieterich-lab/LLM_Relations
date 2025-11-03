@@ -1,9 +1,0 @@
-SOL-2
-CUB
-2 CUB
-SOL-1
-GLR-1
-sol-2
-sol-1
-Neto
-GLR-1 signaling complex

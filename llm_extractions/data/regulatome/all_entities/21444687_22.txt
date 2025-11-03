@@ -1,7 +1,0 @@
-Insulin
-Munc18c
-PI3K
-wortmannin
-insulin
-SDS
-Akt

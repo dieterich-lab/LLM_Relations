@@ -1,9 +1,0 @@
-phosphatidylinositol (PtdIns) 3-kinase
-(GAB)2
-PLC-gamma2
-SHC
-Wortmannin
-Grb2
-SHP2
-GAB2
-PtdIns 3-kinase

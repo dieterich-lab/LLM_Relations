@@ -1,9 +1,0 @@
-c-Cbl
-RING-type, E2-dependent ubiquitin-protein ligase
-receptor protein-tyrosine kinases
-RPTKs
-RPTK
-Ubiquitin
-ubiquitin
-platelet-derived growth factor receptor
-E2 ubiquitin-conjugating enzyme

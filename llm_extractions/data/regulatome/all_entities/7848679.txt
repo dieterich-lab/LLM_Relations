@@ -1,4 +1,0 @@
-p50
-p56
-NF-kappa B
-nuclear factor-kappa B

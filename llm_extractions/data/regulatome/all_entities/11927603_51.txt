@@ -1,5 +1,0 @@
-p115
-GOS-28
-GST
-syntaxin-5
-SNARE

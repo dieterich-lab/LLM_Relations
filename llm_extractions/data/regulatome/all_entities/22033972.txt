@@ -1,4 +1,0 @@
-Swi5
-Rad51
-Sfr1
-Fab

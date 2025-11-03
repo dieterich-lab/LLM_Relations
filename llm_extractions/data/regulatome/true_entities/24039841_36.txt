@@ -1,5 +1,0 @@
-G1
-tamoxifen
-ICI 182780
-GPR30
-ERalpha

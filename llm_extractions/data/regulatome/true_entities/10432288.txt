@@ -1,7 +1,0 @@
-Bcl-2
-calcium-dependent phosphatase
-Fas
-Bax
-Bad
-NFAT
-Fas ligand

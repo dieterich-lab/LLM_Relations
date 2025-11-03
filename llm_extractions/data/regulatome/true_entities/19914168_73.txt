@@ -1,4 +1,0 @@
-YAP
-CDK8
-9
-Smad1

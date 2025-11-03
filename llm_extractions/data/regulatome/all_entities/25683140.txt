@@ -1,6 +1,0 @@
-homo-dimer
-Rieske iron-sulfur protein
-cytochrome c oxidase
-cytochrome bc1
-Rip1
-bc1

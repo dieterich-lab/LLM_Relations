@@ -1,8 +1,0 @@
-APT-1
-2
-ML348
-ML349
-NRAS
-ERK
-AKT
-NRAS mutant melanoma growth

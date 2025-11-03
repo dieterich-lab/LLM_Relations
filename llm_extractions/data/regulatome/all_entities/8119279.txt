@@ -1,8 +1,0 @@
-dinitrogenase reductase
-dinitrogenase reductase-activating glycohydrolase
-DRAG
-dinitrogenase reductase ADP-ribosyl transferase
-DRAT
-Fe-protein
-nitrogenase
-ADP-ribose

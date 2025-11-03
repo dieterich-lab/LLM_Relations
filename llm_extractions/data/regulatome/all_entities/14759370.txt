@@ -1,6 +1,0 @@
-p53
-tumor suppressor protein
-CREB binding protein
-cyclin-dependent kinase inhibitor
-CBP
-p21

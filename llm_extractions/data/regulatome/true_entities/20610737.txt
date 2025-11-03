@@ -1,6 +1,0 @@
-protein kinase A
-DHHC-7
--19
-MP-10
-PDE10A2
-PDE10A

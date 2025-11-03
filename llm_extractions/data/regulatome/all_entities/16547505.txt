@@ -1,6 +1,0 @@
-CtBP
-TCF/LEF
-TCF-4
-Wnt
-Wingless
-Wnt/Wingless signalling pathway

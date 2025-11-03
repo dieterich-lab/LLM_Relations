@@ -1,6 +1,0 @@
-p53
-ubiquitin
-NEDD8
-SUMO
-p53 pathway
-E3 ligases

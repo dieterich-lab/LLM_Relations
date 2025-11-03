@@ -1,9 +1,0 @@
-PEX3
-peroxisomal membrane protein
-PEX19
-PEX
-HsPEX3
-peroxin
-H sPEX3
-green fluorescent protein
-GFP

@@ -1,7 +1,0 @@
-Fra-1
-Stat3
-MMP-9
-AP-1
-c-Jun
-Stat3C
-luciferase

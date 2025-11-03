@@ -1,4 +1,0 @@
-Dnmt3b
-thymine-DNA glycosylase
-Tdg
-methyl-CpG binding domain protein 4

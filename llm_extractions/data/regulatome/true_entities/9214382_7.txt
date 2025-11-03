@@ -1,6 +1,0 @@
-Ran
-importin-beta
-Ran binding protein 1
-RanBP2
-RanBP1
-RanGTP

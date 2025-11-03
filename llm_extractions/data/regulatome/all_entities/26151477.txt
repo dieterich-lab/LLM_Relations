@@ -1,8 +1,0 @@
-SUMO
-ubiquitin
-XPC
-RNF111
-XPG
-ERCC1
-XPF
-CRL4(DDB2)

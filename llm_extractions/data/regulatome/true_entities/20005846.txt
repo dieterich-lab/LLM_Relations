@@ -1,7 +1,0 @@
-HOIL-1
-HOIP
-linear ubiquitin chain assembly complex
-LUBAC
-NEMO
-ubiquitin
-TNF-RSC

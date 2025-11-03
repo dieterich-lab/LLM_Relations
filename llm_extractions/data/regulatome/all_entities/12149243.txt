@@ -1,7 +1,0 @@
-topoisomerase I
-TOP1
-green fluorescent protein
-GFP
-camptothecin
-camptothecins
-K117R

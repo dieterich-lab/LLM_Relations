@@ -1,5 +1,0 @@
-RelA
-NF-kappaB
-p300
-CBP
-IkappaBalpha

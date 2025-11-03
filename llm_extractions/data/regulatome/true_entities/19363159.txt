@@ -1,8 +1,0 @@
-Mdm2
-ubiquitin-specific protease 33
-beta(2)AR
-vasopressin V2R
-USP33
-beta-arrestin2
-beta-arrestins
-beta-arrestin

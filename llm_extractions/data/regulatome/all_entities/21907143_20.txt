@@ -1,6 +1,0 @@
-CDP138
-synaptotagamin-1
-Ca2+
-maltose-binding protein
-MBP
-SDS

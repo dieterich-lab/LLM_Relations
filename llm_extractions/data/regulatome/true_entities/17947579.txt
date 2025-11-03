@@ -1,7 +1,0 @@
-JMJD6
-Jumonji domain-containing 6 protein
-histone
-histone H3
-histone H4
-H3R2
-H4R3

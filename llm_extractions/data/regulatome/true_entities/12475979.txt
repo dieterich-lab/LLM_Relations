@@ -1,8 +1,0 @@
-DEP-1
-Gab1
-Hepatocyte growth factor receptor tyrosine kinase
-hepatocyte growth factor/scatter factor receptor
-p120 catenin
-CSF
-Met
-colony stimulating factor 1 (CSF)

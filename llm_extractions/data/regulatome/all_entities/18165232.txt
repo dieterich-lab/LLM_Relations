@@ -1,9 +1,0 @@
-Protein phosphatase 2Cepsilon
-CERT
-PP2Cepsilon
-PP2C
-vesicle-associated membrane protein-associated protein A
-VAPA
-sphingomyelin
-ceramide
-ceramide transport protein

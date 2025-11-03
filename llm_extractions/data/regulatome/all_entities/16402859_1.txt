@@ -1,5 +1,0 @@
-p53
-MDM2
-HAUSP
-USP7
-p53-MDM2 pathway

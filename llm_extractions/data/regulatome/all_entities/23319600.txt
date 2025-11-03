@@ -1,8 +1,0 @@
-FBH1
-ATM
-p53
-UvrD DNA helicase
-replication protein A
-RPA
-RPA2
-DNA-PK

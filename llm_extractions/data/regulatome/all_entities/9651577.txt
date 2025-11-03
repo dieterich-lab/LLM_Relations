@@ -1,6 +1,0 @@
-CRY1
-blue light photoreceptor
-phytochrome A
-CRY2
-phytochrome
-cryptochrome

@@ -1,8 +1,0 @@
-PAD4
-peptidylarginine deiminase 4
-CARM1
-PRMT1
-histone
-H3
-H4
-histones

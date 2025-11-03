@@ -1,5 +1,0 @@
-cIAP1
-tumor necrosis factor receptor-associated factor 2
-second mitochondrial activator of caspases
-TRAF2
-SMAC

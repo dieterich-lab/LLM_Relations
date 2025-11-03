@@ -1,7 +1,0 @@
-NEDD4
-LATS1
-YAP
-E3 ligase
-E3 ubiquitin ligase
-Hippo pathway
-ubiquitin

@@ -1,7 +1,0 @@
-SAMHD1
-Mg11
-protein Vpx
-IFN-alpha
-deoxynucleoside triphosphate triphosphohydrolase
-interferon (IFN)-gamma
-dGTP-stimulated triphosphohydrolase

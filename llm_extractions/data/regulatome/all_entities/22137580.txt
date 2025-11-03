@@ -1,8 +1,0 @@
-RPAP2
-RNA polymerase II
-Pol II
-Integrator complex
-RNA Pol II-associated protein 2
-Integrator
-CTD
-carboxy-terminal domain

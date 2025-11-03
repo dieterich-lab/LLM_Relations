@@ -1,5 +1,0 @@
-FGFR4
-FGFR2
-FGFR3
-extracellular signal-regulated kinase
-ERK

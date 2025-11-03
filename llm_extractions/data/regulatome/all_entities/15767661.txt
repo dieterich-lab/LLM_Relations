@@ -1,6 +1,0 @@
-NoRC
-histone
-SNF2h
-histone H4
-histone H3
-TTF-I

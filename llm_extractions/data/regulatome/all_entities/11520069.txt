@@ -1,8 +1,0 @@
-BAG-1
-Hsp70
-Hsc70
-BAG-1M
-Bcl-2
-BAG-1S
-BAG-1L
-ubiquitin

@@ -1,3 +1,0 @@
-Swi5
-Sfr1
-Rad51

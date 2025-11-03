@@ -1,9 +1,0 @@
-BDNF
-AMPA receptor
-TrkB
-MNI-glutamate
-glutamate
-NMDA receptor
-GFP
-TrkbWT
-TrkbS478A

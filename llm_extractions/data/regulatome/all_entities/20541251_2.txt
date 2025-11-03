@@ -1,8 +1,0 @@
-CyP33
-HOXA9
-HOXC8
-MLL1
-histone H3K4me3/2
-HDAC
-H3K4me3/2
-cyclophilin

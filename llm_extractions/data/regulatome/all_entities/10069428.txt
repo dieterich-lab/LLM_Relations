@@ -1,7 +1,0 @@
-NFAT1
-IL-4
-IgE
-NFAT2
-NFAT
-P0
-nuclear factor of activated T cells

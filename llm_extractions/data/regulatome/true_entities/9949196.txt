@@ -1,5 +1,0 @@
-FUT4
-FUT8
-alpha1,6-fucosyltransferase
-beta-galactosidase
-asialo-fetuin

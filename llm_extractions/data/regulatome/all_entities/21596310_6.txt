@@ -1,4 +1,0 @@
-MBT-domain containing
-L3MBTL2
-PcG
-H2AK119ub1

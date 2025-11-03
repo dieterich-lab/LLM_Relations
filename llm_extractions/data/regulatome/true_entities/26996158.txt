@@ -1,3 +1,0 @@
-FAT10
-RIG-I
-TRIM25

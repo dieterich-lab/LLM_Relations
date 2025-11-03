@@ -1,4 +1,0 @@
-Bet3
-long-chain acyl-CoAs
-shorter-chain acyl-CoAs
-Pal-CoA

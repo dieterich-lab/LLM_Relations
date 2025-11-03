@@ -1,6 +1,0 @@
-Dicer
-AGO2
-TRBP
-PACT
-HIV-1 TAR RNA-binding protein
-protein activator of PKR

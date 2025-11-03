@@ -1,7 +1,0 @@
-HCN
-TRIP8b
-TPR-containing Rab8b interacting protein
-PEX5Rp
-Pex5p-related protein
-HCN1
-4

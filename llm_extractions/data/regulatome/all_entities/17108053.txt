@@ -1,7 +1,0 @@
-K-bZIP
-Open reading frame 36
-ORF36
-viral protein kinase
-vPK
-Cdk2
-cyclin-dependent kinase

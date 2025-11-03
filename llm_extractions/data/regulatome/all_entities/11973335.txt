@@ -1,7 +1,0 @@
-beta-catenin
-CREB-binding protein
-CBP
-beta-Catenin
-Wnt
-c-myc
-Wnt signaling

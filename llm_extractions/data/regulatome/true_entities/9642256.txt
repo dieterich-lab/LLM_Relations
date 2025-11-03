@@ -1,5 +1,0 @@
-PRMT1
-PRMT3
-TIS21
-GAR
-rmt1

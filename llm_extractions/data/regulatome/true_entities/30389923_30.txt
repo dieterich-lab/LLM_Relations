@@ -1,4 +1,0 @@
-p85
-SHP-2
-PLC-gamma
-PDGFRA

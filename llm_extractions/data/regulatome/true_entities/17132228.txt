@@ -1,9 +1,0 @@
-elongins B
-C
-Rbx1
-ECV
-VHL
-UbcH5a
-Cul2
-alpha subunit of hypoxia-inducible factor
-HIFalpha

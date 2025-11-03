@@ -1,8 +1,0 @@
-SRB11
-RNA polymerase II
-SRB10
-11
-SRB
-cyclin
-kinase
-galactose

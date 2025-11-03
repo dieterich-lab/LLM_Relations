@@ -1,7 +1,0 @@
-CARPs
-MDM2
-p53
-p53ser20
-Caspase 8/10-associated RING proteins
-CARP
-ubiquitin

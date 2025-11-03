@@ -1,9 +1,0 @@
-ste6
-ras1
-ras
-ras pathway(s)
-CDC25
-Ras
-ras pathway
-GDP
-GTP

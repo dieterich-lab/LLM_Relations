@@ -1,6 +1,0 @@
-p53
-Smad
-p63
-TGFbeta
-Ras
-Smads

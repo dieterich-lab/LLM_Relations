@@ -1,5 +1,0 @@
-Orai1
-STIM1
-TRPC1
-TRPC
-STIM1 constructs

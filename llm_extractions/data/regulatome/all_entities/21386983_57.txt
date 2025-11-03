@@ -1,6 +1,0 @@
-beta-Syn
-copper
-alpha-Syn
-beta-syn
-MTF-1
-prion

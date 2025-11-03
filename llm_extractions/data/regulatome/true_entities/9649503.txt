@@ -1,4 +1,0 @@
-XSMC3
-Smc3p
-XSMC1
-Smc1p

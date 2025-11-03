@@ -1,5 +1,0 @@
-5S rRNA
-60S
-L11
-L5
-Rrs1p

@@ -1,8 +1,0 @@
-alpha-synuclein
-Siah-1
-ubiquitin
-seven in absentia homologue-1
-RING-type E3 ubiquitin-protein ligase
-E2 ubiquitin-conjugating enzyme
-UbcH8
-proteasome

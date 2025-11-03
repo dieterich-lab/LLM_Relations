@@ -1,8 +1,0 @@
-GDP
-rho p21
-rho GDI
-rhoA p21
-GTP
-C3
-EDIN
-smg GDS

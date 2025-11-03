@@ -1,7 +1,0 @@
-FAT10
-RIG-I
-IRF3
-TRIM25
-NF-kB
-E3 ligase
-Ubiquitin

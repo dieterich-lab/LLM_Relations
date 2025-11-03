@@ -1,7 +1,0 @@
-Cbl
-CIN85
-Cbl-b
-receptor tyrosine kinases
-endophilin
-CMS
-EGF receptors

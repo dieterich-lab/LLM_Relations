@@ -1,9 +1,0 @@
-pitavastatin
-LDL-C
-sd LDL-C
-statin
-LDL
-LDL receptors
-cholesterol
-LDL receptor
-sd LDL

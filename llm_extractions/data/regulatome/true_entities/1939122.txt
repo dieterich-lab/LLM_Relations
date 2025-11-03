@@ -1,3 +1,0 @@
-formyl(f)Met-tRNA
-fMet-tRNA
-ribosomes

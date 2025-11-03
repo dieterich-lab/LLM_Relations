@@ -1,7 +1,0 @@
-PINK1
-NADH cytochrome B5 reductase
-Mcr1p
-Oma1
-Opa1
-Pink1
-Parkin

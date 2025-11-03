@@ -1,6 +1,0 @@
-FKBP12-rapamycin-associated protein
-CLIP-170
-Restin
-FRAP
-mTOR/RAFT
-rapamycin

@@ -1,9 +1,0 @@
-Pins
-GoLoco
-GPR-1
-GPR-2
--2
-goa-1
-gpa-16
-gpr-1
-PAR-3

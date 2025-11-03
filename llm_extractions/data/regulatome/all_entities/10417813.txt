@@ -1,9 +1,0 @@
-Nef
-CAT
-betaII
-epsilon PKC
-protein kinase C
-PKC
-phorbol ester 12-myristate 13-acetate
-PMA
-epsilon

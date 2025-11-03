@@ -1,7 +1,0 @@
-Triosephosphate isomerase
-TPI
-triosephosphate isomerases
-H2O2
-glutathione
-GSSG
-2-mercaptoethanol

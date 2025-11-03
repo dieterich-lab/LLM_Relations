@@ -1,5 +1,0 @@
-Jumonji-C (JmjC) domain-containing protein 5
-JMJD5
-histone
-regulator of chromosome condensation domain-containing protein 1
-ribosomal protein S6

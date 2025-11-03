@@ -1,6 +1,0 @@
-BCCP
-biotin
-BirA
-biotin carboxylase
-acetyl-CoA carboxylase
-transcarboxylase

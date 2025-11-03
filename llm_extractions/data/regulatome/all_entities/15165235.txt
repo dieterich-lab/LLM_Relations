@@ -1,4 +1,0 @@
-FtsL
-FtsQ
-FtsK
-FtsB

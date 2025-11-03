@@ -1,6 +1,0 @@
-Chk1
-ATM
-Rad3
-ATR
-ATR-mediated checkpoint pathways
-ATM- and Rad3-related protein kinase

@@ -1,8 +1,0 @@
-MAD-3
-p65
-p50
-v-rel
-I kappa B
-NF-kappa B
-kappa B
-Rel

@@ -1,9 +1,0 @@
-APR-1
-Dox
-luciferase
-G418
-Hygromycine
-Luciferase
-pTRE2 hyg
-pTRE2hyg
-BLM

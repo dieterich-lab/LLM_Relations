@@ -1,5 +1,0 @@
-voltage-gated Ca2+ channels
-BKCa
-Ca2+
-VGCCs
-VGCC

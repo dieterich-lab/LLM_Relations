@@ -1,9 +1,0 @@
-GATA-4
-IL-5
-Interleukin-5
-human GATA-4
-hGATA-4
-hGATA-2
-hGATA-3
-GATA
-PMA

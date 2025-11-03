@@ -1,7 +1,0 @@
-DNA polymerase beta
-Poly(ADP-ribose)polymerase-1
-PARP-1
-uracil-DNA glycosylase
-flap endonuclease-1
-FEN-1
-apurinic/apyrimidinic endonuclease

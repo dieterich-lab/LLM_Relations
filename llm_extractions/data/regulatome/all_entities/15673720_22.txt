@@ -1,9 +1,0 @@
-GST
-hMYH
-glutathione
-hMSH2
-hMSH6
-hMutSalpha
-SDS
-Coomassie
-sepharose

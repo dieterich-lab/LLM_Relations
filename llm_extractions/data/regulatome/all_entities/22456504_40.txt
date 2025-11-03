@@ -1,8 +1,0 @@
-cPLA2alpha
-CD59
-Tac
-GPI
-cholesterol
-MAFP
-BAPTA-AM
-melittin

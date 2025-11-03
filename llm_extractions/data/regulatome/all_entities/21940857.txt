@@ -1,7 +1,0 @@
-E2
-Ubc12
-ubiquitin
-Nedd8
-Cul1
-Dcn1
-cullin

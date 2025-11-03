@@ -1,6 +1,0 @@
-POMT1
-POMT2
-alpha-dystroglycan
-putative protein O-mannosyltransferase 1
-O-mannosyltransferases
-O-mannosyltransferase

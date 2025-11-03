@@ -1,5 +1,0 @@
-NEDD4-1
-ubiquitin
-PTEN
-Mdm2
-p53

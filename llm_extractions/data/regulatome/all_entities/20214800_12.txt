@@ -1,6 +1,0 @@
-GPR177
-MOR
-mu-opioid receptor
-GPR
-MORs
-FLAG

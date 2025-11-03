@@ -1,7 +1,0 @@
-PKA
-histone
-PHF2
-ARID5B
-protein kinase A
-jmjC demethylase
-H3K9Me2

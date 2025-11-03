@@ -1,5 +1,0 @@
-calmodulin
-Ca2+/calmodulin-dependent protein kinase
-S-adenosyl-L-methionine
-protein carboxyl methyltransferase
-methyltransferase

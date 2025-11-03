@@ -1,4 +1,0 @@
-IFNAR1
-IFN-alpha
-IFNAR2
-IFN

@@ -1,4 +1,0 @@
-S protein
-ZDHHCs
-ACE2
-S

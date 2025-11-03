@@ -1,9 +1,0 @@
-SUMO
-TRIM
-small ubiquitin-like modifier
-tripartite motif
-Ubc9
-SUMOs
-p53
-Mdm2
-SUMO-conjugating enzyme

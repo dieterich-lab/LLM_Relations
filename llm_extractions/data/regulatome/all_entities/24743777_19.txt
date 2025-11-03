@@ -1,9 +1,0 @@
-Bcl-2
-Mcl-1
-Bax
-Bak
-STAT3
-phospholipase D
-MCL1
-Bcl-xL
-Bcl-2 gene promoter

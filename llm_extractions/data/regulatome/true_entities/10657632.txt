@@ -1,3 +1,0 @@
-src
-Lck
-MCP

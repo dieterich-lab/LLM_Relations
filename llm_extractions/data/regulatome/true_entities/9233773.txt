@@ -1,6 +1,0 @@
-T-cell receptor
-APS
-phospholipase Cgamma
-Grb2
-phosphatidylinositol 3-kinase
-Shc

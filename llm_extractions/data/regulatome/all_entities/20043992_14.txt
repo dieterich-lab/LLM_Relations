@@ -1,8 +1,0 @@
-IRFs
-IKKepsilon
-TBK1
-IRF-3
-IRF-5
-IRF-7
-CBP
-p300

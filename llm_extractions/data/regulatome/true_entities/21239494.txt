@@ -1,5 +1,0 @@
-USP17
-SDS3
-histone deacetylase
-Sin3A
-HDAC

@@ -1,7 +1,0 @@
-HLA-F
-MHC-I
-HC
-3D11
-4A11
-4B4
-HC antibody

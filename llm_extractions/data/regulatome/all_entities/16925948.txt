@@ -1,9 +1,0 @@
-Ubiquitin
-ubiquitin
-p53
-SUMO-1
-NEDD8
-p63
-p73
-ubiquitin-proteasomal pathway
-ubiquitin-like proteins

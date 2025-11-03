@@ -1,9 +1,0 @@
-DDB2
-PARP1
-ALC1
-Swi2/Snf2 ATPase
-ubiquitin
-XPC
-PAR
-DDB
-PARylation

@@ -1,6 +1,0 @@
-PRL
-PRLR
-SCF
-beta-TrCP
-Stat5
-beta-TrCP2

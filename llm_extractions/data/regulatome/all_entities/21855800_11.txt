@@ -1,5 +1,0 @@
-luciferase
-angiogenin
-arsenite
-eIF4G
-eIF4E

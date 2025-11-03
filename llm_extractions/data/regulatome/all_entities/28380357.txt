@@ -1,6 +1,0 @@
-Keap1
-Cullin3
-p62
-SQSTM1
-ubiquitin
-LC3

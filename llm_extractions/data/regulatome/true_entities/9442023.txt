@@ -1,8 +1,0 @@
-CaMKIIPase
-cAMP-dependent protein kinase
-phosphorylase kinase
-CaMKII
-alpha-casein
-myelin basic protein
-histones
-phosphorylase a

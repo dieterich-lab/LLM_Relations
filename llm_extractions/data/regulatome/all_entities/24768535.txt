@@ -1,7 +1,0 @@
-PCNA
-ISG15
-polymerase-eta
-EFP
-USP10
-UBP43
-DNA polymerases

@@ -1,9 +1,0 @@
-Hsp27
-tumor necrosis factor alpha
-small heat shock proteins
-Hsp25
-MAPKAP kinase 2
-citrate synthase
-sHsps
-3
-sHsp

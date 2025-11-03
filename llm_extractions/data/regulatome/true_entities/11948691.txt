@@ -1,5 +1,0 @@
-KDR
-NRP1
-VEGF165
-VEGFR-2
-neuropilin-1

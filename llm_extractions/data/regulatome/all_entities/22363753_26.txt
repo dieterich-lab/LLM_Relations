@@ -1,3 +1,0 @@
-hPPARgamma DBD-LBD
-hPPARgamma
-hRXRalpha DBD-LBD

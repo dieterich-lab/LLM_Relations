@@ -1,9 +1,0 @@
-Smad7
-Smurf2
-IFN gamma
-ubiquitin
-E3 ubiquitin ligase
-E3 ubiquitin-ligase
-Ubiquitin
-TGF beta receptor
-C2-WW-HECT domain ubiquitin ligase

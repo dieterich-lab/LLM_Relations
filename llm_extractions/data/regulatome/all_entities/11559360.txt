@@ -1,8 +1,0 @@
-P64K
-lipoate protein ligase
-biotin protein ligase
-dihydrolipoyl dehydrogenase
-dihydrolipoyl acyltransferase
-E2
-E3
-2-oxo acid dehydrogenase

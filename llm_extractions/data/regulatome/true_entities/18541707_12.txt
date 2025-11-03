@@ -1,4 +1,0 @@
-transducin-like enhancer
-Runx2
-CHIP
-hRunx2

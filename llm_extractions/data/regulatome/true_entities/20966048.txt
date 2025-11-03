@@ -1,7 +1,0 @@
-PR-Set7
-cyclin-dependent kinase 1
-cyclinB
-APC
-Cdc14
-histone H4
-anaphase-promoting complex

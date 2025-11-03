@@ -1,6 +1,0 @@
-COP9 signalosome
-CUL1
-CAND1
-CSN
-Rbx1
-cullins

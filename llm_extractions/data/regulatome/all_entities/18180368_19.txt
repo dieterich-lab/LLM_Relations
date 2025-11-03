@@ -1,8 +1,0 @@
-kinesin-2
-dynein 1b
-kinesins
-OSM-3
-kinesin-II
-osm-3
-klp-11
-kap-1

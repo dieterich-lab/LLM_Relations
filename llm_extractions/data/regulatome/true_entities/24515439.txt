@@ -1,5 +1,0 @@
-CTLA-4
-LAX
-TRIM
-Rab8
-GTP

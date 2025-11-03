@@ -1,9 +1,0 @@
-major histocompatibility complex class II invariant chain
-human major histocompatibility complex class II-associated invariant-chain
-p50
-p52
-p65
-cRel
-NF-kappa B/Rel
-Ii
-kappa B

@@ -1,6 +1,0 @@
-MIG-14
-Wls
-Wnt
-Wntless
-Wnt signaling
-retromer

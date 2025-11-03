@@ -1,6 +1,0 @@
-Smurf1
-transforming growth factor-beta type I receptor
-Smad7
-TGF-beta type I receptor
-Smads
-TbetaR-I

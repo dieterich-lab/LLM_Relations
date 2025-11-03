@@ -1,8 +1,0 @@
-Rad21
-53BP1
-ATM
-Cohesin
-cohesin
-SMC1
-DNA-PK
-ATM-dependent pathway

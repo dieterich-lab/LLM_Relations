@@ -1,6 +1,0 @@
-GLUT4
-insulin
-Insulin
-glucose
-TUG
-tethers

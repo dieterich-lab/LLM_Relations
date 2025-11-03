@@ -1,9 +1,0 @@
-CLOCK
-histone
-MYST
-ACTR
-SRC
-histones H3
-H4
-BMAL1
-Clock

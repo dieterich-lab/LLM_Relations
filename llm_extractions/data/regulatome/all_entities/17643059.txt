@@ -1,8 +1,0 @@
-matrix gla protein
-collagen III
-tissue inhibitor of metalloproteinases I
-dermatopontin
-matrix Gla protein
-MGP
-tenascin C
-warfarin

@@ -1,6 +1,0 @@
-TRC8
-ubiquitin
-US2
-MHC-I
-SPP
-Cre recombinase

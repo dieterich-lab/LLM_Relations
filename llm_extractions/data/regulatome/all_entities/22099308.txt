@@ -1,6 +1,0 @@
-NSD2
-histone H3
-histone
-MMSET
-WHSC1
-H3K36me2

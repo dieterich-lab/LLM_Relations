@@ -1,9 +1,0 @@
-PDK1
-PDK2
-PDK3
-PDK4
-thiamin pyrophosphate
-PDP1
-PDP2
-pyruvate dehydrogenase
-pyruvate dehydrogenase complex

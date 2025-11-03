@@ -1,9 +1,0 @@
-NEDD8
-UCH-L3
-ubiquitin
-GST
-sentrin-1
-sentrin-2
-sentrin-3
-UCH-L1
-ubiquitin C-terminal hydrolase

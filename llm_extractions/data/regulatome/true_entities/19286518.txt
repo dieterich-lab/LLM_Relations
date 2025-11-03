@@ -1,3 +1,0 @@
-CLOCK
-histone
-BMAL1

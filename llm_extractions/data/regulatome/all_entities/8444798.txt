@@ -1,5 +1,0 @@
-component II
-nitrogenase
-ammonium
-acetylene
-ATP

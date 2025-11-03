@@ -1,8 +1,0 @@
-LATS1
-WARTS
-MYPT1
-PLK1
-Dbf2
-Cdc14
-myosin phosphatase-targeting subunit 1
-pololike kinase 1

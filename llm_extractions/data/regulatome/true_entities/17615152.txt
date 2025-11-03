@@ -1,7 +1,0 @@
-ERK1
-2
-MAPK
-ERK
-U0126
-estrogen receptor (ER)-alpha
-ERalpha

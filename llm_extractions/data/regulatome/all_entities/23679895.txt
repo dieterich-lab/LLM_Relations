@@ -1,8 +1,0 @@
-histone H3
-polycomb repressive complex 2
-vSET
-H3K27
-EZH (enhancer of zeste homologue) 1
-EZH2
-PRC2
-histone

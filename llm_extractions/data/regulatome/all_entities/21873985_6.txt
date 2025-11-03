@@ -1,7 +1,0 @@
-N-WASP
-pyrene
-actin
-Spire
-VopL
-VCD
-Arp2/3

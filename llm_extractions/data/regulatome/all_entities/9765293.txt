@@ -1,9 +1,0 @@
-FCP1
-RAP74
-RNA polymerase IIO
-TFIIF
-RAP30
-74
-RNA polymerase II
-FCP1a
-FCP1b

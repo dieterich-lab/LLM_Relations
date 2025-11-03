@@ -1,7 +1,0 @@
-LARGE
-alpha-dystroglycan
-LARGE2
-alpha-DG
-xylose
-glucuronic acid
-GYLTL1B

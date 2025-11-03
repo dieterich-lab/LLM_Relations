@@ -1,7 +1,0 @@
-PRC2
-Actin
-VAV1
-Ezh2
-SUZ12
-SUMO
-UBC9

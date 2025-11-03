@@ -1,9 +1,0 @@
-DNA methyltransferase 1
-Dnmt1
-Dnmt33b
-histone H4
-SirT1
-NAD+-dependent histone deacetylase
-H4
-Fibrillarin
-Ki-67

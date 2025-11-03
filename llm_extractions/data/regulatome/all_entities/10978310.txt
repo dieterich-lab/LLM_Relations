@@ -1,7 +1,0 @@
-alpha-hemolysin
-HlyA
-alpha-Hemolysin
-HlyC
-CyaC
-acyltransferase
-carbon

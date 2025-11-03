@@ -1,6 +1,0 @@
-MICAL-L2
-MICAL-L1
-Rab8
-Rab13
-Rab35
-Rab10

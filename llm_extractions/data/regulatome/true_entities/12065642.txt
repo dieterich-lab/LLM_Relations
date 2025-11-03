@@ -1,7 +1,0 @@
-PKA
-Cdk5
-cyclin-dependent protein kinase 5
-cAMP-dependent protein kinase
-calcineurin
-protein phosphatase-2A
-DARPP-32

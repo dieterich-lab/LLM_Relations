@@ -1,8 +1,0 @@
-GALNS
-N-acetylgalactosamine-6-sulfate sulfatase
-E.C.3.1.6.4
-glycosaminoglycans
-keratan sulfate
-KS
-chondroitin-6-sulfate
-sulfatase

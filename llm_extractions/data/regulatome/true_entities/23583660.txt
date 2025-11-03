@@ -1,6 +1,0 @@
-CSN1
-CRLs
-CSN
-CSN8
-CRL
-cullin

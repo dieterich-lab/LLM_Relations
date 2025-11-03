@@ -1,8 +1,0 @@
-PCAF
-CSB
-RNA polymerase I
-histone
-histone H4
-histone H3K9
-H4ac
-H3K9ac

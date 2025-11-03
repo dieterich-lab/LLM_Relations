@@ -1,4 +1,0 @@
-GATA3
-TAL1
-LIM-only
-LMO

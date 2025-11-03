@@ -1,6 +1,0 @@
-CBL1
-VDAC1
-vdac1
-DREB1A
-cbl1
-salt

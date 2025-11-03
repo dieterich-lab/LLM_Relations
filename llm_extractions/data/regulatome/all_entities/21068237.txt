@@ -1,6 +1,0 @@
-angiotensin-converting enzyme 2
-ACE2
-TMPRSS2
-Spike
-S
-transmembrane protease/serine subfamily member 2

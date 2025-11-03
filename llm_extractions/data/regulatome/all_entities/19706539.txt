@@ -1,9 +1,0 @@
-USP33
-VDU1
-Slit
-ubiquitin-specific protease 33
-von Hippel-Lindau tumor suppressor (VHL) protein
-Robo1
-Robo
-Slit-Robo signaling
-Slit signaling

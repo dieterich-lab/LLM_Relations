@@ -1,5 +1,0 @@
-sphingosine 1-phosphate
-S1P
-FTY720 phosphate
-S1P(1)
-S1P(5)

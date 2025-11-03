@@ -1,3 +1,0 @@
-integrin alpha5
-Cx43
-14-3-3theta

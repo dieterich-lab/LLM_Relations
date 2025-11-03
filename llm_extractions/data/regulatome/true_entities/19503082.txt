@@ -1,4 +1,0 @@
-4.1N
-Protein kinase C
-PKC
-GluR1

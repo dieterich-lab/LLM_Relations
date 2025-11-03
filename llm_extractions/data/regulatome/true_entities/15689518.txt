@@ -1,5 +1,0 @@
-PLP
-rSDH
-L-serine dehydratase
-hSDH
-PLP-OMS

@@ -1,6 +1,0 @@
-tetherin
-vpu
-Vpu
-SIVcpz
-Vpus
-p24

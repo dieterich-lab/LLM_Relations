@@ -1,3 +1,0 @@
-p160s
-CREB-binding protein
-p300 and CBP-associated factor

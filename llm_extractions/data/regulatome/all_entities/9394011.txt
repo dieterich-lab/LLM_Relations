@@ -1,9 +1,0 @@
-GalNAc-transferases
-UDP-N-acetylgalactosamine:polypeptide N-acetylgalactos-aminyltransferases
-GalNAc-T
-GalNAc-T1
--T2
--T3
-GalNAc-T2
-CD8
-GalNAc-transferase

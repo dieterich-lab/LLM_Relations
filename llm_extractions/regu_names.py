@@ -5,8 +5,9 @@ from pathlib import Path
 
 os.environ["BAML_LOG"] = args.loglevel  # isort:skip
 from baml.baml_client.sync_client import b  # isort:skip
-from clients import cr
 from finetuning_tools import get_dataset
+
+from clients import cr
 
 _, _, test_dataset = get_dataset()
 

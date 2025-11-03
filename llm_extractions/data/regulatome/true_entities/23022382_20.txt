@@ -1,4 +1,0 @@
-NDP52
-LC3
-LIR
-LC3C

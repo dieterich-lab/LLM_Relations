@@ -1,9 +1,0 @@
-RNF185
-cystic fibrosis transmembrane conductance regulator
-CFTR
-ubiquitin
-proteasome
-Cystic fibrosis transmembrane conductance regulator
-RNF5
-RMA1
-CFTRDeltaF508

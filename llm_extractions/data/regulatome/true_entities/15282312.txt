@@ -1,6 +1,0 @@
-Keap1
-Cullin 3
-Cul3
-Nrf2
-Cul3-based E3 ligase
-Roc1

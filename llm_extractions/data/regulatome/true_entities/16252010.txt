@@ -1,4 +1,0 @@
-p75
-TRAF6
-NRIF
-traf6

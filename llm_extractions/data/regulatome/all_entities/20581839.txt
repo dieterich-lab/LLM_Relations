@@ -1,6 +1,0 @@
-JNK
-Cdh1
-APC/C
-ubiquitin ligase
-APC/C(Cdh1)
-ubiquitin

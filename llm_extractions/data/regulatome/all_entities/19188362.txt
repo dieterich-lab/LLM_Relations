@@ -1,6 +1,0 @@
-USP17
-Ras
-RCE1
-Ras-converting enzyme 1
-MEK
-ERK

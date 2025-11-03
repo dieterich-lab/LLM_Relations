@@ -1,5 +1,0 @@
-ESET
-SETDB1
-histone H3
-mAM
-H3

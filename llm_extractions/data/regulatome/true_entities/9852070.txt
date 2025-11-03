@@ -1,8 +1,0 @@
-RANK
-TRAF
-2
-3
-6
-tumor necrosis factor receptor-associated factors (TRAFs) 1
-5
-RANKL
